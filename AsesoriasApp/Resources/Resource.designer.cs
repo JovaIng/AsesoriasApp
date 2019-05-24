@@ -26,58 +26,4624 @@ namespace AsesoriasApp
 		
 		public static void UpdateIdValues()
 		{
+			global::Data.Resource.Animation.abc_fade_in = global::AsesoriasApp.Resource.Animation.abc_fade_in;
+			global::Data.Resource.Animation.abc_fade_out = global::AsesoriasApp.Resource.Animation.abc_fade_out;
+			global::Data.Resource.Animation.abc_grow_fade_in_from_bottom = global::AsesoriasApp.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Data.Resource.Animation.abc_popup_enter = global::AsesoriasApp.Resource.Animation.abc_popup_enter;
+			global::Data.Resource.Animation.abc_popup_exit = global::AsesoriasApp.Resource.Animation.abc_popup_exit;
+			global::Data.Resource.Animation.abc_shrink_fade_out_from_bottom = global::AsesoriasApp.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Data.Resource.Animation.abc_slide_in_bottom = global::AsesoriasApp.Resource.Animation.abc_slide_in_bottom;
+			global::Data.Resource.Animation.abc_slide_in_top = global::AsesoriasApp.Resource.Animation.abc_slide_in_top;
+			global::Data.Resource.Animation.abc_slide_out_bottom = global::AsesoriasApp.Resource.Animation.abc_slide_out_bottom;
+			global::Data.Resource.Animation.abc_slide_out_top = global::AsesoriasApp.Resource.Animation.abc_slide_out_top;
+			global::Data.Resource.Animation.tooltip_enter = global::AsesoriasApp.Resource.Animation.tooltip_enter;
+			global::Data.Resource.Animation.tooltip_exit = global::AsesoriasApp.Resource.Animation.tooltip_exit;
+			global::Data.Resource.Attribute.actionBarDivider = global::AsesoriasApp.Resource.Attribute.actionBarDivider;
+			global::Data.Resource.Attribute.actionBarItemBackground = global::AsesoriasApp.Resource.Attribute.actionBarItemBackground;
+			global::Data.Resource.Attribute.actionBarPopupTheme = global::AsesoriasApp.Resource.Attribute.actionBarPopupTheme;
+			global::Data.Resource.Attribute.actionBarSize = global::AsesoriasApp.Resource.Attribute.actionBarSize;
+			global::Data.Resource.Attribute.actionBarSplitStyle = global::AsesoriasApp.Resource.Attribute.actionBarSplitStyle;
+			global::Data.Resource.Attribute.actionBarStyle = global::AsesoriasApp.Resource.Attribute.actionBarStyle;
+			global::Data.Resource.Attribute.actionBarTabBarStyle = global::AsesoriasApp.Resource.Attribute.actionBarTabBarStyle;
+			global::Data.Resource.Attribute.actionBarTabStyle = global::AsesoriasApp.Resource.Attribute.actionBarTabStyle;
+			global::Data.Resource.Attribute.actionBarTabTextStyle = global::AsesoriasApp.Resource.Attribute.actionBarTabTextStyle;
+			global::Data.Resource.Attribute.actionBarTheme = global::AsesoriasApp.Resource.Attribute.actionBarTheme;
+			global::Data.Resource.Attribute.actionBarWidgetTheme = global::AsesoriasApp.Resource.Attribute.actionBarWidgetTheme;
+			global::Data.Resource.Attribute.actionButtonStyle = global::AsesoriasApp.Resource.Attribute.actionButtonStyle;
+			global::Data.Resource.Attribute.actionDropDownStyle = global::AsesoriasApp.Resource.Attribute.actionDropDownStyle;
+			global::Data.Resource.Attribute.actionLayout = global::AsesoriasApp.Resource.Attribute.actionLayout;
+			global::Data.Resource.Attribute.actionMenuTextAppearance = global::AsesoriasApp.Resource.Attribute.actionMenuTextAppearance;
+			global::Data.Resource.Attribute.actionMenuTextColor = global::AsesoriasApp.Resource.Attribute.actionMenuTextColor;
+			global::Data.Resource.Attribute.actionModeBackground = global::AsesoriasApp.Resource.Attribute.actionModeBackground;
+			global::Data.Resource.Attribute.actionModeCloseButtonStyle = global::AsesoriasApp.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Data.Resource.Attribute.actionModeCloseDrawable = global::AsesoriasApp.Resource.Attribute.actionModeCloseDrawable;
+			global::Data.Resource.Attribute.actionModeCopyDrawable = global::AsesoriasApp.Resource.Attribute.actionModeCopyDrawable;
+			global::Data.Resource.Attribute.actionModeCutDrawable = global::AsesoriasApp.Resource.Attribute.actionModeCutDrawable;
+			global::Data.Resource.Attribute.actionModeFindDrawable = global::AsesoriasApp.Resource.Attribute.actionModeFindDrawable;
+			global::Data.Resource.Attribute.actionModePasteDrawable = global::AsesoriasApp.Resource.Attribute.actionModePasteDrawable;
+			global::Data.Resource.Attribute.actionModePopupWindowStyle = global::AsesoriasApp.Resource.Attribute.actionModePopupWindowStyle;
+			global::Data.Resource.Attribute.actionModeSelectAllDrawable = global::AsesoriasApp.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Data.Resource.Attribute.actionModeShareDrawable = global::AsesoriasApp.Resource.Attribute.actionModeShareDrawable;
+			global::Data.Resource.Attribute.actionModeSplitBackground = global::AsesoriasApp.Resource.Attribute.actionModeSplitBackground;
+			global::Data.Resource.Attribute.actionModeStyle = global::AsesoriasApp.Resource.Attribute.actionModeStyle;
+			global::Data.Resource.Attribute.actionModeWebSearchDrawable = global::AsesoriasApp.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Data.Resource.Attribute.actionOverflowButtonStyle = global::AsesoriasApp.Resource.Attribute.actionOverflowButtonStyle;
+			global::Data.Resource.Attribute.actionOverflowMenuStyle = global::AsesoriasApp.Resource.Attribute.actionOverflowMenuStyle;
+			global::Data.Resource.Attribute.actionProviderClass = global::AsesoriasApp.Resource.Attribute.actionProviderClass;
+			global::Data.Resource.Attribute.actionViewClass = global::AsesoriasApp.Resource.Attribute.actionViewClass;
+			global::Data.Resource.Attribute.activityChooserViewStyle = global::AsesoriasApp.Resource.Attribute.activityChooserViewStyle;
+			global::Data.Resource.Attribute.alertDialogButtonGroupStyle = global::AsesoriasApp.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Data.Resource.Attribute.alertDialogCenterButtons = global::AsesoriasApp.Resource.Attribute.alertDialogCenterButtons;
+			global::Data.Resource.Attribute.alertDialogStyle = global::AsesoriasApp.Resource.Attribute.alertDialogStyle;
+			global::Data.Resource.Attribute.alertDialogTheme = global::AsesoriasApp.Resource.Attribute.alertDialogTheme;
+			global::Data.Resource.Attribute.allowStacking = global::AsesoriasApp.Resource.Attribute.allowStacking;
+			global::Data.Resource.Attribute.alpha = global::AsesoriasApp.Resource.Attribute.alpha;
+			global::Data.Resource.Attribute.alphabeticModifiers = global::AsesoriasApp.Resource.Attribute.alphabeticModifiers;
+			global::Data.Resource.Attribute.arrowHeadLength = global::AsesoriasApp.Resource.Attribute.arrowHeadLength;
+			global::Data.Resource.Attribute.arrowShaftLength = global::AsesoriasApp.Resource.Attribute.arrowShaftLength;
+			global::Data.Resource.Attribute.autoCompleteTextViewStyle = global::AsesoriasApp.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Data.Resource.Attribute.autoSizeMaxTextSize = global::AsesoriasApp.Resource.Attribute.autoSizeMaxTextSize;
+			global::Data.Resource.Attribute.autoSizeMinTextSize = global::AsesoriasApp.Resource.Attribute.autoSizeMinTextSize;
+			global::Data.Resource.Attribute.autoSizePresetSizes = global::AsesoriasApp.Resource.Attribute.autoSizePresetSizes;
+			global::Data.Resource.Attribute.autoSizeStepGranularity = global::AsesoriasApp.Resource.Attribute.autoSizeStepGranularity;
+			global::Data.Resource.Attribute.autoSizeTextType = global::AsesoriasApp.Resource.Attribute.autoSizeTextType;
+			global::Data.Resource.Attribute.background = global::AsesoriasApp.Resource.Attribute.background;
+			global::Data.Resource.Attribute.backgroundSplit = global::AsesoriasApp.Resource.Attribute.backgroundSplit;
+			global::Data.Resource.Attribute.backgroundStacked = global::AsesoriasApp.Resource.Attribute.backgroundStacked;
+			global::Data.Resource.Attribute.backgroundTint = global::AsesoriasApp.Resource.Attribute.backgroundTint;
+			global::Data.Resource.Attribute.backgroundTintMode = global::AsesoriasApp.Resource.Attribute.backgroundTintMode;
+			global::Data.Resource.Attribute.barLength = global::AsesoriasApp.Resource.Attribute.barLength;
+			global::Data.Resource.Attribute.borderlessButtonStyle = global::AsesoriasApp.Resource.Attribute.borderlessButtonStyle;
+			global::Data.Resource.Attribute.buttonBarButtonStyle = global::AsesoriasApp.Resource.Attribute.buttonBarButtonStyle;
+			global::Data.Resource.Attribute.buttonBarNegativeButtonStyle = global::AsesoriasApp.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Data.Resource.Attribute.buttonBarNeutralButtonStyle = global::AsesoriasApp.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Data.Resource.Attribute.buttonBarPositiveButtonStyle = global::AsesoriasApp.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Data.Resource.Attribute.buttonBarStyle = global::AsesoriasApp.Resource.Attribute.buttonBarStyle;
+			global::Data.Resource.Attribute.buttonGravity = global::AsesoriasApp.Resource.Attribute.buttonGravity;
+			global::Data.Resource.Attribute.buttonPanelSideLayout = global::AsesoriasApp.Resource.Attribute.buttonPanelSideLayout;
+			global::Data.Resource.Attribute.buttonStyle = global::AsesoriasApp.Resource.Attribute.buttonStyle;
+			global::Data.Resource.Attribute.buttonStyleSmall = global::AsesoriasApp.Resource.Attribute.buttonStyleSmall;
+			global::Data.Resource.Attribute.buttonTint = global::AsesoriasApp.Resource.Attribute.buttonTint;
+			global::Data.Resource.Attribute.buttonTintMode = global::AsesoriasApp.Resource.Attribute.buttonTintMode;
+			global::Data.Resource.Attribute.checkboxStyle = global::AsesoriasApp.Resource.Attribute.checkboxStyle;
+			global::Data.Resource.Attribute.checkedTextViewStyle = global::AsesoriasApp.Resource.Attribute.checkedTextViewStyle;
+			global::Data.Resource.Attribute.closeIcon = global::AsesoriasApp.Resource.Attribute.closeIcon;
+			global::Data.Resource.Attribute.closeItemLayout = global::AsesoriasApp.Resource.Attribute.closeItemLayout;
+			global::Data.Resource.Attribute.collapseContentDescription = global::AsesoriasApp.Resource.Attribute.collapseContentDescription;
+			global::Data.Resource.Attribute.collapseIcon = global::AsesoriasApp.Resource.Attribute.collapseIcon;
+			global::Data.Resource.Attribute.color = global::AsesoriasApp.Resource.Attribute.color;
+			global::Data.Resource.Attribute.colorAccent = global::AsesoriasApp.Resource.Attribute.colorAccent;
+			global::Data.Resource.Attribute.colorBackgroundFloating = global::AsesoriasApp.Resource.Attribute.colorBackgroundFloating;
+			global::Data.Resource.Attribute.colorButtonNormal = global::AsesoriasApp.Resource.Attribute.colorButtonNormal;
+			global::Data.Resource.Attribute.colorControlActivated = global::AsesoriasApp.Resource.Attribute.colorControlActivated;
+			global::Data.Resource.Attribute.colorControlHighlight = global::AsesoriasApp.Resource.Attribute.colorControlHighlight;
+			global::Data.Resource.Attribute.colorControlNormal = global::AsesoriasApp.Resource.Attribute.colorControlNormal;
+			global::Data.Resource.Attribute.colorError = global::AsesoriasApp.Resource.Attribute.colorError;
+			global::Data.Resource.Attribute.colorPrimary = global::AsesoriasApp.Resource.Attribute.colorPrimary;
+			global::Data.Resource.Attribute.colorPrimaryDark = global::AsesoriasApp.Resource.Attribute.colorPrimaryDark;
+			global::Data.Resource.Attribute.colorSwitchThumbNormal = global::AsesoriasApp.Resource.Attribute.colorSwitchThumbNormal;
+			global::Data.Resource.Attribute.commitIcon = global::AsesoriasApp.Resource.Attribute.commitIcon;
+			global::Data.Resource.Attribute.contentDescription = global::AsesoriasApp.Resource.Attribute.contentDescription;
+			global::Data.Resource.Attribute.contentInsetEnd = global::AsesoriasApp.Resource.Attribute.contentInsetEnd;
+			global::Data.Resource.Attribute.contentInsetEndWithActions = global::AsesoriasApp.Resource.Attribute.contentInsetEndWithActions;
+			global::Data.Resource.Attribute.contentInsetLeft = global::AsesoriasApp.Resource.Attribute.contentInsetLeft;
+			global::Data.Resource.Attribute.contentInsetRight = global::AsesoriasApp.Resource.Attribute.contentInsetRight;
+			global::Data.Resource.Attribute.contentInsetStart = global::AsesoriasApp.Resource.Attribute.contentInsetStart;
+			global::Data.Resource.Attribute.contentInsetStartWithNavigation = global::AsesoriasApp.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Data.Resource.Attribute.controlBackground = global::AsesoriasApp.Resource.Attribute.controlBackground;
+			global::Data.Resource.Attribute.customNavigationLayout = global::AsesoriasApp.Resource.Attribute.customNavigationLayout;
+			global::Data.Resource.Attribute.defaultQueryHint = global::AsesoriasApp.Resource.Attribute.defaultQueryHint;
+			global::Data.Resource.Attribute.dialogPreferredPadding = global::AsesoriasApp.Resource.Attribute.dialogPreferredPadding;
+			global::Data.Resource.Attribute.dialogTheme = global::AsesoriasApp.Resource.Attribute.dialogTheme;
+			global::Data.Resource.Attribute.displayOptions = global::AsesoriasApp.Resource.Attribute.displayOptions;
+			global::Data.Resource.Attribute.divider = global::AsesoriasApp.Resource.Attribute.divider;
+			global::Data.Resource.Attribute.dividerHorizontal = global::AsesoriasApp.Resource.Attribute.dividerHorizontal;
+			global::Data.Resource.Attribute.dividerPadding = global::AsesoriasApp.Resource.Attribute.dividerPadding;
+			global::Data.Resource.Attribute.dividerVertical = global::AsesoriasApp.Resource.Attribute.dividerVertical;
+			global::Data.Resource.Attribute.drawableSize = global::AsesoriasApp.Resource.Attribute.drawableSize;
+			global::Data.Resource.Attribute.drawerArrowStyle = global::AsesoriasApp.Resource.Attribute.drawerArrowStyle;
+			global::Data.Resource.Attribute.dropDownListViewStyle = global::AsesoriasApp.Resource.Attribute.dropDownListViewStyle;
+			global::Data.Resource.Attribute.dropdownListPreferredItemHeight = global::AsesoriasApp.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Data.Resource.Attribute.editTextBackground = global::AsesoriasApp.Resource.Attribute.editTextBackground;
+			global::Data.Resource.Attribute.editTextColor = global::AsesoriasApp.Resource.Attribute.editTextColor;
+			global::Data.Resource.Attribute.editTextStyle = global::AsesoriasApp.Resource.Attribute.editTextStyle;
+			global::Data.Resource.Attribute.elevation = global::AsesoriasApp.Resource.Attribute.elevation;
+			global::Data.Resource.Attribute.expandActivityOverflowButtonDrawable = global::AsesoriasApp.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Data.Resource.Attribute.font = global::AsesoriasApp.Resource.Attribute.font;
+			global::Data.Resource.Attribute.fontFamily = global::AsesoriasApp.Resource.Attribute.fontFamily;
+			global::Data.Resource.Attribute.fontProviderAuthority = global::AsesoriasApp.Resource.Attribute.fontProviderAuthority;
+			global::Data.Resource.Attribute.fontProviderCerts = global::AsesoriasApp.Resource.Attribute.fontProviderCerts;
+			global::Data.Resource.Attribute.fontProviderFetchStrategy = global::AsesoriasApp.Resource.Attribute.fontProviderFetchStrategy;
+			global::Data.Resource.Attribute.fontProviderFetchTimeout = global::AsesoriasApp.Resource.Attribute.fontProviderFetchTimeout;
+			global::Data.Resource.Attribute.fontProviderPackage = global::AsesoriasApp.Resource.Attribute.fontProviderPackage;
+			global::Data.Resource.Attribute.fontProviderQuery = global::AsesoriasApp.Resource.Attribute.fontProviderQuery;
+			global::Data.Resource.Attribute.fontStyle = global::AsesoriasApp.Resource.Attribute.fontStyle;
+			global::Data.Resource.Attribute.fontWeight = global::AsesoriasApp.Resource.Attribute.fontWeight;
+			global::Data.Resource.Attribute.gapBetweenBars = global::AsesoriasApp.Resource.Attribute.gapBetweenBars;
+			global::Data.Resource.Attribute.goIcon = global::AsesoriasApp.Resource.Attribute.goIcon;
+			global::Data.Resource.Attribute.height = global::AsesoriasApp.Resource.Attribute.height;
+			global::Data.Resource.Attribute.hideOnContentScroll = global::AsesoriasApp.Resource.Attribute.hideOnContentScroll;
+			global::Data.Resource.Attribute.homeAsUpIndicator = global::AsesoriasApp.Resource.Attribute.homeAsUpIndicator;
+			global::Data.Resource.Attribute.homeLayout = global::AsesoriasApp.Resource.Attribute.homeLayout;
+			global::Data.Resource.Attribute.icon = global::AsesoriasApp.Resource.Attribute.icon;
+			global::Data.Resource.Attribute.iconTint = global::AsesoriasApp.Resource.Attribute.iconTint;
+			global::Data.Resource.Attribute.iconTintMode = global::AsesoriasApp.Resource.Attribute.iconTintMode;
+			global::Data.Resource.Attribute.iconifiedByDefault = global::AsesoriasApp.Resource.Attribute.iconifiedByDefault;
+			global::Data.Resource.Attribute.imageButtonStyle = global::AsesoriasApp.Resource.Attribute.imageButtonStyle;
+			global::Data.Resource.Attribute.indeterminateProgressStyle = global::AsesoriasApp.Resource.Attribute.indeterminateProgressStyle;
+			global::Data.Resource.Attribute.initialActivityCount = global::AsesoriasApp.Resource.Attribute.initialActivityCount;
+			global::Data.Resource.Attribute.isLightTheme = global::AsesoriasApp.Resource.Attribute.isLightTheme;
+			global::Data.Resource.Attribute.itemPadding = global::AsesoriasApp.Resource.Attribute.itemPadding;
+			global::Data.Resource.Attribute.layout = global::AsesoriasApp.Resource.Attribute.layout;
+			global::Data.Resource.Attribute.listChoiceBackgroundIndicator = global::AsesoriasApp.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Data.Resource.Attribute.listDividerAlertDialog = global::AsesoriasApp.Resource.Attribute.listDividerAlertDialog;
+			global::Data.Resource.Attribute.listItemLayout = global::AsesoriasApp.Resource.Attribute.listItemLayout;
+			global::Data.Resource.Attribute.listLayout = global::AsesoriasApp.Resource.Attribute.listLayout;
+			global::Data.Resource.Attribute.listMenuViewStyle = global::AsesoriasApp.Resource.Attribute.listMenuViewStyle;
+			global::Data.Resource.Attribute.listPopupWindowStyle = global::AsesoriasApp.Resource.Attribute.listPopupWindowStyle;
+			global::Data.Resource.Attribute.listPreferredItemHeight = global::AsesoriasApp.Resource.Attribute.listPreferredItemHeight;
+			global::Data.Resource.Attribute.listPreferredItemHeightLarge = global::AsesoriasApp.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Data.Resource.Attribute.listPreferredItemHeightSmall = global::AsesoriasApp.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Data.Resource.Attribute.listPreferredItemPaddingLeft = global::AsesoriasApp.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Data.Resource.Attribute.listPreferredItemPaddingRight = global::AsesoriasApp.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Data.Resource.Attribute.logo = global::AsesoriasApp.Resource.Attribute.logo;
+			global::Data.Resource.Attribute.logoDescription = global::AsesoriasApp.Resource.Attribute.logoDescription;
+			global::Data.Resource.Attribute.maxButtonHeight = global::AsesoriasApp.Resource.Attribute.maxButtonHeight;
+			global::Data.Resource.Attribute.measureWithLargestChild = global::AsesoriasApp.Resource.Attribute.measureWithLargestChild;
+			global::Data.Resource.Attribute.multiChoiceItemLayout = global::AsesoriasApp.Resource.Attribute.multiChoiceItemLayout;
+			global::Data.Resource.Attribute.navigationContentDescription = global::AsesoriasApp.Resource.Attribute.navigationContentDescription;
+			global::Data.Resource.Attribute.navigationIcon = global::AsesoriasApp.Resource.Attribute.navigationIcon;
+			global::Data.Resource.Attribute.navigationMode = global::AsesoriasApp.Resource.Attribute.navigationMode;
+			global::Data.Resource.Attribute.numericModifiers = global::AsesoriasApp.Resource.Attribute.numericModifiers;
+			global::Data.Resource.Attribute.overlapAnchor = global::AsesoriasApp.Resource.Attribute.overlapAnchor;
+			global::Data.Resource.Attribute.paddingBottomNoButtons = global::AsesoriasApp.Resource.Attribute.paddingBottomNoButtons;
+			global::Data.Resource.Attribute.paddingEnd = global::AsesoriasApp.Resource.Attribute.paddingEnd;
+			global::Data.Resource.Attribute.paddingStart = global::AsesoriasApp.Resource.Attribute.paddingStart;
+			global::Data.Resource.Attribute.paddingTopNoTitle = global::AsesoriasApp.Resource.Attribute.paddingTopNoTitle;
+			global::Data.Resource.Attribute.panelBackground = global::AsesoriasApp.Resource.Attribute.panelBackground;
+			global::Data.Resource.Attribute.panelMenuListTheme = global::AsesoriasApp.Resource.Attribute.panelMenuListTheme;
+			global::Data.Resource.Attribute.panelMenuListWidth = global::AsesoriasApp.Resource.Attribute.panelMenuListWidth;
+			global::Data.Resource.Attribute.popupMenuStyle = global::AsesoriasApp.Resource.Attribute.popupMenuStyle;
+			global::Data.Resource.Attribute.popupTheme = global::AsesoriasApp.Resource.Attribute.popupTheme;
+			global::Data.Resource.Attribute.popupWindowStyle = global::AsesoriasApp.Resource.Attribute.popupWindowStyle;
+			global::Data.Resource.Attribute.preserveIconSpacing = global::AsesoriasApp.Resource.Attribute.preserveIconSpacing;
+			global::Data.Resource.Attribute.progressBarPadding = global::AsesoriasApp.Resource.Attribute.progressBarPadding;
+			global::Data.Resource.Attribute.progressBarStyle = global::AsesoriasApp.Resource.Attribute.progressBarStyle;
+			global::Data.Resource.Attribute.queryBackground = global::AsesoriasApp.Resource.Attribute.queryBackground;
+			global::Data.Resource.Attribute.queryHint = global::AsesoriasApp.Resource.Attribute.queryHint;
+			global::Data.Resource.Attribute.radioButtonStyle = global::AsesoriasApp.Resource.Attribute.radioButtonStyle;
+			global::Data.Resource.Attribute.ratingBarStyle = global::AsesoriasApp.Resource.Attribute.ratingBarStyle;
+			global::Data.Resource.Attribute.ratingBarStyleIndicator = global::AsesoriasApp.Resource.Attribute.ratingBarStyleIndicator;
+			global::Data.Resource.Attribute.ratingBarStyleSmall = global::AsesoriasApp.Resource.Attribute.ratingBarStyleSmall;
+			global::Data.Resource.Attribute.searchHintIcon = global::AsesoriasApp.Resource.Attribute.searchHintIcon;
+			global::Data.Resource.Attribute.searchIcon = global::AsesoriasApp.Resource.Attribute.searchIcon;
+			global::Data.Resource.Attribute.searchViewStyle = global::AsesoriasApp.Resource.Attribute.searchViewStyle;
+			global::Data.Resource.Attribute.seekBarStyle = global::AsesoriasApp.Resource.Attribute.seekBarStyle;
+			global::Data.Resource.Attribute.selectableItemBackground = global::AsesoriasApp.Resource.Attribute.selectableItemBackground;
+			global::Data.Resource.Attribute.selectableItemBackgroundBorderless = global::AsesoriasApp.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Data.Resource.Attribute.showAsAction = global::AsesoriasApp.Resource.Attribute.showAsAction;
+			global::Data.Resource.Attribute.showDividers = global::AsesoriasApp.Resource.Attribute.showDividers;
+			global::Data.Resource.Attribute.showText = global::AsesoriasApp.Resource.Attribute.showText;
+			global::Data.Resource.Attribute.showTitle = global::AsesoriasApp.Resource.Attribute.showTitle;
+			global::Data.Resource.Attribute.singleChoiceItemLayout = global::AsesoriasApp.Resource.Attribute.singleChoiceItemLayout;
+			global::Data.Resource.Attribute.spinBars = global::AsesoriasApp.Resource.Attribute.spinBars;
+			global::Data.Resource.Attribute.spinnerDropDownItemStyle = global::AsesoriasApp.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Data.Resource.Attribute.spinnerStyle = global::AsesoriasApp.Resource.Attribute.spinnerStyle;
+			global::Data.Resource.Attribute.splitTrack = global::AsesoriasApp.Resource.Attribute.splitTrack;
+			global::Data.Resource.Attribute.srcCompat = global::AsesoriasApp.Resource.Attribute.srcCompat;
+			global::Data.Resource.Attribute.state_above_anchor = global::AsesoriasApp.Resource.Attribute.state_above_anchor;
+			global::Data.Resource.Attribute.subMenuArrow = global::AsesoriasApp.Resource.Attribute.subMenuArrow;
+			global::Data.Resource.Attribute.submitBackground = global::AsesoriasApp.Resource.Attribute.submitBackground;
+			global::Data.Resource.Attribute.subtitle = global::AsesoriasApp.Resource.Attribute.subtitle;
+			global::Data.Resource.Attribute.subtitleTextAppearance = global::AsesoriasApp.Resource.Attribute.subtitleTextAppearance;
+			global::Data.Resource.Attribute.subtitleTextColor = global::AsesoriasApp.Resource.Attribute.subtitleTextColor;
+			global::Data.Resource.Attribute.subtitleTextStyle = global::AsesoriasApp.Resource.Attribute.subtitleTextStyle;
+			global::Data.Resource.Attribute.suggestionRowLayout = global::AsesoriasApp.Resource.Attribute.suggestionRowLayout;
+			global::Data.Resource.Attribute.switchMinWidth = global::AsesoriasApp.Resource.Attribute.switchMinWidth;
+			global::Data.Resource.Attribute.switchPadding = global::AsesoriasApp.Resource.Attribute.switchPadding;
+			global::Data.Resource.Attribute.switchStyle = global::AsesoriasApp.Resource.Attribute.switchStyle;
+			global::Data.Resource.Attribute.switchTextAppearance = global::AsesoriasApp.Resource.Attribute.switchTextAppearance;
+			global::Data.Resource.Attribute.textAllCaps = global::AsesoriasApp.Resource.Attribute.textAllCaps;
+			global::Data.Resource.Attribute.textAppearanceLargePopupMenu = global::AsesoriasApp.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Data.Resource.Attribute.textAppearanceListItem = global::AsesoriasApp.Resource.Attribute.textAppearanceListItem;
+			global::Data.Resource.Attribute.textAppearanceListItemSecondary = global::AsesoriasApp.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Data.Resource.Attribute.textAppearanceListItemSmall = global::AsesoriasApp.Resource.Attribute.textAppearanceListItemSmall;
+			global::Data.Resource.Attribute.textAppearancePopupMenuHeader = global::AsesoriasApp.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Data.Resource.Attribute.textAppearanceSearchResultSubtitle = global::AsesoriasApp.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Data.Resource.Attribute.textAppearanceSearchResultTitle = global::AsesoriasApp.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Data.Resource.Attribute.textAppearanceSmallPopupMenu = global::AsesoriasApp.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Data.Resource.Attribute.textColorAlertDialogListItem = global::AsesoriasApp.Resource.Attribute.textColorAlertDialogListItem;
+			global::Data.Resource.Attribute.textColorSearchUrl = global::AsesoriasApp.Resource.Attribute.textColorSearchUrl;
+			global::Data.Resource.Attribute.theme = global::AsesoriasApp.Resource.Attribute.theme;
+			global::Data.Resource.Attribute.thickness = global::AsesoriasApp.Resource.Attribute.thickness;
+			global::Data.Resource.Attribute.thumbTextPadding = global::AsesoriasApp.Resource.Attribute.thumbTextPadding;
+			global::Data.Resource.Attribute.thumbTint = global::AsesoriasApp.Resource.Attribute.thumbTint;
+			global::Data.Resource.Attribute.thumbTintMode = global::AsesoriasApp.Resource.Attribute.thumbTintMode;
+			global::Data.Resource.Attribute.tickMark = global::AsesoriasApp.Resource.Attribute.tickMark;
+			global::Data.Resource.Attribute.tickMarkTint = global::AsesoriasApp.Resource.Attribute.tickMarkTint;
+			global::Data.Resource.Attribute.tickMarkTintMode = global::AsesoriasApp.Resource.Attribute.tickMarkTintMode;
+			global::Data.Resource.Attribute.tint = global::AsesoriasApp.Resource.Attribute.tint;
+			global::Data.Resource.Attribute.tintMode = global::AsesoriasApp.Resource.Attribute.tintMode;
+			global::Data.Resource.Attribute.title = global::AsesoriasApp.Resource.Attribute.title;
+			global::Data.Resource.Attribute.titleMargin = global::AsesoriasApp.Resource.Attribute.titleMargin;
+			global::Data.Resource.Attribute.titleMarginBottom = global::AsesoriasApp.Resource.Attribute.titleMarginBottom;
+			global::Data.Resource.Attribute.titleMarginEnd = global::AsesoriasApp.Resource.Attribute.titleMarginEnd;
+			global::Data.Resource.Attribute.titleMarginStart = global::AsesoriasApp.Resource.Attribute.titleMarginStart;
+			global::Data.Resource.Attribute.titleMarginTop = global::AsesoriasApp.Resource.Attribute.titleMarginTop;
+			global::Data.Resource.Attribute.titleMargins = global::AsesoriasApp.Resource.Attribute.titleMargins;
+			global::Data.Resource.Attribute.titleTextAppearance = global::AsesoriasApp.Resource.Attribute.titleTextAppearance;
+			global::Data.Resource.Attribute.titleTextColor = global::AsesoriasApp.Resource.Attribute.titleTextColor;
+			global::Data.Resource.Attribute.titleTextStyle = global::AsesoriasApp.Resource.Attribute.titleTextStyle;
+			global::Data.Resource.Attribute.toolbarNavigationButtonStyle = global::AsesoriasApp.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Data.Resource.Attribute.toolbarStyle = global::AsesoriasApp.Resource.Attribute.toolbarStyle;
+			global::Data.Resource.Attribute.tooltipForegroundColor = global::AsesoriasApp.Resource.Attribute.tooltipForegroundColor;
+			global::Data.Resource.Attribute.tooltipFrameBackground = global::AsesoriasApp.Resource.Attribute.tooltipFrameBackground;
+			global::Data.Resource.Attribute.tooltipText = global::AsesoriasApp.Resource.Attribute.tooltipText;
+			global::Data.Resource.Attribute.track = global::AsesoriasApp.Resource.Attribute.track;
+			global::Data.Resource.Attribute.trackTint = global::AsesoriasApp.Resource.Attribute.trackTint;
+			global::Data.Resource.Attribute.trackTintMode = global::AsesoriasApp.Resource.Attribute.trackTintMode;
+			global::Data.Resource.Attribute.voiceIcon = global::AsesoriasApp.Resource.Attribute.voiceIcon;
+			global::Data.Resource.Attribute.windowActionBar = global::AsesoriasApp.Resource.Attribute.windowActionBar;
+			global::Data.Resource.Attribute.windowActionBarOverlay = global::AsesoriasApp.Resource.Attribute.windowActionBarOverlay;
+			global::Data.Resource.Attribute.windowActionModeOverlay = global::AsesoriasApp.Resource.Attribute.windowActionModeOverlay;
+			global::Data.Resource.Attribute.windowFixedHeightMajor = global::AsesoriasApp.Resource.Attribute.windowFixedHeightMajor;
+			global::Data.Resource.Attribute.windowFixedHeightMinor = global::AsesoriasApp.Resource.Attribute.windowFixedHeightMinor;
+			global::Data.Resource.Attribute.windowFixedWidthMajor = global::AsesoriasApp.Resource.Attribute.windowFixedWidthMajor;
+			global::Data.Resource.Attribute.windowFixedWidthMinor = global::AsesoriasApp.Resource.Attribute.windowFixedWidthMinor;
+			global::Data.Resource.Attribute.windowMinWidthMajor = global::AsesoriasApp.Resource.Attribute.windowMinWidthMajor;
+			global::Data.Resource.Attribute.windowMinWidthMinor = global::AsesoriasApp.Resource.Attribute.windowMinWidthMinor;
+			global::Data.Resource.Attribute.windowNoTitle = global::AsesoriasApp.Resource.Attribute.windowNoTitle;
+			global::Data.Resource.Boolean.abc_action_bar_embed_tabs = global::AsesoriasApp.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Data.Resource.Boolean.abc_allow_stacked_button_bar = global::AsesoriasApp.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Data.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::AsesoriasApp.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Data.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::AsesoriasApp.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::Data.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::AsesoriasApp.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::Data.Resource.Color.abc_background_cache_hint_selector_material_dark = global::AsesoriasApp.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Data.Resource.Color.abc_background_cache_hint_selector_material_light = global::AsesoriasApp.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Data.Resource.Color.abc_btn_colored_borderless_text_material = global::AsesoriasApp.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Data.Resource.Color.abc_btn_colored_text_material = global::AsesoriasApp.Resource.Color.abc_btn_colored_text_material;
+			global::Data.Resource.Color.abc_color_highlight_material = global::AsesoriasApp.Resource.Color.abc_color_highlight_material;
+			global::Data.Resource.Color.abc_hint_foreground_material_dark = global::AsesoriasApp.Resource.Color.abc_hint_foreground_material_dark;
+			global::Data.Resource.Color.abc_hint_foreground_material_light = global::AsesoriasApp.Resource.Color.abc_hint_foreground_material_light;
+			global::Data.Resource.Color.abc_input_method_navigation_guard = global::AsesoriasApp.Resource.Color.abc_input_method_navigation_guard;
+			global::Data.Resource.Color.abc_primary_text_disable_only_material_dark = global::AsesoriasApp.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Data.Resource.Color.abc_primary_text_disable_only_material_light = global::AsesoriasApp.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Data.Resource.Color.abc_primary_text_material_dark = global::AsesoriasApp.Resource.Color.abc_primary_text_material_dark;
+			global::Data.Resource.Color.abc_primary_text_material_light = global::AsesoriasApp.Resource.Color.abc_primary_text_material_light;
+			global::Data.Resource.Color.abc_search_url_text = global::AsesoriasApp.Resource.Color.abc_search_url_text;
+			global::Data.Resource.Color.abc_search_url_text_normal = global::AsesoriasApp.Resource.Color.abc_search_url_text_normal;
+			global::Data.Resource.Color.abc_search_url_text_pressed = global::AsesoriasApp.Resource.Color.abc_search_url_text_pressed;
+			global::Data.Resource.Color.abc_search_url_text_selected = global::AsesoriasApp.Resource.Color.abc_search_url_text_selected;
+			global::Data.Resource.Color.abc_secondary_text_material_dark = global::AsesoriasApp.Resource.Color.abc_secondary_text_material_dark;
+			global::Data.Resource.Color.abc_secondary_text_material_light = global::AsesoriasApp.Resource.Color.abc_secondary_text_material_light;
+			global::Data.Resource.Color.abc_tint_btn_checkable = global::AsesoriasApp.Resource.Color.abc_tint_btn_checkable;
+			global::Data.Resource.Color.abc_tint_default = global::AsesoriasApp.Resource.Color.abc_tint_default;
+			global::Data.Resource.Color.abc_tint_edittext = global::AsesoriasApp.Resource.Color.abc_tint_edittext;
+			global::Data.Resource.Color.abc_tint_seek_thumb = global::AsesoriasApp.Resource.Color.abc_tint_seek_thumb;
+			global::Data.Resource.Color.abc_tint_spinner = global::AsesoriasApp.Resource.Color.abc_tint_spinner;
+			global::Data.Resource.Color.abc_tint_switch_track = global::AsesoriasApp.Resource.Color.abc_tint_switch_track;
+			global::Data.Resource.Color.accent_material_dark = global::AsesoriasApp.Resource.Color.accent_material_dark;
+			global::Data.Resource.Color.accent_material_light = global::AsesoriasApp.Resource.Color.accent_material_light;
+			global::Data.Resource.Color.background_floating_material_dark = global::AsesoriasApp.Resource.Color.background_floating_material_dark;
+			global::Data.Resource.Color.background_floating_material_light = global::AsesoriasApp.Resource.Color.background_floating_material_light;
+			global::Data.Resource.Color.background_material_dark = global::AsesoriasApp.Resource.Color.background_material_dark;
+			global::Data.Resource.Color.background_material_light = global::AsesoriasApp.Resource.Color.background_material_light;
+			global::Data.Resource.Color.bright_foreground_disabled_material_dark = global::AsesoriasApp.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Data.Resource.Color.bright_foreground_disabled_material_light = global::AsesoriasApp.Resource.Color.bright_foreground_disabled_material_light;
+			global::Data.Resource.Color.bright_foreground_inverse_material_dark = global::AsesoriasApp.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Data.Resource.Color.bright_foreground_inverse_material_light = global::AsesoriasApp.Resource.Color.bright_foreground_inverse_material_light;
+			global::Data.Resource.Color.bright_foreground_material_dark = global::AsesoriasApp.Resource.Color.bright_foreground_material_dark;
+			global::Data.Resource.Color.bright_foreground_material_light = global::AsesoriasApp.Resource.Color.bright_foreground_material_light;
+			global::Data.Resource.Color.button_material_dark = global::AsesoriasApp.Resource.Color.button_material_dark;
+			global::Data.Resource.Color.button_material_light = global::AsesoriasApp.Resource.Color.button_material_light;
+			global::Data.Resource.Color.dim_foreground_disabled_material_dark = global::AsesoriasApp.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Data.Resource.Color.dim_foreground_disabled_material_light = global::AsesoriasApp.Resource.Color.dim_foreground_disabled_material_light;
+			global::Data.Resource.Color.dim_foreground_material_dark = global::AsesoriasApp.Resource.Color.dim_foreground_material_dark;
+			global::Data.Resource.Color.dim_foreground_material_light = global::AsesoriasApp.Resource.Color.dim_foreground_material_light;
+			global::Data.Resource.Color.error_color_material = global::AsesoriasApp.Resource.Color.error_color_material;
+			global::Data.Resource.Color.foreground_material_dark = global::AsesoriasApp.Resource.Color.foreground_material_dark;
+			global::Data.Resource.Color.foreground_material_light = global::AsesoriasApp.Resource.Color.foreground_material_light;
+			global::Data.Resource.Color.highlighted_text_material_dark = global::AsesoriasApp.Resource.Color.highlighted_text_material_dark;
+			global::Data.Resource.Color.highlighted_text_material_light = global::AsesoriasApp.Resource.Color.highlighted_text_material_light;
+			global::Data.Resource.Color.material_blue_grey_800 = global::AsesoriasApp.Resource.Color.material_blue_grey_800;
+			global::Data.Resource.Color.material_blue_grey_900 = global::AsesoriasApp.Resource.Color.material_blue_grey_900;
+			global::Data.Resource.Color.material_blue_grey_950 = global::AsesoriasApp.Resource.Color.material_blue_grey_950;
+			global::Data.Resource.Color.material_deep_teal_200 = global::AsesoriasApp.Resource.Color.material_deep_teal_200;
+			global::Data.Resource.Color.material_deep_teal_500 = global::AsesoriasApp.Resource.Color.material_deep_teal_500;
+			global::Data.Resource.Color.material_grey_100 = global::AsesoriasApp.Resource.Color.material_grey_100;
+			global::Data.Resource.Color.material_grey_300 = global::AsesoriasApp.Resource.Color.material_grey_300;
+			global::Data.Resource.Color.material_grey_50 = global::AsesoriasApp.Resource.Color.material_grey_50;
+			global::Data.Resource.Color.material_grey_600 = global::AsesoriasApp.Resource.Color.material_grey_600;
+			global::Data.Resource.Color.material_grey_800 = global::AsesoriasApp.Resource.Color.material_grey_800;
+			global::Data.Resource.Color.material_grey_850 = global::AsesoriasApp.Resource.Color.material_grey_850;
+			global::Data.Resource.Color.material_grey_900 = global::AsesoriasApp.Resource.Color.material_grey_900;
+			global::Data.Resource.Color.notification_action_color_filter = global::AsesoriasApp.Resource.Color.notification_action_color_filter;
+			global::Data.Resource.Color.notification_icon_bg_color = global::AsesoriasApp.Resource.Color.notification_icon_bg_color;
+			global::Data.Resource.Color.notification_material_background_media_default_color = global::AsesoriasApp.Resource.Color.notification_material_background_media_default_color;
+			global::Data.Resource.Color.primary_dark_material_dark = global::AsesoriasApp.Resource.Color.primary_dark_material_dark;
+			global::Data.Resource.Color.primary_dark_material_light = global::AsesoriasApp.Resource.Color.primary_dark_material_light;
+			global::Data.Resource.Color.primary_material_dark = global::AsesoriasApp.Resource.Color.primary_material_dark;
+			global::Data.Resource.Color.primary_material_light = global::AsesoriasApp.Resource.Color.primary_material_light;
+			global::Data.Resource.Color.primary_text_default_material_dark = global::AsesoriasApp.Resource.Color.primary_text_default_material_dark;
+			global::Data.Resource.Color.primary_text_default_material_light = global::AsesoriasApp.Resource.Color.primary_text_default_material_light;
+			global::Data.Resource.Color.primary_text_disabled_material_dark = global::AsesoriasApp.Resource.Color.primary_text_disabled_material_dark;
+			global::Data.Resource.Color.primary_text_disabled_material_light = global::AsesoriasApp.Resource.Color.primary_text_disabled_material_light;
+			global::Data.Resource.Color.ripple_material_dark = global::AsesoriasApp.Resource.Color.ripple_material_dark;
+			global::Data.Resource.Color.ripple_material_light = global::AsesoriasApp.Resource.Color.ripple_material_light;
+			global::Data.Resource.Color.secondary_text_default_material_dark = global::AsesoriasApp.Resource.Color.secondary_text_default_material_dark;
+			global::Data.Resource.Color.secondary_text_default_material_light = global::AsesoriasApp.Resource.Color.secondary_text_default_material_light;
+			global::Data.Resource.Color.secondary_text_disabled_material_dark = global::AsesoriasApp.Resource.Color.secondary_text_disabled_material_dark;
+			global::Data.Resource.Color.secondary_text_disabled_material_light = global::AsesoriasApp.Resource.Color.secondary_text_disabled_material_light;
+			global::Data.Resource.Color.switch_thumb_disabled_material_dark = global::AsesoriasApp.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Data.Resource.Color.switch_thumb_disabled_material_light = global::AsesoriasApp.Resource.Color.switch_thumb_disabled_material_light;
+			global::Data.Resource.Color.switch_thumb_material_dark = global::AsesoriasApp.Resource.Color.switch_thumb_material_dark;
+			global::Data.Resource.Color.switch_thumb_material_light = global::AsesoriasApp.Resource.Color.switch_thumb_material_light;
+			global::Data.Resource.Color.switch_thumb_normal_material_dark = global::AsesoriasApp.Resource.Color.switch_thumb_normal_material_dark;
+			global::Data.Resource.Color.switch_thumb_normal_material_light = global::AsesoriasApp.Resource.Color.switch_thumb_normal_material_light;
+			global::Data.Resource.Color.tooltip_background_dark = global::AsesoriasApp.Resource.Color.tooltip_background_dark;
+			global::Data.Resource.Color.tooltip_background_light = global::AsesoriasApp.Resource.Color.tooltip_background_light;
+			global::Data.Resource.Dimension.abc_action_bar_content_inset_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Data.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::AsesoriasApp.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Data.Resource.Dimension.abc_action_bar_default_height_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Data.Resource.Dimension.abc_action_bar_default_padding_end_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Data.Resource.Dimension.abc_action_bar_default_padding_start_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Data.Resource.Dimension.abc_action_bar_elevation_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Data.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Data.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Data.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Data.Resource.Dimension.abc_action_bar_progress_bar_size = global::AsesoriasApp.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::Data.Resource.Dimension.abc_action_bar_stacked_max_height = global::AsesoriasApp.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Data.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::AsesoriasApp.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Data.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Data.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Data.Resource.Dimension.abc_action_button_min_height_material = global::AsesoriasApp.Resource.Dimension.abc_action_button_min_height_material;
+			global::Data.Resource.Dimension.abc_action_button_min_width_material = global::AsesoriasApp.Resource.Dimension.abc_action_button_min_width_material;
+			global::Data.Resource.Dimension.abc_action_button_min_width_overflow_material = global::AsesoriasApp.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Data.Resource.Dimension.abc_alert_dialog_button_bar_height = global::AsesoriasApp.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Data.Resource.Dimension.abc_button_inset_horizontal_material = global::AsesoriasApp.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Data.Resource.Dimension.abc_button_inset_vertical_material = global::AsesoriasApp.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Data.Resource.Dimension.abc_button_padding_horizontal_material = global::AsesoriasApp.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Data.Resource.Dimension.abc_button_padding_vertical_material = global::AsesoriasApp.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Data.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::AsesoriasApp.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Data.Resource.Dimension.abc_config_prefDialogWidth = global::AsesoriasApp.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Data.Resource.Dimension.abc_control_corner_material = global::AsesoriasApp.Resource.Dimension.abc_control_corner_material;
+			global::Data.Resource.Dimension.abc_control_inset_material = global::AsesoriasApp.Resource.Dimension.abc_control_inset_material;
+			global::Data.Resource.Dimension.abc_control_padding_material = global::AsesoriasApp.Resource.Dimension.abc_control_padding_material;
+			global::Data.Resource.Dimension.abc_dialog_fixed_height_major = global::AsesoriasApp.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Data.Resource.Dimension.abc_dialog_fixed_height_minor = global::AsesoriasApp.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Data.Resource.Dimension.abc_dialog_fixed_width_major = global::AsesoriasApp.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Data.Resource.Dimension.abc_dialog_fixed_width_minor = global::AsesoriasApp.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Data.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::AsesoriasApp.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Data.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::AsesoriasApp.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Data.Resource.Dimension.abc_dialog_min_width_major = global::AsesoriasApp.Resource.Dimension.abc_dialog_min_width_major;
+			global::Data.Resource.Dimension.abc_dialog_min_width_minor = global::AsesoriasApp.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Data.Resource.Dimension.abc_dialog_padding_material = global::AsesoriasApp.Resource.Dimension.abc_dialog_padding_material;
+			global::Data.Resource.Dimension.abc_dialog_padding_top_material = global::AsesoriasApp.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Data.Resource.Dimension.abc_dialog_title_divider_material = global::AsesoriasApp.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Data.Resource.Dimension.abc_disabled_alpha_material_dark = global::AsesoriasApp.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Data.Resource.Dimension.abc_disabled_alpha_material_light = global::AsesoriasApp.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Data.Resource.Dimension.abc_dropdownitem_icon_width = global::AsesoriasApp.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Data.Resource.Dimension.abc_dropdownitem_text_padding_left = global::AsesoriasApp.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Data.Resource.Dimension.abc_dropdownitem_text_padding_right = global::AsesoriasApp.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Data.Resource.Dimension.abc_edit_text_inset_bottom_material = global::AsesoriasApp.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Data.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::AsesoriasApp.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Data.Resource.Dimension.abc_edit_text_inset_top_material = global::AsesoriasApp.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Data.Resource.Dimension.abc_floating_window_z = global::AsesoriasApp.Resource.Dimension.abc_floating_window_z;
+			global::Data.Resource.Dimension.abc_list_item_padding_horizontal_material = global::AsesoriasApp.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Data.Resource.Dimension.abc_panel_menu_list_width = global::AsesoriasApp.Resource.Dimension.abc_panel_menu_list_width;
+			global::Data.Resource.Dimension.abc_progress_bar_height_material = global::AsesoriasApp.Resource.Dimension.abc_progress_bar_height_material;
+			global::Data.Resource.Dimension.abc_search_view_preferred_height = global::AsesoriasApp.Resource.Dimension.abc_search_view_preferred_height;
+			global::Data.Resource.Dimension.abc_search_view_preferred_width = global::AsesoriasApp.Resource.Dimension.abc_search_view_preferred_width;
+			global::Data.Resource.Dimension.abc_seekbar_track_background_height_material = global::AsesoriasApp.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Data.Resource.Dimension.abc_seekbar_track_progress_height_material = global::AsesoriasApp.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Data.Resource.Dimension.abc_select_dialog_padding_start_material = global::AsesoriasApp.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Data.Resource.Dimension.abc_switch_padding = global::AsesoriasApp.Resource.Dimension.abc_switch_padding;
+			global::Data.Resource.Dimension.abc_text_size_body_1_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_body_1_material;
+			global::Data.Resource.Dimension.abc_text_size_body_2_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_body_2_material;
+			global::Data.Resource.Dimension.abc_text_size_button_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_button_material;
+			global::Data.Resource.Dimension.abc_text_size_caption_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_caption_material;
+			global::Data.Resource.Dimension.abc_text_size_display_1_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_display_1_material;
+			global::Data.Resource.Dimension.abc_text_size_display_2_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_display_2_material;
+			global::Data.Resource.Dimension.abc_text_size_display_3_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_display_3_material;
+			global::Data.Resource.Dimension.abc_text_size_display_4_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_display_4_material;
+			global::Data.Resource.Dimension.abc_text_size_headline_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_headline_material;
+			global::Data.Resource.Dimension.abc_text_size_large_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_large_material;
+			global::Data.Resource.Dimension.abc_text_size_medium_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_medium_material;
+			global::Data.Resource.Dimension.abc_text_size_menu_header_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Data.Resource.Dimension.abc_text_size_menu_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_menu_material;
+			global::Data.Resource.Dimension.abc_text_size_small_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_small_material;
+			global::Data.Resource.Dimension.abc_text_size_subhead_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_subhead_material;
+			global::Data.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::AsesoriasApp.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Data.Resource.Dimension.abc_text_size_title_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_title_material;
+			global::Data.Resource.Dimension.abc_text_size_title_material_toolbar = global::AsesoriasApp.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Data.Resource.Dimension.compat_button_inset_horizontal_material = global::AsesoriasApp.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Data.Resource.Dimension.compat_button_inset_vertical_material = global::AsesoriasApp.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Data.Resource.Dimension.compat_button_padding_horizontal_material = global::AsesoriasApp.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Data.Resource.Dimension.compat_button_padding_vertical_material = global::AsesoriasApp.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Data.Resource.Dimension.compat_control_corner_material = global::AsesoriasApp.Resource.Dimension.compat_control_corner_material;
+			global::Data.Resource.Dimension.disabled_alpha_material_dark = global::AsesoriasApp.Resource.Dimension.disabled_alpha_material_dark;
+			global::Data.Resource.Dimension.disabled_alpha_material_light = global::AsesoriasApp.Resource.Dimension.disabled_alpha_material_light;
+			global::Data.Resource.Dimension.highlight_alpha_material_colored = global::AsesoriasApp.Resource.Dimension.highlight_alpha_material_colored;
+			global::Data.Resource.Dimension.highlight_alpha_material_dark = global::AsesoriasApp.Resource.Dimension.highlight_alpha_material_dark;
+			global::Data.Resource.Dimension.highlight_alpha_material_light = global::AsesoriasApp.Resource.Dimension.highlight_alpha_material_light;
+			global::Data.Resource.Dimension.hint_alpha_material_dark = global::AsesoriasApp.Resource.Dimension.hint_alpha_material_dark;
+			global::Data.Resource.Dimension.hint_alpha_material_light = global::AsesoriasApp.Resource.Dimension.hint_alpha_material_light;
+			global::Data.Resource.Dimension.hint_pressed_alpha_material_dark = global::AsesoriasApp.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Data.Resource.Dimension.hint_pressed_alpha_material_light = global::AsesoriasApp.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Data.Resource.Dimension.notification_action_icon_size = global::AsesoriasApp.Resource.Dimension.notification_action_icon_size;
+			global::Data.Resource.Dimension.notification_action_text_size = global::AsesoriasApp.Resource.Dimension.notification_action_text_size;
+			global::Data.Resource.Dimension.notification_big_circle_margin = global::AsesoriasApp.Resource.Dimension.notification_big_circle_margin;
+			global::Data.Resource.Dimension.notification_content_margin_start = global::AsesoriasApp.Resource.Dimension.notification_content_margin_start;
+			global::Data.Resource.Dimension.notification_large_icon_height = global::AsesoriasApp.Resource.Dimension.notification_large_icon_height;
+			global::Data.Resource.Dimension.notification_large_icon_width = global::AsesoriasApp.Resource.Dimension.notification_large_icon_width;
+			global::Data.Resource.Dimension.notification_main_column_padding_top = global::AsesoriasApp.Resource.Dimension.notification_main_column_padding_top;
+			global::Data.Resource.Dimension.notification_media_narrow_margin = global::AsesoriasApp.Resource.Dimension.notification_media_narrow_margin;
+			global::Data.Resource.Dimension.notification_right_icon_size = global::AsesoriasApp.Resource.Dimension.notification_right_icon_size;
+			global::Data.Resource.Dimension.notification_right_side_padding_top = global::AsesoriasApp.Resource.Dimension.notification_right_side_padding_top;
+			global::Data.Resource.Dimension.notification_small_icon_background_padding = global::AsesoriasApp.Resource.Dimension.notification_small_icon_background_padding;
+			global::Data.Resource.Dimension.notification_small_icon_size_as_large = global::AsesoriasApp.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Data.Resource.Dimension.notification_subtext_size = global::AsesoriasApp.Resource.Dimension.notification_subtext_size;
+			global::Data.Resource.Dimension.notification_top_pad = global::AsesoriasApp.Resource.Dimension.notification_top_pad;
+			global::Data.Resource.Dimension.notification_top_pad_large_text = global::AsesoriasApp.Resource.Dimension.notification_top_pad_large_text;
+			global::Data.Resource.Dimension.tooltip_corner_radius = global::AsesoriasApp.Resource.Dimension.tooltip_corner_radius;
+			global::Data.Resource.Dimension.tooltip_horizontal_padding = global::AsesoriasApp.Resource.Dimension.tooltip_horizontal_padding;
+			global::Data.Resource.Dimension.tooltip_margin = global::AsesoriasApp.Resource.Dimension.tooltip_margin;
+			global::Data.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::AsesoriasApp.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Data.Resource.Dimension.tooltip_precise_anchor_threshold = global::AsesoriasApp.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Data.Resource.Dimension.tooltip_vertical_padding = global::AsesoriasApp.Resource.Dimension.tooltip_vertical_padding;
+			global::Data.Resource.Dimension.tooltip_y_offset_non_touch = global::AsesoriasApp.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Data.Resource.Dimension.tooltip_y_offset_touch = global::AsesoriasApp.Resource.Dimension.tooltip_y_offset_touch;
+			global::Data.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_action_bar_item_background_material = global::AsesoriasApp.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Data.Resource.Drawable.abc_btn_borderless_material = global::AsesoriasApp.Resource.Drawable.abc_btn_borderless_material;
+			global::Data.Resource.Drawable.abc_btn_check_material = global::AsesoriasApp.Resource.Drawable.abc_btn_check_material;
+			global::Data.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::AsesoriasApp.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Data.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::AsesoriasApp.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Data.Resource.Drawable.abc_btn_colored_material = global::AsesoriasApp.Resource.Drawable.abc_btn_colored_material;
+			global::Data.Resource.Drawable.abc_btn_default_mtrl_shape = global::AsesoriasApp.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Data.Resource.Drawable.abc_btn_radio_material = global::AsesoriasApp.Resource.Drawable.abc_btn_radio_material;
+			global::Data.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::AsesoriasApp.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Data.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::AsesoriasApp.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Data.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::AsesoriasApp.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Data.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::AsesoriasApp.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Data.Resource.Drawable.abc_cab_background_internal_bg = global::AsesoriasApp.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Data.Resource.Drawable.abc_cab_background_top_material = global::AsesoriasApp.Resource.Drawable.abc_cab_background_top_material;
+			global::Data.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_control_background_material = global::AsesoriasApp.Resource.Drawable.abc_control_background_material;
+			global::Data.Resource.Drawable.abc_dialog_material_background = global::AsesoriasApp.Resource.Drawable.abc_dialog_material_background;
+			global::Data.Resource.Drawable.abc_edit_text_material = global::AsesoriasApp.Resource.Drawable.abc_edit_text_material;
+			global::Data.Resource.Drawable.abc_ic_ab_back_material = global::AsesoriasApp.Resource.Drawable.abc_ic_ab_back_material;
+			global::Data.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::AsesoriasApp.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Data.Resource.Drawable.abc_ic_clear_material = global::AsesoriasApp.Resource.Drawable.abc_ic_clear_material;
+			global::Data.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_ic_go_search_api_material = global::AsesoriasApp.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Data.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Data.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_ic_menu_overflow_material = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Data.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Data.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_ic_search_api_material = global::AsesoriasApp.Resource.Drawable.abc_ic_search_api_material;
+			global::Data.Resource.Drawable.abc_ic_star_black_16dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Data.Resource.Drawable.abc_ic_star_black_36dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Data.Resource.Drawable.abc_ic_star_black_48dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Data.Resource.Drawable.abc_ic_star_half_black_16dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Data.Resource.Drawable.abc_ic_star_half_black_36dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Data.Resource.Drawable.abc_ic_star_half_black_48dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Data.Resource.Drawable.abc_ic_voice_search_api_material = global::AsesoriasApp.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Data.Resource.Drawable.abc_item_background_holo_dark = global::AsesoriasApp.Resource.Drawable.abc_item_background_holo_dark;
+			global::Data.Resource.Drawable.abc_item_background_holo_light = global::AsesoriasApp.Resource.Drawable.abc_item_background_holo_light;
+			global::Data.Resource.Drawable.abc_list_divider_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_list_focused_holo = global::AsesoriasApp.Resource.Drawable.abc_list_focused_holo;
+			global::Data.Resource.Drawable.abc_list_longpressed_holo = global::AsesoriasApp.Resource.Drawable.abc_list_longpressed_holo;
+			global::Data.Resource.Drawable.abc_list_pressed_holo_dark = global::AsesoriasApp.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Data.Resource.Drawable.abc_list_pressed_holo_light = global::AsesoriasApp.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Data.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::AsesoriasApp.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Data.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::AsesoriasApp.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Data.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::AsesoriasApp.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Data.Resource.Drawable.abc_list_selector_disabled_holo_light = global::AsesoriasApp.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Data.Resource.Drawable.abc_list_selector_holo_dark = global::AsesoriasApp.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Data.Resource.Drawable.abc_list_selector_holo_light = global::AsesoriasApp.Resource.Drawable.abc_list_selector_holo_light;
+			global::Data.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::AsesoriasApp.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Data.Resource.Drawable.abc_popup_background_mtrl_mult = global::AsesoriasApp.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Data.Resource.Drawable.abc_ratingbar_indicator_material = global::AsesoriasApp.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Data.Resource.Drawable.abc_ratingbar_material = global::AsesoriasApp.Resource.Drawable.abc_ratingbar_material;
+			global::Data.Resource.Drawable.abc_ratingbar_small_material = global::AsesoriasApp.Resource.Drawable.abc_ratingbar_small_material;
+			global::Data.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::AsesoriasApp.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Data.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::AsesoriasApp.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Data.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_seekbar_thumb_material = global::AsesoriasApp.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Data.Resource.Drawable.abc_seekbar_tick_mark_material = global::AsesoriasApp.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Data.Resource.Drawable.abc_seekbar_track_material = global::AsesoriasApp.Resource.Drawable.abc_seekbar_track_material;
+			global::Data.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::AsesoriasApp.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Data.Resource.Drawable.abc_spinner_textfield_background_material = global::AsesoriasApp.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Data.Resource.Drawable.abc_switch_thumb_material = global::AsesoriasApp.Resource.Drawable.abc_switch_thumb_material;
+			global::Data.Resource.Drawable.abc_switch_track_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_tab_indicator_material = global::AsesoriasApp.Resource.Drawable.abc_tab_indicator_material;
+			global::Data.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_text_cursor_material = global::AsesoriasApp.Resource.Drawable.abc_text_cursor_material;
+			global::Data.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Data.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Data.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Data.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Data.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Data.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Data.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Data.Resource.Drawable.abc_textfield_search_material = global::AsesoriasApp.Resource.Drawable.abc_textfield_search_material;
+			global::Data.Resource.Drawable.abc_vector_test = global::AsesoriasApp.Resource.Drawable.abc_vector_test;
+			global::Data.Resource.Drawable.notification_action_background = global::AsesoriasApp.Resource.Drawable.notification_action_background;
+			global::Data.Resource.Drawable.notification_bg = global::AsesoriasApp.Resource.Drawable.notification_bg;
+			global::Data.Resource.Drawable.notification_bg_low = global::AsesoriasApp.Resource.Drawable.notification_bg_low;
+			global::Data.Resource.Drawable.notification_bg_low_normal = global::AsesoriasApp.Resource.Drawable.notification_bg_low_normal;
+			global::Data.Resource.Drawable.notification_bg_low_pressed = global::AsesoriasApp.Resource.Drawable.notification_bg_low_pressed;
+			global::Data.Resource.Drawable.notification_bg_normal = global::AsesoriasApp.Resource.Drawable.notification_bg_normal;
+			global::Data.Resource.Drawable.notification_bg_normal_pressed = global::AsesoriasApp.Resource.Drawable.notification_bg_normal_pressed;
+			global::Data.Resource.Drawable.notification_icon_background = global::AsesoriasApp.Resource.Drawable.notification_icon_background;
+			global::Data.Resource.Drawable.notification_template_icon_bg = global::AsesoriasApp.Resource.Drawable.notification_template_icon_bg;
+			global::Data.Resource.Drawable.notification_template_icon_low_bg = global::AsesoriasApp.Resource.Drawable.notification_template_icon_low_bg;
+			global::Data.Resource.Drawable.notification_tile_bg = global::AsesoriasApp.Resource.Drawable.notification_tile_bg;
+			global::Data.Resource.Drawable.notify_panel_notification_icon_bg = global::AsesoriasApp.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Data.Resource.Drawable.tooltip_frame_dark = global::AsesoriasApp.Resource.Drawable.tooltip_frame_dark;
+			global::Data.Resource.Drawable.tooltip_frame_light = global::AsesoriasApp.Resource.Drawable.tooltip_frame_light;
+			global::Data.Resource.Id.ALT = global::AsesoriasApp.Resource.Id.ALT;
+			global::Data.Resource.Id.CTRL = global::AsesoriasApp.Resource.Id.CTRL;
+			global::Data.Resource.Id.FUNCTION = global::AsesoriasApp.Resource.Id.FUNCTION;
+			global::Data.Resource.Id.META = global::AsesoriasApp.Resource.Id.META;
+			global::Data.Resource.Id.SHIFT = global::AsesoriasApp.Resource.Id.SHIFT;
+			global::Data.Resource.Id.SYM = global::AsesoriasApp.Resource.Id.SYM;
+			global::Data.Resource.Id.action0 = global::AsesoriasApp.Resource.Id.action0;
+			global::Data.Resource.Id.action_bar = global::AsesoriasApp.Resource.Id.action_bar;
+			global::Data.Resource.Id.action_bar_activity_content = global::AsesoriasApp.Resource.Id.action_bar_activity_content;
+			global::Data.Resource.Id.action_bar_container = global::AsesoriasApp.Resource.Id.action_bar_container;
+			global::Data.Resource.Id.action_bar_root = global::AsesoriasApp.Resource.Id.action_bar_root;
+			global::Data.Resource.Id.action_bar_spinner = global::AsesoriasApp.Resource.Id.action_bar_spinner;
+			global::Data.Resource.Id.action_bar_subtitle = global::AsesoriasApp.Resource.Id.action_bar_subtitle;
+			global::Data.Resource.Id.action_bar_title = global::AsesoriasApp.Resource.Id.action_bar_title;
+			global::Data.Resource.Id.action_container = global::AsesoriasApp.Resource.Id.action_container;
+			global::Data.Resource.Id.action_context_bar = global::AsesoriasApp.Resource.Id.action_context_bar;
+			global::Data.Resource.Id.action_divider = global::AsesoriasApp.Resource.Id.action_divider;
+			global::Data.Resource.Id.action_image = global::AsesoriasApp.Resource.Id.action_image;
+			global::Data.Resource.Id.action_menu_divider = global::AsesoriasApp.Resource.Id.action_menu_divider;
+			global::Data.Resource.Id.action_menu_presenter = global::AsesoriasApp.Resource.Id.action_menu_presenter;
+			global::Data.Resource.Id.action_mode_bar = global::AsesoriasApp.Resource.Id.action_mode_bar;
+			global::Data.Resource.Id.action_mode_bar_stub = global::AsesoriasApp.Resource.Id.action_mode_bar_stub;
+			global::Data.Resource.Id.action_mode_close_button = global::AsesoriasApp.Resource.Id.action_mode_close_button;
+			global::Data.Resource.Id.action_text = global::AsesoriasApp.Resource.Id.action_text;
+			global::Data.Resource.Id.actions = global::AsesoriasApp.Resource.Id.actions;
+			global::Data.Resource.Id.activity_chooser_view_content = global::AsesoriasApp.Resource.Id.activity_chooser_view_content;
+			global::Data.Resource.Id.add = global::AsesoriasApp.Resource.Id.add;
+			global::Data.Resource.Id.alertTitle = global::AsesoriasApp.Resource.Id.alertTitle;
+			global::Data.Resource.Id.always = global::AsesoriasApp.Resource.Id.always;
+			global::Data.Resource.Id.async = global::AsesoriasApp.Resource.Id.async;
+			global::Data.Resource.Id.beginning = global::AsesoriasApp.Resource.Id.beginning;
+			global::Data.Resource.Id.blocking = global::AsesoriasApp.Resource.Id.blocking;
+			global::Data.Resource.Id.bottom = global::AsesoriasApp.Resource.Id.bottom;
+			global::Data.Resource.Id.buttonPanel = global::AsesoriasApp.Resource.Id.buttonPanel;
+			global::Data.Resource.Id.cancel_action = global::AsesoriasApp.Resource.Id.cancel_action;
+			global::Data.Resource.Id.checkbox = global::AsesoriasApp.Resource.Id.checkbox;
+			global::Data.Resource.Id.chronometer = global::AsesoriasApp.Resource.Id.chronometer;
+			global::Data.Resource.Id.collapseActionView = global::AsesoriasApp.Resource.Id.collapseActionView;
+			global::Data.Resource.Id.contentPanel = global::AsesoriasApp.Resource.Id.contentPanel;
+			global::Data.Resource.Id.custom = global::AsesoriasApp.Resource.Id.custom;
+			global::Data.Resource.Id.customPanel = global::AsesoriasApp.Resource.Id.customPanel;
+			global::Data.Resource.Id.decor_content_parent = global::AsesoriasApp.Resource.Id.decor_content_parent;
+			global::Data.Resource.Id.default_activity_button = global::AsesoriasApp.Resource.Id.default_activity_button;
+			global::Data.Resource.Id.disableHome = global::AsesoriasApp.Resource.Id.disableHome;
+			global::Data.Resource.Id.edit_query = global::AsesoriasApp.Resource.Id.edit_query;
+			global::Data.Resource.Id.end = global::AsesoriasApp.Resource.Id.end;
+			global::Data.Resource.Id.end_padder = global::AsesoriasApp.Resource.Id.end_padder;
+			global::Data.Resource.Id.expand_activities_button = global::AsesoriasApp.Resource.Id.expand_activities_button;
+			global::Data.Resource.Id.expanded_menu = global::AsesoriasApp.Resource.Id.expanded_menu;
+			global::Data.Resource.Id.forever = global::AsesoriasApp.Resource.Id.forever;
+			global::Data.Resource.Id.home = global::AsesoriasApp.Resource.Id.home;
+			global::Data.Resource.Id.homeAsUp = global::AsesoriasApp.Resource.Id.homeAsUp;
+			global::Data.Resource.Id.icon = global::AsesoriasApp.Resource.Id.icon;
+			global::Data.Resource.Id.icon_group = global::AsesoriasApp.Resource.Id.icon_group;
+			global::Data.Resource.Id.ifRoom = global::AsesoriasApp.Resource.Id.ifRoom;
+			global::Data.Resource.Id.image = global::AsesoriasApp.Resource.Id.image;
+			global::Data.Resource.Id.info = global::AsesoriasApp.Resource.Id.info;
+			global::Data.Resource.Id.italic = global::AsesoriasApp.Resource.Id.italic;
+			global::Data.Resource.Id.line1 = global::AsesoriasApp.Resource.Id.line1;
+			global::Data.Resource.Id.line3 = global::AsesoriasApp.Resource.Id.line3;
+			global::Data.Resource.Id.listMode = global::AsesoriasApp.Resource.Id.listMode;
+			global::Data.Resource.Id.list_item = global::AsesoriasApp.Resource.Id.list_item;
+			global::Data.Resource.Id.media_actions = global::AsesoriasApp.Resource.Id.media_actions;
+			global::Data.Resource.Id.message = global::AsesoriasApp.Resource.Id.message;
+			global::Data.Resource.Id.middle = global::AsesoriasApp.Resource.Id.middle;
+			global::Data.Resource.Id.multiply = global::AsesoriasApp.Resource.Id.multiply;
+			global::Data.Resource.Id.never = global::AsesoriasApp.Resource.Id.never;
+			global::Data.Resource.Id.none = global::AsesoriasApp.Resource.Id.none;
+			global::Data.Resource.Id.normal = global::AsesoriasApp.Resource.Id.normal;
+			global::Data.Resource.Id.notification_background = global::AsesoriasApp.Resource.Id.notification_background;
+			global::Data.Resource.Id.notification_main_column = global::AsesoriasApp.Resource.Id.notification_main_column;
+			global::Data.Resource.Id.notification_main_column_container = global::AsesoriasApp.Resource.Id.notification_main_column_container;
+			global::Data.Resource.Id.parentPanel = global::AsesoriasApp.Resource.Id.parentPanel;
+			global::Data.Resource.Id.progress_circular = global::AsesoriasApp.Resource.Id.progress_circular;
+			global::Data.Resource.Id.progress_horizontal = global::AsesoriasApp.Resource.Id.progress_horizontal;
+			global::Data.Resource.Id.radio = global::AsesoriasApp.Resource.Id.radio;
+			global::Data.Resource.Id.right_icon = global::AsesoriasApp.Resource.Id.right_icon;
+			global::Data.Resource.Id.right_side = global::AsesoriasApp.Resource.Id.right_side;
+			global::Data.Resource.Id.screen = global::AsesoriasApp.Resource.Id.screen;
+			global::Data.Resource.Id.scrollIndicatorDown = global::AsesoriasApp.Resource.Id.scrollIndicatorDown;
+			global::Data.Resource.Id.scrollIndicatorUp = global::AsesoriasApp.Resource.Id.scrollIndicatorUp;
+			global::Data.Resource.Id.scrollView = global::AsesoriasApp.Resource.Id.scrollView;
+			global::Data.Resource.Id.search_badge = global::AsesoriasApp.Resource.Id.search_badge;
+			global::Data.Resource.Id.search_bar = global::AsesoriasApp.Resource.Id.search_bar;
+			global::Data.Resource.Id.search_button = global::AsesoriasApp.Resource.Id.search_button;
+			global::Data.Resource.Id.search_close_btn = global::AsesoriasApp.Resource.Id.search_close_btn;
+			global::Data.Resource.Id.search_edit_frame = global::AsesoriasApp.Resource.Id.search_edit_frame;
+			global::Data.Resource.Id.search_go_btn = global::AsesoriasApp.Resource.Id.search_go_btn;
+			global::Data.Resource.Id.search_mag_icon = global::AsesoriasApp.Resource.Id.search_mag_icon;
+			global::Data.Resource.Id.search_plate = global::AsesoriasApp.Resource.Id.search_plate;
+			global::Data.Resource.Id.search_src_text = global::AsesoriasApp.Resource.Id.search_src_text;
+			global::Data.Resource.Id.search_voice_btn = global::AsesoriasApp.Resource.Id.search_voice_btn;
+			global::Data.Resource.Id.select_dialog_listview = global::AsesoriasApp.Resource.Id.select_dialog_listview;
+			global::Data.Resource.Id.shortcut = global::AsesoriasApp.Resource.Id.shortcut;
+			global::Data.Resource.Id.showCustom = global::AsesoriasApp.Resource.Id.showCustom;
+			global::Data.Resource.Id.showHome = global::AsesoriasApp.Resource.Id.showHome;
+			global::Data.Resource.Id.showTitle = global::AsesoriasApp.Resource.Id.showTitle;
+			global::Data.Resource.Id.spacer = global::AsesoriasApp.Resource.Id.spacer;
+			global::Data.Resource.Id.split_action_bar = global::AsesoriasApp.Resource.Id.split_action_bar;
+			global::Data.Resource.Id.src_atop = global::AsesoriasApp.Resource.Id.src_atop;
+			global::Data.Resource.Id.src_in = global::AsesoriasApp.Resource.Id.src_in;
+			global::Data.Resource.Id.src_over = global::AsesoriasApp.Resource.Id.src_over;
+			global::Data.Resource.Id.status_bar_latest_event_content = global::AsesoriasApp.Resource.Id.status_bar_latest_event_content;
+			global::Data.Resource.Id.submenuarrow = global::AsesoriasApp.Resource.Id.submenuarrow;
+			global::Data.Resource.Id.submit_area = global::AsesoriasApp.Resource.Id.submit_area;
+			global::Data.Resource.Id.tabMode = global::AsesoriasApp.Resource.Id.tabMode;
+			global::Data.Resource.Id.tag_transition_group = global::AsesoriasApp.Resource.Id.tag_transition_group;
+			global::Data.Resource.Id.text = global::AsesoriasApp.Resource.Id.text;
+			global::Data.Resource.Id.text2 = global::AsesoriasApp.Resource.Id.text2;
+			global::Data.Resource.Id.textSpacerNoButtons = global::AsesoriasApp.Resource.Id.textSpacerNoButtons;
+			global::Data.Resource.Id.textSpacerNoTitle = global::AsesoriasApp.Resource.Id.textSpacerNoTitle;
+			global::Data.Resource.Id.time = global::AsesoriasApp.Resource.Id.time;
+			global::Data.Resource.Id.title = global::AsesoriasApp.Resource.Id.title;
+			global::Data.Resource.Id.titleDividerNoCustom = global::AsesoriasApp.Resource.Id.titleDividerNoCustom;
+			global::Data.Resource.Id.title_template = global::AsesoriasApp.Resource.Id.title_template;
+			global::Data.Resource.Id.top = global::AsesoriasApp.Resource.Id.top;
+			global::Data.Resource.Id.topPanel = global::AsesoriasApp.Resource.Id.topPanel;
+			global::Data.Resource.Id.uniform = global::AsesoriasApp.Resource.Id.uniform;
+			global::Data.Resource.Id.up = global::AsesoriasApp.Resource.Id.up;
+			global::Data.Resource.Id.useLogo = global::AsesoriasApp.Resource.Id.useLogo;
+			global::Data.Resource.Id.withText = global::AsesoriasApp.Resource.Id.withText;
+			global::Data.Resource.Id.wrap_content = global::AsesoriasApp.Resource.Id.wrap_content;
+			global::Data.Resource.Integer.abc_config_activityDefaultDur = global::AsesoriasApp.Resource.Integer.abc_config_activityDefaultDur;
+			global::Data.Resource.Integer.abc_config_activityShortDur = global::AsesoriasApp.Resource.Integer.abc_config_activityShortDur;
+			global::Data.Resource.Integer.cancel_button_image_alpha = global::AsesoriasApp.Resource.Integer.cancel_button_image_alpha;
+			global::Data.Resource.Integer.config_tooltipAnimTime = global::AsesoriasApp.Resource.Integer.config_tooltipAnimTime;
+			global::Data.Resource.Integer.status_bar_notification_info_maxnum = global::AsesoriasApp.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Data.Resource.Layout.abc_action_bar_title_item = global::AsesoriasApp.Resource.Layout.abc_action_bar_title_item;
+			global::Data.Resource.Layout.abc_action_bar_up_container = global::AsesoriasApp.Resource.Layout.abc_action_bar_up_container;
+			global::Data.Resource.Layout.abc_action_menu_item_layout = global::AsesoriasApp.Resource.Layout.abc_action_menu_item_layout;
+			global::Data.Resource.Layout.abc_action_menu_layout = global::AsesoriasApp.Resource.Layout.abc_action_menu_layout;
+			global::Data.Resource.Layout.abc_action_mode_bar = global::AsesoriasApp.Resource.Layout.abc_action_mode_bar;
+			global::Data.Resource.Layout.abc_action_mode_close_item_material = global::AsesoriasApp.Resource.Layout.abc_action_mode_close_item_material;
+			global::Data.Resource.Layout.abc_activity_chooser_view = global::AsesoriasApp.Resource.Layout.abc_activity_chooser_view;
+			global::Data.Resource.Layout.abc_activity_chooser_view_list_item = global::AsesoriasApp.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Data.Resource.Layout.abc_alert_dialog_button_bar_material = global::AsesoriasApp.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Data.Resource.Layout.abc_alert_dialog_material = global::AsesoriasApp.Resource.Layout.abc_alert_dialog_material;
+			global::Data.Resource.Layout.abc_alert_dialog_title_material = global::AsesoriasApp.Resource.Layout.abc_alert_dialog_title_material;
+			global::Data.Resource.Layout.abc_dialog_title_material = global::AsesoriasApp.Resource.Layout.abc_dialog_title_material;
+			global::Data.Resource.Layout.abc_expanded_menu_layout = global::AsesoriasApp.Resource.Layout.abc_expanded_menu_layout;
+			global::Data.Resource.Layout.abc_list_menu_item_checkbox = global::AsesoriasApp.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Data.Resource.Layout.abc_list_menu_item_icon = global::AsesoriasApp.Resource.Layout.abc_list_menu_item_icon;
+			global::Data.Resource.Layout.abc_list_menu_item_layout = global::AsesoriasApp.Resource.Layout.abc_list_menu_item_layout;
+			global::Data.Resource.Layout.abc_list_menu_item_radio = global::AsesoriasApp.Resource.Layout.abc_list_menu_item_radio;
+			global::Data.Resource.Layout.abc_popup_menu_header_item_layout = global::AsesoriasApp.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Data.Resource.Layout.abc_popup_menu_item_layout = global::AsesoriasApp.Resource.Layout.abc_popup_menu_item_layout;
+			global::Data.Resource.Layout.abc_screen_content_include = global::AsesoriasApp.Resource.Layout.abc_screen_content_include;
+			global::Data.Resource.Layout.abc_screen_simple = global::AsesoriasApp.Resource.Layout.abc_screen_simple;
+			global::Data.Resource.Layout.abc_screen_simple_overlay_action_mode = global::AsesoriasApp.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Data.Resource.Layout.abc_screen_toolbar = global::AsesoriasApp.Resource.Layout.abc_screen_toolbar;
+			global::Data.Resource.Layout.abc_search_dropdown_item_icons_2line = global::AsesoriasApp.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Data.Resource.Layout.abc_search_view = global::AsesoriasApp.Resource.Layout.abc_search_view;
+			global::Data.Resource.Layout.abc_select_dialog_material = global::AsesoriasApp.Resource.Layout.abc_select_dialog_material;
+			global::Data.Resource.Layout.notification_action = global::AsesoriasApp.Resource.Layout.notification_action;
+			global::Data.Resource.Layout.notification_action_tombstone = global::AsesoriasApp.Resource.Layout.notification_action_tombstone;
+			global::Data.Resource.Layout.notification_media_action = global::AsesoriasApp.Resource.Layout.notification_media_action;
+			global::Data.Resource.Layout.notification_media_cancel_action = global::AsesoriasApp.Resource.Layout.notification_media_cancel_action;
+			global::Data.Resource.Layout.notification_template_big_media = global::AsesoriasApp.Resource.Layout.notification_template_big_media;
+			global::Data.Resource.Layout.notification_template_big_media_custom = global::AsesoriasApp.Resource.Layout.notification_template_big_media_custom;
+			global::Data.Resource.Layout.notification_template_big_media_narrow = global::AsesoriasApp.Resource.Layout.notification_template_big_media_narrow;
+			global::Data.Resource.Layout.notification_template_big_media_narrow_custom = global::AsesoriasApp.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Data.Resource.Layout.notification_template_custom_big = global::AsesoriasApp.Resource.Layout.notification_template_custom_big;
+			global::Data.Resource.Layout.notification_template_icon_group = global::AsesoriasApp.Resource.Layout.notification_template_icon_group;
+			global::Data.Resource.Layout.notification_template_lines_media = global::AsesoriasApp.Resource.Layout.notification_template_lines_media;
+			global::Data.Resource.Layout.notification_template_media = global::AsesoriasApp.Resource.Layout.notification_template_media;
+			global::Data.Resource.Layout.notification_template_media_custom = global::AsesoriasApp.Resource.Layout.notification_template_media_custom;
+			global::Data.Resource.Layout.notification_template_part_chronometer = global::AsesoriasApp.Resource.Layout.notification_template_part_chronometer;
+			global::Data.Resource.Layout.notification_template_part_time = global::AsesoriasApp.Resource.Layout.notification_template_part_time;
+			global::Data.Resource.Layout.select_dialog_item_material = global::AsesoriasApp.Resource.Layout.select_dialog_item_material;
+			global::Data.Resource.Layout.select_dialog_multichoice_material = global::AsesoriasApp.Resource.Layout.select_dialog_multichoice_material;
+			global::Data.Resource.Layout.select_dialog_singlechoice_material = global::AsesoriasApp.Resource.Layout.select_dialog_singlechoice_material;
+			global::Data.Resource.Layout.support_simple_spinner_dropdown_item = global::AsesoriasApp.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Data.Resource.Layout.tooltip = global::AsesoriasApp.Resource.Layout.tooltip;
+			global::Data.Resource.String.abc_action_bar_home_description = global::AsesoriasApp.Resource.String.abc_action_bar_home_description;
+			global::Data.Resource.String.abc_action_bar_up_description = global::AsesoriasApp.Resource.String.abc_action_bar_up_description;
+			global::Data.Resource.String.abc_action_menu_overflow_description = global::AsesoriasApp.Resource.String.abc_action_menu_overflow_description;
+			global::Data.Resource.String.abc_action_mode_done = global::AsesoriasApp.Resource.String.abc_action_mode_done;
+			global::Data.Resource.String.abc_activity_chooser_view_see_all = global::AsesoriasApp.Resource.String.abc_activity_chooser_view_see_all;
+			global::Data.Resource.String.abc_activitychooserview_choose_application = global::AsesoriasApp.Resource.String.abc_activitychooserview_choose_application;
+			global::Data.Resource.String.abc_capital_off = global::AsesoriasApp.Resource.String.abc_capital_off;
+			global::Data.Resource.String.abc_capital_on = global::AsesoriasApp.Resource.String.abc_capital_on;
+			global::Data.Resource.String.abc_font_family_body_1_material = global::AsesoriasApp.Resource.String.abc_font_family_body_1_material;
+			global::Data.Resource.String.abc_font_family_body_2_material = global::AsesoriasApp.Resource.String.abc_font_family_body_2_material;
+			global::Data.Resource.String.abc_font_family_button_material = global::AsesoriasApp.Resource.String.abc_font_family_button_material;
+			global::Data.Resource.String.abc_font_family_caption_material = global::AsesoriasApp.Resource.String.abc_font_family_caption_material;
+			global::Data.Resource.String.abc_font_family_display_1_material = global::AsesoriasApp.Resource.String.abc_font_family_display_1_material;
+			global::Data.Resource.String.abc_font_family_display_2_material = global::AsesoriasApp.Resource.String.abc_font_family_display_2_material;
+			global::Data.Resource.String.abc_font_family_display_3_material = global::AsesoriasApp.Resource.String.abc_font_family_display_3_material;
+			global::Data.Resource.String.abc_font_family_display_4_material = global::AsesoriasApp.Resource.String.abc_font_family_display_4_material;
+			global::Data.Resource.String.abc_font_family_headline_material = global::AsesoriasApp.Resource.String.abc_font_family_headline_material;
+			global::Data.Resource.String.abc_font_family_menu_material = global::AsesoriasApp.Resource.String.abc_font_family_menu_material;
+			global::Data.Resource.String.abc_font_family_subhead_material = global::AsesoriasApp.Resource.String.abc_font_family_subhead_material;
+			global::Data.Resource.String.abc_font_family_title_material = global::AsesoriasApp.Resource.String.abc_font_family_title_material;
+			global::Data.Resource.String.abc_search_hint = global::AsesoriasApp.Resource.String.abc_search_hint;
+			global::Data.Resource.String.abc_searchview_description_clear = global::AsesoriasApp.Resource.String.abc_searchview_description_clear;
+			global::Data.Resource.String.abc_searchview_description_query = global::AsesoriasApp.Resource.String.abc_searchview_description_query;
+			global::Data.Resource.String.abc_searchview_description_search = global::AsesoriasApp.Resource.String.abc_searchview_description_search;
+			global::Data.Resource.String.abc_searchview_description_submit = global::AsesoriasApp.Resource.String.abc_searchview_description_submit;
+			global::Data.Resource.String.abc_searchview_description_voice = global::AsesoriasApp.Resource.String.abc_searchview_description_voice;
+			global::Data.Resource.String.abc_shareactionprovider_share_with = global::AsesoriasApp.Resource.String.abc_shareactionprovider_share_with;
+			global::Data.Resource.String.abc_shareactionprovider_share_with_application = global::AsesoriasApp.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Data.Resource.String.abc_toolbar_collapse_description = global::AsesoriasApp.Resource.String.abc_toolbar_collapse_description;
+			global::Data.Resource.String.app_name = global::AsesoriasApp.Resource.String.app_name;
+			global::Data.Resource.String.hello = global::AsesoriasApp.Resource.String.hello;
+			global::Data.Resource.String.search_menu_title = global::AsesoriasApp.Resource.String.search_menu_title;
+			global::Data.Resource.String.status_bar_notification_info_overflow = global::AsesoriasApp.Resource.String.status_bar_notification_info_overflow;
+			global::Data.Resource.Style.AlertDialog_AppCompat = global::AsesoriasApp.Resource.Style.AlertDialog_AppCompat;
+			global::Data.Resource.Style.AlertDialog_AppCompat_Light = global::AsesoriasApp.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Data.Resource.Style.Animation_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Animation_AppCompat_Dialog;
+			global::Data.Resource.Style.Animation_AppCompat_DropDownUp = global::AsesoriasApp.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Data.Resource.Style.Animation_AppCompat_Tooltip = global::AsesoriasApp.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Data.Resource.Style.Base_AlertDialog_AppCompat = global::AsesoriasApp.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Data.Resource.Style.Base_AlertDialog_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Data.Resource.Style.Base_Animation_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Data.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::AsesoriasApp.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Data.Resource.Style.Base_Animation_AppCompat_Tooltip = global::AsesoriasApp.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Data.Resource.Style.Base_DialogWindowTitle_AppCompat = global::AsesoriasApp.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Data.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::AsesoriasApp.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Button = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Large = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Small = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Title = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Data.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Data.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::AsesoriasApp.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Data.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::AsesoriasApp.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Data.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::AsesoriasApp.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Data.Resource.Style.Base_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat;
+			global::Data.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Data.Resource.Style.Base_Theme_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Data.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Data.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Data.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Data.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Data.Resource.Style.Base_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Data.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Data.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Data.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Data.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Data.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Data.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Data.Resource.Style.Base_ThemeOverlay_AppCompat = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Data.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Data.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Data.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Data.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Data.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Data.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Data.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::Data.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::AsesoriasApp.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::Data.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
+			global::Data.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::AsesoriasApp.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::Data.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::AsesoriasApp.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::Data.Resource.Style.Base_V21_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Data.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Data.Resource.Style.Base_V21_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Data.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::AsesoriasApp.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Data.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Data.Resource.Style.Base_V22_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Data.Resource.Style.Base_V22_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Data.Resource.Style.Base_V23_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Data.Resource.Style.Base_V23_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Data.Resource.Style.Base_V26_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Data.Resource.Style.Base_V26_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Data.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::AsesoriasApp.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Data.Resource.Style.Base_V7_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Data.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Data.Resource.Style.Base_V7_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Data.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::AsesoriasApp.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Data.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Data.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::AsesoriasApp.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Data.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::AsesoriasApp.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Data.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::AsesoriasApp.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ActionBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ActionButton = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ActionMode = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Data.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Button = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Button_Small = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Data.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Data.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Data.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Data.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Data.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Data.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Data.Resource.Style.Base_Widget_AppCompat_EditText = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ImageButton = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ListView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Data.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Data.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Data.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Data.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Data.Resource.Style.Base_Widget_AppCompat_RatingBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Data.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Data.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Data.Resource.Style.Base_Widget_AppCompat_SearchView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Data.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Data.Resource.Style.Base_Widget_AppCompat_SeekBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Data.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Spinner = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Data.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Toolbar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Data.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Data.Resource.Style.Platform_AppCompat = global::AsesoriasApp.Resource.Style.Platform_AppCompat;
+			global::Data.Resource.Style.Platform_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_AppCompat_Light;
+			global::Data.Resource.Style.Platform_ThemeOverlay_AppCompat = global::AsesoriasApp.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Data.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::AsesoriasApp.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Data.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Data.Resource.Style.Platform_V11_AppCompat = global::AsesoriasApp.Resource.Style.Platform_V11_AppCompat;
+			global::Data.Resource.Style.Platform_V11_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_V11_AppCompat_Light;
+			global::Data.Resource.Style.Platform_V14_AppCompat = global::AsesoriasApp.Resource.Style.Platform_V14_AppCompat;
+			global::Data.Resource.Style.Platform_V14_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_V14_AppCompat_Light;
+			global::Data.Resource.Style.Platform_V21_AppCompat = global::AsesoriasApp.Resource.Style.Platform_V21_AppCompat;
+			global::Data.Resource.Style.Platform_V21_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Data.Resource.Style.Platform_V25_AppCompat = global::AsesoriasApp.Resource.Style.Platform_V25_AppCompat;
+			global::Data.Resource.Style.Platform_V25_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Data.Resource.Style.Platform_Widget_AppCompat_Spinner = global::AsesoriasApp.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Data.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::AsesoriasApp.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Data.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Data.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Data.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Data.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Data.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Data.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Data.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Data.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Data.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Data.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Data.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Data.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::AsesoriasApp.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Data.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::AsesoriasApp.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Data.Resource.Style.TextAppearance_AppCompat = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Body1 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Body2 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Button = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Caption = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Display1 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Display2 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Display3 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Display4 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Headline = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Large = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Medium = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Menu = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Data.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Data.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Small = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Subhead = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Title = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Tooltip = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Data.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Data.Resource.Style.TextAppearance_Compat_Notification = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification;
+			global::Data.Resource.Style.TextAppearance_Compat_Notification_Info = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Data.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Data.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Data.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Data.Resource.Style.TextAppearance_Compat_Notification_Media = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Data.Resource.Style.TextAppearance_Compat_Notification_Time = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Data.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Data.Resource.Style.TextAppearance_Compat_Notification_Title = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Data.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Data.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::AsesoriasApp.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Data.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::AsesoriasApp.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Data.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::AsesoriasApp.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Data.Resource.Style.Theme_AppCompat = global::AsesoriasApp.Resource.Style.Theme_AppCompat;
+			global::Data.Resource.Style.Theme_AppCompat_CompactMenu = global::AsesoriasApp.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Data.Resource.Style.Theme_AppCompat_DayNight = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight;
+			global::Data.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Data.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Data.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Data.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Data.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Data.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Data.Resource.Style.Theme_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Dialog;
+			global::Data.Resource.Style.Theme_AppCompat_Dialog_Alert = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Data.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Data.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Data.Resource.Style.Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light;
+			global::Data.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Data.Resource.Style.Theme_AppCompat_Light_Dialog = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Data.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Data.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Data.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Data.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Data.Resource.Style.Theme_AppCompat_NoActionBar = global::AsesoriasApp.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Data.Resource.Style.ThemeOverlay_AppCompat = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat;
+			global::Data.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Data.Resource.Style.ThemeOverlay_AppCompat_Dark = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Data.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Data.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Data.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Data.Resource.Style.ThemeOverlay_AppCompat_Light = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Data.Resource.Style.Widget_AppCompat_ActionBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Data.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Data.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Data.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Data.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Data.Resource.Style.Widget_AppCompat_ActionButton = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Data.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Data.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Data.Resource.Style.Widget_AppCompat_ActionMode = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Data.Resource.Style.Widget_AppCompat_ActivityChooserView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Data.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Data.Resource.Style.Widget_AppCompat_Button = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button;
+			global::Data.Resource.Style.Widget_AppCompat_Button_Borderless = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Data.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Data.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Data.Resource.Style.Widget_AppCompat_Button_Colored = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Data.Resource.Style.Widget_AppCompat_Button_Small = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Data.Resource.Style.Widget_AppCompat_ButtonBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Data.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Data.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::AsesoriasApp.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Data.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::AsesoriasApp.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Data.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::AsesoriasApp.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Data.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::AsesoriasApp.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Data.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::AsesoriasApp.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Data.Resource.Style.Widget_AppCompat_EditText = global::AsesoriasApp.Resource.Style.Widget_AppCompat_EditText;
+			global::Data.Resource.Style.Widget_AppCompat_ImageButton = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ActionBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ActionButton = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Data.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Data.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Data.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Data.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Data.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Data.Resource.Style.Widget_AppCompat_Light_SearchView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Data.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Data.Resource.Style.Widget_AppCompat_ListMenuView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Data.Resource.Style.Widget_AppCompat_ListPopupWindow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Data.Resource.Style.Widget_AppCompat_ListView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ListView;
+			global::Data.Resource.Style.Widget_AppCompat_ListView_DropDown = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Data.Resource.Style.Widget_AppCompat_ListView_Menu = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Data.Resource.Style.Widget_AppCompat_PopupMenu = global::AsesoriasApp.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Data.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Data.Resource.Style.Widget_AppCompat_PopupWindow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Data.Resource.Style.Widget_AppCompat_ProgressBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Data.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Data.Resource.Style.Widget_AppCompat_RatingBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Data.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::AsesoriasApp.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Data.Resource.Style.Widget_AppCompat_RatingBar_Small = global::AsesoriasApp.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Data.Resource.Style.Widget_AppCompat_SearchView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_SearchView;
+			global::Data.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Data.Resource.Style.Widget_AppCompat_SeekBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Data.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::AsesoriasApp.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Data.Resource.Style.Widget_AppCompat_Spinner = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Spinner;
+			global::Data.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Data.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Data.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Data.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::AsesoriasApp.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Data.Resource.Style.Widget_AppCompat_Toolbar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Data.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Data.Resource.Style.Widget_Compat_NotificationActionContainer = global::AsesoriasApp.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Data.Resource.Style.Widget_Compat_NotificationActionText = global::AsesoriasApp.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Data.Resource.Styleable.ActionBar = global::AsesoriasApp.Resource.Styleable.ActionBar;
+			global::Data.Resource.Styleable.ActionBar_background = global::AsesoriasApp.Resource.Styleable.ActionBar_background;
+			global::Data.Resource.Styleable.ActionBar_backgroundSplit = global::AsesoriasApp.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Data.Resource.Styleable.ActionBar_backgroundStacked = global::AsesoriasApp.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Data.Resource.Styleable.ActionBar_contentInsetEnd = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Data.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Data.Resource.Styleable.ActionBar_contentInsetLeft = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Data.Resource.Styleable.ActionBar_contentInsetRight = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Data.Resource.Styleable.ActionBar_contentInsetStart = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Data.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Data.Resource.Styleable.ActionBar_customNavigationLayout = global::AsesoriasApp.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Data.Resource.Styleable.ActionBar_displayOptions = global::AsesoriasApp.Resource.Styleable.ActionBar_displayOptions;
+			global::Data.Resource.Styleable.ActionBar_divider = global::AsesoriasApp.Resource.Styleable.ActionBar_divider;
+			global::Data.Resource.Styleable.ActionBar_elevation = global::AsesoriasApp.Resource.Styleable.ActionBar_elevation;
+			global::Data.Resource.Styleable.ActionBar_height = global::AsesoriasApp.Resource.Styleable.ActionBar_height;
+			global::Data.Resource.Styleable.ActionBar_hideOnContentScroll = global::AsesoriasApp.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Data.Resource.Styleable.ActionBar_homeAsUpIndicator = global::AsesoriasApp.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Data.Resource.Styleable.ActionBar_homeLayout = global::AsesoriasApp.Resource.Styleable.ActionBar_homeLayout;
+			global::Data.Resource.Styleable.ActionBar_icon = global::AsesoriasApp.Resource.Styleable.ActionBar_icon;
+			global::Data.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::AsesoriasApp.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Data.Resource.Styleable.ActionBar_itemPadding = global::AsesoriasApp.Resource.Styleable.ActionBar_itemPadding;
+			global::Data.Resource.Styleable.ActionBar_logo = global::AsesoriasApp.Resource.Styleable.ActionBar_logo;
+			global::Data.Resource.Styleable.ActionBar_navigationMode = global::AsesoriasApp.Resource.Styleable.ActionBar_navigationMode;
+			global::Data.Resource.Styleable.ActionBar_popupTheme = global::AsesoriasApp.Resource.Styleable.ActionBar_popupTheme;
+			global::Data.Resource.Styleable.ActionBar_progressBarPadding = global::AsesoriasApp.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Data.Resource.Styleable.ActionBar_progressBarStyle = global::AsesoriasApp.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Data.Resource.Styleable.ActionBar_subtitle = global::AsesoriasApp.Resource.Styleable.ActionBar_subtitle;
+			global::Data.Resource.Styleable.ActionBar_subtitleTextStyle = global::AsesoriasApp.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Data.Resource.Styleable.ActionBar_title = global::AsesoriasApp.Resource.Styleable.ActionBar_title;
+			global::Data.Resource.Styleable.ActionBar_titleTextStyle = global::AsesoriasApp.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Data.Resource.Styleable.ActionBarLayout = global::AsesoriasApp.Resource.Styleable.ActionBarLayout;
+			global::Data.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::AsesoriasApp.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Data.Resource.Styleable.ActionMenuItemView = global::AsesoriasApp.Resource.Styleable.ActionMenuItemView;
+			global::Data.Resource.Styleable.ActionMenuItemView_android_minWidth = global::AsesoriasApp.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Data.Resource.Styleable.ActionMenuView = global::AsesoriasApp.Resource.Styleable.ActionMenuView;
+			global::Data.Resource.Styleable.ActionMode = global::AsesoriasApp.Resource.Styleable.ActionMode;
+			global::Data.Resource.Styleable.ActionMode_background = global::AsesoriasApp.Resource.Styleable.ActionMode_background;
+			global::Data.Resource.Styleable.ActionMode_backgroundSplit = global::AsesoriasApp.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Data.Resource.Styleable.ActionMode_closeItemLayout = global::AsesoriasApp.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Data.Resource.Styleable.ActionMode_height = global::AsesoriasApp.Resource.Styleable.ActionMode_height;
+			global::Data.Resource.Styleable.ActionMode_subtitleTextStyle = global::AsesoriasApp.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Data.Resource.Styleable.ActionMode_titleTextStyle = global::AsesoriasApp.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Data.Resource.Styleable.ActivityChooserView = global::AsesoriasApp.Resource.Styleable.ActivityChooserView;
+			global::Data.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::AsesoriasApp.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Data.Resource.Styleable.ActivityChooserView_initialActivityCount = global::AsesoriasApp.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Data.Resource.Styleable.AlertDialog = global::AsesoriasApp.Resource.Styleable.AlertDialog;
+			global::Data.Resource.Styleable.AlertDialog_android_layout = global::AsesoriasApp.Resource.Styleable.AlertDialog_android_layout;
+			global::Data.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::AsesoriasApp.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Data.Resource.Styleable.AlertDialog_listItemLayout = global::AsesoriasApp.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Data.Resource.Styleable.AlertDialog_listLayout = global::AsesoriasApp.Resource.Styleable.AlertDialog_listLayout;
+			global::Data.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::AsesoriasApp.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Data.Resource.Styleable.AlertDialog_showTitle = global::AsesoriasApp.Resource.Styleable.AlertDialog_showTitle;
+			global::Data.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::AsesoriasApp.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Data.Resource.Styleable.AppCompatImageView = global::AsesoriasApp.Resource.Styleable.AppCompatImageView;
+			global::Data.Resource.Styleable.AppCompatImageView_android_src = global::AsesoriasApp.Resource.Styleable.AppCompatImageView_android_src;
+			global::Data.Resource.Styleable.AppCompatImageView_srcCompat = global::AsesoriasApp.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Data.Resource.Styleable.AppCompatImageView_tint = global::AsesoriasApp.Resource.Styleable.AppCompatImageView_tint;
+			global::Data.Resource.Styleable.AppCompatImageView_tintMode = global::AsesoriasApp.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Data.Resource.Styleable.AppCompatSeekBar = global::AsesoriasApp.Resource.Styleable.AppCompatSeekBar;
+			global::Data.Resource.Styleable.AppCompatSeekBar_android_thumb = global::AsesoriasApp.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Data.Resource.Styleable.AppCompatSeekBar_tickMark = global::AsesoriasApp.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Data.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::AsesoriasApp.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Data.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::AsesoriasApp.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Data.Resource.Styleable.AppCompatTextHelper = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper;
+			global::Data.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Data.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Data.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Data.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Data.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Data.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Data.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Data.Resource.Styleable.AppCompatTextView = global::AsesoriasApp.Resource.Styleable.AppCompatTextView;
+			global::Data.Resource.Styleable.AppCompatTextView_android_textAppearance = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Data.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Data.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Data.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Data.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Data.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Data.Resource.Styleable.AppCompatTextView_fontFamily = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Data.Resource.Styleable.AppCompatTextView_textAllCaps = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Data.Resource.Styleable.AppCompatTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme;
+			global::Data.Resource.Styleable.AppCompatTheme_actionBarDivider = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Data.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Data.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Data.Resource.Styleable.AppCompatTheme_actionBarSize = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Data.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_actionBarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_actionBarTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Data.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Data.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Data.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Data.Resource.Styleable.AppCompatTheme_actionModeBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Data.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Data.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Data.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Data.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Data.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Data.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Data.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Data.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Data.Resource.Styleable.AppCompatTheme_actionModeStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Data.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Data.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Data.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Data.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_buttonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Data.Resource.Styleable.AppCompatTheme_checkboxStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_colorAccent = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Data.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Data.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Data.Resource.Styleable.AppCompatTheme_colorControlActivated = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Data.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Data.Resource.Styleable.AppCompatTheme_colorControlNormal = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Data.Resource.Styleable.AppCompatTheme_colorError = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorError;
+			global::Data.Resource.Styleable.AppCompatTheme_colorPrimary = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Data.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Data.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Data.Resource.Styleable.AppCompatTheme_controlBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Data.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Data.Resource.Styleable.AppCompatTheme_dialogTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Data.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Data.Resource.Styleable.AppCompatTheme_dividerVertical = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Data.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Data.Resource.Styleable.AppCompatTheme_editTextBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Data.Resource.Styleable.AppCompatTheme_editTextColor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Data.Resource.Styleable.AppCompatTheme_editTextStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Data.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Data.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Data.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Data.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Data.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Data.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Data.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Data.Resource.Styleable.AppCompatTheme_panelBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Data.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Data.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Data.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Data.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Data.Resource.Styleable.AppCompatTheme_searchViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_seekBarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Data.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Data.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_spinnerStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_switchStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Data.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Data.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Data.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Data.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Data.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Data.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Data.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Data.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Data.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Data.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_toolbarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Data.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Data.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Data.Resource.Styleable.AppCompatTheme_windowActionBar = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Data.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Data.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Data.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Data.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Data.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Data.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Data.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Data.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Data.Resource.Styleable.AppCompatTheme_windowNoTitle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Data.Resource.Styleable.ButtonBarLayout = global::AsesoriasApp.Resource.Styleable.ButtonBarLayout;
+			global::Data.Resource.Styleable.ButtonBarLayout_allowStacking = global::AsesoriasApp.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Data.Resource.Styleable.ColorStateListItem = global::AsesoriasApp.Resource.Styleable.ColorStateListItem;
+			global::Data.Resource.Styleable.ColorStateListItem_alpha = global::AsesoriasApp.Resource.Styleable.ColorStateListItem_alpha;
+			global::Data.Resource.Styleable.ColorStateListItem_android_alpha = global::AsesoriasApp.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Data.Resource.Styleable.ColorStateListItem_android_color = global::AsesoriasApp.Resource.Styleable.ColorStateListItem_android_color;
+			global::Data.Resource.Styleable.CompoundButton = global::AsesoriasApp.Resource.Styleable.CompoundButton;
+			global::Data.Resource.Styleable.CompoundButton_android_button = global::AsesoriasApp.Resource.Styleable.CompoundButton_android_button;
+			global::Data.Resource.Styleable.CompoundButton_buttonTint = global::AsesoriasApp.Resource.Styleable.CompoundButton_buttonTint;
+			global::Data.Resource.Styleable.CompoundButton_buttonTintMode = global::AsesoriasApp.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Data.Resource.Styleable.DrawerArrowToggle = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle;
+			global::Data.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Data.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Data.Resource.Styleable.DrawerArrowToggle_barLength = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Data.Resource.Styleable.DrawerArrowToggle_color = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_color;
+			global::Data.Resource.Styleable.DrawerArrowToggle_drawableSize = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Data.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Data.Resource.Styleable.DrawerArrowToggle_spinBars = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Data.Resource.Styleable.DrawerArrowToggle_thickness = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Data.Resource.Styleable.FontFamily = global::AsesoriasApp.Resource.Styleable.FontFamily;
+			global::Data.Resource.Styleable.FontFamily_fontProviderAuthority = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Data.Resource.Styleable.FontFamily_fontProviderCerts = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Data.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Data.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Data.Resource.Styleable.FontFamily_fontProviderPackage = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Data.Resource.Styleable.FontFamily_fontProviderQuery = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Data.Resource.Styleable.FontFamilyFont = global::AsesoriasApp.Resource.Styleable.FontFamilyFont;
+			global::Data.Resource.Styleable.FontFamilyFont_android_font = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_android_font;
+			global::Data.Resource.Styleable.FontFamilyFont_android_fontStyle = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Data.Resource.Styleable.FontFamilyFont_android_fontWeight = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Data.Resource.Styleable.FontFamilyFont_font = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_font;
+			global::Data.Resource.Styleable.FontFamilyFont_fontStyle = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Data.Resource.Styleable.FontFamilyFont_fontWeight = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Data.Resource.Styleable.LinearLayoutCompat = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat;
+			global::Data.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Data.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Data.Resource.Styleable.LinearLayoutCompat_android_gravity = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Data.Resource.Styleable.LinearLayoutCompat_android_orientation = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Data.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Data.Resource.Styleable.LinearLayoutCompat_divider = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Data.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Data.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Data.Resource.Styleable.LinearLayoutCompat_showDividers = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Data.Resource.Styleable.LinearLayoutCompat_Layout = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Data.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Data.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Data.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Data.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Data.Resource.Styleable.ListPopupWindow = global::AsesoriasApp.Resource.Styleable.ListPopupWindow;
+			global::Data.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::AsesoriasApp.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Data.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::AsesoriasApp.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Data.Resource.Styleable.MenuGroup = global::AsesoriasApp.Resource.Styleable.MenuGroup;
+			global::Data.Resource.Styleable.MenuGroup_android_checkableBehavior = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Data.Resource.Styleable.MenuGroup_android_enabled = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_enabled;
+			global::Data.Resource.Styleable.MenuGroup_android_id = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_id;
+			global::Data.Resource.Styleable.MenuGroup_android_menuCategory = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Data.Resource.Styleable.MenuGroup_android_orderInCategory = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Data.Resource.Styleable.MenuGroup_android_visible = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_visible;
+			global::Data.Resource.Styleable.MenuItem = global::AsesoriasApp.Resource.Styleable.MenuItem;
+			global::Data.Resource.Styleable.MenuItem_actionLayout = global::AsesoriasApp.Resource.Styleable.MenuItem_actionLayout;
+			global::Data.Resource.Styleable.MenuItem_actionProviderClass = global::AsesoriasApp.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Data.Resource.Styleable.MenuItem_actionViewClass = global::AsesoriasApp.Resource.Styleable.MenuItem_actionViewClass;
+			global::Data.Resource.Styleable.MenuItem_alphabeticModifiers = global::AsesoriasApp.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Data.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::AsesoriasApp.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Data.Resource.Styleable.MenuItem_android_checkable = global::AsesoriasApp.Resource.Styleable.MenuItem_android_checkable;
+			global::Data.Resource.Styleable.MenuItem_android_checked = global::AsesoriasApp.Resource.Styleable.MenuItem_android_checked;
+			global::Data.Resource.Styleable.MenuItem_android_enabled = global::AsesoriasApp.Resource.Styleable.MenuItem_android_enabled;
+			global::Data.Resource.Styleable.MenuItem_android_icon = global::AsesoriasApp.Resource.Styleable.MenuItem_android_icon;
+			global::Data.Resource.Styleable.MenuItem_android_id = global::AsesoriasApp.Resource.Styleable.MenuItem_android_id;
+			global::Data.Resource.Styleable.MenuItem_android_menuCategory = global::AsesoriasApp.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Data.Resource.Styleable.MenuItem_android_numericShortcut = global::AsesoriasApp.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Data.Resource.Styleable.MenuItem_android_onClick = global::AsesoriasApp.Resource.Styleable.MenuItem_android_onClick;
+			global::Data.Resource.Styleable.MenuItem_android_orderInCategory = global::AsesoriasApp.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Data.Resource.Styleable.MenuItem_android_title = global::AsesoriasApp.Resource.Styleable.MenuItem_android_title;
+			global::Data.Resource.Styleable.MenuItem_android_titleCondensed = global::AsesoriasApp.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Data.Resource.Styleable.MenuItem_android_visible = global::AsesoriasApp.Resource.Styleable.MenuItem_android_visible;
+			global::Data.Resource.Styleable.MenuItem_contentDescription = global::AsesoriasApp.Resource.Styleable.MenuItem_contentDescription;
+			global::Data.Resource.Styleable.MenuItem_iconTint = global::AsesoriasApp.Resource.Styleable.MenuItem_iconTint;
+			global::Data.Resource.Styleable.MenuItem_iconTintMode = global::AsesoriasApp.Resource.Styleable.MenuItem_iconTintMode;
+			global::Data.Resource.Styleable.MenuItem_numericModifiers = global::AsesoriasApp.Resource.Styleable.MenuItem_numericModifiers;
+			global::Data.Resource.Styleable.MenuItem_showAsAction = global::AsesoriasApp.Resource.Styleable.MenuItem_showAsAction;
+			global::Data.Resource.Styleable.MenuItem_tooltipText = global::AsesoriasApp.Resource.Styleable.MenuItem_tooltipText;
+			global::Data.Resource.Styleable.MenuView = global::AsesoriasApp.Resource.Styleable.MenuView;
+			global::Data.Resource.Styleable.MenuView_android_headerBackground = global::AsesoriasApp.Resource.Styleable.MenuView_android_headerBackground;
+			global::Data.Resource.Styleable.MenuView_android_horizontalDivider = global::AsesoriasApp.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Data.Resource.Styleable.MenuView_android_itemBackground = global::AsesoriasApp.Resource.Styleable.MenuView_android_itemBackground;
+			global::Data.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::AsesoriasApp.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Data.Resource.Styleable.MenuView_android_itemTextAppearance = global::AsesoriasApp.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Data.Resource.Styleable.MenuView_android_verticalDivider = global::AsesoriasApp.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Data.Resource.Styleable.MenuView_android_windowAnimationStyle = global::AsesoriasApp.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Data.Resource.Styleable.MenuView_preserveIconSpacing = global::AsesoriasApp.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Data.Resource.Styleable.MenuView_subMenuArrow = global::AsesoriasApp.Resource.Styleable.MenuView_subMenuArrow;
+			global::Data.Resource.Styleable.PopupWindow = global::AsesoriasApp.Resource.Styleable.PopupWindow;
+			global::Data.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::AsesoriasApp.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Data.Resource.Styleable.PopupWindow_android_popupBackground = global::AsesoriasApp.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Data.Resource.Styleable.PopupWindow_overlapAnchor = global::AsesoriasApp.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Data.Resource.Styleable.PopupWindowBackgroundState = global::AsesoriasApp.Resource.Styleable.PopupWindowBackgroundState;
+			global::Data.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::AsesoriasApp.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Data.Resource.Styleable.RecycleListView = global::AsesoriasApp.Resource.Styleable.RecycleListView;
+			global::Data.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::AsesoriasApp.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Data.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::AsesoriasApp.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Data.Resource.Styleable.SearchView = global::AsesoriasApp.Resource.Styleable.SearchView;
+			global::Data.Resource.Styleable.SearchView_android_focusable = global::AsesoriasApp.Resource.Styleable.SearchView_android_focusable;
+			global::Data.Resource.Styleable.SearchView_android_imeOptions = global::AsesoriasApp.Resource.Styleable.SearchView_android_imeOptions;
+			global::Data.Resource.Styleable.SearchView_android_inputType = global::AsesoriasApp.Resource.Styleable.SearchView_android_inputType;
+			global::Data.Resource.Styleable.SearchView_android_maxWidth = global::AsesoriasApp.Resource.Styleable.SearchView_android_maxWidth;
+			global::Data.Resource.Styleable.SearchView_closeIcon = global::AsesoriasApp.Resource.Styleable.SearchView_closeIcon;
+			global::Data.Resource.Styleable.SearchView_commitIcon = global::AsesoriasApp.Resource.Styleable.SearchView_commitIcon;
+			global::Data.Resource.Styleable.SearchView_defaultQueryHint = global::AsesoriasApp.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Data.Resource.Styleable.SearchView_goIcon = global::AsesoriasApp.Resource.Styleable.SearchView_goIcon;
+			global::Data.Resource.Styleable.SearchView_iconifiedByDefault = global::AsesoriasApp.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Data.Resource.Styleable.SearchView_layout = global::AsesoriasApp.Resource.Styleable.SearchView_layout;
+			global::Data.Resource.Styleable.SearchView_queryBackground = global::AsesoriasApp.Resource.Styleable.SearchView_queryBackground;
+			global::Data.Resource.Styleable.SearchView_queryHint = global::AsesoriasApp.Resource.Styleable.SearchView_queryHint;
+			global::Data.Resource.Styleable.SearchView_searchHintIcon = global::AsesoriasApp.Resource.Styleable.SearchView_searchHintIcon;
+			global::Data.Resource.Styleable.SearchView_searchIcon = global::AsesoriasApp.Resource.Styleable.SearchView_searchIcon;
+			global::Data.Resource.Styleable.SearchView_submitBackground = global::AsesoriasApp.Resource.Styleable.SearchView_submitBackground;
+			global::Data.Resource.Styleable.SearchView_suggestionRowLayout = global::AsesoriasApp.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Data.Resource.Styleable.SearchView_voiceIcon = global::AsesoriasApp.Resource.Styleable.SearchView_voiceIcon;
+			global::Data.Resource.Styleable.Spinner = global::AsesoriasApp.Resource.Styleable.Spinner;
+			global::Data.Resource.Styleable.Spinner_android_dropDownWidth = global::AsesoriasApp.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Data.Resource.Styleable.Spinner_android_entries = global::AsesoriasApp.Resource.Styleable.Spinner_android_entries;
+			global::Data.Resource.Styleable.Spinner_android_popupBackground = global::AsesoriasApp.Resource.Styleable.Spinner_android_popupBackground;
+			global::Data.Resource.Styleable.Spinner_android_prompt = global::AsesoriasApp.Resource.Styleable.Spinner_android_prompt;
+			global::Data.Resource.Styleable.Spinner_popupTheme = global::AsesoriasApp.Resource.Styleable.Spinner_popupTheme;
+			global::Data.Resource.Styleable.SwitchCompat = global::AsesoriasApp.Resource.Styleable.SwitchCompat;
+			global::Data.Resource.Styleable.SwitchCompat_android_textOff = global::AsesoriasApp.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Data.Resource.Styleable.SwitchCompat_android_textOn = global::AsesoriasApp.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Data.Resource.Styleable.SwitchCompat_android_thumb = global::AsesoriasApp.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Data.Resource.Styleable.SwitchCompat_showText = global::AsesoriasApp.Resource.Styleable.SwitchCompat_showText;
+			global::Data.Resource.Styleable.SwitchCompat_splitTrack = global::AsesoriasApp.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Data.Resource.Styleable.SwitchCompat_switchMinWidth = global::AsesoriasApp.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Data.Resource.Styleable.SwitchCompat_switchPadding = global::AsesoriasApp.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Data.Resource.Styleable.SwitchCompat_switchTextAppearance = global::AsesoriasApp.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Data.Resource.Styleable.SwitchCompat_thumbTextPadding = global::AsesoriasApp.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Data.Resource.Styleable.SwitchCompat_thumbTint = global::AsesoriasApp.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Data.Resource.Styleable.SwitchCompat_thumbTintMode = global::AsesoriasApp.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Data.Resource.Styleable.SwitchCompat_track = global::AsesoriasApp.Resource.Styleable.SwitchCompat_track;
+			global::Data.Resource.Styleable.SwitchCompat_trackTint = global::AsesoriasApp.Resource.Styleable.SwitchCompat_trackTint;
+			global::Data.Resource.Styleable.SwitchCompat_trackTintMode = global::AsesoriasApp.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Data.Resource.Styleable.TextAppearance = global::AsesoriasApp.Resource.Styleable.TextAppearance;
+			global::Data.Resource.Styleable.TextAppearance_android_fontFamily = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Data.Resource.Styleable.TextAppearance_android_shadowColor = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Data.Resource.Styleable.TextAppearance_android_shadowDx = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Data.Resource.Styleable.TextAppearance_android_shadowDy = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Data.Resource.Styleable.TextAppearance_android_shadowRadius = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Data.Resource.Styleable.TextAppearance_android_textColor = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_textColor;
+			global::Data.Resource.Styleable.TextAppearance_android_textColorHint = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Data.Resource.Styleable.TextAppearance_android_textColorLink = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Data.Resource.Styleable.TextAppearance_android_textSize = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_textSize;
+			global::Data.Resource.Styleable.TextAppearance_android_textStyle = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Data.Resource.Styleable.TextAppearance_android_typeface = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_typeface;
+			global::Data.Resource.Styleable.TextAppearance_fontFamily = global::AsesoriasApp.Resource.Styleable.TextAppearance_fontFamily;
+			global::Data.Resource.Styleable.TextAppearance_textAllCaps = global::AsesoriasApp.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Data.Resource.Styleable.Toolbar = global::AsesoriasApp.Resource.Styleable.Toolbar;
+			global::Data.Resource.Styleable.Toolbar_android_gravity = global::AsesoriasApp.Resource.Styleable.Toolbar_android_gravity;
+			global::Data.Resource.Styleable.Toolbar_android_minHeight = global::AsesoriasApp.Resource.Styleable.Toolbar_android_minHeight;
+			global::Data.Resource.Styleable.Toolbar_buttonGravity = global::AsesoriasApp.Resource.Styleable.Toolbar_buttonGravity;
+			global::Data.Resource.Styleable.Toolbar_collapseContentDescription = global::AsesoriasApp.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Data.Resource.Styleable.Toolbar_collapseIcon = global::AsesoriasApp.Resource.Styleable.Toolbar_collapseIcon;
+			global::Data.Resource.Styleable.Toolbar_contentInsetEnd = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Data.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Data.Resource.Styleable.Toolbar_contentInsetLeft = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Data.Resource.Styleable.Toolbar_contentInsetRight = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Data.Resource.Styleable.Toolbar_contentInsetStart = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Data.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Data.Resource.Styleable.Toolbar_logo = global::AsesoriasApp.Resource.Styleable.Toolbar_logo;
+			global::Data.Resource.Styleable.Toolbar_logoDescription = global::AsesoriasApp.Resource.Styleable.Toolbar_logoDescription;
+			global::Data.Resource.Styleable.Toolbar_maxButtonHeight = global::AsesoriasApp.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Data.Resource.Styleable.Toolbar_navigationContentDescription = global::AsesoriasApp.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Data.Resource.Styleable.Toolbar_navigationIcon = global::AsesoriasApp.Resource.Styleable.Toolbar_navigationIcon;
+			global::Data.Resource.Styleable.Toolbar_popupTheme = global::AsesoriasApp.Resource.Styleable.Toolbar_popupTheme;
+			global::Data.Resource.Styleable.Toolbar_subtitle = global::AsesoriasApp.Resource.Styleable.Toolbar_subtitle;
+			global::Data.Resource.Styleable.Toolbar_subtitleTextAppearance = global::AsesoriasApp.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Data.Resource.Styleable.Toolbar_subtitleTextColor = global::AsesoriasApp.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Data.Resource.Styleable.Toolbar_title = global::AsesoriasApp.Resource.Styleable.Toolbar_title;
+			global::Data.Resource.Styleable.Toolbar_titleMargin = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMargin;
+			global::Data.Resource.Styleable.Toolbar_titleMarginBottom = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Data.Resource.Styleable.Toolbar_titleMarginEnd = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Data.Resource.Styleable.Toolbar_titleMarginStart = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Data.Resource.Styleable.Toolbar_titleMarginTop = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Data.Resource.Styleable.Toolbar_titleMargins = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMargins;
+			global::Data.Resource.Styleable.Toolbar_titleTextAppearance = global::AsesoriasApp.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Data.Resource.Styleable.Toolbar_titleTextColor = global::AsesoriasApp.Resource.Styleable.Toolbar_titleTextColor;
+			global::Data.Resource.Styleable.View = global::AsesoriasApp.Resource.Styleable.View;
+			global::Data.Resource.Styleable.View_android_focusable = global::AsesoriasApp.Resource.Styleable.View_android_focusable;
+			global::Data.Resource.Styleable.View_android_theme = global::AsesoriasApp.Resource.Styleable.View_android_theme;
+			global::Data.Resource.Styleable.View_paddingEnd = global::AsesoriasApp.Resource.Styleable.View_paddingEnd;
+			global::Data.Resource.Styleable.View_paddingStart = global::AsesoriasApp.Resource.Styleable.View_paddingStart;
+			global::Data.Resource.Styleable.View_theme = global::AsesoriasApp.Resource.Styleable.View_theme;
+			global::Data.Resource.Styleable.ViewBackgroundHelper = global::AsesoriasApp.Resource.Styleable.ViewBackgroundHelper;
+			global::Data.Resource.Styleable.ViewBackgroundHelper_android_background = global::AsesoriasApp.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Data.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::AsesoriasApp.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Data.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::AsesoriasApp.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Data.Resource.Styleable.ViewStubCompat = global::AsesoriasApp.Resource.Styleable.ViewStubCompat;
+			global::Data.Resource.Styleable.ViewStubCompat_android_id = global::AsesoriasApp.Resource.Styleable.ViewStubCompat_android_id;
+			global::Data.Resource.Styleable.ViewStubCompat_android_inflatedId = global::AsesoriasApp.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Data.Resource.Styleable.ViewStubCompat_android_layout = global::AsesoriasApp.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Entidades.Resource.Animation.abc_fade_in = global::AsesoriasApp.Resource.Animation.abc_fade_in;
+			global::Entidades.Resource.Animation.abc_fade_out = global::AsesoriasApp.Resource.Animation.abc_fade_out;
+			global::Entidades.Resource.Animation.abc_grow_fade_in_from_bottom = global::AsesoriasApp.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Entidades.Resource.Animation.abc_popup_enter = global::AsesoriasApp.Resource.Animation.abc_popup_enter;
+			global::Entidades.Resource.Animation.abc_popup_exit = global::AsesoriasApp.Resource.Animation.abc_popup_exit;
+			global::Entidades.Resource.Animation.abc_shrink_fade_out_from_bottom = global::AsesoriasApp.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Entidades.Resource.Animation.abc_slide_in_bottom = global::AsesoriasApp.Resource.Animation.abc_slide_in_bottom;
+			global::Entidades.Resource.Animation.abc_slide_in_top = global::AsesoriasApp.Resource.Animation.abc_slide_in_top;
+			global::Entidades.Resource.Animation.abc_slide_out_bottom = global::AsesoriasApp.Resource.Animation.abc_slide_out_bottom;
+			global::Entidades.Resource.Animation.abc_slide_out_top = global::AsesoriasApp.Resource.Animation.abc_slide_out_top;
+			global::Entidades.Resource.Animation.tooltip_enter = global::AsesoriasApp.Resource.Animation.tooltip_enter;
+			global::Entidades.Resource.Animation.tooltip_exit = global::AsesoriasApp.Resource.Animation.tooltip_exit;
+			global::Entidades.Resource.Attribute.actionBarDivider = global::AsesoriasApp.Resource.Attribute.actionBarDivider;
+			global::Entidades.Resource.Attribute.actionBarItemBackground = global::AsesoriasApp.Resource.Attribute.actionBarItemBackground;
+			global::Entidades.Resource.Attribute.actionBarPopupTheme = global::AsesoriasApp.Resource.Attribute.actionBarPopupTheme;
+			global::Entidades.Resource.Attribute.actionBarSize = global::AsesoriasApp.Resource.Attribute.actionBarSize;
+			global::Entidades.Resource.Attribute.actionBarSplitStyle = global::AsesoriasApp.Resource.Attribute.actionBarSplitStyle;
+			global::Entidades.Resource.Attribute.actionBarStyle = global::AsesoriasApp.Resource.Attribute.actionBarStyle;
+			global::Entidades.Resource.Attribute.actionBarTabBarStyle = global::AsesoriasApp.Resource.Attribute.actionBarTabBarStyle;
+			global::Entidades.Resource.Attribute.actionBarTabStyle = global::AsesoriasApp.Resource.Attribute.actionBarTabStyle;
+			global::Entidades.Resource.Attribute.actionBarTabTextStyle = global::AsesoriasApp.Resource.Attribute.actionBarTabTextStyle;
+			global::Entidades.Resource.Attribute.actionBarTheme = global::AsesoriasApp.Resource.Attribute.actionBarTheme;
+			global::Entidades.Resource.Attribute.actionBarWidgetTheme = global::AsesoriasApp.Resource.Attribute.actionBarWidgetTheme;
+			global::Entidades.Resource.Attribute.actionButtonStyle = global::AsesoriasApp.Resource.Attribute.actionButtonStyle;
+			global::Entidades.Resource.Attribute.actionDropDownStyle = global::AsesoriasApp.Resource.Attribute.actionDropDownStyle;
+			global::Entidades.Resource.Attribute.actionLayout = global::AsesoriasApp.Resource.Attribute.actionLayout;
+			global::Entidades.Resource.Attribute.actionMenuTextAppearance = global::AsesoriasApp.Resource.Attribute.actionMenuTextAppearance;
+			global::Entidades.Resource.Attribute.actionMenuTextColor = global::AsesoriasApp.Resource.Attribute.actionMenuTextColor;
+			global::Entidades.Resource.Attribute.actionModeBackground = global::AsesoriasApp.Resource.Attribute.actionModeBackground;
+			global::Entidades.Resource.Attribute.actionModeCloseButtonStyle = global::AsesoriasApp.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Entidades.Resource.Attribute.actionModeCloseDrawable = global::AsesoriasApp.Resource.Attribute.actionModeCloseDrawable;
+			global::Entidades.Resource.Attribute.actionModeCopyDrawable = global::AsesoriasApp.Resource.Attribute.actionModeCopyDrawable;
+			global::Entidades.Resource.Attribute.actionModeCutDrawable = global::AsesoriasApp.Resource.Attribute.actionModeCutDrawable;
+			global::Entidades.Resource.Attribute.actionModeFindDrawable = global::AsesoriasApp.Resource.Attribute.actionModeFindDrawable;
+			global::Entidades.Resource.Attribute.actionModePasteDrawable = global::AsesoriasApp.Resource.Attribute.actionModePasteDrawable;
+			global::Entidades.Resource.Attribute.actionModePopupWindowStyle = global::AsesoriasApp.Resource.Attribute.actionModePopupWindowStyle;
+			global::Entidades.Resource.Attribute.actionModeSelectAllDrawable = global::AsesoriasApp.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Entidades.Resource.Attribute.actionModeShareDrawable = global::AsesoriasApp.Resource.Attribute.actionModeShareDrawable;
+			global::Entidades.Resource.Attribute.actionModeSplitBackground = global::AsesoriasApp.Resource.Attribute.actionModeSplitBackground;
+			global::Entidades.Resource.Attribute.actionModeStyle = global::AsesoriasApp.Resource.Attribute.actionModeStyle;
+			global::Entidades.Resource.Attribute.actionModeWebSearchDrawable = global::AsesoriasApp.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Entidades.Resource.Attribute.actionOverflowButtonStyle = global::AsesoriasApp.Resource.Attribute.actionOverflowButtonStyle;
+			global::Entidades.Resource.Attribute.actionOverflowMenuStyle = global::AsesoriasApp.Resource.Attribute.actionOverflowMenuStyle;
+			global::Entidades.Resource.Attribute.actionProviderClass = global::AsesoriasApp.Resource.Attribute.actionProviderClass;
+			global::Entidades.Resource.Attribute.actionViewClass = global::AsesoriasApp.Resource.Attribute.actionViewClass;
+			global::Entidades.Resource.Attribute.activityChooserViewStyle = global::AsesoriasApp.Resource.Attribute.activityChooserViewStyle;
+			global::Entidades.Resource.Attribute.alertDialogButtonGroupStyle = global::AsesoriasApp.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Entidades.Resource.Attribute.alertDialogCenterButtons = global::AsesoriasApp.Resource.Attribute.alertDialogCenterButtons;
+			global::Entidades.Resource.Attribute.alertDialogStyle = global::AsesoriasApp.Resource.Attribute.alertDialogStyle;
+			global::Entidades.Resource.Attribute.alertDialogTheme = global::AsesoriasApp.Resource.Attribute.alertDialogTheme;
+			global::Entidades.Resource.Attribute.allowStacking = global::AsesoriasApp.Resource.Attribute.allowStacking;
+			global::Entidades.Resource.Attribute.alpha = global::AsesoriasApp.Resource.Attribute.alpha;
+			global::Entidades.Resource.Attribute.alphabeticModifiers = global::AsesoriasApp.Resource.Attribute.alphabeticModifiers;
+			global::Entidades.Resource.Attribute.arrowHeadLength = global::AsesoriasApp.Resource.Attribute.arrowHeadLength;
+			global::Entidades.Resource.Attribute.arrowShaftLength = global::AsesoriasApp.Resource.Attribute.arrowShaftLength;
+			global::Entidades.Resource.Attribute.autoCompleteTextViewStyle = global::AsesoriasApp.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Entidades.Resource.Attribute.autoSizeMaxTextSize = global::AsesoriasApp.Resource.Attribute.autoSizeMaxTextSize;
+			global::Entidades.Resource.Attribute.autoSizeMinTextSize = global::AsesoriasApp.Resource.Attribute.autoSizeMinTextSize;
+			global::Entidades.Resource.Attribute.autoSizePresetSizes = global::AsesoriasApp.Resource.Attribute.autoSizePresetSizes;
+			global::Entidades.Resource.Attribute.autoSizeStepGranularity = global::AsesoriasApp.Resource.Attribute.autoSizeStepGranularity;
+			global::Entidades.Resource.Attribute.autoSizeTextType = global::AsesoriasApp.Resource.Attribute.autoSizeTextType;
+			global::Entidades.Resource.Attribute.background = global::AsesoriasApp.Resource.Attribute.background;
+			global::Entidades.Resource.Attribute.backgroundSplit = global::AsesoriasApp.Resource.Attribute.backgroundSplit;
+			global::Entidades.Resource.Attribute.backgroundStacked = global::AsesoriasApp.Resource.Attribute.backgroundStacked;
+			global::Entidades.Resource.Attribute.backgroundTint = global::AsesoriasApp.Resource.Attribute.backgroundTint;
+			global::Entidades.Resource.Attribute.backgroundTintMode = global::AsesoriasApp.Resource.Attribute.backgroundTintMode;
+			global::Entidades.Resource.Attribute.barLength = global::AsesoriasApp.Resource.Attribute.barLength;
+			global::Entidades.Resource.Attribute.borderlessButtonStyle = global::AsesoriasApp.Resource.Attribute.borderlessButtonStyle;
+			global::Entidades.Resource.Attribute.buttonBarButtonStyle = global::AsesoriasApp.Resource.Attribute.buttonBarButtonStyle;
+			global::Entidades.Resource.Attribute.buttonBarNegativeButtonStyle = global::AsesoriasApp.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Entidades.Resource.Attribute.buttonBarNeutralButtonStyle = global::AsesoriasApp.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Entidades.Resource.Attribute.buttonBarPositiveButtonStyle = global::AsesoriasApp.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Entidades.Resource.Attribute.buttonBarStyle = global::AsesoriasApp.Resource.Attribute.buttonBarStyle;
+			global::Entidades.Resource.Attribute.buttonGravity = global::AsesoriasApp.Resource.Attribute.buttonGravity;
+			global::Entidades.Resource.Attribute.buttonPanelSideLayout = global::AsesoriasApp.Resource.Attribute.buttonPanelSideLayout;
+			global::Entidades.Resource.Attribute.buttonStyle = global::AsesoriasApp.Resource.Attribute.buttonStyle;
+			global::Entidades.Resource.Attribute.buttonStyleSmall = global::AsesoriasApp.Resource.Attribute.buttonStyleSmall;
+			global::Entidades.Resource.Attribute.buttonTint = global::AsesoriasApp.Resource.Attribute.buttonTint;
+			global::Entidades.Resource.Attribute.buttonTintMode = global::AsesoriasApp.Resource.Attribute.buttonTintMode;
+			global::Entidades.Resource.Attribute.checkboxStyle = global::AsesoriasApp.Resource.Attribute.checkboxStyle;
+			global::Entidades.Resource.Attribute.checkedTextViewStyle = global::AsesoriasApp.Resource.Attribute.checkedTextViewStyle;
+			global::Entidades.Resource.Attribute.closeIcon = global::AsesoriasApp.Resource.Attribute.closeIcon;
+			global::Entidades.Resource.Attribute.closeItemLayout = global::AsesoriasApp.Resource.Attribute.closeItemLayout;
+			global::Entidades.Resource.Attribute.collapseContentDescription = global::AsesoriasApp.Resource.Attribute.collapseContentDescription;
+			global::Entidades.Resource.Attribute.collapseIcon = global::AsesoriasApp.Resource.Attribute.collapseIcon;
+			global::Entidades.Resource.Attribute.color = global::AsesoriasApp.Resource.Attribute.color;
+			global::Entidades.Resource.Attribute.colorAccent = global::AsesoriasApp.Resource.Attribute.colorAccent;
+			global::Entidades.Resource.Attribute.colorBackgroundFloating = global::AsesoriasApp.Resource.Attribute.colorBackgroundFloating;
+			global::Entidades.Resource.Attribute.colorButtonNormal = global::AsesoriasApp.Resource.Attribute.colorButtonNormal;
+			global::Entidades.Resource.Attribute.colorControlActivated = global::AsesoriasApp.Resource.Attribute.colorControlActivated;
+			global::Entidades.Resource.Attribute.colorControlHighlight = global::AsesoriasApp.Resource.Attribute.colorControlHighlight;
+			global::Entidades.Resource.Attribute.colorControlNormal = global::AsesoriasApp.Resource.Attribute.colorControlNormal;
+			global::Entidades.Resource.Attribute.colorError = global::AsesoriasApp.Resource.Attribute.colorError;
+			global::Entidades.Resource.Attribute.colorPrimary = global::AsesoriasApp.Resource.Attribute.colorPrimary;
+			global::Entidades.Resource.Attribute.colorPrimaryDark = global::AsesoriasApp.Resource.Attribute.colorPrimaryDark;
+			global::Entidades.Resource.Attribute.colorSwitchThumbNormal = global::AsesoriasApp.Resource.Attribute.colorSwitchThumbNormal;
+			global::Entidades.Resource.Attribute.commitIcon = global::AsesoriasApp.Resource.Attribute.commitIcon;
+			global::Entidades.Resource.Attribute.contentDescription = global::AsesoriasApp.Resource.Attribute.contentDescription;
+			global::Entidades.Resource.Attribute.contentInsetEnd = global::AsesoriasApp.Resource.Attribute.contentInsetEnd;
+			global::Entidades.Resource.Attribute.contentInsetEndWithActions = global::AsesoriasApp.Resource.Attribute.contentInsetEndWithActions;
+			global::Entidades.Resource.Attribute.contentInsetLeft = global::AsesoriasApp.Resource.Attribute.contentInsetLeft;
+			global::Entidades.Resource.Attribute.contentInsetRight = global::AsesoriasApp.Resource.Attribute.contentInsetRight;
+			global::Entidades.Resource.Attribute.contentInsetStart = global::AsesoriasApp.Resource.Attribute.contentInsetStart;
+			global::Entidades.Resource.Attribute.contentInsetStartWithNavigation = global::AsesoriasApp.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Entidades.Resource.Attribute.controlBackground = global::AsesoriasApp.Resource.Attribute.controlBackground;
+			global::Entidades.Resource.Attribute.customNavigationLayout = global::AsesoriasApp.Resource.Attribute.customNavigationLayout;
+			global::Entidades.Resource.Attribute.defaultQueryHint = global::AsesoriasApp.Resource.Attribute.defaultQueryHint;
+			global::Entidades.Resource.Attribute.dialogPreferredPadding = global::AsesoriasApp.Resource.Attribute.dialogPreferredPadding;
+			global::Entidades.Resource.Attribute.dialogTheme = global::AsesoriasApp.Resource.Attribute.dialogTheme;
+			global::Entidades.Resource.Attribute.displayOptions = global::AsesoriasApp.Resource.Attribute.displayOptions;
+			global::Entidades.Resource.Attribute.divider = global::AsesoriasApp.Resource.Attribute.divider;
+			global::Entidades.Resource.Attribute.dividerHorizontal = global::AsesoriasApp.Resource.Attribute.dividerHorizontal;
+			global::Entidades.Resource.Attribute.dividerPadding = global::AsesoriasApp.Resource.Attribute.dividerPadding;
+			global::Entidades.Resource.Attribute.dividerVertical = global::AsesoriasApp.Resource.Attribute.dividerVertical;
+			global::Entidades.Resource.Attribute.drawableSize = global::AsesoriasApp.Resource.Attribute.drawableSize;
+			global::Entidades.Resource.Attribute.drawerArrowStyle = global::AsesoriasApp.Resource.Attribute.drawerArrowStyle;
+			global::Entidades.Resource.Attribute.dropDownListViewStyle = global::AsesoriasApp.Resource.Attribute.dropDownListViewStyle;
+			global::Entidades.Resource.Attribute.dropdownListPreferredItemHeight = global::AsesoriasApp.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Entidades.Resource.Attribute.editTextBackground = global::AsesoriasApp.Resource.Attribute.editTextBackground;
+			global::Entidades.Resource.Attribute.editTextColor = global::AsesoriasApp.Resource.Attribute.editTextColor;
+			global::Entidades.Resource.Attribute.editTextStyle = global::AsesoriasApp.Resource.Attribute.editTextStyle;
+			global::Entidades.Resource.Attribute.elevation = global::AsesoriasApp.Resource.Attribute.elevation;
+			global::Entidades.Resource.Attribute.expandActivityOverflowButtonDrawable = global::AsesoriasApp.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Entidades.Resource.Attribute.font = global::AsesoriasApp.Resource.Attribute.font;
+			global::Entidades.Resource.Attribute.fontFamily = global::AsesoriasApp.Resource.Attribute.fontFamily;
+			global::Entidades.Resource.Attribute.fontProviderAuthority = global::AsesoriasApp.Resource.Attribute.fontProviderAuthority;
+			global::Entidades.Resource.Attribute.fontProviderCerts = global::AsesoriasApp.Resource.Attribute.fontProviderCerts;
+			global::Entidades.Resource.Attribute.fontProviderFetchStrategy = global::AsesoriasApp.Resource.Attribute.fontProviderFetchStrategy;
+			global::Entidades.Resource.Attribute.fontProviderFetchTimeout = global::AsesoriasApp.Resource.Attribute.fontProviderFetchTimeout;
+			global::Entidades.Resource.Attribute.fontProviderPackage = global::AsesoriasApp.Resource.Attribute.fontProviderPackage;
+			global::Entidades.Resource.Attribute.fontProviderQuery = global::AsesoriasApp.Resource.Attribute.fontProviderQuery;
+			global::Entidades.Resource.Attribute.fontStyle = global::AsesoriasApp.Resource.Attribute.fontStyle;
+			global::Entidades.Resource.Attribute.fontWeight = global::AsesoriasApp.Resource.Attribute.fontWeight;
+			global::Entidades.Resource.Attribute.gapBetweenBars = global::AsesoriasApp.Resource.Attribute.gapBetweenBars;
+			global::Entidades.Resource.Attribute.goIcon = global::AsesoriasApp.Resource.Attribute.goIcon;
+			global::Entidades.Resource.Attribute.height = global::AsesoriasApp.Resource.Attribute.height;
+			global::Entidades.Resource.Attribute.hideOnContentScroll = global::AsesoriasApp.Resource.Attribute.hideOnContentScroll;
+			global::Entidades.Resource.Attribute.homeAsUpIndicator = global::AsesoriasApp.Resource.Attribute.homeAsUpIndicator;
+			global::Entidades.Resource.Attribute.homeLayout = global::AsesoriasApp.Resource.Attribute.homeLayout;
+			global::Entidades.Resource.Attribute.icon = global::AsesoriasApp.Resource.Attribute.icon;
+			global::Entidades.Resource.Attribute.iconTint = global::AsesoriasApp.Resource.Attribute.iconTint;
+			global::Entidades.Resource.Attribute.iconTintMode = global::AsesoriasApp.Resource.Attribute.iconTintMode;
+			global::Entidades.Resource.Attribute.iconifiedByDefault = global::AsesoriasApp.Resource.Attribute.iconifiedByDefault;
+			global::Entidades.Resource.Attribute.imageButtonStyle = global::AsesoriasApp.Resource.Attribute.imageButtonStyle;
+			global::Entidades.Resource.Attribute.indeterminateProgressStyle = global::AsesoriasApp.Resource.Attribute.indeterminateProgressStyle;
+			global::Entidades.Resource.Attribute.initialActivityCount = global::AsesoriasApp.Resource.Attribute.initialActivityCount;
+			global::Entidades.Resource.Attribute.isLightTheme = global::AsesoriasApp.Resource.Attribute.isLightTheme;
+			global::Entidades.Resource.Attribute.itemPadding = global::AsesoriasApp.Resource.Attribute.itemPadding;
+			global::Entidades.Resource.Attribute.layout = global::AsesoriasApp.Resource.Attribute.layout;
+			global::Entidades.Resource.Attribute.listChoiceBackgroundIndicator = global::AsesoriasApp.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Entidades.Resource.Attribute.listDividerAlertDialog = global::AsesoriasApp.Resource.Attribute.listDividerAlertDialog;
+			global::Entidades.Resource.Attribute.listItemLayout = global::AsesoriasApp.Resource.Attribute.listItemLayout;
+			global::Entidades.Resource.Attribute.listLayout = global::AsesoriasApp.Resource.Attribute.listLayout;
+			global::Entidades.Resource.Attribute.listMenuViewStyle = global::AsesoriasApp.Resource.Attribute.listMenuViewStyle;
+			global::Entidades.Resource.Attribute.listPopupWindowStyle = global::AsesoriasApp.Resource.Attribute.listPopupWindowStyle;
+			global::Entidades.Resource.Attribute.listPreferredItemHeight = global::AsesoriasApp.Resource.Attribute.listPreferredItemHeight;
+			global::Entidades.Resource.Attribute.listPreferredItemHeightLarge = global::AsesoriasApp.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Entidades.Resource.Attribute.listPreferredItemHeightSmall = global::AsesoriasApp.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Entidades.Resource.Attribute.listPreferredItemPaddingLeft = global::AsesoriasApp.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Entidades.Resource.Attribute.listPreferredItemPaddingRight = global::AsesoriasApp.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Entidades.Resource.Attribute.logo = global::AsesoriasApp.Resource.Attribute.logo;
+			global::Entidades.Resource.Attribute.logoDescription = global::AsesoriasApp.Resource.Attribute.logoDescription;
+			global::Entidades.Resource.Attribute.maxButtonHeight = global::AsesoriasApp.Resource.Attribute.maxButtonHeight;
+			global::Entidades.Resource.Attribute.measureWithLargestChild = global::AsesoriasApp.Resource.Attribute.measureWithLargestChild;
+			global::Entidades.Resource.Attribute.multiChoiceItemLayout = global::AsesoriasApp.Resource.Attribute.multiChoiceItemLayout;
+			global::Entidades.Resource.Attribute.navigationContentDescription = global::AsesoriasApp.Resource.Attribute.navigationContentDescription;
+			global::Entidades.Resource.Attribute.navigationIcon = global::AsesoriasApp.Resource.Attribute.navigationIcon;
+			global::Entidades.Resource.Attribute.navigationMode = global::AsesoriasApp.Resource.Attribute.navigationMode;
+			global::Entidades.Resource.Attribute.numericModifiers = global::AsesoriasApp.Resource.Attribute.numericModifiers;
+			global::Entidades.Resource.Attribute.overlapAnchor = global::AsesoriasApp.Resource.Attribute.overlapAnchor;
+			global::Entidades.Resource.Attribute.paddingBottomNoButtons = global::AsesoriasApp.Resource.Attribute.paddingBottomNoButtons;
+			global::Entidades.Resource.Attribute.paddingEnd = global::AsesoriasApp.Resource.Attribute.paddingEnd;
+			global::Entidades.Resource.Attribute.paddingStart = global::AsesoriasApp.Resource.Attribute.paddingStart;
+			global::Entidades.Resource.Attribute.paddingTopNoTitle = global::AsesoriasApp.Resource.Attribute.paddingTopNoTitle;
+			global::Entidades.Resource.Attribute.panelBackground = global::AsesoriasApp.Resource.Attribute.panelBackground;
+			global::Entidades.Resource.Attribute.panelMenuListTheme = global::AsesoriasApp.Resource.Attribute.panelMenuListTheme;
+			global::Entidades.Resource.Attribute.panelMenuListWidth = global::AsesoriasApp.Resource.Attribute.panelMenuListWidth;
+			global::Entidades.Resource.Attribute.popupMenuStyle = global::AsesoriasApp.Resource.Attribute.popupMenuStyle;
+			global::Entidades.Resource.Attribute.popupTheme = global::AsesoriasApp.Resource.Attribute.popupTheme;
+			global::Entidades.Resource.Attribute.popupWindowStyle = global::AsesoriasApp.Resource.Attribute.popupWindowStyle;
+			global::Entidades.Resource.Attribute.preserveIconSpacing = global::AsesoriasApp.Resource.Attribute.preserveIconSpacing;
+			global::Entidades.Resource.Attribute.progressBarPadding = global::AsesoriasApp.Resource.Attribute.progressBarPadding;
+			global::Entidades.Resource.Attribute.progressBarStyle = global::AsesoriasApp.Resource.Attribute.progressBarStyle;
+			global::Entidades.Resource.Attribute.queryBackground = global::AsesoriasApp.Resource.Attribute.queryBackground;
+			global::Entidades.Resource.Attribute.queryHint = global::AsesoriasApp.Resource.Attribute.queryHint;
+			global::Entidades.Resource.Attribute.radioButtonStyle = global::AsesoriasApp.Resource.Attribute.radioButtonStyle;
+			global::Entidades.Resource.Attribute.ratingBarStyle = global::AsesoriasApp.Resource.Attribute.ratingBarStyle;
+			global::Entidades.Resource.Attribute.ratingBarStyleIndicator = global::AsesoriasApp.Resource.Attribute.ratingBarStyleIndicator;
+			global::Entidades.Resource.Attribute.ratingBarStyleSmall = global::AsesoriasApp.Resource.Attribute.ratingBarStyleSmall;
+			global::Entidades.Resource.Attribute.searchHintIcon = global::AsesoriasApp.Resource.Attribute.searchHintIcon;
+			global::Entidades.Resource.Attribute.searchIcon = global::AsesoriasApp.Resource.Attribute.searchIcon;
+			global::Entidades.Resource.Attribute.searchViewStyle = global::AsesoriasApp.Resource.Attribute.searchViewStyle;
+			global::Entidades.Resource.Attribute.seekBarStyle = global::AsesoriasApp.Resource.Attribute.seekBarStyle;
+			global::Entidades.Resource.Attribute.selectableItemBackground = global::AsesoriasApp.Resource.Attribute.selectableItemBackground;
+			global::Entidades.Resource.Attribute.selectableItemBackgroundBorderless = global::AsesoriasApp.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Entidades.Resource.Attribute.showAsAction = global::AsesoriasApp.Resource.Attribute.showAsAction;
+			global::Entidades.Resource.Attribute.showDividers = global::AsesoriasApp.Resource.Attribute.showDividers;
+			global::Entidades.Resource.Attribute.showText = global::AsesoriasApp.Resource.Attribute.showText;
+			global::Entidades.Resource.Attribute.showTitle = global::AsesoriasApp.Resource.Attribute.showTitle;
+			global::Entidades.Resource.Attribute.singleChoiceItemLayout = global::AsesoriasApp.Resource.Attribute.singleChoiceItemLayout;
+			global::Entidades.Resource.Attribute.spinBars = global::AsesoriasApp.Resource.Attribute.spinBars;
+			global::Entidades.Resource.Attribute.spinnerDropDownItemStyle = global::AsesoriasApp.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Entidades.Resource.Attribute.spinnerStyle = global::AsesoriasApp.Resource.Attribute.spinnerStyle;
+			global::Entidades.Resource.Attribute.splitTrack = global::AsesoriasApp.Resource.Attribute.splitTrack;
+			global::Entidades.Resource.Attribute.srcCompat = global::AsesoriasApp.Resource.Attribute.srcCompat;
+			global::Entidades.Resource.Attribute.state_above_anchor = global::AsesoriasApp.Resource.Attribute.state_above_anchor;
+			global::Entidades.Resource.Attribute.subMenuArrow = global::AsesoriasApp.Resource.Attribute.subMenuArrow;
+			global::Entidades.Resource.Attribute.submitBackground = global::AsesoriasApp.Resource.Attribute.submitBackground;
+			global::Entidades.Resource.Attribute.subtitle = global::AsesoriasApp.Resource.Attribute.subtitle;
+			global::Entidades.Resource.Attribute.subtitleTextAppearance = global::AsesoriasApp.Resource.Attribute.subtitleTextAppearance;
+			global::Entidades.Resource.Attribute.subtitleTextColor = global::AsesoriasApp.Resource.Attribute.subtitleTextColor;
+			global::Entidades.Resource.Attribute.subtitleTextStyle = global::AsesoriasApp.Resource.Attribute.subtitleTextStyle;
+			global::Entidades.Resource.Attribute.suggestionRowLayout = global::AsesoriasApp.Resource.Attribute.suggestionRowLayout;
+			global::Entidades.Resource.Attribute.switchMinWidth = global::AsesoriasApp.Resource.Attribute.switchMinWidth;
+			global::Entidades.Resource.Attribute.switchPadding = global::AsesoriasApp.Resource.Attribute.switchPadding;
+			global::Entidades.Resource.Attribute.switchStyle = global::AsesoriasApp.Resource.Attribute.switchStyle;
+			global::Entidades.Resource.Attribute.switchTextAppearance = global::AsesoriasApp.Resource.Attribute.switchTextAppearance;
+			global::Entidades.Resource.Attribute.textAllCaps = global::AsesoriasApp.Resource.Attribute.textAllCaps;
+			global::Entidades.Resource.Attribute.textAppearanceLargePopupMenu = global::AsesoriasApp.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Entidades.Resource.Attribute.textAppearanceListItem = global::AsesoriasApp.Resource.Attribute.textAppearanceListItem;
+			global::Entidades.Resource.Attribute.textAppearanceListItemSecondary = global::AsesoriasApp.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Entidades.Resource.Attribute.textAppearanceListItemSmall = global::AsesoriasApp.Resource.Attribute.textAppearanceListItemSmall;
+			global::Entidades.Resource.Attribute.textAppearancePopupMenuHeader = global::AsesoriasApp.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Entidades.Resource.Attribute.textAppearanceSearchResultSubtitle = global::AsesoriasApp.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Entidades.Resource.Attribute.textAppearanceSearchResultTitle = global::AsesoriasApp.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Entidades.Resource.Attribute.textAppearanceSmallPopupMenu = global::AsesoriasApp.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Entidades.Resource.Attribute.textColorAlertDialogListItem = global::AsesoriasApp.Resource.Attribute.textColorAlertDialogListItem;
+			global::Entidades.Resource.Attribute.textColorSearchUrl = global::AsesoriasApp.Resource.Attribute.textColorSearchUrl;
+			global::Entidades.Resource.Attribute.theme = global::AsesoriasApp.Resource.Attribute.theme;
+			global::Entidades.Resource.Attribute.thickness = global::AsesoriasApp.Resource.Attribute.thickness;
+			global::Entidades.Resource.Attribute.thumbTextPadding = global::AsesoriasApp.Resource.Attribute.thumbTextPadding;
+			global::Entidades.Resource.Attribute.thumbTint = global::AsesoriasApp.Resource.Attribute.thumbTint;
+			global::Entidades.Resource.Attribute.thumbTintMode = global::AsesoriasApp.Resource.Attribute.thumbTintMode;
+			global::Entidades.Resource.Attribute.tickMark = global::AsesoriasApp.Resource.Attribute.tickMark;
+			global::Entidades.Resource.Attribute.tickMarkTint = global::AsesoriasApp.Resource.Attribute.tickMarkTint;
+			global::Entidades.Resource.Attribute.tickMarkTintMode = global::AsesoriasApp.Resource.Attribute.tickMarkTintMode;
+			global::Entidades.Resource.Attribute.tint = global::AsesoriasApp.Resource.Attribute.tint;
+			global::Entidades.Resource.Attribute.tintMode = global::AsesoriasApp.Resource.Attribute.tintMode;
+			global::Entidades.Resource.Attribute.title = global::AsesoriasApp.Resource.Attribute.title;
+			global::Entidades.Resource.Attribute.titleMargin = global::AsesoriasApp.Resource.Attribute.titleMargin;
+			global::Entidades.Resource.Attribute.titleMarginBottom = global::AsesoriasApp.Resource.Attribute.titleMarginBottom;
+			global::Entidades.Resource.Attribute.titleMarginEnd = global::AsesoriasApp.Resource.Attribute.titleMarginEnd;
+			global::Entidades.Resource.Attribute.titleMarginStart = global::AsesoriasApp.Resource.Attribute.titleMarginStart;
+			global::Entidades.Resource.Attribute.titleMarginTop = global::AsesoriasApp.Resource.Attribute.titleMarginTop;
+			global::Entidades.Resource.Attribute.titleMargins = global::AsesoriasApp.Resource.Attribute.titleMargins;
+			global::Entidades.Resource.Attribute.titleTextAppearance = global::AsesoriasApp.Resource.Attribute.titleTextAppearance;
+			global::Entidades.Resource.Attribute.titleTextColor = global::AsesoriasApp.Resource.Attribute.titleTextColor;
+			global::Entidades.Resource.Attribute.titleTextStyle = global::AsesoriasApp.Resource.Attribute.titleTextStyle;
+			global::Entidades.Resource.Attribute.toolbarNavigationButtonStyle = global::AsesoriasApp.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Entidades.Resource.Attribute.toolbarStyle = global::AsesoriasApp.Resource.Attribute.toolbarStyle;
+			global::Entidades.Resource.Attribute.tooltipForegroundColor = global::AsesoriasApp.Resource.Attribute.tooltipForegroundColor;
+			global::Entidades.Resource.Attribute.tooltipFrameBackground = global::AsesoriasApp.Resource.Attribute.tooltipFrameBackground;
+			global::Entidades.Resource.Attribute.tooltipText = global::AsesoriasApp.Resource.Attribute.tooltipText;
+			global::Entidades.Resource.Attribute.track = global::AsesoriasApp.Resource.Attribute.track;
+			global::Entidades.Resource.Attribute.trackTint = global::AsesoriasApp.Resource.Attribute.trackTint;
+			global::Entidades.Resource.Attribute.trackTintMode = global::AsesoriasApp.Resource.Attribute.trackTintMode;
+			global::Entidades.Resource.Attribute.voiceIcon = global::AsesoriasApp.Resource.Attribute.voiceIcon;
+			global::Entidades.Resource.Attribute.windowActionBar = global::AsesoriasApp.Resource.Attribute.windowActionBar;
+			global::Entidades.Resource.Attribute.windowActionBarOverlay = global::AsesoriasApp.Resource.Attribute.windowActionBarOverlay;
+			global::Entidades.Resource.Attribute.windowActionModeOverlay = global::AsesoriasApp.Resource.Attribute.windowActionModeOverlay;
+			global::Entidades.Resource.Attribute.windowFixedHeightMajor = global::AsesoriasApp.Resource.Attribute.windowFixedHeightMajor;
+			global::Entidades.Resource.Attribute.windowFixedHeightMinor = global::AsesoriasApp.Resource.Attribute.windowFixedHeightMinor;
+			global::Entidades.Resource.Attribute.windowFixedWidthMajor = global::AsesoriasApp.Resource.Attribute.windowFixedWidthMajor;
+			global::Entidades.Resource.Attribute.windowFixedWidthMinor = global::AsesoriasApp.Resource.Attribute.windowFixedWidthMinor;
+			global::Entidades.Resource.Attribute.windowMinWidthMajor = global::AsesoriasApp.Resource.Attribute.windowMinWidthMajor;
+			global::Entidades.Resource.Attribute.windowMinWidthMinor = global::AsesoriasApp.Resource.Attribute.windowMinWidthMinor;
+			global::Entidades.Resource.Attribute.windowNoTitle = global::AsesoriasApp.Resource.Attribute.windowNoTitle;
+			global::Entidades.Resource.Boolean.abc_action_bar_embed_tabs = global::AsesoriasApp.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Entidades.Resource.Boolean.abc_allow_stacked_button_bar = global::AsesoriasApp.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Entidades.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::AsesoriasApp.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Entidades.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::AsesoriasApp.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::Entidades.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::AsesoriasApp.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::Entidades.Resource.Color.abc_background_cache_hint_selector_material_dark = global::AsesoriasApp.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Entidades.Resource.Color.abc_background_cache_hint_selector_material_light = global::AsesoriasApp.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Entidades.Resource.Color.abc_btn_colored_borderless_text_material = global::AsesoriasApp.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Entidades.Resource.Color.abc_btn_colored_text_material = global::AsesoriasApp.Resource.Color.abc_btn_colored_text_material;
+			global::Entidades.Resource.Color.abc_color_highlight_material = global::AsesoriasApp.Resource.Color.abc_color_highlight_material;
+			global::Entidades.Resource.Color.abc_hint_foreground_material_dark = global::AsesoriasApp.Resource.Color.abc_hint_foreground_material_dark;
+			global::Entidades.Resource.Color.abc_hint_foreground_material_light = global::AsesoriasApp.Resource.Color.abc_hint_foreground_material_light;
+			global::Entidades.Resource.Color.abc_input_method_navigation_guard = global::AsesoriasApp.Resource.Color.abc_input_method_navigation_guard;
+			global::Entidades.Resource.Color.abc_primary_text_disable_only_material_dark = global::AsesoriasApp.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Entidades.Resource.Color.abc_primary_text_disable_only_material_light = global::AsesoriasApp.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Entidades.Resource.Color.abc_primary_text_material_dark = global::AsesoriasApp.Resource.Color.abc_primary_text_material_dark;
+			global::Entidades.Resource.Color.abc_primary_text_material_light = global::AsesoriasApp.Resource.Color.abc_primary_text_material_light;
+			global::Entidades.Resource.Color.abc_search_url_text = global::AsesoriasApp.Resource.Color.abc_search_url_text;
+			global::Entidades.Resource.Color.abc_search_url_text_normal = global::AsesoriasApp.Resource.Color.abc_search_url_text_normal;
+			global::Entidades.Resource.Color.abc_search_url_text_pressed = global::AsesoriasApp.Resource.Color.abc_search_url_text_pressed;
+			global::Entidades.Resource.Color.abc_search_url_text_selected = global::AsesoriasApp.Resource.Color.abc_search_url_text_selected;
+			global::Entidades.Resource.Color.abc_secondary_text_material_dark = global::AsesoriasApp.Resource.Color.abc_secondary_text_material_dark;
+			global::Entidades.Resource.Color.abc_secondary_text_material_light = global::AsesoriasApp.Resource.Color.abc_secondary_text_material_light;
+			global::Entidades.Resource.Color.abc_tint_btn_checkable = global::AsesoriasApp.Resource.Color.abc_tint_btn_checkable;
+			global::Entidades.Resource.Color.abc_tint_default = global::AsesoriasApp.Resource.Color.abc_tint_default;
+			global::Entidades.Resource.Color.abc_tint_edittext = global::AsesoriasApp.Resource.Color.abc_tint_edittext;
+			global::Entidades.Resource.Color.abc_tint_seek_thumb = global::AsesoriasApp.Resource.Color.abc_tint_seek_thumb;
+			global::Entidades.Resource.Color.abc_tint_spinner = global::AsesoriasApp.Resource.Color.abc_tint_spinner;
+			global::Entidades.Resource.Color.abc_tint_switch_track = global::AsesoriasApp.Resource.Color.abc_tint_switch_track;
+			global::Entidades.Resource.Color.accent_material_dark = global::AsesoriasApp.Resource.Color.accent_material_dark;
+			global::Entidades.Resource.Color.accent_material_light = global::AsesoriasApp.Resource.Color.accent_material_light;
+			global::Entidades.Resource.Color.background_floating_material_dark = global::AsesoriasApp.Resource.Color.background_floating_material_dark;
+			global::Entidades.Resource.Color.background_floating_material_light = global::AsesoriasApp.Resource.Color.background_floating_material_light;
+			global::Entidades.Resource.Color.background_material_dark = global::AsesoriasApp.Resource.Color.background_material_dark;
+			global::Entidades.Resource.Color.background_material_light = global::AsesoriasApp.Resource.Color.background_material_light;
+			global::Entidades.Resource.Color.bright_foreground_disabled_material_dark = global::AsesoriasApp.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Entidades.Resource.Color.bright_foreground_disabled_material_light = global::AsesoriasApp.Resource.Color.bright_foreground_disabled_material_light;
+			global::Entidades.Resource.Color.bright_foreground_inverse_material_dark = global::AsesoriasApp.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Entidades.Resource.Color.bright_foreground_inverse_material_light = global::AsesoriasApp.Resource.Color.bright_foreground_inverse_material_light;
+			global::Entidades.Resource.Color.bright_foreground_material_dark = global::AsesoriasApp.Resource.Color.bright_foreground_material_dark;
+			global::Entidades.Resource.Color.bright_foreground_material_light = global::AsesoriasApp.Resource.Color.bright_foreground_material_light;
+			global::Entidades.Resource.Color.button_material_dark = global::AsesoriasApp.Resource.Color.button_material_dark;
+			global::Entidades.Resource.Color.button_material_light = global::AsesoriasApp.Resource.Color.button_material_light;
+			global::Entidades.Resource.Color.dim_foreground_disabled_material_dark = global::AsesoriasApp.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Entidades.Resource.Color.dim_foreground_disabled_material_light = global::AsesoriasApp.Resource.Color.dim_foreground_disabled_material_light;
+			global::Entidades.Resource.Color.dim_foreground_material_dark = global::AsesoriasApp.Resource.Color.dim_foreground_material_dark;
+			global::Entidades.Resource.Color.dim_foreground_material_light = global::AsesoriasApp.Resource.Color.dim_foreground_material_light;
+			global::Entidades.Resource.Color.error_color_material = global::AsesoriasApp.Resource.Color.error_color_material;
+			global::Entidades.Resource.Color.foreground_material_dark = global::AsesoriasApp.Resource.Color.foreground_material_dark;
+			global::Entidades.Resource.Color.foreground_material_light = global::AsesoriasApp.Resource.Color.foreground_material_light;
+			global::Entidades.Resource.Color.highlighted_text_material_dark = global::AsesoriasApp.Resource.Color.highlighted_text_material_dark;
+			global::Entidades.Resource.Color.highlighted_text_material_light = global::AsesoriasApp.Resource.Color.highlighted_text_material_light;
+			global::Entidades.Resource.Color.material_blue_grey_800 = global::AsesoriasApp.Resource.Color.material_blue_grey_800;
+			global::Entidades.Resource.Color.material_blue_grey_900 = global::AsesoriasApp.Resource.Color.material_blue_grey_900;
+			global::Entidades.Resource.Color.material_blue_grey_950 = global::AsesoriasApp.Resource.Color.material_blue_grey_950;
+			global::Entidades.Resource.Color.material_deep_teal_200 = global::AsesoriasApp.Resource.Color.material_deep_teal_200;
+			global::Entidades.Resource.Color.material_deep_teal_500 = global::AsesoriasApp.Resource.Color.material_deep_teal_500;
+			global::Entidades.Resource.Color.material_grey_100 = global::AsesoriasApp.Resource.Color.material_grey_100;
+			global::Entidades.Resource.Color.material_grey_300 = global::AsesoriasApp.Resource.Color.material_grey_300;
+			global::Entidades.Resource.Color.material_grey_50 = global::AsesoriasApp.Resource.Color.material_grey_50;
+			global::Entidades.Resource.Color.material_grey_600 = global::AsesoriasApp.Resource.Color.material_grey_600;
+			global::Entidades.Resource.Color.material_grey_800 = global::AsesoriasApp.Resource.Color.material_grey_800;
+			global::Entidades.Resource.Color.material_grey_850 = global::AsesoriasApp.Resource.Color.material_grey_850;
+			global::Entidades.Resource.Color.material_grey_900 = global::AsesoriasApp.Resource.Color.material_grey_900;
+			global::Entidades.Resource.Color.notification_action_color_filter = global::AsesoriasApp.Resource.Color.notification_action_color_filter;
+			global::Entidades.Resource.Color.notification_icon_bg_color = global::AsesoriasApp.Resource.Color.notification_icon_bg_color;
+			global::Entidades.Resource.Color.notification_material_background_media_default_color = global::AsesoriasApp.Resource.Color.notification_material_background_media_default_color;
+			global::Entidades.Resource.Color.primary_dark_material_dark = global::AsesoriasApp.Resource.Color.primary_dark_material_dark;
+			global::Entidades.Resource.Color.primary_dark_material_light = global::AsesoriasApp.Resource.Color.primary_dark_material_light;
+			global::Entidades.Resource.Color.primary_material_dark = global::AsesoriasApp.Resource.Color.primary_material_dark;
+			global::Entidades.Resource.Color.primary_material_light = global::AsesoriasApp.Resource.Color.primary_material_light;
+			global::Entidades.Resource.Color.primary_text_default_material_dark = global::AsesoriasApp.Resource.Color.primary_text_default_material_dark;
+			global::Entidades.Resource.Color.primary_text_default_material_light = global::AsesoriasApp.Resource.Color.primary_text_default_material_light;
+			global::Entidades.Resource.Color.primary_text_disabled_material_dark = global::AsesoriasApp.Resource.Color.primary_text_disabled_material_dark;
+			global::Entidades.Resource.Color.primary_text_disabled_material_light = global::AsesoriasApp.Resource.Color.primary_text_disabled_material_light;
+			global::Entidades.Resource.Color.ripple_material_dark = global::AsesoriasApp.Resource.Color.ripple_material_dark;
+			global::Entidades.Resource.Color.ripple_material_light = global::AsesoriasApp.Resource.Color.ripple_material_light;
+			global::Entidades.Resource.Color.secondary_text_default_material_dark = global::AsesoriasApp.Resource.Color.secondary_text_default_material_dark;
+			global::Entidades.Resource.Color.secondary_text_default_material_light = global::AsesoriasApp.Resource.Color.secondary_text_default_material_light;
+			global::Entidades.Resource.Color.secondary_text_disabled_material_dark = global::AsesoriasApp.Resource.Color.secondary_text_disabled_material_dark;
+			global::Entidades.Resource.Color.secondary_text_disabled_material_light = global::AsesoriasApp.Resource.Color.secondary_text_disabled_material_light;
+			global::Entidades.Resource.Color.switch_thumb_disabled_material_dark = global::AsesoriasApp.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Entidades.Resource.Color.switch_thumb_disabled_material_light = global::AsesoriasApp.Resource.Color.switch_thumb_disabled_material_light;
+			global::Entidades.Resource.Color.switch_thumb_material_dark = global::AsesoriasApp.Resource.Color.switch_thumb_material_dark;
+			global::Entidades.Resource.Color.switch_thumb_material_light = global::AsesoriasApp.Resource.Color.switch_thumb_material_light;
+			global::Entidades.Resource.Color.switch_thumb_normal_material_dark = global::AsesoriasApp.Resource.Color.switch_thumb_normal_material_dark;
+			global::Entidades.Resource.Color.switch_thumb_normal_material_light = global::AsesoriasApp.Resource.Color.switch_thumb_normal_material_light;
+			global::Entidades.Resource.Color.tooltip_background_dark = global::AsesoriasApp.Resource.Color.tooltip_background_dark;
+			global::Entidades.Resource.Color.tooltip_background_light = global::AsesoriasApp.Resource.Color.tooltip_background_light;
+			global::Entidades.Resource.Dimension.abc_action_bar_content_inset_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Entidades.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::AsesoriasApp.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Entidades.Resource.Dimension.abc_action_bar_default_height_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Entidades.Resource.Dimension.abc_action_bar_default_padding_end_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Entidades.Resource.Dimension.abc_action_bar_default_padding_start_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Entidades.Resource.Dimension.abc_action_bar_elevation_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Entidades.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Entidades.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Entidades.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Entidades.Resource.Dimension.abc_action_bar_progress_bar_size = global::AsesoriasApp.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::Entidades.Resource.Dimension.abc_action_bar_stacked_max_height = global::AsesoriasApp.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Entidades.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::AsesoriasApp.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Entidades.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Entidades.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Entidades.Resource.Dimension.abc_action_button_min_height_material = global::AsesoriasApp.Resource.Dimension.abc_action_button_min_height_material;
+			global::Entidades.Resource.Dimension.abc_action_button_min_width_material = global::AsesoriasApp.Resource.Dimension.abc_action_button_min_width_material;
+			global::Entidades.Resource.Dimension.abc_action_button_min_width_overflow_material = global::AsesoriasApp.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Entidades.Resource.Dimension.abc_alert_dialog_button_bar_height = global::AsesoriasApp.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Entidades.Resource.Dimension.abc_button_inset_horizontal_material = global::AsesoriasApp.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Entidades.Resource.Dimension.abc_button_inset_vertical_material = global::AsesoriasApp.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Entidades.Resource.Dimension.abc_button_padding_horizontal_material = global::AsesoriasApp.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Entidades.Resource.Dimension.abc_button_padding_vertical_material = global::AsesoriasApp.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Entidades.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::AsesoriasApp.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Entidades.Resource.Dimension.abc_config_prefDialogWidth = global::AsesoriasApp.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Entidades.Resource.Dimension.abc_control_corner_material = global::AsesoriasApp.Resource.Dimension.abc_control_corner_material;
+			global::Entidades.Resource.Dimension.abc_control_inset_material = global::AsesoriasApp.Resource.Dimension.abc_control_inset_material;
+			global::Entidades.Resource.Dimension.abc_control_padding_material = global::AsesoriasApp.Resource.Dimension.abc_control_padding_material;
+			global::Entidades.Resource.Dimension.abc_dialog_fixed_height_major = global::AsesoriasApp.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Entidades.Resource.Dimension.abc_dialog_fixed_height_minor = global::AsesoriasApp.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Entidades.Resource.Dimension.abc_dialog_fixed_width_major = global::AsesoriasApp.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Entidades.Resource.Dimension.abc_dialog_fixed_width_minor = global::AsesoriasApp.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Entidades.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::AsesoriasApp.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Entidades.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::AsesoriasApp.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Entidades.Resource.Dimension.abc_dialog_min_width_major = global::AsesoriasApp.Resource.Dimension.abc_dialog_min_width_major;
+			global::Entidades.Resource.Dimension.abc_dialog_min_width_minor = global::AsesoriasApp.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Entidades.Resource.Dimension.abc_dialog_padding_material = global::AsesoriasApp.Resource.Dimension.abc_dialog_padding_material;
+			global::Entidades.Resource.Dimension.abc_dialog_padding_top_material = global::AsesoriasApp.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Entidades.Resource.Dimension.abc_dialog_title_divider_material = global::AsesoriasApp.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Entidades.Resource.Dimension.abc_disabled_alpha_material_dark = global::AsesoriasApp.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Entidades.Resource.Dimension.abc_disabled_alpha_material_light = global::AsesoriasApp.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Entidades.Resource.Dimension.abc_dropdownitem_icon_width = global::AsesoriasApp.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Entidades.Resource.Dimension.abc_dropdownitem_text_padding_left = global::AsesoriasApp.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Entidades.Resource.Dimension.abc_dropdownitem_text_padding_right = global::AsesoriasApp.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Entidades.Resource.Dimension.abc_edit_text_inset_bottom_material = global::AsesoriasApp.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Entidades.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::AsesoriasApp.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Entidades.Resource.Dimension.abc_edit_text_inset_top_material = global::AsesoriasApp.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Entidades.Resource.Dimension.abc_floating_window_z = global::AsesoriasApp.Resource.Dimension.abc_floating_window_z;
+			global::Entidades.Resource.Dimension.abc_list_item_padding_horizontal_material = global::AsesoriasApp.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Entidades.Resource.Dimension.abc_panel_menu_list_width = global::AsesoriasApp.Resource.Dimension.abc_panel_menu_list_width;
+			global::Entidades.Resource.Dimension.abc_progress_bar_height_material = global::AsesoriasApp.Resource.Dimension.abc_progress_bar_height_material;
+			global::Entidades.Resource.Dimension.abc_search_view_preferred_height = global::AsesoriasApp.Resource.Dimension.abc_search_view_preferred_height;
+			global::Entidades.Resource.Dimension.abc_search_view_preferred_width = global::AsesoriasApp.Resource.Dimension.abc_search_view_preferred_width;
+			global::Entidades.Resource.Dimension.abc_seekbar_track_background_height_material = global::AsesoriasApp.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Entidades.Resource.Dimension.abc_seekbar_track_progress_height_material = global::AsesoriasApp.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Entidades.Resource.Dimension.abc_select_dialog_padding_start_material = global::AsesoriasApp.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Entidades.Resource.Dimension.abc_switch_padding = global::AsesoriasApp.Resource.Dimension.abc_switch_padding;
+			global::Entidades.Resource.Dimension.abc_text_size_body_1_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_body_1_material;
+			global::Entidades.Resource.Dimension.abc_text_size_body_2_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_body_2_material;
+			global::Entidades.Resource.Dimension.abc_text_size_button_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_button_material;
+			global::Entidades.Resource.Dimension.abc_text_size_caption_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_caption_material;
+			global::Entidades.Resource.Dimension.abc_text_size_display_1_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_display_1_material;
+			global::Entidades.Resource.Dimension.abc_text_size_display_2_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_display_2_material;
+			global::Entidades.Resource.Dimension.abc_text_size_display_3_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_display_3_material;
+			global::Entidades.Resource.Dimension.abc_text_size_display_4_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_display_4_material;
+			global::Entidades.Resource.Dimension.abc_text_size_headline_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_headline_material;
+			global::Entidades.Resource.Dimension.abc_text_size_large_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_large_material;
+			global::Entidades.Resource.Dimension.abc_text_size_medium_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_medium_material;
+			global::Entidades.Resource.Dimension.abc_text_size_menu_header_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Entidades.Resource.Dimension.abc_text_size_menu_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_menu_material;
+			global::Entidades.Resource.Dimension.abc_text_size_small_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_small_material;
+			global::Entidades.Resource.Dimension.abc_text_size_subhead_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_subhead_material;
+			global::Entidades.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::AsesoriasApp.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Entidades.Resource.Dimension.abc_text_size_title_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_title_material;
+			global::Entidades.Resource.Dimension.abc_text_size_title_material_toolbar = global::AsesoriasApp.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Entidades.Resource.Dimension.compat_button_inset_horizontal_material = global::AsesoriasApp.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Entidades.Resource.Dimension.compat_button_inset_vertical_material = global::AsesoriasApp.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Entidades.Resource.Dimension.compat_button_padding_horizontal_material = global::AsesoriasApp.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Entidades.Resource.Dimension.compat_button_padding_vertical_material = global::AsesoriasApp.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Entidades.Resource.Dimension.compat_control_corner_material = global::AsesoriasApp.Resource.Dimension.compat_control_corner_material;
+			global::Entidades.Resource.Dimension.disabled_alpha_material_dark = global::AsesoriasApp.Resource.Dimension.disabled_alpha_material_dark;
+			global::Entidades.Resource.Dimension.disabled_alpha_material_light = global::AsesoriasApp.Resource.Dimension.disabled_alpha_material_light;
+			global::Entidades.Resource.Dimension.highlight_alpha_material_colored = global::AsesoriasApp.Resource.Dimension.highlight_alpha_material_colored;
+			global::Entidades.Resource.Dimension.highlight_alpha_material_dark = global::AsesoriasApp.Resource.Dimension.highlight_alpha_material_dark;
+			global::Entidades.Resource.Dimension.highlight_alpha_material_light = global::AsesoriasApp.Resource.Dimension.highlight_alpha_material_light;
+			global::Entidades.Resource.Dimension.hint_alpha_material_dark = global::AsesoriasApp.Resource.Dimension.hint_alpha_material_dark;
+			global::Entidades.Resource.Dimension.hint_alpha_material_light = global::AsesoriasApp.Resource.Dimension.hint_alpha_material_light;
+			global::Entidades.Resource.Dimension.hint_pressed_alpha_material_dark = global::AsesoriasApp.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Entidades.Resource.Dimension.hint_pressed_alpha_material_light = global::AsesoriasApp.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Entidades.Resource.Dimension.notification_action_icon_size = global::AsesoriasApp.Resource.Dimension.notification_action_icon_size;
+			global::Entidades.Resource.Dimension.notification_action_text_size = global::AsesoriasApp.Resource.Dimension.notification_action_text_size;
+			global::Entidades.Resource.Dimension.notification_big_circle_margin = global::AsesoriasApp.Resource.Dimension.notification_big_circle_margin;
+			global::Entidades.Resource.Dimension.notification_content_margin_start = global::AsesoriasApp.Resource.Dimension.notification_content_margin_start;
+			global::Entidades.Resource.Dimension.notification_large_icon_height = global::AsesoriasApp.Resource.Dimension.notification_large_icon_height;
+			global::Entidades.Resource.Dimension.notification_large_icon_width = global::AsesoriasApp.Resource.Dimension.notification_large_icon_width;
+			global::Entidades.Resource.Dimension.notification_main_column_padding_top = global::AsesoriasApp.Resource.Dimension.notification_main_column_padding_top;
+			global::Entidades.Resource.Dimension.notification_media_narrow_margin = global::AsesoriasApp.Resource.Dimension.notification_media_narrow_margin;
+			global::Entidades.Resource.Dimension.notification_right_icon_size = global::AsesoriasApp.Resource.Dimension.notification_right_icon_size;
+			global::Entidades.Resource.Dimension.notification_right_side_padding_top = global::AsesoriasApp.Resource.Dimension.notification_right_side_padding_top;
+			global::Entidades.Resource.Dimension.notification_small_icon_background_padding = global::AsesoriasApp.Resource.Dimension.notification_small_icon_background_padding;
+			global::Entidades.Resource.Dimension.notification_small_icon_size_as_large = global::AsesoriasApp.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Entidades.Resource.Dimension.notification_subtext_size = global::AsesoriasApp.Resource.Dimension.notification_subtext_size;
+			global::Entidades.Resource.Dimension.notification_top_pad = global::AsesoriasApp.Resource.Dimension.notification_top_pad;
+			global::Entidades.Resource.Dimension.notification_top_pad_large_text = global::AsesoriasApp.Resource.Dimension.notification_top_pad_large_text;
+			global::Entidades.Resource.Dimension.tooltip_corner_radius = global::AsesoriasApp.Resource.Dimension.tooltip_corner_radius;
+			global::Entidades.Resource.Dimension.tooltip_horizontal_padding = global::AsesoriasApp.Resource.Dimension.tooltip_horizontal_padding;
+			global::Entidades.Resource.Dimension.tooltip_margin = global::AsesoriasApp.Resource.Dimension.tooltip_margin;
+			global::Entidades.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::AsesoriasApp.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Entidades.Resource.Dimension.tooltip_precise_anchor_threshold = global::AsesoriasApp.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Entidades.Resource.Dimension.tooltip_vertical_padding = global::AsesoriasApp.Resource.Dimension.tooltip_vertical_padding;
+			global::Entidades.Resource.Dimension.tooltip_y_offset_non_touch = global::AsesoriasApp.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Entidades.Resource.Dimension.tooltip_y_offset_touch = global::AsesoriasApp.Resource.Dimension.tooltip_y_offset_touch;
+			global::Entidades.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_action_bar_item_background_material = global::AsesoriasApp.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Entidades.Resource.Drawable.abc_btn_borderless_material = global::AsesoriasApp.Resource.Drawable.abc_btn_borderless_material;
+			global::Entidades.Resource.Drawable.abc_btn_check_material = global::AsesoriasApp.Resource.Drawable.abc_btn_check_material;
+			global::Entidades.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::AsesoriasApp.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Entidades.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::AsesoriasApp.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Entidades.Resource.Drawable.abc_btn_colored_material = global::AsesoriasApp.Resource.Drawable.abc_btn_colored_material;
+			global::Entidades.Resource.Drawable.abc_btn_default_mtrl_shape = global::AsesoriasApp.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Entidades.Resource.Drawable.abc_btn_radio_material = global::AsesoriasApp.Resource.Drawable.abc_btn_radio_material;
+			global::Entidades.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::AsesoriasApp.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Entidades.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::AsesoriasApp.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Entidades.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::AsesoriasApp.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Entidades.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::AsesoriasApp.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Entidades.Resource.Drawable.abc_cab_background_internal_bg = global::AsesoriasApp.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Entidades.Resource.Drawable.abc_cab_background_top_material = global::AsesoriasApp.Resource.Drawable.abc_cab_background_top_material;
+			global::Entidades.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_control_background_material = global::AsesoriasApp.Resource.Drawable.abc_control_background_material;
+			global::Entidades.Resource.Drawable.abc_dialog_material_background = global::AsesoriasApp.Resource.Drawable.abc_dialog_material_background;
+			global::Entidades.Resource.Drawable.abc_edit_text_material = global::AsesoriasApp.Resource.Drawable.abc_edit_text_material;
+			global::Entidades.Resource.Drawable.abc_ic_ab_back_material = global::AsesoriasApp.Resource.Drawable.abc_ic_ab_back_material;
+			global::Entidades.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::AsesoriasApp.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Entidades.Resource.Drawable.abc_ic_clear_material = global::AsesoriasApp.Resource.Drawable.abc_ic_clear_material;
+			global::Entidades.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_ic_go_search_api_material = global::AsesoriasApp.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Entidades.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Entidades.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_ic_menu_overflow_material = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Entidades.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Entidades.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_ic_search_api_material = global::AsesoriasApp.Resource.Drawable.abc_ic_search_api_material;
+			global::Entidades.Resource.Drawable.abc_ic_star_black_16dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Entidades.Resource.Drawable.abc_ic_star_black_36dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Entidades.Resource.Drawable.abc_ic_star_black_48dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Entidades.Resource.Drawable.abc_ic_star_half_black_16dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Entidades.Resource.Drawable.abc_ic_star_half_black_36dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Entidades.Resource.Drawable.abc_ic_star_half_black_48dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Entidades.Resource.Drawable.abc_ic_voice_search_api_material = global::AsesoriasApp.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Entidades.Resource.Drawable.abc_item_background_holo_dark = global::AsesoriasApp.Resource.Drawable.abc_item_background_holo_dark;
+			global::Entidades.Resource.Drawable.abc_item_background_holo_light = global::AsesoriasApp.Resource.Drawable.abc_item_background_holo_light;
+			global::Entidades.Resource.Drawable.abc_list_divider_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_list_focused_holo = global::AsesoriasApp.Resource.Drawable.abc_list_focused_holo;
+			global::Entidades.Resource.Drawable.abc_list_longpressed_holo = global::AsesoriasApp.Resource.Drawable.abc_list_longpressed_holo;
+			global::Entidades.Resource.Drawable.abc_list_pressed_holo_dark = global::AsesoriasApp.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Entidades.Resource.Drawable.abc_list_pressed_holo_light = global::AsesoriasApp.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Entidades.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::AsesoriasApp.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Entidades.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::AsesoriasApp.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Entidades.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::AsesoriasApp.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Entidades.Resource.Drawable.abc_list_selector_disabled_holo_light = global::AsesoriasApp.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Entidades.Resource.Drawable.abc_list_selector_holo_dark = global::AsesoriasApp.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Entidades.Resource.Drawable.abc_list_selector_holo_light = global::AsesoriasApp.Resource.Drawable.abc_list_selector_holo_light;
+			global::Entidades.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::AsesoriasApp.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Entidades.Resource.Drawable.abc_popup_background_mtrl_mult = global::AsesoriasApp.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Entidades.Resource.Drawable.abc_ratingbar_indicator_material = global::AsesoriasApp.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Entidades.Resource.Drawable.abc_ratingbar_material = global::AsesoriasApp.Resource.Drawable.abc_ratingbar_material;
+			global::Entidades.Resource.Drawable.abc_ratingbar_small_material = global::AsesoriasApp.Resource.Drawable.abc_ratingbar_small_material;
+			global::Entidades.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::AsesoriasApp.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Entidades.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::AsesoriasApp.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Entidades.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_seekbar_thumb_material = global::AsesoriasApp.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Entidades.Resource.Drawable.abc_seekbar_tick_mark_material = global::AsesoriasApp.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Entidades.Resource.Drawable.abc_seekbar_track_material = global::AsesoriasApp.Resource.Drawable.abc_seekbar_track_material;
+			global::Entidades.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::AsesoriasApp.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Entidades.Resource.Drawable.abc_spinner_textfield_background_material = global::AsesoriasApp.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Entidades.Resource.Drawable.abc_switch_thumb_material = global::AsesoriasApp.Resource.Drawable.abc_switch_thumb_material;
+			global::Entidades.Resource.Drawable.abc_switch_track_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_tab_indicator_material = global::AsesoriasApp.Resource.Drawable.abc_tab_indicator_material;
+			global::Entidades.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_text_cursor_material = global::AsesoriasApp.Resource.Drawable.abc_text_cursor_material;
+			global::Entidades.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Entidades.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Entidades.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Entidades.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Entidades.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Entidades.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Entidades.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Entidades.Resource.Drawable.abc_textfield_search_material = global::AsesoriasApp.Resource.Drawable.abc_textfield_search_material;
+			global::Entidades.Resource.Drawable.abc_vector_test = global::AsesoriasApp.Resource.Drawable.abc_vector_test;
+			global::Entidades.Resource.Drawable.notification_action_background = global::AsesoriasApp.Resource.Drawable.notification_action_background;
+			global::Entidades.Resource.Drawable.notification_bg = global::AsesoriasApp.Resource.Drawable.notification_bg;
+			global::Entidades.Resource.Drawable.notification_bg_low = global::AsesoriasApp.Resource.Drawable.notification_bg_low;
+			global::Entidades.Resource.Drawable.notification_bg_low_normal = global::AsesoriasApp.Resource.Drawable.notification_bg_low_normal;
+			global::Entidades.Resource.Drawable.notification_bg_low_pressed = global::AsesoriasApp.Resource.Drawable.notification_bg_low_pressed;
+			global::Entidades.Resource.Drawable.notification_bg_normal = global::AsesoriasApp.Resource.Drawable.notification_bg_normal;
+			global::Entidades.Resource.Drawable.notification_bg_normal_pressed = global::AsesoriasApp.Resource.Drawable.notification_bg_normal_pressed;
+			global::Entidades.Resource.Drawable.notification_icon_background = global::AsesoriasApp.Resource.Drawable.notification_icon_background;
+			global::Entidades.Resource.Drawable.notification_template_icon_bg = global::AsesoriasApp.Resource.Drawable.notification_template_icon_bg;
+			global::Entidades.Resource.Drawable.notification_template_icon_low_bg = global::AsesoriasApp.Resource.Drawable.notification_template_icon_low_bg;
+			global::Entidades.Resource.Drawable.notification_tile_bg = global::AsesoriasApp.Resource.Drawable.notification_tile_bg;
+			global::Entidades.Resource.Drawable.notify_panel_notification_icon_bg = global::AsesoriasApp.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Entidades.Resource.Drawable.tooltip_frame_dark = global::AsesoriasApp.Resource.Drawable.tooltip_frame_dark;
+			global::Entidades.Resource.Drawable.tooltip_frame_light = global::AsesoriasApp.Resource.Drawable.tooltip_frame_light;
+			global::Entidades.Resource.Id.ALT = global::AsesoriasApp.Resource.Id.ALT;
+			global::Entidades.Resource.Id.CTRL = global::AsesoriasApp.Resource.Id.CTRL;
+			global::Entidades.Resource.Id.FUNCTION = global::AsesoriasApp.Resource.Id.FUNCTION;
+			global::Entidades.Resource.Id.META = global::AsesoriasApp.Resource.Id.META;
+			global::Entidades.Resource.Id.SHIFT = global::AsesoriasApp.Resource.Id.SHIFT;
+			global::Entidades.Resource.Id.SYM = global::AsesoriasApp.Resource.Id.SYM;
+			global::Entidades.Resource.Id.action0 = global::AsesoriasApp.Resource.Id.action0;
+			global::Entidades.Resource.Id.action_bar = global::AsesoriasApp.Resource.Id.action_bar;
+			global::Entidades.Resource.Id.action_bar_activity_content = global::AsesoriasApp.Resource.Id.action_bar_activity_content;
+			global::Entidades.Resource.Id.action_bar_container = global::AsesoriasApp.Resource.Id.action_bar_container;
+			global::Entidades.Resource.Id.action_bar_root = global::AsesoriasApp.Resource.Id.action_bar_root;
+			global::Entidades.Resource.Id.action_bar_spinner = global::AsesoriasApp.Resource.Id.action_bar_spinner;
+			global::Entidades.Resource.Id.action_bar_subtitle = global::AsesoriasApp.Resource.Id.action_bar_subtitle;
+			global::Entidades.Resource.Id.action_bar_title = global::AsesoriasApp.Resource.Id.action_bar_title;
+			global::Entidades.Resource.Id.action_container = global::AsesoriasApp.Resource.Id.action_container;
+			global::Entidades.Resource.Id.action_context_bar = global::AsesoriasApp.Resource.Id.action_context_bar;
+			global::Entidades.Resource.Id.action_divider = global::AsesoriasApp.Resource.Id.action_divider;
+			global::Entidades.Resource.Id.action_image = global::AsesoriasApp.Resource.Id.action_image;
+			global::Entidades.Resource.Id.action_menu_divider = global::AsesoriasApp.Resource.Id.action_menu_divider;
+			global::Entidades.Resource.Id.action_menu_presenter = global::AsesoriasApp.Resource.Id.action_menu_presenter;
+			global::Entidades.Resource.Id.action_mode_bar = global::AsesoriasApp.Resource.Id.action_mode_bar;
+			global::Entidades.Resource.Id.action_mode_bar_stub = global::AsesoriasApp.Resource.Id.action_mode_bar_stub;
+			global::Entidades.Resource.Id.action_mode_close_button = global::AsesoriasApp.Resource.Id.action_mode_close_button;
+			global::Entidades.Resource.Id.action_text = global::AsesoriasApp.Resource.Id.action_text;
+			global::Entidades.Resource.Id.actions = global::AsesoriasApp.Resource.Id.actions;
+			global::Entidades.Resource.Id.activity_chooser_view_content = global::AsesoriasApp.Resource.Id.activity_chooser_view_content;
+			global::Entidades.Resource.Id.add = global::AsesoriasApp.Resource.Id.add;
+			global::Entidades.Resource.Id.alertTitle = global::AsesoriasApp.Resource.Id.alertTitle;
+			global::Entidades.Resource.Id.always = global::AsesoriasApp.Resource.Id.always;
+			global::Entidades.Resource.Id.async = global::AsesoriasApp.Resource.Id.async;
+			global::Entidades.Resource.Id.beginning = global::AsesoriasApp.Resource.Id.beginning;
+			global::Entidades.Resource.Id.blocking = global::AsesoriasApp.Resource.Id.blocking;
+			global::Entidades.Resource.Id.bottom = global::AsesoriasApp.Resource.Id.bottom;
+			global::Entidades.Resource.Id.buttonPanel = global::AsesoriasApp.Resource.Id.buttonPanel;
+			global::Entidades.Resource.Id.cancel_action = global::AsesoriasApp.Resource.Id.cancel_action;
+			global::Entidades.Resource.Id.checkbox = global::AsesoriasApp.Resource.Id.checkbox;
+			global::Entidades.Resource.Id.chronometer = global::AsesoriasApp.Resource.Id.chronometer;
+			global::Entidades.Resource.Id.collapseActionView = global::AsesoriasApp.Resource.Id.collapseActionView;
+			global::Entidades.Resource.Id.contentPanel = global::AsesoriasApp.Resource.Id.contentPanel;
+			global::Entidades.Resource.Id.custom = global::AsesoriasApp.Resource.Id.custom;
+			global::Entidades.Resource.Id.customPanel = global::AsesoriasApp.Resource.Id.customPanel;
+			global::Entidades.Resource.Id.decor_content_parent = global::AsesoriasApp.Resource.Id.decor_content_parent;
+			global::Entidades.Resource.Id.default_activity_button = global::AsesoriasApp.Resource.Id.default_activity_button;
+			global::Entidades.Resource.Id.disableHome = global::AsesoriasApp.Resource.Id.disableHome;
+			global::Entidades.Resource.Id.edit_query = global::AsesoriasApp.Resource.Id.edit_query;
+			global::Entidades.Resource.Id.end = global::AsesoriasApp.Resource.Id.end;
+			global::Entidades.Resource.Id.end_padder = global::AsesoriasApp.Resource.Id.end_padder;
+			global::Entidades.Resource.Id.expand_activities_button = global::AsesoriasApp.Resource.Id.expand_activities_button;
+			global::Entidades.Resource.Id.expanded_menu = global::AsesoriasApp.Resource.Id.expanded_menu;
+			global::Entidades.Resource.Id.forever = global::AsesoriasApp.Resource.Id.forever;
+			global::Entidades.Resource.Id.home = global::AsesoriasApp.Resource.Id.home;
+			global::Entidades.Resource.Id.homeAsUp = global::AsesoriasApp.Resource.Id.homeAsUp;
+			global::Entidades.Resource.Id.icon = global::AsesoriasApp.Resource.Id.icon;
+			global::Entidades.Resource.Id.icon_group = global::AsesoriasApp.Resource.Id.icon_group;
+			global::Entidades.Resource.Id.ifRoom = global::AsesoriasApp.Resource.Id.ifRoom;
+			global::Entidades.Resource.Id.image = global::AsesoriasApp.Resource.Id.image;
+			global::Entidades.Resource.Id.info = global::AsesoriasApp.Resource.Id.info;
+			global::Entidades.Resource.Id.italic = global::AsesoriasApp.Resource.Id.italic;
+			global::Entidades.Resource.Id.line1 = global::AsesoriasApp.Resource.Id.line1;
+			global::Entidades.Resource.Id.line3 = global::AsesoriasApp.Resource.Id.line3;
+			global::Entidades.Resource.Id.listMode = global::AsesoriasApp.Resource.Id.listMode;
+			global::Entidades.Resource.Id.list_item = global::AsesoriasApp.Resource.Id.list_item;
+			global::Entidades.Resource.Id.media_actions = global::AsesoriasApp.Resource.Id.media_actions;
+			global::Entidades.Resource.Id.message = global::AsesoriasApp.Resource.Id.message;
+			global::Entidades.Resource.Id.middle = global::AsesoriasApp.Resource.Id.middle;
+			global::Entidades.Resource.Id.multiply = global::AsesoriasApp.Resource.Id.multiply;
+			global::Entidades.Resource.Id.never = global::AsesoriasApp.Resource.Id.never;
+			global::Entidades.Resource.Id.none = global::AsesoriasApp.Resource.Id.none;
+			global::Entidades.Resource.Id.normal = global::AsesoriasApp.Resource.Id.normal;
+			global::Entidades.Resource.Id.notification_background = global::AsesoriasApp.Resource.Id.notification_background;
+			global::Entidades.Resource.Id.notification_main_column = global::AsesoriasApp.Resource.Id.notification_main_column;
+			global::Entidades.Resource.Id.notification_main_column_container = global::AsesoriasApp.Resource.Id.notification_main_column_container;
+			global::Entidades.Resource.Id.parentPanel = global::AsesoriasApp.Resource.Id.parentPanel;
+			global::Entidades.Resource.Id.progress_circular = global::AsesoriasApp.Resource.Id.progress_circular;
+			global::Entidades.Resource.Id.progress_horizontal = global::AsesoriasApp.Resource.Id.progress_horizontal;
+			global::Entidades.Resource.Id.radio = global::AsesoriasApp.Resource.Id.radio;
+			global::Entidades.Resource.Id.right_icon = global::AsesoriasApp.Resource.Id.right_icon;
+			global::Entidades.Resource.Id.right_side = global::AsesoriasApp.Resource.Id.right_side;
+			global::Entidades.Resource.Id.screen = global::AsesoriasApp.Resource.Id.screen;
+			global::Entidades.Resource.Id.scrollIndicatorDown = global::AsesoriasApp.Resource.Id.scrollIndicatorDown;
+			global::Entidades.Resource.Id.scrollIndicatorUp = global::AsesoriasApp.Resource.Id.scrollIndicatorUp;
+			global::Entidades.Resource.Id.scrollView = global::AsesoriasApp.Resource.Id.scrollView;
+			global::Entidades.Resource.Id.search_badge = global::AsesoriasApp.Resource.Id.search_badge;
+			global::Entidades.Resource.Id.search_bar = global::AsesoriasApp.Resource.Id.search_bar;
+			global::Entidades.Resource.Id.search_button = global::AsesoriasApp.Resource.Id.search_button;
+			global::Entidades.Resource.Id.search_close_btn = global::AsesoriasApp.Resource.Id.search_close_btn;
+			global::Entidades.Resource.Id.search_edit_frame = global::AsesoriasApp.Resource.Id.search_edit_frame;
+			global::Entidades.Resource.Id.search_go_btn = global::AsesoriasApp.Resource.Id.search_go_btn;
+			global::Entidades.Resource.Id.search_mag_icon = global::AsesoriasApp.Resource.Id.search_mag_icon;
+			global::Entidades.Resource.Id.search_plate = global::AsesoriasApp.Resource.Id.search_plate;
+			global::Entidades.Resource.Id.search_src_text = global::AsesoriasApp.Resource.Id.search_src_text;
+			global::Entidades.Resource.Id.search_voice_btn = global::AsesoriasApp.Resource.Id.search_voice_btn;
+			global::Entidades.Resource.Id.select_dialog_listview = global::AsesoriasApp.Resource.Id.select_dialog_listview;
+			global::Entidades.Resource.Id.shortcut = global::AsesoriasApp.Resource.Id.shortcut;
+			global::Entidades.Resource.Id.showCustom = global::AsesoriasApp.Resource.Id.showCustom;
+			global::Entidades.Resource.Id.showHome = global::AsesoriasApp.Resource.Id.showHome;
+			global::Entidades.Resource.Id.showTitle = global::AsesoriasApp.Resource.Id.showTitle;
+			global::Entidades.Resource.Id.spacer = global::AsesoriasApp.Resource.Id.spacer;
+			global::Entidades.Resource.Id.split_action_bar = global::AsesoriasApp.Resource.Id.split_action_bar;
+			global::Entidades.Resource.Id.src_atop = global::AsesoriasApp.Resource.Id.src_atop;
+			global::Entidades.Resource.Id.src_in = global::AsesoriasApp.Resource.Id.src_in;
+			global::Entidades.Resource.Id.src_over = global::AsesoriasApp.Resource.Id.src_over;
+			global::Entidades.Resource.Id.status_bar_latest_event_content = global::AsesoriasApp.Resource.Id.status_bar_latest_event_content;
+			global::Entidades.Resource.Id.submenuarrow = global::AsesoriasApp.Resource.Id.submenuarrow;
+			global::Entidades.Resource.Id.submit_area = global::AsesoriasApp.Resource.Id.submit_area;
+			global::Entidades.Resource.Id.tabMode = global::AsesoriasApp.Resource.Id.tabMode;
+			global::Entidades.Resource.Id.tag_transition_group = global::AsesoriasApp.Resource.Id.tag_transition_group;
+			global::Entidades.Resource.Id.text = global::AsesoriasApp.Resource.Id.text;
+			global::Entidades.Resource.Id.text2 = global::AsesoriasApp.Resource.Id.text2;
+			global::Entidades.Resource.Id.textSpacerNoButtons = global::AsesoriasApp.Resource.Id.textSpacerNoButtons;
+			global::Entidades.Resource.Id.textSpacerNoTitle = global::AsesoriasApp.Resource.Id.textSpacerNoTitle;
+			global::Entidades.Resource.Id.time = global::AsesoriasApp.Resource.Id.time;
+			global::Entidades.Resource.Id.title = global::AsesoriasApp.Resource.Id.title;
+			global::Entidades.Resource.Id.titleDividerNoCustom = global::AsesoriasApp.Resource.Id.titleDividerNoCustom;
+			global::Entidades.Resource.Id.title_template = global::AsesoriasApp.Resource.Id.title_template;
+			global::Entidades.Resource.Id.top = global::AsesoriasApp.Resource.Id.top;
+			global::Entidades.Resource.Id.topPanel = global::AsesoriasApp.Resource.Id.topPanel;
+			global::Entidades.Resource.Id.uniform = global::AsesoriasApp.Resource.Id.uniform;
+			global::Entidades.Resource.Id.up = global::AsesoriasApp.Resource.Id.up;
+			global::Entidades.Resource.Id.useLogo = global::AsesoriasApp.Resource.Id.useLogo;
+			global::Entidades.Resource.Id.withText = global::AsesoriasApp.Resource.Id.withText;
+			global::Entidades.Resource.Id.wrap_content = global::AsesoriasApp.Resource.Id.wrap_content;
+			global::Entidades.Resource.Integer.abc_config_activityDefaultDur = global::AsesoriasApp.Resource.Integer.abc_config_activityDefaultDur;
+			global::Entidades.Resource.Integer.abc_config_activityShortDur = global::AsesoriasApp.Resource.Integer.abc_config_activityShortDur;
+			global::Entidades.Resource.Integer.cancel_button_image_alpha = global::AsesoriasApp.Resource.Integer.cancel_button_image_alpha;
+			global::Entidades.Resource.Integer.config_tooltipAnimTime = global::AsesoriasApp.Resource.Integer.config_tooltipAnimTime;
+			global::Entidades.Resource.Integer.status_bar_notification_info_maxnum = global::AsesoriasApp.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Entidades.Resource.Layout.abc_action_bar_title_item = global::AsesoriasApp.Resource.Layout.abc_action_bar_title_item;
+			global::Entidades.Resource.Layout.abc_action_bar_up_container = global::AsesoriasApp.Resource.Layout.abc_action_bar_up_container;
+			global::Entidades.Resource.Layout.abc_action_menu_item_layout = global::AsesoriasApp.Resource.Layout.abc_action_menu_item_layout;
+			global::Entidades.Resource.Layout.abc_action_menu_layout = global::AsesoriasApp.Resource.Layout.abc_action_menu_layout;
+			global::Entidades.Resource.Layout.abc_action_mode_bar = global::AsesoriasApp.Resource.Layout.abc_action_mode_bar;
+			global::Entidades.Resource.Layout.abc_action_mode_close_item_material = global::AsesoriasApp.Resource.Layout.abc_action_mode_close_item_material;
+			global::Entidades.Resource.Layout.abc_activity_chooser_view = global::AsesoriasApp.Resource.Layout.abc_activity_chooser_view;
+			global::Entidades.Resource.Layout.abc_activity_chooser_view_list_item = global::AsesoriasApp.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Entidades.Resource.Layout.abc_alert_dialog_button_bar_material = global::AsesoriasApp.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Entidades.Resource.Layout.abc_alert_dialog_material = global::AsesoriasApp.Resource.Layout.abc_alert_dialog_material;
+			global::Entidades.Resource.Layout.abc_alert_dialog_title_material = global::AsesoriasApp.Resource.Layout.abc_alert_dialog_title_material;
+			global::Entidades.Resource.Layout.abc_dialog_title_material = global::AsesoriasApp.Resource.Layout.abc_dialog_title_material;
+			global::Entidades.Resource.Layout.abc_expanded_menu_layout = global::AsesoriasApp.Resource.Layout.abc_expanded_menu_layout;
+			global::Entidades.Resource.Layout.abc_list_menu_item_checkbox = global::AsesoriasApp.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Entidades.Resource.Layout.abc_list_menu_item_icon = global::AsesoriasApp.Resource.Layout.abc_list_menu_item_icon;
+			global::Entidades.Resource.Layout.abc_list_menu_item_layout = global::AsesoriasApp.Resource.Layout.abc_list_menu_item_layout;
+			global::Entidades.Resource.Layout.abc_list_menu_item_radio = global::AsesoriasApp.Resource.Layout.abc_list_menu_item_radio;
+			global::Entidades.Resource.Layout.abc_popup_menu_header_item_layout = global::AsesoriasApp.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Entidades.Resource.Layout.abc_popup_menu_item_layout = global::AsesoriasApp.Resource.Layout.abc_popup_menu_item_layout;
+			global::Entidades.Resource.Layout.abc_screen_content_include = global::AsesoriasApp.Resource.Layout.abc_screen_content_include;
+			global::Entidades.Resource.Layout.abc_screen_simple = global::AsesoriasApp.Resource.Layout.abc_screen_simple;
+			global::Entidades.Resource.Layout.abc_screen_simple_overlay_action_mode = global::AsesoriasApp.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Entidades.Resource.Layout.abc_screen_toolbar = global::AsesoriasApp.Resource.Layout.abc_screen_toolbar;
+			global::Entidades.Resource.Layout.abc_search_dropdown_item_icons_2line = global::AsesoriasApp.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Entidades.Resource.Layout.abc_search_view = global::AsesoriasApp.Resource.Layout.abc_search_view;
+			global::Entidades.Resource.Layout.abc_select_dialog_material = global::AsesoriasApp.Resource.Layout.abc_select_dialog_material;
+			global::Entidades.Resource.Layout.notification_action = global::AsesoriasApp.Resource.Layout.notification_action;
+			global::Entidades.Resource.Layout.notification_action_tombstone = global::AsesoriasApp.Resource.Layout.notification_action_tombstone;
+			global::Entidades.Resource.Layout.notification_media_action = global::AsesoriasApp.Resource.Layout.notification_media_action;
+			global::Entidades.Resource.Layout.notification_media_cancel_action = global::AsesoriasApp.Resource.Layout.notification_media_cancel_action;
+			global::Entidades.Resource.Layout.notification_template_big_media = global::AsesoriasApp.Resource.Layout.notification_template_big_media;
+			global::Entidades.Resource.Layout.notification_template_big_media_custom = global::AsesoriasApp.Resource.Layout.notification_template_big_media_custom;
+			global::Entidades.Resource.Layout.notification_template_big_media_narrow = global::AsesoriasApp.Resource.Layout.notification_template_big_media_narrow;
+			global::Entidades.Resource.Layout.notification_template_big_media_narrow_custom = global::AsesoriasApp.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Entidades.Resource.Layout.notification_template_custom_big = global::AsesoriasApp.Resource.Layout.notification_template_custom_big;
+			global::Entidades.Resource.Layout.notification_template_icon_group = global::AsesoriasApp.Resource.Layout.notification_template_icon_group;
+			global::Entidades.Resource.Layout.notification_template_lines_media = global::AsesoriasApp.Resource.Layout.notification_template_lines_media;
+			global::Entidades.Resource.Layout.notification_template_media = global::AsesoriasApp.Resource.Layout.notification_template_media;
+			global::Entidades.Resource.Layout.notification_template_media_custom = global::AsesoriasApp.Resource.Layout.notification_template_media_custom;
+			global::Entidades.Resource.Layout.notification_template_part_chronometer = global::AsesoriasApp.Resource.Layout.notification_template_part_chronometer;
+			global::Entidades.Resource.Layout.notification_template_part_time = global::AsesoriasApp.Resource.Layout.notification_template_part_time;
+			global::Entidades.Resource.Layout.select_dialog_item_material = global::AsesoriasApp.Resource.Layout.select_dialog_item_material;
+			global::Entidades.Resource.Layout.select_dialog_multichoice_material = global::AsesoriasApp.Resource.Layout.select_dialog_multichoice_material;
+			global::Entidades.Resource.Layout.select_dialog_singlechoice_material = global::AsesoriasApp.Resource.Layout.select_dialog_singlechoice_material;
+			global::Entidades.Resource.Layout.support_simple_spinner_dropdown_item = global::AsesoriasApp.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Entidades.Resource.Layout.tooltip = global::AsesoriasApp.Resource.Layout.tooltip;
+			global::Entidades.Resource.String.abc_action_bar_home_description = global::AsesoriasApp.Resource.String.abc_action_bar_home_description;
+			global::Entidades.Resource.String.abc_action_bar_up_description = global::AsesoriasApp.Resource.String.abc_action_bar_up_description;
+			global::Entidades.Resource.String.abc_action_menu_overflow_description = global::AsesoriasApp.Resource.String.abc_action_menu_overflow_description;
+			global::Entidades.Resource.String.abc_action_mode_done = global::AsesoriasApp.Resource.String.abc_action_mode_done;
+			global::Entidades.Resource.String.abc_activity_chooser_view_see_all = global::AsesoriasApp.Resource.String.abc_activity_chooser_view_see_all;
+			global::Entidades.Resource.String.abc_activitychooserview_choose_application = global::AsesoriasApp.Resource.String.abc_activitychooserview_choose_application;
+			global::Entidades.Resource.String.abc_capital_off = global::AsesoriasApp.Resource.String.abc_capital_off;
+			global::Entidades.Resource.String.abc_capital_on = global::AsesoriasApp.Resource.String.abc_capital_on;
+			global::Entidades.Resource.String.abc_font_family_body_1_material = global::AsesoriasApp.Resource.String.abc_font_family_body_1_material;
+			global::Entidades.Resource.String.abc_font_family_body_2_material = global::AsesoriasApp.Resource.String.abc_font_family_body_2_material;
+			global::Entidades.Resource.String.abc_font_family_button_material = global::AsesoriasApp.Resource.String.abc_font_family_button_material;
+			global::Entidades.Resource.String.abc_font_family_caption_material = global::AsesoriasApp.Resource.String.abc_font_family_caption_material;
+			global::Entidades.Resource.String.abc_font_family_display_1_material = global::AsesoriasApp.Resource.String.abc_font_family_display_1_material;
+			global::Entidades.Resource.String.abc_font_family_display_2_material = global::AsesoriasApp.Resource.String.abc_font_family_display_2_material;
+			global::Entidades.Resource.String.abc_font_family_display_3_material = global::AsesoriasApp.Resource.String.abc_font_family_display_3_material;
+			global::Entidades.Resource.String.abc_font_family_display_4_material = global::AsesoriasApp.Resource.String.abc_font_family_display_4_material;
+			global::Entidades.Resource.String.abc_font_family_headline_material = global::AsesoriasApp.Resource.String.abc_font_family_headline_material;
+			global::Entidades.Resource.String.abc_font_family_menu_material = global::AsesoriasApp.Resource.String.abc_font_family_menu_material;
+			global::Entidades.Resource.String.abc_font_family_subhead_material = global::AsesoriasApp.Resource.String.abc_font_family_subhead_material;
+			global::Entidades.Resource.String.abc_font_family_title_material = global::AsesoriasApp.Resource.String.abc_font_family_title_material;
+			global::Entidades.Resource.String.abc_search_hint = global::AsesoriasApp.Resource.String.abc_search_hint;
+			global::Entidades.Resource.String.abc_searchview_description_clear = global::AsesoriasApp.Resource.String.abc_searchview_description_clear;
+			global::Entidades.Resource.String.abc_searchview_description_query = global::AsesoriasApp.Resource.String.abc_searchview_description_query;
+			global::Entidades.Resource.String.abc_searchview_description_search = global::AsesoriasApp.Resource.String.abc_searchview_description_search;
+			global::Entidades.Resource.String.abc_searchview_description_submit = global::AsesoriasApp.Resource.String.abc_searchview_description_submit;
+			global::Entidades.Resource.String.abc_searchview_description_voice = global::AsesoriasApp.Resource.String.abc_searchview_description_voice;
+			global::Entidades.Resource.String.abc_shareactionprovider_share_with = global::AsesoriasApp.Resource.String.abc_shareactionprovider_share_with;
+			global::Entidades.Resource.String.abc_shareactionprovider_share_with_application = global::AsesoriasApp.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Entidades.Resource.String.abc_toolbar_collapse_description = global::AsesoriasApp.Resource.String.abc_toolbar_collapse_description;
+			global::Entidades.Resource.String.app_name = global::AsesoriasApp.Resource.String.app_name;
+			global::Entidades.Resource.String.hello = global::AsesoriasApp.Resource.String.hello;
+			global::Entidades.Resource.String.search_menu_title = global::AsesoriasApp.Resource.String.search_menu_title;
+			global::Entidades.Resource.String.status_bar_notification_info_overflow = global::AsesoriasApp.Resource.String.status_bar_notification_info_overflow;
+			global::Entidades.Resource.Style.AlertDialog_AppCompat = global::AsesoriasApp.Resource.Style.AlertDialog_AppCompat;
+			global::Entidades.Resource.Style.AlertDialog_AppCompat_Light = global::AsesoriasApp.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Entidades.Resource.Style.Animation_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Animation_AppCompat_Dialog;
+			global::Entidades.Resource.Style.Animation_AppCompat_DropDownUp = global::AsesoriasApp.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Entidades.Resource.Style.Animation_AppCompat_Tooltip = global::AsesoriasApp.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Entidades.Resource.Style.Base_AlertDialog_AppCompat = global::AsesoriasApp.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Entidades.Resource.Style.Base_AlertDialog_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Entidades.Resource.Style.Base_Animation_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Entidades.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::AsesoriasApp.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Entidades.Resource.Style.Base_Animation_AppCompat_Tooltip = global::AsesoriasApp.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Entidades.Resource.Style.Base_DialogWindowTitle_AppCompat = global::AsesoriasApp.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Entidades.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::AsesoriasApp.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Button = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Large = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Small = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Title = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Entidades.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Entidades.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::AsesoriasApp.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Entidades.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::AsesoriasApp.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Entidades.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::AsesoriasApp.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Entidades.Resource.Style.Base_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat;
+			global::Entidades.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Entidades.Resource.Style.Base_Theme_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Entidades.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Entidades.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Entidades.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Entidades.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Entidades.Resource.Style.Base_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Entidades.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Entidades.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Entidades.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Entidades.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Entidades.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Entidades.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Entidades.Resource.Style.Base_ThemeOverlay_AppCompat = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Entidades.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Entidades.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Entidades.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Entidades.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Entidades.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Entidades.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Entidades.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::Entidades.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::AsesoriasApp.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::Entidades.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
+			global::Entidades.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::AsesoriasApp.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::Entidades.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::AsesoriasApp.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::Entidades.Resource.Style.Base_V21_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Entidades.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Entidades.Resource.Style.Base_V21_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Entidades.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::AsesoriasApp.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Entidades.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Entidades.Resource.Style.Base_V22_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Entidades.Resource.Style.Base_V22_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Entidades.Resource.Style.Base_V23_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Entidades.Resource.Style.Base_V23_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Entidades.Resource.Style.Base_V26_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Entidades.Resource.Style.Base_V26_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Entidades.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::AsesoriasApp.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Entidades.Resource.Style.Base_V7_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Entidades.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Entidades.Resource.Style.Base_V7_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Entidades.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::AsesoriasApp.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Entidades.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Entidades.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::AsesoriasApp.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Entidades.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::AsesoriasApp.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Entidades.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::AsesoriasApp.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ActionBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ActionButton = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ActionMode = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Button = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Button_Small = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_EditText = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ImageButton = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ListView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_RatingBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_SearchView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_SeekBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Spinner = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Toolbar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Entidades.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Entidades.Resource.Style.Platform_AppCompat = global::AsesoriasApp.Resource.Style.Platform_AppCompat;
+			global::Entidades.Resource.Style.Platform_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_AppCompat_Light;
+			global::Entidades.Resource.Style.Platform_ThemeOverlay_AppCompat = global::AsesoriasApp.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Entidades.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::AsesoriasApp.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Entidades.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Entidades.Resource.Style.Platform_V11_AppCompat = global::AsesoriasApp.Resource.Style.Platform_V11_AppCompat;
+			global::Entidades.Resource.Style.Platform_V11_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_V11_AppCompat_Light;
+			global::Entidades.Resource.Style.Platform_V14_AppCompat = global::AsesoriasApp.Resource.Style.Platform_V14_AppCompat;
+			global::Entidades.Resource.Style.Platform_V14_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_V14_AppCompat_Light;
+			global::Entidades.Resource.Style.Platform_V21_AppCompat = global::AsesoriasApp.Resource.Style.Platform_V21_AppCompat;
+			global::Entidades.Resource.Style.Platform_V21_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Entidades.Resource.Style.Platform_V25_AppCompat = global::AsesoriasApp.Resource.Style.Platform_V25_AppCompat;
+			global::Entidades.Resource.Style.Platform_V25_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Entidades.Resource.Style.Platform_Widget_AppCompat_Spinner = global::AsesoriasApp.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Entidades.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::AsesoriasApp.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Entidades.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Entidades.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Entidades.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Entidades.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Entidades.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Entidades.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Entidades.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Entidades.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Entidades.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Entidades.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Entidades.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Entidades.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::AsesoriasApp.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Entidades.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::AsesoriasApp.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Body1 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Body2 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Button = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Caption = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Display1 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Display2 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Display3 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Display4 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Headline = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Large = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Medium = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Menu = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Small = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Subhead = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Title = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Tooltip = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Entidades.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Entidades.Resource.Style.TextAppearance_Compat_Notification = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification;
+			global::Entidades.Resource.Style.TextAppearance_Compat_Notification_Info = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Entidades.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Entidades.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Entidades.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Entidades.Resource.Style.TextAppearance_Compat_Notification_Media = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Entidades.Resource.Style.TextAppearance_Compat_Notification_Time = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Entidades.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Entidades.Resource.Style.TextAppearance_Compat_Notification_Title = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Entidades.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Entidades.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::AsesoriasApp.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Entidades.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::AsesoriasApp.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Entidades.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::AsesoriasApp.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Entidades.Resource.Style.Theme_AppCompat = global::AsesoriasApp.Resource.Style.Theme_AppCompat;
+			global::Entidades.Resource.Style.Theme_AppCompat_CompactMenu = global::AsesoriasApp.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Entidades.Resource.Style.Theme_AppCompat_DayNight = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight;
+			global::Entidades.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Entidades.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Entidades.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Entidades.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Entidades.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Entidades.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Entidades.Resource.Style.Theme_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Dialog;
+			global::Entidades.Resource.Style.Theme_AppCompat_Dialog_Alert = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Entidades.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Entidades.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Entidades.Resource.Style.Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light;
+			global::Entidades.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Entidades.Resource.Style.Theme_AppCompat_Light_Dialog = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Entidades.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Entidades.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Entidades.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Entidades.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Entidades.Resource.Style.Theme_AppCompat_NoActionBar = global::AsesoriasApp.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Entidades.Resource.Style.ThemeOverlay_AppCompat = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat;
+			global::Entidades.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Entidades.Resource.Style.ThemeOverlay_AppCompat_Dark = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Entidades.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Entidades.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Entidades.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Entidades.Resource.Style.ThemeOverlay_AppCompat_Light = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Entidades.Resource.Style.Widget_AppCompat_ActionBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Entidades.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Entidades.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Entidades.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Entidades.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Entidades.Resource.Style.Widget_AppCompat_ActionButton = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Entidades.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Entidades.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Entidades.Resource.Style.Widget_AppCompat_ActionMode = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Entidades.Resource.Style.Widget_AppCompat_ActivityChooserView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Entidades.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Entidades.Resource.Style.Widget_AppCompat_Button = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button;
+			global::Entidades.Resource.Style.Widget_AppCompat_Button_Borderless = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Entidades.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Entidades.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Entidades.Resource.Style.Widget_AppCompat_Button_Colored = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Entidades.Resource.Style.Widget_AppCompat_Button_Small = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Entidades.Resource.Style.Widget_AppCompat_ButtonBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Entidades.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Entidades.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::AsesoriasApp.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Entidades.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::AsesoriasApp.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Entidades.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::AsesoriasApp.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Entidades.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::AsesoriasApp.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Entidades.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::AsesoriasApp.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Entidades.Resource.Style.Widget_AppCompat_EditText = global::AsesoriasApp.Resource.Style.Widget_AppCompat_EditText;
+			global::Entidades.Resource.Style.Widget_AppCompat_ImageButton = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ActionBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ActionButton = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_SearchView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Entidades.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Entidades.Resource.Style.Widget_AppCompat_ListMenuView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Entidades.Resource.Style.Widget_AppCompat_ListPopupWindow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Entidades.Resource.Style.Widget_AppCompat_ListView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ListView;
+			global::Entidades.Resource.Style.Widget_AppCompat_ListView_DropDown = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Entidades.Resource.Style.Widget_AppCompat_ListView_Menu = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Entidades.Resource.Style.Widget_AppCompat_PopupMenu = global::AsesoriasApp.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Entidades.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Entidades.Resource.Style.Widget_AppCompat_PopupWindow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Entidades.Resource.Style.Widget_AppCompat_ProgressBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Entidades.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Entidades.Resource.Style.Widget_AppCompat_RatingBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Entidades.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::AsesoriasApp.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Entidades.Resource.Style.Widget_AppCompat_RatingBar_Small = global::AsesoriasApp.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Entidades.Resource.Style.Widget_AppCompat_SearchView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_SearchView;
+			global::Entidades.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Entidades.Resource.Style.Widget_AppCompat_SeekBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Entidades.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::AsesoriasApp.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Entidades.Resource.Style.Widget_AppCompat_Spinner = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Spinner;
+			global::Entidades.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Entidades.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Entidades.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Entidades.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::AsesoriasApp.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Entidades.Resource.Style.Widget_AppCompat_Toolbar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Entidades.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Entidades.Resource.Style.Widget_Compat_NotificationActionContainer = global::AsesoriasApp.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Entidades.Resource.Style.Widget_Compat_NotificationActionText = global::AsesoriasApp.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Entidades.Resource.Styleable.ActionBar = global::AsesoriasApp.Resource.Styleable.ActionBar;
+			global::Entidades.Resource.Styleable.ActionBar_background = global::AsesoriasApp.Resource.Styleable.ActionBar_background;
+			global::Entidades.Resource.Styleable.ActionBar_backgroundSplit = global::AsesoriasApp.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Entidades.Resource.Styleable.ActionBar_backgroundStacked = global::AsesoriasApp.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Entidades.Resource.Styleable.ActionBar_contentInsetEnd = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Entidades.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Entidades.Resource.Styleable.ActionBar_contentInsetLeft = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Entidades.Resource.Styleable.ActionBar_contentInsetRight = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Entidades.Resource.Styleable.ActionBar_contentInsetStart = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Entidades.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Entidades.Resource.Styleable.ActionBar_customNavigationLayout = global::AsesoriasApp.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Entidades.Resource.Styleable.ActionBar_displayOptions = global::AsesoriasApp.Resource.Styleable.ActionBar_displayOptions;
+			global::Entidades.Resource.Styleable.ActionBar_divider = global::AsesoriasApp.Resource.Styleable.ActionBar_divider;
+			global::Entidades.Resource.Styleable.ActionBar_elevation = global::AsesoriasApp.Resource.Styleable.ActionBar_elevation;
+			global::Entidades.Resource.Styleable.ActionBar_height = global::AsesoriasApp.Resource.Styleable.ActionBar_height;
+			global::Entidades.Resource.Styleable.ActionBar_hideOnContentScroll = global::AsesoriasApp.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Entidades.Resource.Styleable.ActionBar_homeAsUpIndicator = global::AsesoriasApp.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Entidades.Resource.Styleable.ActionBar_homeLayout = global::AsesoriasApp.Resource.Styleable.ActionBar_homeLayout;
+			global::Entidades.Resource.Styleable.ActionBar_icon = global::AsesoriasApp.Resource.Styleable.ActionBar_icon;
+			global::Entidades.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::AsesoriasApp.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Entidades.Resource.Styleable.ActionBar_itemPadding = global::AsesoriasApp.Resource.Styleable.ActionBar_itemPadding;
+			global::Entidades.Resource.Styleable.ActionBar_logo = global::AsesoriasApp.Resource.Styleable.ActionBar_logo;
+			global::Entidades.Resource.Styleable.ActionBar_navigationMode = global::AsesoriasApp.Resource.Styleable.ActionBar_navigationMode;
+			global::Entidades.Resource.Styleable.ActionBar_popupTheme = global::AsesoriasApp.Resource.Styleable.ActionBar_popupTheme;
+			global::Entidades.Resource.Styleable.ActionBar_progressBarPadding = global::AsesoriasApp.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Entidades.Resource.Styleable.ActionBar_progressBarStyle = global::AsesoriasApp.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Entidades.Resource.Styleable.ActionBar_subtitle = global::AsesoriasApp.Resource.Styleable.ActionBar_subtitle;
+			global::Entidades.Resource.Styleable.ActionBar_subtitleTextStyle = global::AsesoriasApp.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Entidades.Resource.Styleable.ActionBar_title = global::AsesoriasApp.Resource.Styleable.ActionBar_title;
+			global::Entidades.Resource.Styleable.ActionBar_titleTextStyle = global::AsesoriasApp.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Entidades.Resource.Styleable.ActionBarLayout = global::AsesoriasApp.Resource.Styleable.ActionBarLayout;
+			global::Entidades.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::AsesoriasApp.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Entidades.Resource.Styleable.ActionMenuItemView = global::AsesoriasApp.Resource.Styleable.ActionMenuItemView;
+			global::Entidades.Resource.Styleable.ActionMenuItemView_android_minWidth = global::AsesoriasApp.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Entidades.Resource.Styleable.ActionMenuView = global::AsesoriasApp.Resource.Styleable.ActionMenuView;
+			global::Entidades.Resource.Styleable.ActionMode = global::AsesoriasApp.Resource.Styleable.ActionMode;
+			global::Entidades.Resource.Styleable.ActionMode_background = global::AsesoriasApp.Resource.Styleable.ActionMode_background;
+			global::Entidades.Resource.Styleable.ActionMode_backgroundSplit = global::AsesoriasApp.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Entidades.Resource.Styleable.ActionMode_closeItemLayout = global::AsesoriasApp.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Entidades.Resource.Styleable.ActionMode_height = global::AsesoriasApp.Resource.Styleable.ActionMode_height;
+			global::Entidades.Resource.Styleable.ActionMode_subtitleTextStyle = global::AsesoriasApp.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Entidades.Resource.Styleable.ActionMode_titleTextStyle = global::AsesoriasApp.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Entidades.Resource.Styleable.ActivityChooserView = global::AsesoriasApp.Resource.Styleable.ActivityChooserView;
+			global::Entidades.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::AsesoriasApp.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Entidades.Resource.Styleable.ActivityChooserView_initialActivityCount = global::AsesoriasApp.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Entidades.Resource.Styleable.AlertDialog = global::AsesoriasApp.Resource.Styleable.AlertDialog;
+			global::Entidades.Resource.Styleable.AlertDialog_android_layout = global::AsesoriasApp.Resource.Styleable.AlertDialog_android_layout;
+			global::Entidades.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::AsesoriasApp.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Entidades.Resource.Styleable.AlertDialog_listItemLayout = global::AsesoriasApp.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Entidades.Resource.Styleable.AlertDialog_listLayout = global::AsesoriasApp.Resource.Styleable.AlertDialog_listLayout;
+			global::Entidades.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::AsesoriasApp.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Entidades.Resource.Styleable.AlertDialog_showTitle = global::AsesoriasApp.Resource.Styleable.AlertDialog_showTitle;
+			global::Entidades.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::AsesoriasApp.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Entidades.Resource.Styleable.AppCompatImageView = global::AsesoriasApp.Resource.Styleable.AppCompatImageView;
+			global::Entidades.Resource.Styleable.AppCompatImageView_android_src = global::AsesoriasApp.Resource.Styleable.AppCompatImageView_android_src;
+			global::Entidades.Resource.Styleable.AppCompatImageView_srcCompat = global::AsesoriasApp.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Entidades.Resource.Styleable.AppCompatImageView_tint = global::AsesoriasApp.Resource.Styleable.AppCompatImageView_tint;
+			global::Entidades.Resource.Styleable.AppCompatImageView_tintMode = global::AsesoriasApp.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Entidades.Resource.Styleable.AppCompatSeekBar = global::AsesoriasApp.Resource.Styleable.AppCompatSeekBar;
+			global::Entidades.Resource.Styleable.AppCompatSeekBar_android_thumb = global::AsesoriasApp.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Entidades.Resource.Styleable.AppCompatSeekBar_tickMark = global::AsesoriasApp.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Entidades.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::AsesoriasApp.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Entidades.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::AsesoriasApp.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Entidades.Resource.Styleable.AppCompatTextHelper = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper;
+			global::Entidades.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Entidades.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Entidades.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Entidades.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Entidades.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Entidades.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Entidades.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Entidades.Resource.Styleable.AppCompatTextView = global::AsesoriasApp.Resource.Styleable.AppCompatTextView;
+			global::Entidades.Resource.Styleable.AppCompatTextView_android_textAppearance = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Entidades.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Entidades.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Entidades.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Entidades.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Entidades.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Entidades.Resource.Styleable.AppCompatTextView_fontFamily = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Entidades.Resource.Styleable.AppCompatTextView_textAllCaps = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Entidades.Resource.Styleable.AppCompatTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionBarDivider = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionBarSize = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionBarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionBarTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionModeBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionModeStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Entidades.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Entidades.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Entidades.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_buttonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Entidades.Resource.Styleable.AppCompatTheme_checkboxStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_colorAccent = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Entidades.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Entidades.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Entidades.Resource.Styleable.AppCompatTheme_colorControlActivated = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Entidades.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Entidades.Resource.Styleable.AppCompatTheme_colorControlNormal = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Entidades.Resource.Styleable.AppCompatTheme_colorError = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorError;
+			global::Entidades.Resource.Styleable.AppCompatTheme_colorPrimary = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Entidades.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Entidades.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Entidades.Resource.Styleable.AppCompatTheme_controlBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Entidades.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Entidades.Resource.Styleable.AppCompatTheme_dialogTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Entidades.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Entidades.Resource.Styleable.AppCompatTheme_dividerVertical = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Entidades.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Entidades.Resource.Styleable.AppCompatTheme_editTextBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Entidades.Resource.Styleable.AppCompatTheme_editTextColor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Entidades.Resource.Styleable.AppCompatTheme_editTextStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Entidades.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Entidades.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Entidades.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Entidades.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Entidades.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Entidades.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Entidades.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Entidades.Resource.Styleable.AppCompatTheme_panelBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Entidades.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Entidades.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Entidades.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Entidades.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Entidades.Resource.Styleable.AppCompatTheme_searchViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_seekBarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Entidades.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Entidades.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_spinnerStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_switchStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Entidades.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Entidades.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Entidades.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Entidades.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Entidades.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Entidades.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Entidades.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Entidades.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_toolbarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Entidades.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Entidades.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Entidades.Resource.Styleable.AppCompatTheme_windowActionBar = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Entidades.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Entidades.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Entidades.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Entidades.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Entidades.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Entidades.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Entidades.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Entidades.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Entidades.Resource.Styleable.AppCompatTheme_windowNoTitle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Entidades.Resource.Styleable.ButtonBarLayout = global::AsesoriasApp.Resource.Styleable.ButtonBarLayout;
+			global::Entidades.Resource.Styleable.ButtonBarLayout_allowStacking = global::AsesoriasApp.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Entidades.Resource.Styleable.ColorStateListItem = global::AsesoriasApp.Resource.Styleable.ColorStateListItem;
+			global::Entidades.Resource.Styleable.ColorStateListItem_alpha = global::AsesoriasApp.Resource.Styleable.ColorStateListItem_alpha;
+			global::Entidades.Resource.Styleable.ColorStateListItem_android_alpha = global::AsesoriasApp.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Entidades.Resource.Styleable.ColorStateListItem_android_color = global::AsesoriasApp.Resource.Styleable.ColorStateListItem_android_color;
+			global::Entidades.Resource.Styleable.CompoundButton = global::AsesoriasApp.Resource.Styleable.CompoundButton;
+			global::Entidades.Resource.Styleable.CompoundButton_android_button = global::AsesoriasApp.Resource.Styleable.CompoundButton_android_button;
+			global::Entidades.Resource.Styleable.CompoundButton_buttonTint = global::AsesoriasApp.Resource.Styleable.CompoundButton_buttonTint;
+			global::Entidades.Resource.Styleable.CompoundButton_buttonTintMode = global::AsesoriasApp.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Entidades.Resource.Styleable.DrawerArrowToggle = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle;
+			global::Entidades.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Entidades.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Entidades.Resource.Styleable.DrawerArrowToggle_barLength = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Entidades.Resource.Styleable.DrawerArrowToggle_color = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_color;
+			global::Entidades.Resource.Styleable.DrawerArrowToggle_drawableSize = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Entidades.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Entidades.Resource.Styleable.DrawerArrowToggle_spinBars = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Entidades.Resource.Styleable.DrawerArrowToggle_thickness = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Entidades.Resource.Styleable.FontFamily = global::AsesoriasApp.Resource.Styleable.FontFamily;
+			global::Entidades.Resource.Styleable.FontFamily_fontProviderAuthority = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Entidades.Resource.Styleable.FontFamily_fontProviderCerts = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Entidades.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Entidades.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Entidades.Resource.Styleable.FontFamily_fontProviderPackage = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Entidades.Resource.Styleable.FontFamily_fontProviderQuery = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Entidades.Resource.Styleable.FontFamilyFont = global::AsesoriasApp.Resource.Styleable.FontFamilyFont;
+			global::Entidades.Resource.Styleable.FontFamilyFont_android_font = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_android_font;
+			global::Entidades.Resource.Styleable.FontFamilyFont_android_fontStyle = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Entidades.Resource.Styleable.FontFamilyFont_android_fontWeight = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Entidades.Resource.Styleable.FontFamilyFont_font = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_font;
+			global::Entidades.Resource.Styleable.FontFamilyFont_fontStyle = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Entidades.Resource.Styleable.FontFamilyFont_fontWeight = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Entidades.Resource.Styleable.LinearLayoutCompat = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat;
+			global::Entidades.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Entidades.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Entidades.Resource.Styleable.LinearLayoutCompat_android_gravity = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Entidades.Resource.Styleable.LinearLayoutCompat_android_orientation = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Entidades.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Entidades.Resource.Styleable.LinearLayoutCompat_divider = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Entidades.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Entidades.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Entidades.Resource.Styleable.LinearLayoutCompat_showDividers = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Entidades.Resource.Styleable.LinearLayoutCompat_Layout = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Entidades.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Entidades.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Entidades.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Entidades.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Entidades.Resource.Styleable.ListPopupWindow = global::AsesoriasApp.Resource.Styleable.ListPopupWindow;
+			global::Entidades.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::AsesoriasApp.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Entidades.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::AsesoriasApp.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Entidades.Resource.Styleable.MenuGroup = global::AsesoriasApp.Resource.Styleable.MenuGroup;
+			global::Entidades.Resource.Styleable.MenuGroup_android_checkableBehavior = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Entidades.Resource.Styleable.MenuGroup_android_enabled = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_enabled;
+			global::Entidades.Resource.Styleable.MenuGroup_android_id = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_id;
+			global::Entidades.Resource.Styleable.MenuGroup_android_menuCategory = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Entidades.Resource.Styleable.MenuGroup_android_orderInCategory = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Entidades.Resource.Styleable.MenuGroup_android_visible = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_visible;
+			global::Entidades.Resource.Styleable.MenuItem = global::AsesoriasApp.Resource.Styleable.MenuItem;
+			global::Entidades.Resource.Styleable.MenuItem_actionLayout = global::AsesoriasApp.Resource.Styleable.MenuItem_actionLayout;
+			global::Entidades.Resource.Styleable.MenuItem_actionProviderClass = global::AsesoriasApp.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Entidades.Resource.Styleable.MenuItem_actionViewClass = global::AsesoriasApp.Resource.Styleable.MenuItem_actionViewClass;
+			global::Entidades.Resource.Styleable.MenuItem_alphabeticModifiers = global::AsesoriasApp.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Entidades.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::AsesoriasApp.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Entidades.Resource.Styleable.MenuItem_android_checkable = global::AsesoriasApp.Resource.Styleable.MenuItem_android_checkable;
+			global::Entidades.Resource.Styleable.MenuItem_android_checked = global::AsesoriasApp.Resource.Styleable.MenuItem_android_checked;
+			global::Entidades.Resource.Styleable.MenuItem_android_enabled = global::AsesoriasApp.Resource.Styleable.MenuItem_android_enabled;
+			global::Entidades.Resource.Styleable.MenuItem_android_icon = global::AsesoriasApp.Resource.Styleable.MenuItem_android_icon;
+			global::Entidades.Resource.Styleable.MenuItem_android_id = global::AsesoriasApp.Resource.Styleable.MenuItem_android_id;
+			global::Entidades.Resource.Styleable.MenuItem_android_menuCategory = global::AsesoriasApp.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Entidades.Resource.Styleable.MenuItem_android_numericShortcut = global::AsesoriasApp.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Entidades.Resource.Styleable.MenuItem_android_onClick = global::AsesoriasApp.Resource.Styleable.MenuItem_android_onClick;
+			global::Entidades.Resource.Styleable.MenuItem_android_orderInCategory = global::AsesoriasApp.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Entidades.Resource.Styleable.MenuItem_android_title = global::AsesoriasApp.Resource.Styleable.MenuItem_android_title;
+			global::Entidades.Resource.Styleable.MenuItem_android_titleCondensed = global::AsesoriasApp.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Entidades.Resource.Styleable.MenuItem_android_visible = global::AsesoriasApp.Resource.Styleable.MenuItem_android_visible;
+			global::Entidades.Resource.Styleable.MenuItem_contentDescription = global::AsesoriasApp.Resource.Styleable.MenuItem_contentDescription;
+			global::Entidades.Resource.Styleable.MenuItem_iconTint = global::AsesoriasApp.Resource.Styleable.MenuItem_iconTint;
+			global::Entidades.Resource.Styleable.MenuItem_iconTintMode = global::AsesoriasApp.Resource.Styleable.MenuItem_iconTintMode;
+			global::Entidades.Resource.Styleable.MenuItem_numericModifiers = global::AsesoriasApp.Resource.Styleable.MenuItem_numericModifiers;
+			global::Entidades.Resource.Styleable.MenuItem_showAsAction = global::AsesoriasApp.Resource.Styleable.MenuItem_showAsAction;
+			global::Entidades.Resource.Styleable.MenuItem_tooltipText = global::AsesoriasApp.Resource.Styleable.MenuItem_tooltipText;
+			global::Entidades.Resource.Styleable.MenuView = global::AsesoriasApp.Resource.Styleable.MenuView;
+			global::Entidades.Resource.Styleable.MenuView_android_headerBackground = global::AsesoriasApp.Resource.Styleable.MenuView_android_headerBackground;
+			global::Entidades.Resource.Styleable.MenuView_android_horizontalDivider = global::AsesoriasApp.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Entidades.Resource.Styleable.MenuView_android_itemBackground = global::AsesoriasApp.Resource.Styleable.MenuView_android_itemBackground;
+			global::Entidades.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::AsesoriasApp.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Entidades.Resource.Styleable.MenuView_android_itemTextAppearance = global::AsesoriasApp.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Entidades.Resource.Styleable.MenuView_android_verticalDivider = global::AsesoriasApp.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Entidades.Resource.Styleable.MenuView_android_windowAnimationStyle = global::AsesoriasApp.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Entidades.Resource.Styleable.MenuView_preserveIconSpacing = global::AsesoriasApp.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Entidades.Resource.Styleable.MenuView_subMenuArrow = global::AsesoriasApp.Resource.Styleable.MenuView_subMenuArrow;
+			global::Entidades.Resource.Styleable.PopupWindow = global::AsesoriasApp.Resource.Styleable.PopupWindow;
+			global::Entidades.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::AsesoriasApp.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Entidades.Resource.Styleable.PopupWindow_android_popupBackground = global::AsesoriasApp.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Entidades.Resource.Styleable.PopupWindow_overlapAnchor = global::AsesoriasApp.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Entidades.Resource.Styleable.PopupWindowBackgroundState = global::AsesoriasApp.Resource.Styleable.PopupWindowBackgroundState;
+			global::Entidades.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::AsesoriasApp.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Entidades.Resource.Styleable.RecycleListView = global::AsesoriasApp.Resource.Styleable.RecycleListView;
+			global::Entidades.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::AsesoriasApp.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Entidades.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::AsesoriasApp.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Entidades.Resource.Styleable.SearchView = global::AsesoriasApp.Resource.Styleable.SearchView;
+			global::Entidades.Resource.Styleable.SearchView_android_focusable = global::AsesoriasApp.Resource.Styleable.SearchView_android_focusable;
+			global::Entidades.Resource.Styleable.SearchView_android_imeOptions = global::AsesoriasApp.Resource.Styleable.SearchView_android_imeOptions;
+			global::Entidades.Resource.Styleable.SearchView_android_inputType = global::AsesoriasApp.Resource.Styleable.SearchView_android_inputType;
+			global::Entidades.Resource.Styleable.SearchView_android_maxWidth = global::AsesoriasApp.Resource.Styleable.SearchView_android_maxWidth;
+			global::Entidades.Resource.Styleable.SearchView_closeIcon = global::AsesoriasApp.Resource.Styleable.SearchView_closeIcon;
+			global::Entidades.Resource.Styleable.SearchView_commitIcon = global::AsesoriasApp.Resource.Styleable.SearchView_commitIcon;
+			global::Entidades.Resource.Styleable.SearchView_defaultQueryHint = global::AsesoriasApp.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Entidades.Resource.Styleable.SearchView_goIcon = global::AsesoriasApp.Resource.Styleable.SearchView_goIcon;
+			global::Entidades.Resource.Styleable.SearchView_iconifiedByDefault = global::AsesoriasApp.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Entidades.Resource.Styleable.SearchView_layout = global::AsesoriasApp.Resource.Styleable.SearchView_layout;
+			global::Entidades.Resource.Styleable.SearchView_queryBackground = global::AsesoriasApp.Resource.Styleable.SearchView_queryBackground;
+			global::Entidades.Resource.Styleable.SearchView_queryHint = global::AsesoriasApp.Resource.Styleable.SearchView_queryHint;
+			global::Entidades.Resource.Styleable.SearchView_searchHintIcon = global::AsesoriasApp.Resource.Styleable.SearchView_searchHintIcon;
+			global::Entidades.Resource.Styleable.SearchView_searchIcon = global::AsesoriasApp.Resource.Styleable.SearchView_searchIcon;
+			global::Entidades.Resource.Styleable.SearchView_submitBackground = global::AsesoriasApp.Resource.Styleable.SearchView_submitBackground;
+			global::Entidades.Resource.Styleable.SearchView_suggestionRowLayout = global::AsesoriasApp.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Entidades.Resource.Styleable.SearchView_voiceIcon = global::AsesoriasApp.Resource.Styleable.SearchView_voiceIcon;
+			global::Entidades.Resource.Styleable.Spinner = global::AsesoriasApp.Resource.Styleable.Spinner;
+			global::Entidades.Resource.Styleable.Spinner_android_dropDownWidth = global::AsesoriasApp.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Entidades.Resource.Styleable.Spinner_android_entries = global::AsesoriasApp.Resource.Styleable.Spinner_android_entries;
+			global::Entidades.Resource.Styleable.Spinner_android_popupBackground = global::AsesoriasApp.Resource.Styleable.Spinner_android_popupBackground;
+			global::Entidades.Resource.Styleable.Spinner_android_prompt = global::AsesoriasApp.Resource.Styleable.Spinner_android_prompt;
+			global::Entidades.Resource.Styleable.Spinner_popupTheme = global::AsesoriasApp.Resource.Styleable.Spinner_popupTheme;
+			global::Entidades.Resource.Styleable.SwitchCompat = global::AsesoriasApp.Resource.Styleable.SwitchCompat;
+			global::Entidades.Resource.Styleable.SwitchCompat_android_textOff = global::AsesoriasApp.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Entidades.Resource.Styleable.SwitchCompat_android_textOn = global::AsesoriasApp.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Entidades.Resource.Styleable.SwitchCompat_android_thumb = global::AsesoriasApp.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Entidades.Resource.Styleable.SwitchCompat_showText = global::AsesoriasApp.Resource.Styleable.SwitchCompat_showText;
+			global::Entidades.Resource.Styleable.SwitchCompat_splitTrack = global::AsesoriasApp.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Entidades.Resource.Styleable.SwitchCompat_switchMinWidth = global::AsesoriasApp.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Entidades.Resource.Styleable.SwitchCompat_switchPadding = global::AsesoriasApp.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Entidades.Resource.Styleable.SwitchCompat_switchTextAppearance = global::AsesoriasApp.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Entidades.Resource.Styleable.SwitchCompat_thumbTextPadding = global::AsesoriasApp.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Entidades.Resource.Styleable.SwitchCompat_thumbTint = global::AsesoriasApp.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Entidades.Resource.Styleable.SwitchCompat_thumbTintMode = global::AsesoriasApp.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Entidades.Resource.Styleable.SwitchCompat_track = global::AsesoriasApp.Resource.Styleable.SwitchCompat_track;
+			global::Entidades.Resource.Styleable.SwitchCompat_trackTint = global::AsesoriasApp.Resource.Styleable.SwitchCompat_trackTint;
+			global::Entidades.Resource.Styleable.SwitchCompat_trackTintMode = global::AsesoriasApp.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Entidades.Resource.Styleable.TextAppearance = global::AsesoriasApp.Resource.Styleable.TextAppearance;
+			global::Entidades.Resource.Styleable.TextAppearance_android_fontFamily = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Entidades.Resource.Styleable.TextAppearance_android_shadowColor = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Entidades.Resource.Styleable.TextAppearance_android_shadowDx = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Entidades.Resource.Styleable.TextAppearance_android_shadowDy = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Entidades.Resource.Styleable.TextAppearance_android_shadowRadius = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Entidades.Resource.Styleable.TextAppearance_android_textColor = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_textColor;
+			global::Entidades.Resource.Styleable.TextAppearance_android_textColorHint = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Entidades.Resource.Styleable.TextAppearance_android_textColorLink = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Entidades.Resource.Styleable.TextAppearance_android_textSize = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_textSize;
+			global::Entidades.Resource.Styleable.TextAppearance_android_textStyle = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Entidades.Resource.Styleable.TextAppearance_android_typeface = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_typeface;
+			global::Entidades.Resource.Styleable.TextAppearance_fontFamily = global::AsesoriasApp.Resource.Styleable.TextAppearance_fontFamily;
+			global::Entidades.Resource.Styleable.TextAppearance_textAllCaps = global::AsesoriasApp.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Entidades.Resource.Styleable.Toolbar = global::AsesoriasApp.Resource.Styleable.Toolbar;
+			global::Entidades.Resource.Styleable.Toolbar_android_gravity = global::AsesoriasApp.Resource.Styleable.Toolbar_android_gravity;
+			global::Entidades.Resource.Styleable.Toolbar_android_minHeight = global::AsesoriasApp.Resource.Styleable.Toolbar_android_minHeight;
+			global::Entidades.Resource.Styleable.Toolbar_buttonGravity = global::AsesoriasApp.Resource.Styleable.Toolbar_buttonGravity;
+			global::Entidades.Resource.Styleable.Toolbar_collapseContentDescription = global::AsesoriasApp.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Entidades.Resource.Styleable.Toolbar_collapseIcon = global::AsesoriasApp.Resource.Styleable.Toolbar_collapseIcon;
+			global::Entidades.Resource.Styleable.Toolbar_contentInsetEnd = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Entidades.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Entidades.Resource.Styleable.Toolbar_contentInsetLeft = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Entidades.Resource.Styleable.Toolbar_contentInsetRight = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Entidades.Resource.Styleable.Toolbar_contentInsetStart = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Entidades.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Entidades.Resource.Styleable.Toolbar_logo = global::AsesoriasApp.Resource.Styleable.Toolbar_logo;
+			global::Entidades.Resource.Styleable.Toolbar_logoDescription = global::AsesoriasApp.Resource.Styleable.Toolbar_logoDescription;
+			global::Entidades.Resource.Styleable.Toolbar_maxButtonHeight = global::AsesoriasApp.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Entidades.Resource.Styleable.Toolbar_navigationContentDescription = global::AsesoriasApp.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Entidades.Resource.Styleable.Toolbar_navigationIcon = global::AsesoriasApp.Resource.Styleable.Toolbar_navigationIcon;
+			global::Entidades.Resource.Styleable.Toolbar_popupTheme = global::AsesoriasApp.Resource.Styleable.Toolbar_popupTheme;
+			global::Entidades.Resource.Styleable.Toolbar_subtitle = global::AsesoriasApp.Resource.Styleable.Toolbar_subtitle;
+			global::Entidades.Resource.Styleable.Toolbar_subtitleTextAppearance = global::AsesoriasApp.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Entidades.Resource.Styleable.Toolbar_subtitleTextColor = global::AsesoriasApp.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Entidades.Resource.Styleable.Toolbar_title = global::AsesoriasApp.Resource.Styleable.Toolbar_title;
+			global::Entidades.Resource.Styleable.Toolbar_titleMargin = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMargin;
+			global::Entidades.Resource.Styleable.Toolbar_titleMarginBottom = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Entidades.Resource.Styleable.Toolbar_titleMarginEnd = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Entidades.Resource.Styleable.Toolbar_titleMarginStart = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Entidades.Resource.Styleable.Toolbar_titleMarginTop = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Entidades.Resource.Styleable.Toolbar_titleMargins = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMargins;
+			global::Entidades.Resource.Styleable.Toolbar_titleTextAppearance = global::AsesoriasApp.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Entidades.Resource.Styleable.Toolbar_titleTextColor = global::AsesoriasApp.Resource.Styleable.Toolbar_titleTextColor;
+			global::Entidades.Resource.Styleable.View = global::AsesoriasApp.Resource.Styleable.View;
+			global::Entidades.Resource.Styleable.View_android_focusable = global::AsesoriasApp.Resource.Styleable.View_android_focusable;
+			global::Entidades.Resource.Styleable.View_android_theme = global::AsesoriasApp.Resource.Styleable.View_android_theme;
+			global::Entidades.Resource.Styleable.View_paddingEnd = global::AsesoriasApp.Resource.Styleable.View_paddingEnd;
+			global::Entidades.Resource.Styleable.View_paddingStart = global::AsesoriasApp.Resource.Styleable.View_paddingStart;
+			global::Entidades.Resource.Styleable.View_theme = global::AsesoriasApp.Resource.Styleable.View_theme;
+			global::Entidades.Resource.Styleable.ViewBackgroundHelper = global::AsesoriasApp.Resource.Styleable.ViewBackgroundHelper;
+			global::Entidades.Resource.Styleable.ViewBackgroundHelper_android_background = global::AsesoriasApp.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Entidades.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::AsesoriasApp.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Entidades.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::AsesoriasApp.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Entidades.Resource.Styleable.ViewStubCompat = global::AsesoriasApp.Resource.Styleable.ViewStubCompat;
+			global::Entidades.Resource.Styleable.ViewStubCompat_android_id = global::AsesoriasApp.Resource.Styleable.ViewStubCompat_android_id;
+			global::Entidades.Resource.Styleable.ViewStubCompat_android_inflatedId = global::AsesoriasApp.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Entidades.Resource.Styleable.ViewStubCompat_android_layout = global::AsesoriasApp.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Negocio.Resource.Animation.abc_fade_in = global::AsesoriasApp.Resource.Animation.abc_fade_in;
+			global::Negocio.Resource.Animation.abc_fade_out = global::AsesoriasApp.Resource.Animation.abc_fade_out;
+			global::Negocio.Resource.Animation.abc_grow_fade_in_from_bottom = global::AsesoriasApp.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Negocio.Resource.Animation.abc_popup_enter = global::AsesoriasApp.Resource.Animation.abc_popup_enter;
+			global::Negocio.Resource.Animation.abc_popup_exit = global::AsesoriasApp.Resource.Animation.abc_popup_exit;
+			global::Negocio.Resource.Animation.abc_shrink_fade_out_from_bottom = global::AsesoriasApp.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Negocio.Resource.Animation.abc_slide_in_bottom = global::AsesoriasApp.Resource.Animation.abc_slide_in_bottom;
+			global::Negocio.Resource.Animation.abc_slide_in_top = global::AsesoriasApp.Resource.Animation.abc_slide_in_top;
+			global::Negocio.Resource.Animation.abc_slide_out_bottom = global::AsesoriasApp.Resource.Animation.abc_slide_out_bottom;
+			global::Negocio.Resource.Animation.abc_slide_out_top = global::AsesoriasApp.Resource.Animation.abc_slide_out_top;
+			global::Negocio.Resource.Animation.tooltip_enter = global::AsesoriasApp.Resource.Animation.tooltip_enter;
+			global::Negocio.Resource.Animation.tooltip_exit = global::AsesoriasApp.Resource.Animation.tooltip_exit;
+			global::Negocio.Resource.Attribute.actionBarDivider = global::AsesoriasApp.Resource.Attribute.actionBarDivider;
+			global::Negocio.Resource.Attribute.actionBarItemBackground = global::AsesoriasApp.Resource.Attribute.actionBarItemBackground;
+			global::Negocio.Resource.Attribute.actionBarPopupTheme = global::AsesoriasApp.Resource.Attribute.actionBarPopupTheme;
+			global::Negocio.Resource.Attribute.actionBarSize = global::AsesoriasApp.Resource.Attribute.actionBarSize;
+			global::Negocio.Resource.Attribute.actionBarSplitStyle = global::AsesoriasApp.Resource.Attribute.actionBarSplitStyle;
+			global::Negocio.Resource.Attribute.actionBarStyle = global::AsesoriasApp.Resource.Attribute.actionBarStyle;
+			global::Negocio.Resource.Attribute.actionBarTabBarStyle = global::AsesoriasApp.Resource.Attribute.actionBarTabBarStyle;
+			global::Negocio.Resource.Attribute.actionBarTabStyle = global::AsesoriasApp.Resource.Attribute.actionBarTabStyle;
+			global::Negocio.Resource.Attribute.actionBarTabTextStyle = global::AsesoriasApp.Resource.Attribute.actionBarTabTextStyle;
+			global::Negocio.Resource.Attribute.actionBarTheme = global::AsesoriasApp.Resource.Attribute.actionBarTheme;
+			global::Negocio.Resource.Attribute.actionBarWidgetTheme = global::AsesoriasApp.Resource.Attribute.actionBarWidgetTheme;
+			global::Negocio.Resource.Attribute.actionButtonStyle = global::AsesoriasApp.Resource.Attribute.actionButtonStyle;
+			global::Negocio.Resource.Attribute.actionDropDownStyle = global::AsesoriasApp.Resource.Attribute.actionDropDownStyle;
+			global::Negocio.Resource.Attribute.actionLayout = global::AsesoriasApp.Resource.Attribute.actionLayout;
+			global::Negocio.Resource.Attribute.actionMenuTextAppearance = global::AsesoriasApp.Resource.Attribute.actionMenuTextAppearance;
+			global::Negocio.Resource.Attribute.actionMenuTextColor = global::AsesoriasApp.Resource.Attribute.actionMenuTextColor;
+			global::Negocio.Resource.Attribute.actionModeBackground = global::AsesoriasApp.Resource.Attribute.actionModeBackground;
+			global::Negocio.Resource.Attribute.actionModeCloseButtonStyle = global::AsesoriasApp.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Negocio.Resource.Attribute.actionModeCloseDrawable = global::AsesoriasApp.Resource.Attribute.actionModeCloseDrawable;
+			global::Negocio.Resource.Attribute.actionModeCopyDrawable = global::AsesoriasApp.Resource.Attribute.actionModeCopyDrawable;
+			global::Negocio.Resource.Attribute.actionModeCutDrawable = global::AsesoriasApp.Resource.Attribute.actionModeCutDrawable;
+			global::Negocio.Resource.Attribute.actionModeFindDrawable = global::AsesoriasApp.Resource.Attribute.actionModeFindDrawable;
+			global::Negocio.Resource.Attribute.actionModePasteDrawable = global::AsesoriasApp.Resource.Attribute.actionModePasteDrawable;
+			global::Negocio.Resource.Attribute.actionModePopupWindowStyle = global::AsesoriasApp.Resource.Attribute.actionModePopupWindowStyle;
+			global::Negocio.Resource.Attribute.actionModeSelectAllDrawable = global::AsesoriasApp.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Negocio.Resource.Attribute.actionModeShareDrawable = global::AsesoriasApp.Resource.Attribute.actionModeShareDrawable;
+			global::Negocio.Resource.Attribute.actionModeSplitBackground = global::AsesoriasApp.Resource.Attribute.actionModeSplitBackground;
+			global::Negocio.Resource.Attribute.actionModeStyle = global::AsesoriasApp.Resource.Attribute.actionModeStyle;
+			global::Negocio.Resource.Attribute.actionModeWebSearchDrawable = global::AsesoriasApp.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Negocio.Resource.Attribute.actionOverflowButtonStyle = global::AsesoriasApp.Resource.Attribute.actionOverflowButtonStyle;
+			global::Negocio.Resource.Attribute.actionOverflowMenuStyle = global::AsesoriasApp.Resource.Attribute.actionOverflowMenuStyle;
+			global::Negocio.Resource.Attribute.actionProviderClass = global::AsesoriasApp.Resource.Attribute.actionProviderClass;
+			global::Negocio.Resource.Attribute.actionViewClass = global::AsesoriasApp.Resource.Attribute.actionViewClass;
+			global::Negocio.Resource.Attribute.activityChooserViewStyle = global::AsesoriasApp.Resource.Attribute.activityChooserViewStyle;
+			global::Negocio.Resource.Attribute.alertDialogButtonGroupStyle = global::AsesoriasApp.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Negocio.Resource.Attribute.alertDialogCenterButtons = global::AsesoriasApp.Resource.Attribute.alertDialogCenterButtons;
+			global::Negocio.Resource.Attribute.alertDialogStyle = global::AsesoriasApp.Resource.Attribute.alertDialogStyle;
+			global::Negocio.Resource.Attribute.alertDialogTheme = global::AsesoriasApp.Resource.Attribute.alertDialogTheme;
+			global::Negocio.Resource.Attribute.allowStacking = global::AsesoriasApp.Resource.Attribute.allowStacking;
+			global::Negocio.Resource.Attribute.alpha = global::AsesoriasApp.Resource.Attribute.alpha;
+			global::Negocio.Resource.Attribute.alphabeticModifiers = global::AsesoriasApp.Resource.Attribute.alphabeticModifiers;
+			global::Negocio.Resource.Attribute.arrowHeadLength = global::AsesoriasApp.Resource.Attribute.arrowHeadLength;
+			global::Negocio.Resource.Attribute.arrowShaftLength = global::AsesoriasApp.Resource.Attribute.arrowShaftLength;
+			global::Negocio.Resource.Attribute.autoCompleteTextViewStyle = global::AsesoriasApp.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Negocio.Resource.Attribute.autoSizeMaxTextSize = global::AsesoriasApp.Resource.Attribute.autoSizeMaxTextSize;
+			global::Negocio.Resource.Attribute.autoSizeMinTextSize = global::AsesoriasApp.Resource.Attribute.autoSizeMinTextSize;
+			global::Negocio.Resource.Attribute.autoSizePresetSizes = global::AsesoriasApp.Resource.Attribute.autoSizePresetSizes;
+			global::Negocio.Resource.Attribute.autoSizeStepGranularity = global::AsesoriasApp.Resource.Attribute.autoSizeStepGranularity;
+			global::Negocio.Resource.Attribute.autoSizeTextType = global::AsesoriasApp.Resource.Attribute.autoSizeTextType;
+			global::Negocio.Resource.Attribute.background = global::AsesoriasApp.Resource.Attribute.background;
+			global::Negocio.Resource.Attribute.backgroundSplit = global::AsesoriasApp.Resource.Attribute.backgroundSplit;
+			global::Negocio.Resource.Attribute.backgroundStacked = global::AsesoriasApp.Resource.Attribute.backgroundStacked;
+			global::Negocio.Resource.Attribute.backgroundTint = global::AsesoriasApp.Resource.Attribute.backgroundTint;
+			global::Negocio.Resource.Attribute.backgroundTintMode = global::AsesoriasApp.Resource.Attribute.backgroundTintMode;
+			global::Negocio.Resource.Attribute.barLength = global::AsesoriasApp.Resource.Attribute.barLength;
+			global::Negocio.Resource.Attribute.borderlessButtonStyle = global::AsesoriasApp.Resource.Attribute.borderlessButtonStyle;
+			global::Negocio.Resource.Attribute.buttonBarButtonStyle = global::AsesoriasApp.Resource.Attribute.buttonBarButtonStyle;
+			global::Negocio.Resource.Attribute.buttonBarNegativeButtonStyle = global::AsesoriasApp.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Negocio.Resource.Attribute.buttonBarNeutralButtonStyle = global::AsesoriasApp.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Negocio.Resource.Attribute.buttonBarPositiveButtonStyle = global::AsesoriasApp.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Negocio.Resource.Attribute.buttonBarStyle = global::AsesoriasApp.Resource.Attribute.buttonBarStyle;
+			global::Negocio.Resource.Attribute.buttonGravity = global::AsesoriasApp.Resource.Attribute.buttonGravity;
+			global::Negocio.Resource.Attribute.buttonPanelSideLayout = global::AsesoriasApp.Resource.Attribute.buttonPanelSideLayout;
+			global::Negocio.Resource.Attribute.buttonStyle = global::AsesoriasApp.Resource.Attribute.buttonStyle;
+			global::Negocio.Resource.Attribute.buttonStyleSmall = global::AsesoriasApp.Resource.Attribute.buttonStyleSmall;
+			global::Negocio.Resource.Attribute.buttonTint = global::AsesoriasApp.Resource.Attribute.buttonTint;
+			global::Negocio.Resource.Attribute.buttonTintMode = global::AsesoriasApp.Resource.Attribute.buttonTintMode;
+			global::Negocio.Resource.Attribute.checkboxStyle = global::AsesoriasApp.Resource.Attribute.checkboxStyle;
+			global::Negocio.Resource.Attribute.checkedTextViewStyle = global::AsesoriasApp.Resource.Attribute.checkedTextViewStyle;
+			global::Negocio.Resource.Attribute.closeIcon = global::AsesoriasApp.Resource.Attribute.closeIcon;
+			global::Negocio.Resource.Attribute.closeItemLayout = global::AsesoriasApp.Resource.Attribute.closeItemLayout;
+			global::Negocio.Resource.Attribute.collapseContentDescription = global::AsesoriasApp.Resource.Attribute.collapseContentDescription;
+			global::Negocio.Resource.Attribute.collapseIcon = global::AsesoriasApp.Resource.Attribute.collapseIcon;
+			global::Negocio.Resource.Attribute.color = global::AsesoriasApp.Resource.Attribute.color;
+			global::Negocio.Resource.Attribute.colorAccent = global::AsesoriasApp.Resource.Attribute.colorAccent;
+			global::Negocio.Resource.Attribute.colorBackgroundFloating = global::AsesoriasApp.Resource.Attribute.colorBackgroundFloating;
+			global::Negocio.Resource.Attribute.colorButtonNormal = global::AsesoriasApp.Resource.Attribute.colorButtonNormal;
+			global::Negocio.Resource.Attribute.colorControlActivated = global::AsesoriasApp.Resource.Attribute.colorControlActivated;
+			global::Negocio.Resource.Attribute.colorControlHighlight = global::AsesoriasApp.Resource.Attribute.colorControlHighlight;
+			global::Negocio.Resource.Attribute.colorControlNormal = global::AsesoriasApp.Resource.Attribute.colorControlNormal;
+			global::Negocio.Resource.Attribute.colorError = global::AsesoriasApp.Resource.Attribute.colorError;
+			global::Negocio.Resource.Attribute.colorPrimary = global::AsesoriasApp.Resource.Attribute.colorPrimary;
+			global::Negocio.Resource.Attribute.colorPrimaryDark = global::AsesoriasApp.Resource.Attribute.colorPrimaryDark;
+			global::Negocio.Resource.Attribute.colorSwitchThumbNormal = global::AsesoriasApp.Resource.Attribute.colorSwitchThumbNormal;
+			global::Negocio.Resource.Attribute.commitIcon = global::AsesoriasApp.Resource.Attribute.commitIcon;
+			global::Negocio.Resource.Attribute.contentDescription = global::AsesoriasApp.Resource.Attribute.contentDescription;
+			global::Negocio.Resource.Attribute.contentInsetEnd = global::AsesoriasApp.Resource.Attribute.contentInsetEnd;
+			global::Negocio.Resource.Attribute.contentInsetEndWithActions = global::AsesoriasApp.Resource.Attribute.contentInsetEndWithActions;
+			global::Negocio.Resource.Attribute.contentInsetLeft = global::AsesoriasApp.Resource.Attribute.contentInsetLeft;
+			global::Negocio.Resource.Attribute.contentInsetRight = global::AsesoriasApp.Resource.Attribute.contentInsetRight;
+			global::Negocio.Resource.Attribute.contentInsetStart = global::AsesoriasApp.Resource.Attribute.contentInsetStart;
+			global::Negocio.Resource.Attribute.contentInsetStartWithNavigation = global::AsesoriasApp.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Negocio.Resource.Attribute.controlBackground = global::AsesoriasApp.Resource.Attribute.controlBackground;
+			global::Negocio.Resource.Attribute.customNavigationLayout = global::AsesoriasApp.Resource.Attribute.customNavigationLayout;
+			global::Negocio.Resource.Attribute.defaultQueryHint = global::AsesoriasApp.Resource.Attribute.defaultQueryHint;
+			global::Negocio.Resource.Attribute.dialogPreferredPadding = global::AsesoriasApp.Resource.Attribute.dialogPreferredPadding;
+			global::Negocio.Resource.Attribute.dialogTheme = global::AsesoriasApp.Resource.Attribute.dialogTheme;
+			global::Negocio.Resource.Attribute.displayOptions = global::AsesoriasApp.Resource.Attribute.displayOptions;
+			global::Negocio.Resource.Attribute.divider = global::AsesoriasApp.Resource.Attribute.divider;
+			global::Negocio.Resource.Attribute.dividerHorizontal = global::AsesoriasApp.Resource.Attribute.dividerHorizontal;
+			global::Negocio.Resource.Attribute.dividerPadding = global::AsesoriasApp.Resource.Attribute.dividerPadding;
+			global::Negocio.Resource.Attribute.dividerVertical = global::AsesoriasApp.Resource.Attribute.dividerVertical;
+			global::Negocio.Resource.Attribute.drawableSize = global::AsesoriasApp.Resource.Attribute.drawableSize;
+			global::Negocio.Resource.Attribute.drawerArrowStyle = global::AsesoriasApp.Resource.Attribute.drawerArrowStyle;
+			global::Negocio.Resource.Attribute.dropDownListViewStyle = global::AsesoriasApp.Resource.Attribute.dropDownListViewStyle;
+			global::Negocio.Resource.Attribute.dropdownListPreferredItemHeight = global::AsesoriasApp.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Negocio.Resource.Attribute.editTextBackground = global::AsesoriasApp.Resource.Attribute.editTextBackground;
+			global::Negocio.Resource.Attribute.editTextColor = global::AsesoriasApp.Resource.Attribute.editTextColor;
+			global::Negocio.Resource.Attribute.editTextStyle = global::AsesoriasApp.Resource.Attribute.editTextStyle;
+			global::Negocio.Resource.Attribute.elevation = global::AsesoriasApp.Resource.Attribute.elevation;
+			global::Negocio.Resource.Attribute.expandActivityOverflowButtonDrawable = global::AsesoriasApp.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Negocio.Resource.Attribute.font = global::AsesoriasApp.Resource.Attribute.font;
+			global::Negocio.Resource.Attribute.fontFamily = global::AsesoriasApp.Resource.Attribute.fontFamily;
+			global::Negocio.Resource.Attribute.fontProviderAuthority = global::AsesoriasApp.Resource.Attribute.fontProviderAuthority;
+			global::Negocio.Resource.Attribute.fontProviderCerts = global::AsesoriasApp.Resource.Attribute.fontProviderCerts;
+			global::Negocio.Resource.Attribute.fontProviderFetchStrategy = global::AsesoriasApp.Resource.Attribute.fontProviderFetchStrategy;
+			global::Negocio.Resource.Attribute.fontProviderFetchTimeout = global::AsesoriasApp.Resource.Attribute.fontProviderFetchTimeout;
+			global::Negocio.Resource.Attribute.fontProviderPackage = global::AsesoriasApp.Resource.Attribute.fontProviderPackage;
+			global::Negocio.Resource.Attribute.fontProviderQuery = global::AsesoriasApp.Resource.Attribute.fontProviderQuery;
+			global::Negocio.Resource.Attribute.fontStyle = global::AsesoriasApp.Resource.Attribute.fontStyle;
+			global::Negocio.Resource.Attribute.fontWeight = global::AsesoriasApp.Resource.Attribute.fontWeight;
+			global::Negocio.Resource.Attribute.gapBetweenBars = global::AsesoriasApp.Resource.Attribute.gapBetweenBars;
+			global::Negocio.Resource.Attribute.goIcon = global::AsesoriasApp.Resource.Attribute.goIcon;
+			global::Negocio.Resource.Attribute.height = global::AsesoriasApp.Resource.Attribute.height;
+			global::Negocio.Resource.Attribute.hideOnContentScroll = global::AsesoriasApp.Resource.Attribute.hideOnContentScroll;
+			global::Negocio.Resource.Attribute.homeAsUpIndicator = global::AsesoriasApp.Resource.Attribute.homeAsUpIndicator;
+			global::Negocio.Resource.Attribute.homeLayout = global::AsesoriasApp.Resource.Attribute.homeLayout;
+			global::Negocio.Resource.Attribute.icon = global::AsesoriasApp.Resource.Attribute.icon;
+			global::Negocio.Resource.Attribute.iconTint = global::AsesoriasApp.Resource.Attribute.iconTint;
+			global::Negocio.Resource.Attribute.iconTintMode = global::AsesoriasApp.Resource.Attribute.iconTintMode;
+			global::Negocio.Resource.Attribute.iconifiedByDefault = global::AsesoriasApp.Resource.Attribute.iconifiedByDefault;
+			global::Negocio.Resource.Attribute.imageButtonStyle = global::AsesoriasApp.Resource.Attribute.imageButtonStyle;
+			global::Negocio.Resource.Attribute.indeterminateProgressStyle = global::AsesoriasApp.Resource.Attribute.indeterminateProgressStyle;
+			global::Negocio.Resource.Attribute.initialActivityCount = global::AsesoriasApp.Resource.Attribute.initialActivityCount;
+			global::Negocio.Resource.Attribute.isLightTheme = global::AsesoriasApp.Resource.Attribute.isLightTheme;
+			global::Negocio.Resource.Attribute.itemPadding = global::AsesoriasApp.Resource.Attribute.itemPadding;
+			global::Negocio.Resource.Attribute.layout = global::AsesoriasApp.Resource.Attribute.layout;
+			global::Negocio.Resource.Attribute.listChoiceBackgroundIndicator = global::AsesoriasApp.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Negocio.Resource.Attribute.listDividerAlertDialog = global::AsesoriasApp.Resource.Attribute.listDividerAlertDialog;
+			global::Negocio.Resource.Attribute.listItemLayout = global::AsesoriasApp.Resource.Attribute.listItemLayout;
+			global::Negocio.Resource.Attribute.listLayout = global::AsesoriasApp.Resource.Attribute.listLayout;
+			global::Negocio.Resource.Attribute.listMenuViewStyle = global::AsesoriasApp.Resource.Attribute.listMenuViewStyle;
+			global::Negocio.Resource.Attribute.listPopupWindowStyle = global::AsesoriasApp.Resource.Attribute.listPopupWindowStyle;
+			global::Negocio.Resource.Attribute.listPreferredItemHeight = global::AsesoriasApp.Resource.Attribute.listPreferredItemHeight;
+			global::Negocio.Resource.Attribute.listPreferredItemHeightLarge = global::AsesoriasApp.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Negocio.Resource.Attribute.listPreferredItemHeightSmall = global::AsesoriasApp.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Negocio.Resource.Attribute.listPreferredItemPaddingLeft = global::AsesoriasApp.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Negocio.Resource.Attribute.listPreferredItemPaddingRight = global::AsesoriasApp.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Negocio.Resource.Attribute.logo = global::AsesoriasApp.Resource.Attribute.logo;
+			global::Negocio.Resource.Attribute.logoDescription = global::AsesoriasApp.Resource.Attribute.logoDescription;
+			global::Negocio.Resource.Attribute.maxButtonHeight = global::AsesoriasApp.Resource.Attribute.maxButtonHeight;
+			global::Negocio.Resource.Attribute.measureWithLargestChild = global::AsesoriasApp.Resource.Attribute.measureWithLargestChild;
+			global::Negocio.Resource.Attribute.multiChoiceItemLayout = global::AsesoriasApp.Resource.Attribute.multiChoiceItemLayout;
+			global::Negocio.Resource.Attribute.navigationContentDescription = global::AsesoriasApp.Resource.Attribute.navigationContentDescription;
+			global::Negocio.Resource.Attribute.navigationIcon = global::AsesoriasApp.Resource.Attribute.navigationIcon;
+			global::Negocio.Resource.Attribute.navigationMode = global::AsesoriasApp.Resource.Attribute.navigationMode;
+			global::Negocio.Resource.Attribute.numericModifiers = global::AsesoriasApp.Resource.Attribute.numericModifiers;
+			global::Negocio.Resource.Attribute.overlapAnchor = global::AsesoriasApp.Resource.Attribute.overlapAnchor;
+			global::Negocio.Resource.Attribute.paddingBottomNoButtons = global::AsesoriasApp.Resource.Attribute.paddingBottomNoButtons;
+			global::Negocio.Resource.Attribute.paddingEnd = global::AsesoriasApp.Resource.Attribute.paddingEnd;
+			global::Negocio.Resource.Attribute.paddingStart = global::AsesoriasApp.Resource.Attribute.paddingStart;
+			global::Negocio.Resource.Attribute.paddingTopNoTitle = global::AsesoriasApp.Resource.Attribute.paddingTopNoTitle;
+			global::Negocio.Resource.Attribute.panelBackground = global::AsesoriasApp.Resource.Attribute.panelBackground;
+			global::Negocio.Resource.Attribute.panelMenuListTheme = global::AsesoriasApp.Resource.Attribute.panelMenuListTheme;
+			global::Negocio.Resource.Attribute.panelMenuListWidth = global::AsesoriasApp.Resource.Attribute.panelMenuListWidth;
+			global::Negocio.Resource.Attribute.popupMenuStyle = global::AsesoriasApp.Resource.Attribute.popupMenuStyle;
+			global::Negocio.Resource.Attribute.popupTheme = global::AsesoriasApp.Resource.Attribute.popupTheme;
+			global::Negocio.Resource.Attribute.popupWindowStyle = global::AsesoriasApp.Resource.Attribute.popupWindowStyle;
+			global::Negocio.Resource.Attribute.preserveIconSpacing = global::AsesoriasApp.Resource.Attribute.preserveIconSpacing;
+			global::Negocio.Resource.Attribute.progressBarPadding = global::AsesoriasApp.Resource.Attribute.progressBarPadding;
+			global::Negocio.Resource.Attribute.progressBarStyle = global::AsesoriasApp.Resource.Attribute.progressBarStyle;
+			global::Negocio.Resource.Attribute.queryBackground = global::AsesoriasApp.Resource.Attribute.queryBackground;
+			global::Negocio.Resource.Attribute.queryHint = global::AsesoriasApp.Resource.Attribute.queryHint;
+			global::Negocio.Resource.Attribute.radioButtonStyle = global::AsesoriasApp.Resource.Attribute.radioButtonStyle;
+			global::Negocio.Resource.Attribute.ratingBarStyle = global::AsesoriasApp.Resource.Attribute.ratingBarStyle;
+			global::Negocio.Resource.Attribute.ratingBarStyleIndicator = global::AsesoriasApp.Resource.Attribute.ratingBarStyleIndicator;
+			global::Negocio.Resource.Attribute.ratingBarStyleSmall = global::AsesoriasApp.Resource.Attribute.ratingBarStyleSmall;
+			global::Negocio.Resource.Attribute.searchHintIcon = global::AsesoriasApp.Resource.Attribute.searchHintIcon;
+			global::Negocio.Resource.Attribute.searchIcon = global::AsesoriasApp.Resource.Attribute.searchIcon;
+			global::Negocio.Resource.Attribute.searchViewStyle = global::AsesoriasApp.Resource.Attribute.searchViewStyle;
+			global::Negocio.Resource.Attribute.seekBarStyle = global::AsesoriasApp.Resource.Attribute.seekBarStyle;
+			global::Negocio.Resource.Attribute.selectableItemBackground = global::AsesoriasApp.Resource.Attribute.selectableItemBackground;
+			global::Negocio.Resource.Attribute.selectableItemBackgroundBorderless = global::AsesoriasApp.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Negocio.Resource.Attribute.showAsAction = global::AsesoriasApp.Resource.Attribute.showAsAction;
+			global::Negocio.Resource.Attribute.showDividers = global::AsesoriasApp.Resource.Attribute.showDividers;
+			global::Negocio.Resource.Attribute.showText = global::AsesoriasApp.Resource.Attribute.showText;
+			global::Negocio.Resource.Attribute.showTitle = global::AsesoriasApp.Resource.Attribute.showTitle;
+			global::Negocio.Resource.Attribute.singleChoiceItemLayout = global::AsesoriasApp.Resource.Attribute.singleChoiceItemLayout;
+			global::Negocio.Resource.Attribute.spinBars = global::AsesoriasApp.Resource.Attribute.spinBars;
+			global::Negocio.Resource.Attribute.spinnerDropDownItemStyle = global::AsesoriasApp.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Negocio.Resource.Attribute.spinnerStyle = global::AsesoriasApp.Resource.Attribute.spinnerStyle;
+			global::Negocio.Resource.Attribute.splitTrack = global::AsesoriasApp.Resource.Attribute.splitTrack;
+			global::Negocio.Resource.Attribute.srcCompat = global::AsesoriasApp.Resource.Attribute.srcCompat;
+			global::Negocio.Resource.Attribute.state_above_anchor = global::AsesoriasApp.Resource.Attribute.state_above_anchor;
+			global::Negocio.Resource.Attribute.subMenuArrow = global::AsesoriasApp.Resource.Attribute.subMenuArrow;
+			global::Negocio.Resource.Attribute.submitBackground = global::AsesoriasApp.Resource.Attribute.submitBackground;
+			global::Negocio.Resource.Attribute.subtitle = global::AsesoriasApp.Resource.Attribute.subtitle;
+			global::Negocio.Resource.Attribute.subtitleTextAppearance = global::AsesoriasApp.Resource.Attribute.subtitleTextAppearance;
+			global::Negocio.Resource.Attribute.subtitleTextColor = global::AsesoriasApp.Resource.Attribute.subtitleTextColor;
+			global::Negocio.Resource.Attribute.subtitleTextStyle = global::AsesoriasApp.Resource.Attribute.subtitleTextStyle;
+			global::Negocio.Resource.Attribute.suggestionRowLayout = global::AsesoriasApp.Resource.Attribute.suggestionRowLayout;
+			global::Negocio.Resource.Attribute.switchMinWidth = global::AsesoriasApp.Resource.Attribute.switchMinWidth;
+			global::Negocio.Resource.Attribute.switchPadding = global::AsesoriasApp.Resource.Attribute.switchPadding;
+			global::Negocio.Resource.Attribute.switchStyle = global::AsesoriasApp.Resource.Attribute.switchStyle;
+			global::Negocio.Resource.Attribute.switchTextAppearance = global::AsesoriasApp.Resource.Attribute.switchTextAppearance;
+			global::Negocio.Resource.Attribute.textAllCaps = global::AsesoriasApp.Resource.Attribute.textAllCaps;
+			global::Negocio.Resource.Attribute.textAppearanceLargePopupMenu = global::AsesoriasApp.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Negocio.Resource.Attribute.textAppearanceListItem = global::AsesoriasApp.Resource.Attribute.textAppearanceListItem;
+			global::Negocio.Resource.Attribute.textAppearanceListItemSecondary = global::AsesoriasApp.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Negocio.Resource.Attribute.textAppearanceListItemSmall = global::AsesoriasApp.Resource.Attribute.textAppearanceListItemSmall;
+			global::Negocio.Resource.Attribute.textAppearancePopupMenuHeader = global::AsesoriasApp.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Negocio.Resource.Attribute.textAppearanceSearchResultSubtitle = global::AsesoriasApp.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Negocio.Resource.Attribute.textAppearanceSearchResultTitle = global::AsesoriasApp.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Negocio.Resource.Attribute.textAppearanceSmallPopupMenu = global::AsesoriasApp.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Negocio.Resource.Attribute.textColorAlertDialogListItem = global::AsesoriasApp.Resource.Attribute.textColorAlertDialogListItem;
+			global::Negocio.Resource.Attribute.textColorSearchUrl = global::AsesoriasApp.Resource.Attribute.textColorSearchUrl;
+			global::Negocio.Resource.Attribute.theme = global::AsesoriasApp.Resource.Attribute.theme;
+			global::Negocio.Resource.Attribute.thickness = global::AsesoriasApp.Resource.Attribute.thickness;
+			global::Negocio.Resource.Attribute.thumbTextPadding = global::AsesoriasApp.Resource.Attribute.thumbTextPadding;
+			global::Negocio.Resource.Attribute.thumbTint = global::AsesoriasApp.Resource.Attribute.thumbTint;
+			global::Negocio.Resource.Attribute.thumbTintMode = global::AsesoriasApp.Resource.Attribute.thumbTintMode;
+			global::Negocio.Resource.Attribute.tickMark = global::AsesoriasApp.Resource.Attribute.tickMark;
+			global::Negocio.Resource.Attribute.tickMarkTint = global::AsesoriasApp.Resource.Attribute.tickMarkTint;
+			global::Negocio.Resource.Attribute.tickMarkTintMode = global::AsesoriasApp.Resource.Attribute.tickMarkTintMode;
+			global::Negocio.Resource.Attribute.tint = global::AsesoriasApp.Resource.Attribute.tint;
+			global::Negocio.Resource.Attribute.tintMode = global::AsesoriasApp.Resource.Attribute.tintMode;
+			global::Negocio.Resource.Attribute.title = global::AsesoriasApp.Resource.Attribute.title;
+			global::Negocio.Resource.Attribute.titleMargin = global::AsesoriasApp.Resource.Attribute.titleMargin;
+			global::Negocio.Resource.Attribute.titleMarginBottom = global::AsesoriasApp.Resource.Attribute.titleMarginBottom;
+			global::Negocio.Resource.Attribute.titleMarginEnd = global::AsesoriasApp.Resource.Attribute.titleMarginEnd;
+			global::Negocio.Resource.Attribute.titleMarginStart = global::AsesoriasApp.Resource.Attribute.titleMarginStart;
+			global::Negocio.Resource.Attribute.titleMarginTop = global::AsesoriasApp.Resource.Attribute.titleMarginTop;
+			global::Negocio.Resource.Attribute.titleMargins = global::AsesoriasApp.Resource.Attribute.titleMargins;
+			global::Negocio.Resource.Attribute.titleTextAppearance = global::AsesoriasApp.Resource.Attribute.titleTextAppearance;
+			global::Negocio.Resource.Attribute.titleTextColor = global::AsesoriasApp.Resource.Attribute.titleTextColor;
+			global::Negocio.Resource.Attribute.titleTextStyle = global::AsesoriasApp.Resource.Attribute.titleTextStyle;
+			global::Negocio.Resource.Attribute.toolbarNavigationButtonStyle = global::AsesoriasApp.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Negocio.Resource.Attribute.toolbarStyle = global::AsesoriasApp.Resource.Attribute.toolbarStyle;
+			global::Negocio.Resource.Attribute.tooltipForegroundColor = global::AsesoriasApp.Resource.Attribute.tooltipForegroundColor;
+			global::Negocio.Resource.Attribute.tooltipFrameBackground = global::AsesoriasApp.Resource.Attribute.tooltipFrameBackground;
+			global::Negocio.Resource.Attribute.tooltipText = global::AsesoriasApp.Resource.Attribute.tooltipText;
+			global::Negocio.Resource.Attribute.track = global::AsesoriasApp.Resource.Attribute.track;
+			global::Negocio.Resource.Attribute.trackTint = global::AsesoriasApp.Resource.Attribute.trackTint;
+			global::Negocio.Resource.Attribute.trackTintMode = global::AsesoriasApp.Resource.Attribute.trackTintMode;
+			global::Negocio.Resource.Attribute.voiceIcon = global::AsesoriasApp.Resource.Attribute.voiceIcon;
+			global::Negocio.Resource.Attribute.windowActionBar = global::AsesoriasApp.Resource.Attribute.windowActionBar;
+			global::Negocio.Resource.Attribute.windowActionBarOverlay = global::AsesoriasApp.Resource.Attribute.windowActionBarOverlay;
+			global::Negocio.Resource.Attribute.windowActionModeOverlay = global::AsesoriasApp.Resource.Attribute.windowActionModeOverlay;
+			global::Negocio.Resource.Attribute.windowFixedHeightMajor = global::AsesoriasApp.Resource.Attribute.windowFixedHeightMajor;
+			global::Negocio.Resource.Attribute.windowFixedHeightMinor = global::AsesoriasApp.Resource.Attribute.windowFixedHeightMinor;
+			global::Negocio.Resource.Attribute.windowFixedWidthMajor = global::AsesoriasApp.Resource.Attribute.windowFixedWidthMajor;
+			global::Negocio.Resource.Attribute.windowFixedWidthMinor = global::AsesoriasApp.Resource.Attribute.windowFixedWidthMinor;
+			global::Negocio.Resource.Attribute.windowMinWidthMajor = global::AsesoriasApp.Resource.Attribute.windowMinWidthMajor;
+			global::Negocio.Resource.Attribute.windowMinWidthMinor = global::AsesoriasApp.Resource.Attribute.windowMinWidthMinor;
+			global::Negocio.Resource.Attribute.windowNoTitle = global::AsesoriasApp.Resource.Attribute.windowNoTitle;
+			global::Negocio.Resource.Boolean.abc_action_bar_embed_tabs = global::AsesoriasApp.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Negocio.Resource.Boolean.abc_allow_stacked_button_bar = global::AsesoriasApp.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Negocio.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::AsesoriasApp.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Negocio.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::AsesoriasApp.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::Negocio.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::AsesoriasApp.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::Negocio.Resource.Color.abc_background_cache_hint_selector_material_dark = global::AsesoriasApp.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Negocio.Resource.Color.abc_background_cache_hint_selector_material_light = global::AsesoriasApp.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Negocio.Resource.Color.abc_btn_colored_borderless_text_material = global::AsesoriasApp.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Negocio.Resource.Color.abc_btn_colored_text_material = global::AsesoriasApp.Resource.Color.abc_btn_colored_text_material;
+			global::Negocio.Resource.Color.abc_color_highlight_material = global::AsesoriasApp.Resource.Color.abc_color_highlight_material;
+			global::Negocio.Resource.Color.abc_hint_foreground_material_dark = global::AsesoriasApp.Resource.Color.abc_hint_foreground_material_dark;
+			global::Negocio.Resource.Color.abc_hint_foreground_material_light = global::AsesoriasApp.Resource.Color.abc_hint_foreground_material_light;
+			global::Negocio.Resource.Color.abc_input_method_navigation_guard = global::AsesoriasApp.Resource.Color.abc_input_method_navigation_guard;
+			global::Negocio.Resource.Color.abc_primary_text_disable_only_material_dark = global::AsesoriasApp.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Negocio.Resource.Color.abc_primary_text_disable_only_material_light = global::AsesoriasApp.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Negocio.Resource.Color.abc_primary_text_material_dark = global::AsesoriasApp.Resource.Color.abc_primary_text_material_dark;
+			global::Negocio.Resource.Color.abc_primary_text_material_light = global::AsesoriasApp.Resource.Color.abc_primary_text_material_light;
+			global::Negocio.Resource.Color.abc_search_url_text = global::AsesoriasApp.Resource.Color.abc_search_url_text;
+			global::Negocio.Resource.Color.abc_search_url_text_normal = global::AsesoriasApp.Resource.Color.abc_search_url_text_normal;
+			global::Negocio.Resource.Color.abc_search_url_text_pressed = global::AsesoriasApp.Resource.Color.abc_search_url_text_pressed;
+			global::Negocio.Resource.Color.abc_search_url_text_selected = global::AsesoriasApp.Resource.Color.abc_search_url_text_selected;
+			global::Negocio.Resource.Color.abc_secondary_text_material_dark = global::AsesoriasApp.Resource.Color.abc_secondary_text_material_dark;
+			global::Negocio.Resource.Color.abc_secondary_text_material_light = global::AsesoriasApp.Resource.Color.abc_secondary_text_material_light;
+			global::Negocio.Resource.Color.abc_tint_btn_checkable = global::AsesoriasApp.Resource.Color.abc_tint_btn_checkable;
+			global::Negocio.Resource.Color.abc_tint_default = global::AsesoriasApp.Resource.Color.abc_tint_default;
+			global::Negocio.Resource.Color.abc_tint_edittext = global::AsesoriasApp.Resource.Color.abc_tint_edittext;
+			global::Negocio.Resource.Color.abc_tint_seek_thumb = global::AsesoriasApp.Resource.Color.abc_tint_seek_thumb;
+			global::Negocio.Resource.Color.abc_tint_spinner = global::AsesoriasApp.Resource.Color.abc_tint_spinner;
+			global::Negocio.Resource.Color.abc_tint_switch_track = global::AsesoriasApp.Resource.Color.abc_tint_switch_track;
+			global::Negocio.Resource.Color.accent_material_dark = global::AsesoriasApp.Resource.Color.accent_material_dark;
+			global::Negocio.Resource.Color.accent_material_light = global::AsesoriasApp.Resource.Color.accent_material_light;
+			global::Negocio.Resource.Color.background_floating_material_dark = global::AsesoriasApp.Resource.Color.background_floating_material_dark;
+			global::Negocio.Resource.Color.background_floating_material_light = global::AsesoriasApp.Resource.Color.background_floating_material_light;
+			global::Negocio.Resource.Color.background_material_dark = global::AsesoriasApp.Resource.Color.background_material_dark;
+			global::Negocio.Resource.Color.background_material_light = global::AsesoriasApp.Resource.Color.background_material_light;
+			global::Negocio.Resource.Color.bright_foreground_disabled_material_dark = global::AsesoriasApp.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Negocio.Resource.Color.bright_foreground_disabled_material_light = global::AsesoriasApp.Resource.Color.bright_foreground_disabled_material_light;
+			global::Negocio.Resource.Color.bright_foreground_inverse_material_dark = global::AsesoriasApp.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Negocio.Resource.Color.bright_foreground_inverse_material_light = global::AsesoriasApp.Resource.Color.bright_foreground_inverse_material_light;
+			global::Negocio.Resource.Color.bright_foreground_material_dark = global::AsesoriasApp.Resource.Color.bright_foreground_material_dark;
+			global::Negocio.Resource.Color.bright_foreground_material_light = global::AsesoriasApp.Resource.Color.bright_foreground_material_light;
+			global::Negocio.Resource.Color.button_material_dark = global::AsesoriasApp.Resource.Color.button_material_dark;
+			global::Negocio.Resource.Color.button_material_light = global::AsesoriasApp.Resource.Color.button_material_light;
+			global::Negocio.Resource.Color.dim_foreground_disabled_material_dark = global::AsesoriasApp.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Negocio.Resource.Color.dim_foreground_disabled_material_light = global::AsesoriasApp.Resource.Color.dim_foreground_disabled_material_light;
+			global::Negocio.Resource.Color.dim_foreground_material_dark = global::AsesoriasApp.Resource.Color.dim_foreground_material_dark;
+			global::Negocio.Resource.Color.dim_foreground_material_light = global::AsesoriasApp.Resource.Color.dim_foreground_material_light;
+			global::Negocio.Resource.Color.error_color_material = global::AsesoriasApp.Resource.Color.error_color_material;
+			global::Negocio.Resource.Color.foreground_material_dark = global::AsesoriasApp.Resource.Color.foreground_material_dark;
+			global::Negocio.Resource.Color.foreground_material_light = global::AsesoriasApp.Resource.Color.foreground_material_light;
+			global::Negocio.Resource.Color.highlighted_text_material_dark = global::AsesoriasApp.Resource.Color.highlighted_text_material_dark;
+			global::Negocio.Resource.Color.highlighted_text_material_light = global::AsesoriasApp.Resource.Color.highlighted_text_material_light;
+			global::Negocio.Resource.Color.material_blue_grey_800 = global::AsesoriasApp.Resource.Color.material_blue_grey_800;
+			global::Negocio.Resource.Color.material_blue_grey_900 = global::AsesoriasApp.Resource.Color.material_blue_grey_900;
+			global::Negocio.Resource.Color.material_blue_grey_950 = global::AsesoriasApp.Resource.Color.material_blue_grey_950;
+			global::Negocio.Resource.Color.material_deep_teal_200 = global::AsesoriasApp.Resource.Color.material_deep_teal_200;
+			global::Negocio.Resource.Color.material_deep_teal_500 = global::AsesoriasApp.Resource.Color.material_deep_teal_500;
+			global::Negocio.Resource.Color.material_grey_100 = global::AsesoriasApp.Resource.Color.material_grey_100;
+			global::Negocio.Resource.Color.material_grey_300 = global::AsesoriasApp.Resource.Color.material_grey_300;
+			global::Negocio.Resource.Color.material_grey_50 = global::AsesoriasApp.Resource.Color.material_grey_50;
+			global::Negocio.Resource.Color.material_grey_600 = global::AsesoriasApp.Resource.Color.material_grey_600;
+			global::Negocio.Resource.Color.material_grey_800 = global::AsesoriasApp.Resource.Color.material_grey_800;
+			global::Negocio.Resource.Color.material_grey_850 = global::AsesoriasApp.Resource.Color.material_grey_850;
+			global::Negocio.Resource.Color.material_grey_900 = global::AsesoriasApp.Resource.Color.material_grey_900;
+			global::Negocio.Resource.Color.notification_action_color_filter = global::AsesoriasApp.Resource.Color.notification_action_color_filter;
+			global::Negocio.Resource.Color.notification_icon_bg_color = global::AsesoriasApp.Resource.Color.notification_icon_bg_color;
+			global::Negocio.Resource.Color.notification_material_background_media_default_color = global::AsesoriasApp.Resource.Color.notification_material_background_media_default_color;
+			global::Negocio.Resource.Color.primary_dark_material_dark = global::AsesoriasApp.Resource.Color.primary_dark_material_dark;
+			global::Negocio.Resource.Color.primary_dark_material_light = global::AsesoriasApp.Resource.Color.primary_dark_material_light;
+			global::Negocio.Resource.Color.primary_material_dark = global::AsesoriasApp.Resource.Color.primary_material_dark;
+			global::Negocio.Resource.Color.primary_material_light = global::AsesoriasApp.Resource.Color.primary_material_light;
+			global::Negocio.Resource.Color.primary_text_default_material_dark = global::AsesoriasApp.Resource.Color.primary_text_default_material_dark;
+			global::Negocio.Resource.Color.primary_text_default_material_light = global::AsesoriasApp.Resource.Color.primary_text_default_material_light;
+			global::Negocio.Resource.Color.primary_text_disabled_material_dark = global::AsesoriasApp.Resource.Color.primary_text_disabled_material_dark;
+			global::Negocio.Resource.Color.primary_text_disabled_material_light = global::AsesoriasApp.Resource.Color.primary_text_disabled_material_light;
+			global::Negocio.Resource.Color.ripple_material_dark = global::AsesoriasApp.Resource.Color.ripple_material_dark;
+			global::Negocio.Resource.Color.ripple_material_light = global::AsesoriasApp.Resource.Color.ripple_material_light;
+			global::Negocio.Resource.Color.secondary_text_default_material_dark = global::AsesoriasApp.Resource.Color.secondary_text_default_material_dark;
+			global::Negocio.Resource.Color.secondary_text_default_material_light = global::AsesoriasApp.Resource.Color.secondary_text_default_material_light;
+			global::Negocio.Resource.Color.secondary_text_disabled_material_dark = global::AsesoriasApp.Resource.Color.secondary_text_disabled_material_dark;
+			global::Negocio.Resource.Color.secondary_text_disabled_material_light = global::AsesoriasApp.Resource.Color.secondary_text_disabled_material_light;
+			global::Negocio.Resource.Color.switch_thumb_disabled_material_dark = global::AsesoriasApp.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Negocio.Resource.Color.switch_thumb_disabled_material_light = global::AsesoriasApp.Resource.Color.switch_thumb_disabled_material_light;
+			global::Negocio.Resource.Color.switch_thumb_material_dark = global::AsesoriasApp.Resource.Color.switch_thumb_material_dark;
+			global::Negocio.Resource.Color.switch_thumb_material_light = global::AsesoriasApp.Resource.Color.switch_thumb_material_light;
+			global::Negocio.Resource.Color.switch_thumb_normal_material_dark = global::AsesoriasApp.Resource.Color.switch_thumb_normal_material_dark;
+			global::Negocio.Resource.Color.switch_thumb_normal_material_light = global::AsesoriasApp.Resource.Color.switch_thumb_normal_material_light;
+			global::Negocio.Resource.Color.tooltip_background_dark = global::AsesoriasApp.Resource.Color.tooltip_background_dark;
+			global::Negocio.Resource.Color.tooltip_background_light = global::AsesoriasApp.Resource.Color.tooltip_background_light;
+			global::Negocio.Resource.Dimension.abc_action_bar_content_inset_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Negocio.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::AsesoriasApp.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Negocio.Resource.Dimension.abc_action_bar_default_height_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Negocio.Resource.Dimension.abc_action_bar_default_padding_end_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Negocio.Resource.Dimension.abc_action_bar_default_padding_start_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Negocio.Resource.Dimension.abc_action_bar_elevation_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Negocio.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Negocio.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Negocio.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Negocio.Resource.Dimension.abc_action_bar_progress_bar_size = global::AsesoriasApp.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::Negocio.Resource.Dimension.abc_action_bar_stacked_max_height = global::AsesoriasApp.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Negocio.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::AsesoriasApp.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Negocio.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Negocio.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::AsesoriasApp.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Negocio.Resource.Dimension.abc_action_button_min_height_material = global::AsesoriasApp.Resource.Dimension.abc_action_button_min_height_material;
+			global::Negocio.Resource.Dimension.abc_action_button_min_width_material = global::AsesoriasApp.Resource.Dimension.abc_action_button_min_width_material;
+			global::Negocio.Resource.Dimension.abc_action_button_min_width_overflow_material = global::AsesoriasApp.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Negocio.Resource.Dimension.abc_alert_dialog_button_bar_height = global::AsesoriasApp.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Negocio.Resource.Dimension.abc_button_inset_horizontal_material = global::AsesoriasApp.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Negocio.Resource.Dimension.abc_button_inset_vertical_material = global::AsesoriasApp.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Negocio.Resource.Dimension.abc_button_padding_horizontal_material = global::AsesoriasApp.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Negocio.Resource.Dimension.abc_button_padding_vertical_material = global::AsesoriasApp.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Negocio.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::AsesoriasApp.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Negocio.Resource.Dimension.abc_config_prefDialogWidth = global::AsesoriasApp.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Negocio.Resource.Dimension.abc_control_corner_material = global::AsesoriasApp.Resource.Dimension.abc_control_corner_material;
+			global::Negocio.Resource.Dimension.abc_control_inset_material = global::AsesoriasApp.Resource.Dimension.abc_control_inset_material;
+			global::Negocio.Resource.Dimension.abc_control_padding_material = global::AsesoriasApp.Resource.Dimension.abc_control_padding_material;
+			global::Negocio.Resource.Dimension.abc_dialog_fixed_height_major = global::AsesoriasApp.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Negocio.Resource.Dimension.abc_dialog_fixed_height_minor = global::AsesoriasApp.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Negocio.Resource.Dimension.abc_dialog_fixed_width_major = global::AsesoriasApp.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Negocio.Resource.Dimension.abc_dialog_fixed_width_minor = global::AsesoriasApp.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Negocio.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::AsesoriasApp.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Negocio.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::AsesoriasApp.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Negocio.Resource.Dimension.abc_dialog_min_width_major = global::AsesoriasApp.Resource.Dimension.abc_dialog_min_width_major;
+			global::Negocio.Resource.Dimension.abc_dialog_min_width_minor = global::AsesoriasApp.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Negocio.Resource.Dimension.abc_dialog_padding_material = global::AsesoriasApp.Resource.Dimension.abc_dialog_padding_material;
+			global::Negocio.Resource.Dimension.abc_dialog_padding_top_material = global::AsesoriasApp.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Negocio.Resource.Dimension.abc_dialog_title_divider_material = global::AsesoriasApp.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Negocio.Resource.Dimension.abc_disabled_alpha_material_dark = global::AsesoriasApp.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Negocio.Resource.Dimension.abc_disabled_alpha_material_light = global::AsesoriasApp.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Negocio.Resource.Dimension.abc_dropdownitem_icon_width = global::AsesoriasApp.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Negocio.Resource.Dimension.abc_dropdownitem_text_padding_left = global::AsesoriasApp.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Negocio.Resource.Dimension.abc_dropdownitem_text_padding_right = global::AsesoriasApp.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Negocio.Resource.Dimension.abc_edit_text_inset_bottom_material = global::AsesoriasApp.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Negocio.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::AsesoriasApp.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Negocio.Resource.Dimension.abc_edit_text_inset_top_material = global::AsesoriasApp.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Negocio.Resource.Dimension.abc_floating_window_z = global::AsesoriasApp.Resource.Dimension.abc_floating_window_z;
+			global::Negocio.Resource.Dimension.abc_list_item_padding_horizontal_material = global::AsesoriasApp.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Negocio.Resource.Dimension.abc_panel_menu_list_width = global::AsesoriasApp.Resource.Dimension.abc_panel_menu_list_width;
+			global::Negocio.Resource.Dimension.abc_progress_bar_height_material = global::AsesoriasApp.Resource.Dimension.abc_progress_bar_height_material;
+			global::Negocio.Resource.Dimension.abc_search_view_preferred_height = global::AsesoriasApp.Resource.Dimension.abc_search_view_preferred_height;
+			global::Negocio.Resource.Dimension.abc_search_view_preferred_width = global::AsesoriasApp.Resource.Dimension.abc_search_view_preferred_width;
+			global::Negocio.Resource.Dimension.abc_seekbar_track_background_height_material = global::AsesoriasApp.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Negocio.Resource.Dimension.abc_seekbar_track_progress_height_material = global::AsesoriasApp.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Negocio.Resource.Dimension.abc_select_dialog_padding_start_material = global::AsesoriasApp.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Negocio.Resource.Dimension.abc_switch_padding = global::AsesoriasApp.Resource.Dimension.abc_switch_padding;
+			global::Negocio.Resource.Dimension.abc_text_size_body_1_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_body_1_material;
+			global::Negocio.Resource.Dimension.abc_text_size_body_2_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_body_2_material;
+			global::Negocio.Resource.Dimension.abc_text_size_button_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_button_material;
+			global::Negocio.Resource.Dimension.abc_text_size_caption_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_caption_material;
+			global::Negocio.Resource.Dimension.abc_text_size_display_1_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_display_1_material;
+			global::Negocio.Resource.Dimension.abc_text_size_display_2_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_display_2_material;
+			global::Negocio.Resource.Dimension.abc_text_size_display_3_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_display_3_material;
+			global::Negocio.Resource.Dimension.abc_text_size_display_4_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_display_4_material;
+			global::Negocio.Resource.Dimension.abc_text_size_headline_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_headline_material;
+			global::Negocio.Resource.Dimension.abc_text_size_large_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_large_material;
+			global::Negocio.Resource.Dimension.abc_text_size_medium_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_medium_material;
+			global::Negocio.Resource.Dimension.abc_text_size_menu_header_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Negocio.Resource.Dimension.abc_text_size_menu_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_menu_material;
+			global::Negocio.Resource.Dimension.abc_text_size_small_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_small_material;
+			global::Negocio.Resource.Dimension.abc_text_size_subhead_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_subhead_material;
+			global::Negocio.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::AsesoriasApp.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Negocio.Resource.Dimension.abc_text_size_title_material = global::AsesoriasApp.Resource.Dimension.abc_text_size_title_material;
+			global::Negocio.Resource.Dimension.abc_text_size_title_material_toolbar = global::AsesoriasApp.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Negocio.Resource.Dimension.compat_button_inset_horizontal_material = global::AsesoriasApp.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Negocio.Resource.Dimension.compat_button_inset_vertical_material = global::AsesoriasApp.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Negocio.Resource.Dimension.compat_button_padding_horizontal_material = global::AsesoriasApp.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Negocio.Resource.Dimension.compat_button_padding_vertical_material = global::AsesoriasApp.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Negocio.Resource.Dimension.compat_control_corner_material = global::AsesoriasApp.Resource.Dimension.compat_control_corner_material;
+			global::Negocio.Resource.Dimension.disabled_alpha_material_dark = global::AsesoriasApp.Resource.Dimension.disabled_alpha_material_dark;
+			global::Negocio.Resource.Dimension.disabled_alpha_material_light = global::AsesoriasApp.Resource.Dimension.disabled_alpha_material_light;
+			global::Negocio.Resource.Dimension.highlight_alpha_material_colored = global::AsesoriasApp.Resource.Dimension.highlight_alpha_material_colored;
+			global::Negocio.Resource.Dimension.highlight_alpha_material_dark = global::AsesoriasApp.Resource.Dimension.highlight_alpha_material_dark;
+			global::Negocio.Resource.Dimension.highlight_alpha_material_light = global::AsesoriasApp.Resource.Dimension.highlight_alpha_material_light;
+			global::Negocio.Resource.Dimension.hint_alpha_material_dark = global::AsesoriasApp.Resource.Dimension.hint_alpha_material_dark;
+			global::Negocio.Resource.Dimension.hint_alpha_material_light = global::AsesoriasApp.Resource.Dimension.hint_alpha_material_light;
+			global::Negocio.Resource.Dimension.hint_pressed_alpha_material_dark = global::AsesoriasApp.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Negocio.Resource.Dimension.hint_pressed_alpha_material_light = global::AsesoriasApp.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Negocio.Resource.Dimension.notification_action_icon_size = global::AsesoriasApp.Resource.Dimension.notification_action_icon_size;
+			global::Negocio.Resource.Dimension.notification_action_text_size = global::AsesoriasApp.Resource.Dimension.notification_action_text_size;
+			global::Negocio.Resource.Dimension.notification_big_circle_margin = global::AsesoriasApp.Resource.Dimension.notification_big_circle_margin;
+			global::Negocio.Resource.Dimension.notification_content_margin_start = global::AsesoriasApp.Resource.Dimension.notification_content_margin_start;
+			global::Negocio.Resource.Dimension.notification_large_icon_height = global::AsesoriasApp.Resource.Dimension.notification_large_icon_height;
+			global::Negocio.Resource.Dimension.notification_large_icon_width = global::AsesoriasApp.Resource.Dimension.notification_large_icon_width;
+			global::Negocio.Resource.Dimension.notification_main_column_padding_top = global::AsesoriasApp.Resource.Dimension.notification_main_column_padding_top;
+			global::Negocio.Resource.Dimension.notification_media_narrow_margin = global::AsesoriasApp.Resource.Dimension.notification_media_narrow_margin;
+			global::Negocio.Resource.Dimension.notification_right_icon_size = global::AsesoriasApp.Resource.Dimension.notification_right_icon_size;
+			global::Negocio.Resource.Dimension.notification_right_side_padding_top = global::AsesoriasApp.Resource.Dimension.notification_right_side_padding_top;
+			global::Negocio.Resource.Dimension.notification_small_icon_background_padding = global::AsesoriasApp.Resource.Dimension.notification_small_icon_background_padding;
+			global::Negocio.Resource.Dimension.notification_small_icon_size_as_large = global::AsesoriasApp.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Negocio.Resource.Dimension.notification_subtext_size = global::AsesoriasApp.Resource.Dimension.notification_subtext_size;
+			global::Negocio.Resource.Dimension.notification_top_pad = global::AsesoriasApp.Resource.Dimension.notification_top_pad;
+			global::Negocio.Resource.Dimension.notification_top_pad_large_text = global::AsesoriasApp.Resource.Dimension.notification_top_pad_large_text;
+			global::Negocio.Resource.Dimension.tooltip_corner_radius = global::AsesoriasApp.Resource.Dimension.tooltip_corner_radius;
+			global::Negocio.Resource.Dimension.tooltip_horizontal_padding = global::AsesoriasApp.Resource.Dimension.tooltip_horizontal_padding;
+			global::Negocio.Resource.Dimension.tooltip_margin = global::AsesoriasApp.Resource.Dimension.tooltip_margin;
+			global::Negocio.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::AsesoriasApp.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Negocio.Resource.Dimension.tooltip_precise_anchor_threshold = global::AsesoriasApp.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Negocio.Resource.Dimension.tooltip_vertical_padding = global::AsesoriasApp.Resource.Dimension.tooltip_vertical_padding;
+			global::Negocio.Resource.Dimension.tooltip_y_offset_non_touch = global::AsesoriasApp.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Negocio.Resource.Dimension.tooltip_y_offset_touch = global::AsesoriasApp.Resource.Dimension.tooltip_y_offset_touch;
+			global::Negocio.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_action_bar_item_background_material = global::AsesoriasApp.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Negocio.Resource.Drawable.abc_btn_borderless_material = global::AsesoriasApp.Resource.Drawable.abc_btn_borderless_material;
+			global::Negocio.Resource.Drawable.abc_btn_check_material = global::AsesoriasApp.Resource.Drawable.abc_btn_check_material;
+			global::Negocio.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::AsesoriasApp.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Negocio.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::AsesoriasApp.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Negocio.Resource.Drawable.abc_btn_colored_material = global::AsesoriasApp.Resource.Drawable.abc_btn_colored_material;
+			global::Negocio.Resource.Drawable.abc_btn_default_mtrl_shape = global::AsesoriasApp.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Negocio.Resource.Drawable.abc_btn_radio_material = global::AsesoriasApp.Resource.Drawable.abc_btn_radio_material;
+			global::Negocio.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::AsesoriasApp.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Negocio.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::AsesoriasApp.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Negocio.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::AsesoriasApp.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Negocio.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::AsesoriasApp.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Negocio.Resource.Drawable.abc_cab_background_internal_bg = global::AsesoriasApp.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Negocio.Resource.Drawable.abc_cab_background_top_material = global::AsesoriasApp.Resource.Drawable.abc_cab_background_top_material;
+			global::Negocio.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_control_background_material = global::AsesoriasApp.Resource.Drawable.abc_control_background_material;
+			global::Negocio.Resource.Drawable.abc_dialog_material_background = global::AsesoriasApp.Resource.Drawable.abc_dialog_material_background;
+			global::Negocio.Resource.Drawable.abc_edit_text_material = global::AsesoriasApp.Resource.Drawable.abc_edit_text_material;
+			global::Negocio.Resource.Drawable.abc_ic_ab_back_material = global::AsesoriasApp.Resource.Drawable.abc_ic_ab_back_material;
+			global::Negocio.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::AsesoriasApp.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Negocio.Resource.Drawable.abc_ic_clear_material = global::AsesoriasApp.Resource.Drawable.abc_ic_clear_material;
+			global::Negocio.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_ic_go_search_api_material = global::AsesoriasApp.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Negocio.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Negocio.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_ic_menu_overflow_material = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Negocio.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Negocio.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_ic_search_api_material = global::AsesoriasApp.Resource.Drawable.abc_ic_search_api_material;
+			global::Negocio.Resource.Drawable.abc_ic_star_black_16dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Negocio.Resource.Drawable.abc_ic_star_black_36dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Negocio.Resource.Drawable.abc_ic_star_black_48dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Negocio.Resource.Drawable.abc_ic_star_half_black_16dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Negocio.Resource.Drawable.abc_ic_star_half_black_36dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Negocio.Resource.Drawable.abc_ic_star_half_black_48dp = global::AsesoriasApp.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Negocio.Resource.Drawable.abc_ic_voice_search_api_material = global::AsesoriasApp.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Negocio.Resource.Drawable.abc_item_background_holo_dark = global::AsesoriasApp.Resource.Drawable.abc_item_background_holo_dark;
+			global::Negocio.Resource.Drawable.abc_item_background_holo_light = global::AsesoriasApp.Resource.Drawable.abc_item_background_holo_light;
+			global::Negocio.Resource.Drawable.abc_list_divider_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_list_focused_holo = global::AsesoriasApp.Resource.Drawable.abc_list_focused_holo;
+			global::Negocio.Resource.Drawable.abc_list_longpressed_holo = global::AsesoriasApp.Resource.Drawable.abc_list_longpressed_holo;
+			global::Negocio.Resource.Drawable.abc_list_pressed_holo_dark = global::AsesoriasApp.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Negocio.Resource.Drawable.abc_list_pressed_holo_light = global::AsesoriasApp.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Negocio.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::AsesoriasApp.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Negocio.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::AsesoriasApp.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Negocio.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::AsesoriasApp.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Negocio.Resource.Drawable.abc_list_selector_disabled_holo_light = global::AsesoriasApp.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Negocio.Resource.Drawable.abc_list_selector_holo_dark = global::AsesoriasApp.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Negocio.Resource.Drawable.abc_list_selector_holo_light = global::AsesoriasApp.Resource.Drawable.abc_list_selector_holo_light;
+			global::Negocio.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::AsesoriasApp.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Negocio.Resource.Drawable.abc_popup_background_mtrl_mult = global::AsesoriasApp.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Negocio.Resource.Drawable.abc_ratingbar_indicator_material = global::AsesoriasApp.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Negocio.Resource.Drawable.abc_ratingbar_material = global::AsesoriasApp.Resource.Drawable.abc_ratingbar_material;
+			global::Negocio.Resource.Drawable.abc_ratingbar_small_material = global::AsesoriasApp.Resource.Drawable.abc_ratingbar_small_material;
+			global::Negocio.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::AsesoriasApp.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Negocio.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::AsesoriasApp.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Negocio.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_seekbar_thumb_material = global::AsesoriasApp.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Negocio.Resource.Drawable.abc_seekbar_tick_mark_material = global::AsesoriasApp.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Negocio.Resource.Drawable.abc_seekbar_track_material = global::AsesoriasApp.Resource.Drawable.abc_seekbar_track_material;
+			global::Negocio.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::AsesoriasApp.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Negocio.Resource.Drawable.abc_spinner_textfield_background_material = global::AsesoriasApp.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Negocio.Resource.Drawable.abc_switch_thumb_material = global::AsesoriasApp.Resource.Drawable.abc_switch_thumb_material;
+			global::Negocio.Resource.Drawable.abc_switch_track_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_tab_indicator_material = global::AsesoriasApp.Resource.Drawable.abc_tab_indicator_material;
+			global::Negocio.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_text_cursor_material = global::AsesoriasApp.Resource.Drawable.abc_text_cursor_material;
+			global::Negocio.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Negocio.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Negocio.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Negocio.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Negocio.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Negocio.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::AsesoriasApp.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Negocio.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::AsesoriasApp.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Negocio.Resource.Drawable.abc_textfield_search_material = global::AsesoriasApp.Resource.Drawable.abc_textfield_search_material;
+			global::Negocio.Resource.Drawable.abc_vector_test = global::AsesoriasApp.Resource.Drawable.abc_vector_test;
+			global::Negocio.Resource.Drawable.notification_action_background = global::AsesoriasApp.Resource.Drawable.notification_action_background;
+			global::Negocio.Resource.Drawable.notification_bg = global::AsesoriasApp.Resource.Drawable.notification_bg;
+			global::Negocio.Resource.Drawable.notification_bg_low = global::AsesoriasApp.Resource.Drawable.notification_bg_low;
+			global::Negocio.Resource.Drawable.notification_bg_low_normal = global::AsesoriasApp.Resource.Drawable.notification_bg_low_normal;
+			global::Negocio.Resource.Drawable.notification_bg_low_pressed = global::AsesoriasApp.Resource.Drawable.notification_bg_low_pressed;
+			global::Negocio.Resource.Drawable.notification_bg_normal = global::AsesoriasApp.Resource.Drawable.notification_bg_normal;
+			global::Negocio.Resource.Drawable.notification_bg_normal_pressed = global::AsesoriasApp.Resource.Drawable.notification_bg_normal_pressed;
+			global::Negocio.Resource.Drawable.notification_icon_background = global::AsesoriasApp.Resource.Drawable.notification_icon_background;
+			global::Negocio.Resource.Drawable.notification_template_icon_bg = global::AsesoriasApp.Resource.Drawable.notification_template_icon_bg;
+			global::Negocio.Resource.Drawable.notification_template_icon_low_bg = global::AsesoriasApp.Resource.Drawable.notification_template_icon_low_bg;
+			global::Negocio.Resource.Drawable.notification_tile_bg = global::AsesoriasApp.Resource.Drawable.notification_tile_bg;
+			global::Negocio.Resource.Drawable.notify_panel_notification_icon_bg = global::AsesoriasApp.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Negocio.Resource.Drawable.tooltip_frame_dark = global::AsesoriasApp.Resource.Drawable.tooltip_frame_dark;
+			global::Negocio.Resource.Drawable.tooltip_frame_light = global::AsesoriasApp.Resource.Drawable.tooltip_frame_light;
+			global::Negocio.Resource.Id.ALT = global::AsesoriasApp.Resource.Id.ALT;
+			global::Negocio.Resource.Id.CTRL = global::AsesoriasApp.Resource.Id.CTRL;
+			global::Negocio.Resource.Id.FUNCTION = global::AsesoriasApp.Resource.Id.FUNCTION;
+			global::Negocio.Resource.Id.META = global::AsesoriasApp.Resource.Id.META;
+			global::Negocio.Resource.Id.SHIFT = global::AsesoriasApp.Resource.Id.SHIFT;
+			global::Negocio.Resource.Id.SYM = global::AsesoriasApp.Resource.Id.SYM;
+			global::Negocio.Resource.Id.action0 = global::AsesoriasApp.Resource.Id.action0;
+			global::Negocio.Resource.Id.action_bar = global::AsesoriasApp.Resource.Id.action_bar;
+			global::Negocio.Resource.Id.action_bar_activity_content = global::AsesoriasApp.Resource.Id.action_bar_activity_content;
+			global::Negocio.Resource.Id.action_bar_container = global::AsesoriasApp.Resource.Id.action_bar_container;
+			global::Negocio.Resource.Id.action_bar_root = global::AsesoriasApp.Resource.Id.action_bar_root;
+			global::Negocio.Resource.Id.action_bar_spinner = global::AsesoriasApp.Resource.Id.action_bar_spinner;
+			global::Negocio.Resource.Id.action_bar_subtitle = global::AsesoriasApp.Resource.Id.action_bar_subtitle;
+			global::Negocio.Resource.Id.action_bar_title = global::AsesoriasApp.Resource.Id.action_bar_title;
+			global::Negocio.Resource.Id.action_container = global::AsesoriasApp.Resource.Id.action_container;
+			global::Negocio.Resource.Id.action_context_bar = global::AsesoriasApp.Resource.Id.action_context_bar;
+			global::Negocio.Resource.Id.action_divider = global::AsesoriasApp.Resource.Id.action_divider;
+			global::Negocio.Resource.Id.action_image = global::AsesoriasApp.Resource.Id.action_image;
+			global::Negocio.Resource.Id.action_menu_divider = global::AsesoriasApp.Resource.Id.action_menu_divider;
+			global::Negocio.Resource.Id.action_menu_presenter = global::AsesoriasApp.Resource.Id.action_menu_presenter;
+			global::Negocio.Resource.Id.action_mode_bar = global::AsesoriasApp.Resource.Id.action_mode_bar;
+			global::Negocio.Resource.Id.action_mode_bar_stub = global::AsesoriasApp.Resource.Id.action_mode_bar_stub;
+			global::Negocio.Resource.Id.action_mode_close_button = global::AsesoriasApp.Resource.Id.action_mode_close_button;
+			global::Negocio.Resource.Id.action_text = global::AsesoriasApp.Resource.Id.action_text;
+			global::Negocio.Resource.Id.actions = global::AsesoriasApp.Resource.Id.actions;
+			global::Negocio.Resource.Id.activity_chooser_view_content = global::AsesoriasApp.Resource.Id.activity_chooser_view_content;
+			global::Negocio.Resource.Id.add = global::AsesoriasApp.Resource.Id.add;
+			global::Negocio.Resource.Id.alertTitle = global::AsesoriasApp.Resource.Id.alertTitle;
+			global::Negocio.Resource.Id.always = global::AsesoriasApp.Resource.Id.always;
+			global::Negocio.Resource.Id.async = global::AsesoriasApp.Resource.Id.async;
+			global::Negocio.Resource.Id.beginning = global::AsesoriasApp.Resource.Id.beginning;
+			global::Negocio.Resource.Id.blocking = global::AsesoriasApp.Resource.Id.blocking;
+			global::Negocio.Resource.Id.bottom = global::AsesoriasApp.Resource.Id.bottom;
+			global::Negocio.Resource.Id.buttonPanel = global::AsesoriasApp.Resource.Id.buttonPanel;
+			global::Negocio.Resource.Id.cancel_action = global::AsesoriasApp.Resource.Id.cancel_action;
+			global::Negocio.Resource.Id.checkbox = global::AsesoriasApp.Resource.Id.checkbox;
+			global::Negocio.Resource.Id.chronometer = global::AsesoriasApp.Resource.Id.chronometer;
+			global::Negocio.Resource.Id.collapseActionView = global::AsesoriasApp.Resource.Id.collapseActionView;
+			global::Negocio.Resource.Id.contentPanel = global::AsesoriasApp.Resource.Id.contentPanel;
+			global::Negocio.Resource.Id.custom = global::AsesoriasApp.Resource.Id.custom;
+			global::Negocio.Resource.Id.customPanel = global::AsesoriasApp.Resource.Id.customPanel;
+			global::Negocio.Resource.Id.decor_content_parent = global::AsesoriasApp.Resource.Id.decor_content_parent;
+			global::Negocio.Resource.Id.default_activity_button = global::AsesoriasApp.Resource.Id.default_activity_button;
+			global::Negocio.Resource.Id.disableHome = global::AsesoriasApp.Resource.Id.disableHome;
+			global::Negocio.Resource.Id.edit_query = global::AsesoriasApp.Resource.Id.edit_query;
+			global::Negocio.Resource.Id.end = global::AsesoriasApp.Resource.Id.end;
+			global::Negocio.Resource.Id.end_padder = global::AsesoriasApp.Resource.Id.end_padder;
+			global::Negocio.Resource.Id.expand_activities_button = global::AsesoriasApp.Resource.Id.expand_activities_button;
+			global::Negocio.Resource.Id.expanded_menu = global::AsesoriasApp.Resource.Id.expanded_menu;
+			global::Negocio.Resource.Id.forever = global::AsesoriasApp.Resource.Id.forever;
+			global::Negocio.Resource.Id.home = global::AsesoriasApp.Resource.Id.home;
+			global::Negocio.Resource.Id.homeAsUp = global::AsesoriasApp.Resource.Id.homeAsUp;
+			global::Negocio.Resource.Id.icon = global::AsesoriasApp.Resource.Id.icon;
+			global::Negocio.Resource.Id.icon_group = global::AsesoriasApp.Resource.Id.icon_group;
+			global::Negocio.Resource.Id.ifRoom = global::AsesoriasApp.Resource.Id.ifRoom;
+			global::Negocio.Resource.Id.image = global::AsesoriasApp.Resource.Id.image;
+			global::Negocio.Resource.Id.info = global::AsesoriasApp.Resource.Id.info;
+			global::Negocio.Resource.Id.italic = global::AsesoriasApp.Resource.Id.italic;
+			global::Negocio.Resource.Id.line1 = global::AsesoriasApp.Resource.Id.line1;
+			global::Negocio.Resource.Id.line3 = global::AsesoriasApp.Resource.Id.line3;
+			global::Negocio.Resource.Id.listMode = global::AsesoriasApp.Resource.Id.listMode;
+			global::Negocio.Resource.Id.list_item = global::AsesoriasApp.Resource.Id.list_item;
+			global::Negocio.Resource.Id.media_actions = global::AsesoriasApp.Resource.Id.media_actions;
+			global::Negocio.Resource.Id.message = global::AsesoriasApp.Resource.Id.message;
+			global::Negocio.Resource.Id.middle = global::AsesoriasApp.Resource.Id.middle;
+			global::Negocio.Resource.Id.multiply = global::AsesoriasApp.Resource.Id.multiply;
+			global::Negocio.Resource.Id.never = global::AsesoriasApp.Resource.Id.never;
+			global::Negocio.Resource.Id.none = global::AsesoriasApp.Resource.Id.none;
+			global::Negocio.Resource.Id.normal = global::AsesoriasApp.Resource.Id.normal;
+			global::Negocio.Resource.Id.notification_background = global::AsesoriasApp.Resource.Id.notification_background;
+			global::Negocio.Resource.Id.notification_main_column = global::AsesoriasApp.Resource.Id.notification_main_column;
+			global::Negocio.Resource.Id.notification_main_column_container = global::AsesoriasApp.Resource.Id.notification_main_column_container;
+			global::Negocio.Resource.Id.parentPanel = global::AsesoriasApp.Resource.Id.parentPanel;
+			global::Negocio.Resource.Id.progress_circular = global::AsesoriasApp.Resource.Id.progress_circular;
+			global::Negocio.Resource.Id.progress_horizontal = global::AsesoriasApp.Resource.Id.progress_horizontal;
+			global::Negocio.Resource.Id.radio = global::AsesoriasApp.Resource.Id.radio;
+			global::Negocio.Resource.Id.right_icon = global::AsesoriasApp.Resource.Id.right_icon;
+			global::Negocio.Resource.Id.right_side = global::AsesoriasApp.Resource.Id.right_side;
+			global::Negocio.Resource.Id.screen = global::AsesoriasApp.Resource.Id.screen;
+			global::Negocio.Resource.Id.scrollIndicatorDown = global::AsesoriasApp.Resource.Id.scrollIndicatorDown;
+			global::Negocio.Resource.Id.scrollIndicatorUp = global::AsesoriasApp.Resource.Id.scrollIndicatorUp;
+			global::Negocio.Resource.Id.scrollView = global::AsesoriasApp.Resource.Id.scrollView;
+			global::Negocio.Resource.Id.search_badge = global::AsesoriasApp.Resource.Id.search_badge;
+			global::Negocio.Resource.Id.search_bar = global::AsesoriasApp.Resource.Id.search_bar;
+			global::Negocio.Resource.Id.search_button = global::AsesoriasApp.Resource.Id.search_button;
+			global::Negocio.Resource.Id.search_close_btn = global::AsesoriasApp.Resource.Id.search_close_btn;
+			global::Negocio.Resource.Id.search_edit_frame = global::AsesoriasApp.Resource.Id.search_edit_frame;
+			global::Negocio.Resource.Id.search_go_btn = global::AsesoriasApp.Resource.Id.search_go_btn;
+			global::Negocio.Resource.Id.search_mag_icon = global::AsesoriasApp.Resource.Id.search_mag_icon;
+			global::Negocio.Resource.Id.search_plate = global::AsesoriasApp.Resource.Id.search_plate;
+			global::Negocio.Resource.Id.search_src_text = global::AsesoriasApp.Resource.Id.search_src_text;
+			global::Negocio.Resource.Id.search_voice_btn = global::AsesoriasApp.Resource.Id.search_voice_btn;
+			global::Negocio.Resource.Id.select_dialog_listview = global::AsesoriasApp.Resource.Id.select_dialog_listview;
+			global::Negocio.Resource.Id.shortcut = global::AsesoriasApp.Resource.Id.shortcut;
+			global::Negocio.Resource.Id.showCustom = global::AsesoriasApp.Resource.Id.showCustom;
+			global::Negocio.Resource.Id.showHome = global::AsesoriasApp.Resource.Id.showHome;
+			global::Negocio.Resource.Id.showTitle = global::AsesoriasApp.Resource.Id.showTitle;
+			global::Negocio.Resource.Id.spacer = global::AsesoriasApp.Resource.Id.spacer;
+			global::Negocio.Resource.Id.split_action_bar = global::AsesoriasApp.Resource.Id.split_action_bar;
+			global::Negocio.Resource.Id.src_atop = global::AsesoriasApp.Resource.Id.src_atop;
+			global::Negocio.Resource.Id.src_in = global::AsesoriasApp.Resource.Id.src_in;
+			global::Negocio.Resource.Id.src_over = global::AsesoriasApp.Resource.Id.src_over;
+			global::Negocio.Resource.Id.status_bar_latest_event_content = global::AsesoriasApp.Resource.Id.status_bar_latest_event_content;
+			global::Negocio.Resource.Id.submenuarrow = global::AsesoriasApp.Resource.Id.submenuarrow;
+			global::Negocio.Resource.Id.submit_area = global::AsesoriasApp.Resource.Id.submit_area;
+			global::Negocio.Resource.Id.tabMode = global::AsesoriasApp.Resource.Id.tabMode;
+			global::Negocio.Resource.Id.tag_transition_group = global::AsesoriasApp.Resource.Id.tag_transition_group;
+			global::Negocio.Resource.Id.text = global::AsesoriasApp.Resource.Id.text;
+			global::Negocio.Resource.Id.text2 = global::AsesoriasApp.Resource.Id.text2;
+			global::Negocio.Resource.Id.textSpacerNoButtons = global::AsesoriasApp.Resource.Id.textSpacerNoButtons;
+			global::Negocio.Resource.Id.textSpacerNoTitle = global::AsesoriasApp.Resource.Id.textSpacerNoTitle;
+			global::Negocio.Resource.Id.time = global::AsesoriasApp.Resource.Id.time;
+			global::Negocio.Resource.Id.title = global::AsesoriasApp.Resource.Id.title;
+			global::Negocio.Resource.Id.titleDividerNoCustom = global::AsesoriasApp.Resource.Id.titleDividerNoCustom;
+			global::Negocio.Resource.Id.title_template = global::AsesoriasApp.Resource.Id.title_template;
+			global::Negocio.Resource.Id.top = global::AsesoriasApp.Resource.Id.top;
+			global::Negocio.Resource.Id.topPanel = global::AsesoriasApp.Resource.Id.topPanel;
+			global::Negocio.Resource.Id.uniform = global::AsesoriasApp.Resource.Id.uniform;
+			global::Negocio.Resource.Id.up = global::AsesoriasApp.Resource.Id.up;
+			global::Negocio.Resource.Id.useLogo = global::AsesoriasApp.Resource.Id.useLogo;
+			global::Negocio.Resource.Id.withText = global::AsesoriasApp.Resource.Id.withText;
+			global::Negocio.Resource.Id.wrap_content = global::AsesoriasApp.Resource.Id.wrap_content;
+			global::Negocio.Resource.Integer.abc_config_activityDefaultDur = global::AsesoriasApp.Resource.Integer.abc_config_activityDefaultDur;
+			global::Negocio.Resource.Integer.abc_config_activityShortDur = global::AsesoriasApp.Resource.Integer.abc_config_activityShortDur;
+			global::Negocio.Resource.Integer.cancel_button_image_alpha = global::AsesoriasApp.Resource.Integer.cancel_button_image_alpha;
+			global::Negocio.Resource.Integer.config_tooltipAnimTime = global::AsesoriasApp.Resource.Integer.config_tooltipAnimTime;
+			global::Negocio.Resource.Integer.status_bar_notification_info_maxnum = global::AsesoriasApp.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Negocio.Resource.Layout.abc_action_bar_title_item = global::AsesoriasApp.Resource.Layout.abc_action_bar_title_item;
+			global::Negocio.Resource.Layout.abc_action_bar_up_container = global::AsesoriasApp.Resource.Layout.abc_action_bar_up_container;
+			global::Negocio.Resource.Layout.abc_action_menu_item_layout = global::AsesoriasApp.Resource.Layout.abc_action_menu_item_layout;
+			global::Negocio.Resource.Layout.abc_action_menu_layout = global::AsesoriasApp.Resource.Layout.abc_action_menu_layout;
+			global::Negocio.Resource.Layout.abc_action_mode_bar = global::AsesoriasApp.Resource.Layout.abc_action_mode_bar;
+			global::Negocio.Resource.Layout.abc_action_mode_close_item_material = global::AsesoriasApp.Resource.Layout.abc_action_mode_close_item_material;
+			global::Negocio.Resource.Layout.abc_activity_chooser_view = global::AsesoriasApp.Resource.Layout.abc_activity_chooser_view;
+			global::Negocio.Resource.Layout.abc_activity_chooser_view_list_item = global::AsesoriasApp.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Negocio.Resource.Layout.abc_alert_dialog_button_bar_material = global::AsesoriasApp.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Negocio.Resource.Layout.abc_alert_dialog_material = global::AsesoriasApp.Resource.Layout.abc_alert_dialog_material;
+			global::Negocio.Resource.Layout.abc_alert_dialog_title_material = global::AsesoriasApp.Resource.Layout.abc_alert_dialog_title_material;
+			global::Negocio.Resource.Layout.abc_dialog_title_material = global::AsesoriasApp.Resource.Layout.abc_dialog_title_material;
+			global::Negocio.Resource.Layout.abc_expanded_menu_layout = global::AsesoriasApp.Resource.Layout.abc_expanded_menu_layout;
+			global::Negocio.Resource.Layout.abc_list_menu_item_checkbox = global::AsesoriasApp.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Negocio.Resource.Layout.abc_list_menu_item_icon = global::AsesoriasApp.Resource.Layout.abc_list_menu_item_icon;
+			global::Negocio.Resource.Layout.abc_list_menu_item_layout = global::AsesoriasApp.Resource.Layout.abc_list_menu_item_layout;
+			global::Negocio.Resource.Layout.abc_list_menu_item_radio = global::AsesoriasApp.Resource.Layout.abc_list_menu_item_radio;
+			global::Negocio.Resource.Layout.abc_popup_menu_header_item_layout = global::AsesoriasApp.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Negocio.Resource.Layout.abc_popup_menu_item_layout = global::AsesoriasApp.Resource.Layout.abc_popup_menu_item_layout;
+			global::Negocio.Resource.Layout.abc_screen_content_include = global::AsesoriasApp.Resource.Layout.abc_screen_content_include;
+			global::Negocio.Resource.Layout.abc_screen_simple = global::AsesoriasApp.Resource.Layout.abc_screen_simple;
+			global::Negocio.Resource.Layout.abc_screen_simple_overlay_action_mode = global::AsesoriasApp.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Negocio.Resource.Layout.abc_screen_toolbar = global::AsesoriasApp.Resource.Layout.abc_screen_toolbar;
+			global::Negocio.Resource.Layout.abc_search_dropdown_item_icons_2line = global::AsesoriasApp.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Negocio.Resource.Layout.abc_search_view = global::AsesoriasApp.Resource.Layout.abc_search_view;
+			global::Negocio.Resource.Layout.abc_select_dialog_material = global::AsesoriasApp.Resource.Layout.abc_select_dialog_material;
+			global::Negocio.Resource.Layout.notification_action = global::AsesoriasApp.Resource.Layout.notification_action;
+			global::Negocio.Resource.Layout.notification_action_tombstone = global::AsesoriasApp.Resource.Layout.notification_action_tombstone;
+			global::Negocio.Resource.Layout.notification_media_action = global::AsesoriasApp.Resource.Layout.notification_media_action;
+			global::Negocio.Resource.Layout.notification_media_cancel_action = global::AsesoriasApp.Resource.Layout.notification_media_cancel_action;
+			global::Negocio.Resource.Layout.notification_template_big_media = global::AsesoriasApp.Resource.Layout.notification_template_big_media;
+			global::Negocio.Resource.Layout.notification_template_big_media_custom = global::AsesoriasApp.Resource.Layout.notification_template_big_media_custom;
+			global::Negocio.Resource.Layout.notification_template_big_media_narrow = global::AsesoriasApp.Resource.Layout.notification_template_big_media_narrow;
+			global::Negocio.Resource.Layout.notification_template_big_media_narrow_custom = global::AsesoriasApp.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Negocio.Resource.Layout.notification_template_custom_big = global::AsesoriasApp.Resource.Layout.notification_template_custom_big;
+			global::Negocio.Resource.Layout.notification_template_icon_group = global::AsesoriasApp.Resource.Layout.notification_template_icon_group;
+			global::Negocio.Resource.Layout.notification_template_lines_media = global::AsesoriasApp.Resource.Layout.notification_template_lines_media;
+			global::Negocio.Resource.Layout.notification_template_media = global::AsesoriasApp.Resource.Layout.notification_template_media;
+			global::Negocio.Resource.Layout.notification_template_media_custom = global::AsesoriasApp.Resource.Layout.notification_template_media_custom;
+			global::Negocio.Resource.Layout.notification_template_part_chronometer = global::AsesoriasApp.Resource.Layout.notification_template_part_chronometer;
+			global::Negocio.Resource.Layout.notification_template_part_time = global::AsesoriasApp.Resource.Layout.notification_template_part_time;
+			global::Negocio.Resource.Layout.select_dialog_item_material = global::AsesoriasApp.Resource.Layout.select_dialog_item_material;
+			global::Negocio.Resource.Layout.select_dialog_multichoice_material = global::AsesoriasApp.Resource.Layout.select_dialog_multichoice_material;
+			global::Negocio.Resource.Layout.select_dialog_singlechoice_material = global::AsesoriasApp.Resource.Layout.select_dialog_singlechoice_material;
+			global::Negocio.Resource.Layout.support_simple_spinner_dropdown_item = global::AsesoriasApp.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Negocio.Resource.Layout.tooltip = global::AsesoriasApp.Resource.Layout.tooltip;
+			global::Negocio.Resource.String.abc_action_bar_home_description = global::AsesoriasApp.Resource.String.abc_action_bar_home_description;
+			global::Negocio.Resource.String.abc_action_bar_up_description = global::AsesoriasApp.Resource.String.abc_action_bar_up_description;
+			global::Negocio.Resource.String.abc_action_menu_overflow_description = global::AsesoriasApp.Resource.String.abc_action_menu_overflow_description;
+			global::Negocio.Resource.String.abc_action_mode_done = global::AsesoriasApp.Resource.String.abc_action_mode_done;
+			global::Negocio.Resource.String.abc_activity_chooser_view_see_all = global::AsesoriasApp.Resource.String.abc_activity_chooser_view_see_all;
+			global::Negocio.Resource.String.abc_activitychooserview_choose_application = global::AsesoriasApp.Resource.String.abc_activitychooserview_choose_application;
+			global::Negocio.Resource.String.abc_capital_off = global::AsesoriasApp.Resource.String.abc_capital_off;
+			global::Negocio.Resource.String.abc_capital_on = global::AsesoriasApp.Resource.String.abc_capital_on;
+			global::Negocio.Resource.String.abc_font_family_body_1_material = global::AsesoriasApp.Resource.String.abc_font_family_body_1_material;
+			global::Negocio.Resource.String.abc_font_family_body_2_material = global::AsesoriasApp.Resource.String.abc_font_family_body_2_material;
+			global::Negocio.Resource.String.abc_font_family_button_material = global::AsesoriasApp.Resource.String.abc_font_family_button_material;
+			global::Negocio.Resource.String.abc_font_family_caption_material = global::AsesoriasApp.Resource.String.abc_font_family_caption_material;
+			global::Negocio.Resource.String.abc_font_family_display_1_material = global::AsesoriasApp.Resource.String.abc_font_family_display_1_material;
+			global::Negocio.Resource.String.abc_font_family_display_2_material = global::AsesoriasApp.Resource.String.abc_font_family_display_2_material;
+			global::Negocio.Resource.String.abc_font_family_display_3_material = global::AsesoriasApp.Resource.String.abc_font_family_display_3_material;
+			global::Negocio.Resource.String.abc_font_family_display_4_material = global::AsesoriasApp.Resource.String.abc_font_family_display_4_material;
+			global::Negocio.Resource.String.abc_font_family_headline_material = global::AsesoriasApp.Resource.String.abc_font_family_headline_material;
+			global::Negocio.Resource.String.abc_font_family_menu_material = global::AsesoriasApp.Resource.String.abc_font_family_menu_material;
+			global::Negocio.Resource.String.abc_font_family_subhead_material = global::AsesoriasApp.Resource.String.abc_font_family_subhead_material;
+			global::Negocio.Resource.String.abc_font_family_title_material = global::AsesoriasApp.Resource.String.abc_font_family_title_material;
+			global::Negocio.Resource.String.abc_search_hint = global::AsesoriasApp.Resource.String.abc_search_hint;
+			global::Negocio.Resource.String.abc_searchview_description_clear = global::AsesoriasApp.Resource.String.abc_searchview_description_clear;
+			global::Negocio.Resource.String.abc_searchview_description_query = global::AsesoriasApp.Resource.String.abc_searchview_description_query;
+			global::Negocio.Resource.String.abc_searchview_description_search = global::AsesoriasApp.Resource.String.abc_searchview_description_search;
+			global::Negocio.Resource.String.abc_searchview_description_submit = global::AsesoriasApp.Resource.String.abc_searchview_description_submit;
+			global::Negocio.Resource.String.abc_searchview_description_voice = global::AsesoriasApp.Resource.String.abc_searchview_description_voice;
+			global::Negocio.Resource.String.abc_shareactionprovider_share_with = global::AsesoriasApp.Resource.String.abc_shareactionprovider_share_with;
+			global::Negocio.Resource.String.abc_shareactionprovider_share_with_application = global::AsesoriasApp.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Negocio.Resource.String.abc_toolbar_collapse_description = global::AsesoriasApp.Resource.String.abc_toolbar_collapse_description;
+			global::Negocio.Resource.String.app_name = global::AsesoriasApp.Resource.String.app_name;
+			global::Negocio.Resource.String.hello = global::AsesoriasApp.Resource.String.hello;
+			global::Negocio.Resource.String.search_menu_title = global::AsesoriasApp.Resource.String.search_menu_title;
+			global::Negocio.Resource.String.status_bar_notification_info_overflow = global::AsesoriasApp.Resource.String.status_bar_notification_info_overflow;
+			global::Negocio.Resource.Style.AlertDialog_AppCompat = global::AsesoriasApp.Resource.Style.AlertDialog_AppCompat;
+			global::Negocio.Resource.Style.AlertDialog_AppCompat_Light = global::AsesoriasApp.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Negocio.Resource.Style.Animation_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Animation_AppCompat_Dialog;
+			global::Negocio.Resource.Style.Animation_AppCompat_DropDownUp = global::AsesoriasApp.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Negocio.Resource.Style.Animation_AppCompat_Tooltip = global::AsesoriasApp.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Negocio.Resource.Style.Base_AlertDialog_AppCompat = global::AsesoriasApp.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Negocio.Resource.Style.Base_AlertDialog_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Negocio.Resource.Style.Base_Animation_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Negocio.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::AsesoriasApp.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Negocio.Resource.Style.Base_Animation_AppCompat_Tooltip = global::AsesoriasApp.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Negocio.Resource.Style.Base_DialogWindowTitle_AppCompat = global::AsesoriasApp.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Negocio.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::AsesoriasApp.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Button = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Large = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Small = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Title = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Negocio.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::AsesoriasApp.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Negocio.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::AsesoriasApp.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Negocio.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::AsesoriasApp.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Negocio.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::AsesoriasApp.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Negocio.Resource.Style.Base_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat;
+			global::Negocio.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Negocio.Resource.Style.Base_Theme_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Negocio.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Negocio.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Negocio.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Negocio.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Negocio.Resource.Style.Base_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Negocio.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Negocio.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Negocio.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Negocio.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Negocio.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Negocio.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::AsesoriasApp.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Negocio.Resource.Style.Base_ThemeOverlay_AppCompat = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Negocio.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Negocio.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Negocio.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Negocio.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Negocio.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Negocio.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Negocio.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::Negocio.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::AsesoriasApp.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::Negocio.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
+			global::Negocio.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::AsesoriasApp.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::Negocio.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::AsesoriasApp.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::Negocio.Resource.Style.Base_V21_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Negocio.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Negocio.Resource.Style.Base_V21_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Negocio.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::AsesoriasApp.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Negocio.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Negocio.Resource.Style.Base_V22_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Negocio.Resource.Style.Base_V22_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Negocio.Resource.Style.Base_V23_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Negocio.Resource.Style.Base_V23_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Negocio.Resource.Style.Base_V26_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Negocio.Resource.Style.Base_V26_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Negocio.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::AsesoriasApp.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Negocio.Resource.Style.Base_V7_Theme_AppCompat = global::AsesoriasApp.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Negocio.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Negocio.Resource.Style.Base_V7_Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Negocio.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::AsesoriasApp.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Negocio.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Negocio.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::AsesoriasApp.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Negocio.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::AsesoriasApp.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Negocio.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::AsesoriasApp.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ActionBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ActionButton = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ActionMode = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Button = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Button_Small = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_EditText = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ImageButton = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ListView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_RatingBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_SearchView = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_SeekBar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Spinner = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Toolbar = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Negocio.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::AsesoriasApp.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Negocio.Resource.Style.Platform_AppCompat = global::AsesoriasApp.Resource.Style.Platform_AppCompat;
+			global::Negocio.Resource.Style.Platform_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_AppCompat_Light;
+			global::Negocio.Resource.Style.Platform_ThemeOverlay_AppCompat = global::AsesoriasApp.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Negocio.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::AsesoriasApp.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Negocio.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Negocio.Resource.Style.Platform_V11_AppCompat = global::AsesoriasApp.Resource.Style.Platform_V11_AppCompat;
+			global::Negocio.Resource.Style.Platform_V11_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_V11_AppCompat_Light;
+			global::Negocio.Resource.Style.Platform_V14_AppCompat = global::AsesoriasApp.Resource.Style.Platform_V14_AppCompat;
+			global::Negocio.Resource.Style.Platform_V14_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_V14_AppCompat_Light;
+			global::Negocio.Resource.Style.Platform_V21_AppCompat = global::AsesoriasApp.Resource.Style.Platform_V21_AppCompat;
+			global::Negocio.Resource.Style.Platform_V21_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Negocio.Resource.Style.Platform_V25_AppCompat = global::AsesoriasApp.Resource.Style.Platform_V25_AppCompat;
+			global::Negocio.Resource.Style.Platform_V25_AppCompat_Light = global::AsesoriasApp.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Negocio.Resource.Style.Platform_Widget_AppCompat_Spinner = global::AsesoriasApp.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Negocio.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::AsesoriasApp.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Negocio.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Negocio.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Negocio.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Negocio.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Negocio.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Negocio.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Negocio.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Negocio.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Negocio.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Negocio.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Negocio.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::AsesoriasApp.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Negocio.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::AsesoriasApp.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Negocio.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::AsesoriasApp.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Body1 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Body2 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Button = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Caption = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Display1 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Display2 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Display3 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Display4 = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Headline = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Large = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Medium = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Menu = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Small = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Subhead = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Title = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Tooltip = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Negocio.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::AsesoriasApp.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Negocio.Resource.Style.TextAppearance_Compat_Notification = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification;
+			global::Negocio.Resource.Style.TextAppearance_Compat_Notification_Info = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Negocio.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Negocio.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Negocio.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Negocio.Resource.Style.TextAppearance_Compat_Notification_Media = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Negocio.Resource.Style.TextAppearance_Compat_Notification_Time = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Negocio.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Negocio.Resource.Style.TextAppearance_Compat_Notification_Title = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Negocio.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::AsesoriasApp.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Negocio.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::AsesoriasApp.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Negocio.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::AsesoriasApp.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Negocio.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::AsesoriasApp.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Negocio.Resource.Style.Theme_AppCompat = global::AsesoriasApp.Resource.Style.Theme_AppCompat;
+			global::Negocio.Resource.Style.Theme_AppCompat_CompactMenu = global::AsesoriasApp.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Negocio.Resource.Style.Theme_AppCompat_DayNight = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight;
+			global::Negocio.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Negocio.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Negocio.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Negocio.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Negocio.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Negocio.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Negocio.Resource.Style.Theme_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Dialog;
+			global::Negocio.Resource.Style.Theme_AppCompat_Dialog_Alert = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Negocio.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Negocio.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::AsesoriasApp.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Negocio.Resource.Style.Theme_AppCompat_Light = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light;
+			global::Negocio.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Negocio.Resource.Style.Theme_AppCompat_Light_Dialog = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Negocio.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Negocio.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Negocio.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Negocio.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::AsesoriasApp.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Negocio.Resource.Style.Theme_AppCompat_NoActionBar = global::AsesoriasApp.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Negocio.Resource.Style.ThemeOverlay_AppCompat = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat;
+			global::Negocio.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Negocio.Resource.Style.ThemeOverlay_AppCompat_Dark = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Negocio.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Negocio.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Negocio.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Negocio.Resource.Style.ThemeOverlay_AppCompat_Light = global::AsesoriasApp.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Negocio.Resource.Style.Widget_AppCompat_ActionBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Negocio.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Negocio.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Negocio.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Negocio.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Negocio.Resource.Style.Widget_AppCompat_ActionButton = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Negocio.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Negocio.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Negocio.Resource.Style.Widget_AppCompat_ActionMode = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Negocio.Resource.Style.Widget_AppCompat_ActivityChooserView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Negocio.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Negocio.Resource.Style.Widget_AppCompat_Button = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button;
+			global::Negocio.Resource.Style.Widget_AppCompat_Button_Borderless = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Negocio.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Negocio.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Negocio.Resource.Style.Widget_AppCompat_Button_Colored = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Negocio.Resource.Style.Widget_AppCompat_Button_Small = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Negocio.Resource.Style.Widget_AppCompat_ButtonBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Negocio.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Negocio.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::AsesoriasApp.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Negocio.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::AsesoriasApp.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Negocio.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::AsesoriasApp.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Negocio.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::AsesoriasApp.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Negocio.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::AsesoriasApp.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Negocio.Resource.Style.Widget_AppCompat_EditText = global::AsesoriasApp.Resource.Style.Widget_AppCompat_EditText;
+			global::Negocio.Resource.Style.Widget_AppCompat_ImageButton = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ActionBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ActionButton = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_SearchView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Negocio.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Negocio.Resource.Style.Widget_AppCompat_ListMenuView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Negocio.Resource.Style.Widget_AppCompat_ListPopupWindow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Negocio.Resource.Style.Widget_AppCompat_ListView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ListView;
+			global::Negocio.Resource.Style.Widget_AppCompat_ListView_DropDown = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Negocio.Resource.Style.Widget_AppCompat_ListView_Menu = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Negocio.Resource.Style.Widget_AppCompat_PopupMenu = global::AsesoriasApp.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Negocio.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Negocio.Resource.Style.Widget_AppCompat_PopupWindow = global::AsesoriasApp.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Negocio.Resource.Style.Widget_AppCompat_ProgressBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Negocio.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::AsesoriasApp.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Negocio.Resource.Style.Widget_AppCompat_RatingBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Negocio.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::AsesoriasApp.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Negocio.Resource.Style.Widget_AppCompat_RatingBar_Small = global::AsesoriasApp.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Negocio.Resource.Style.Widget_AppCompat_SearchView = global::AsesoriasApp.Resource.Style.Widget_AppCompat_SearchView;
+			global::Negocio.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Negocio.Resource.Style.Widget_AppCompat_SeekBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Negocio.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::AsesoriasApp.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Negocio.Resource.Style.Widget_AppCompat_Spinner = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Spinner;
+			global::Negocio.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Negocio.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Negocio.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Negocio.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::AsesoriasApp.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Negocio.Resource.Style.Widget_AppCompat_Toolbar = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Negocio.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::AsesoriasApp.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Negocio.Resource.Style.Widget_Compat_NotificationActionContainer = global::AsesoriasApp.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Negocio.Resource.Style.Widget_Compat_NotificationActionText = global::AsesoriasApp.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Negocio.Resource.Styleable.ActionBar = global::AsesoriasApp.Resource.Styleable.ActionBar;
+			global::Negocio.Resource.Styleable.ActionBar_background = global::AsesoriasApp.Resource.Styleable.ActionBar_background;
+			global::Negocio.Resource.Styleable.ActionBar_backgroundSplit = global::AsesoriasApp.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Negocio.Resource.Styleable.ActionBar_backgroundStacked = global::AsesoriasApp.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Negocio.Resource.Styleable.ActionBar_contentInsetEnd = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Negocio.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Negocio.Resource.Styleable.ActionBar_contentInsetLeft = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Negocio.Resource.Styleable.ActionBar_contentInsetRight = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Negocio.Resource.Styleable.ActionBar_contentInsetStart = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Negocio.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::AsesoriasApp.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Negocio.Resource.Styleable.ActionBar_customNavigationLayout = global::AsesoriasApp.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Negocio.Resource.Styleable.ActionBar_displayOptions = global::AsesoriasApp.Resource.Styleable.ActionBar_displayOptions;
+			global::Negocio.Resource.Styleable.ActionBar_divider = global::AsesoriasApp.Resource.Styleable.ActionBar_divider;
+			global::Negocio.Resource.Styleable.ActionBar_elevation = global::AsesoriasApp.Resource.Styleable.ActionBar_elevation;
+			global::Negocio.Resource.Styleable.ActionBar_height = global::AsesoriasApp.Resource.Styleable.ActionBar_height;
+			global::Negocio.Resource.Styleable.ActionBar_hideOnContentScroll = global::AsesoriasApp.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Negocio.Resource.Styleable.ActionBar_homeAsUpIndicator = global::AsesoriasApp.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Negocio.Resource.Styleable.ActionBar_homeLayout = global::AsesoriasApp.Resource.Styleable.ActionBar_homeLayout;
+			global::Negocio.Resource.Styleable.ActionBar_icon = global::AsesoriasApp.Resource.Styleable.ActionBar_icon;
+			global::Negocio.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::AsesoriasApp.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Negocio.Resource.Styleable.ActionBar_itemPadding = global::AsesoriasApp.Resource.Styleable.ActionBar_itemPadding;
+			global::Negocio.Resource.Styleable.ActionBar_logo = global::AsesoriasApp.Resource.Styleable.ActionBar_logo;
+			global::Negocio.Resource.Styleable.ActionBar_navigationMode = global::AsesoriasApp.Resource.Styleable.ActionBar_navigationMode;
+			global::Negocio.Resource.Styleable.ActionBar_popupTheme = global::AsesoriasApp.Resource.Styleable.ActionBar_popupTheme;
+			global::Negocio.Resource.Styleable.ActionBar_progressBarPadding = global::AsesoriasApp.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Negocio.Resource.Styleable.ActionBar_progressBarStyle = global::AsesoriasApp.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Negocio.Resource.Styleable.ActionBar_subtitle = global::AsesoriasApp.Resource.Styleable.ActionBar_subtitle;
+			global::Negocio.Resource.Styleable.ActionBar_subtitleTextStyle = global::AsesoriasApp.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Negocio.Resource.Styleable.ActionBar_title = global::AsesoriasApp.Resource.Styleable.ActionBar_title;
+			global::Negocio.Resource.Styleable.ActionBar_titleTextStyle = global::AsesoriasApp.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Negocio.Resource.Styleable.ActionBarLayout = global::AsesoriasApp.Resource.Styleable.ActionBarLayout;
+			global::Negocio.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::AsesoriasApp.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Negocio.Resource.Styleable.ActionMenuItemView = global::AsesoriasApp.Resource.Styleable.ActionMenuItemView;
+			global::Negocio.Resource.Styleable.ActionMenuItemView_android_minWidth = global::AsesoriasApp.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Negocio.Resource.Styleable.ActionMenuView = global::AsesoriasApp.Resource.Styleable.ActionMenuView;
+			global::Negocio.Resource.Styleable.ActionMode = global::AsesoriasApp.Resource.Styleable.ActionMode;
+			global::Negocio.Resource.Styleable.ActionMode_background = global::AsesoriasApp.Resource.Styleable.ActionMode_background;
+			global::Negocio.Resource.Styleable.ActionMode_backgroundSplit = global::AsesoriasApp.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Negocio.Resource.Styleable.ActionMode_closeItemLayout = global::AsesoriasApp.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Negocio.Resource.Styleable.ActionMode_height = global::AsesoriasApp.Resource.Styleable.ActionMode_height;
+			global::Negocio.Resource.Styleable.ActionMode_subtitleTextStyle = global::AsesoriasApp.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Negocio.Resource.Styleable.ActionMode_titleTextStyle = global::AsesoriasApp.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Negocio.Resource.Styleable.ActivityChooserView = global::AsesoriasApp.Resource.Styleable.ActivityChooserView;
+			global::Negocio.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::AsesoriasApp.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Negocio.Resource.Styleable.ActivityChooserView_initialActivityCount = global::AsesoriasApp.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Negocio.Resource.Styleable.AlertDialog = global::AsesoriasApp.Resource.Styleable.AlertDialog;
+			global::Negocio.Resource.Styleable.AlertDialog_android_layout = global::AsesoriasApp.Resource.Styleable.AlertDialog_android_layout;
+			global::Negocio.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::AsesoriasApp.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Negocio.Resource.Styleable.AlertDialog_listItemLayout = global::AsesoriasApp.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Negocio.Resource.Styleable.AlertDialog_listLayout = global::AsesoriasApp.Resource.Styleable.AlertDialog_listLayout;
+			global::Negocio.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::AsesoriasApp.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Negocio.Resource.Styleable.AlertDialog_showTitle = global::AsesoriasApp.Resource.Styleable.AlertDialog_showTitle;
+			global::Negocio.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::AsesoriasApp.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Negocio.Resource.Styleable.AppCompatImageView = global::AsesoriasApp.Resource.Styleable.AppCompatImageView;
+			global::Negocio.Resource.Styleable.AppCompatImageView_android_src = global::AsesoriasApp.Resource.Styleable.AppCompatImageView_android_src;
+			global::Negocio.Resource.Styleable.AppCompatImageView_srcCompat = global::AsesoriasApp.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Negocio.Resource.Styleable.AppCompatImageView_tint = global::AsesoriasApp.Resource.Styleable.AppCompatImageView_tint;
+			global::Negocio.Resource.Styleable.AppCompatImageView_tintMode = global::AsesoriasApp.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Negocio.Resource.Styleable.AppCompatSeekBar = global::AsesoriasApp.Resource.Styleable.AppCompatSeekBar;
+			global::Negocio.Resource.Styleable.AppCompatSeekBar_android_thumb = global::AsesoriasApp.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Negocio.Resource.Styleable.AppCompatSeekBar_tickMark = global::AsesoriasApp.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Negocio.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::AsesoriasApp.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Negocio.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::AsesoriasApp.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Negocio.Resource.Styleable.AppCompatTextHelper = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper;
+			global::Negocio.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Negocio.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Negocio.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Negocio.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Negocio.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Negocio.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Negocio.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::AsesoriasApp.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Negocio.Resource.Styleable.AppCompatTextView = global::AsesoriasApp.Resource.Styleable.AppCompatTextView;
+			global::Negocio.Resource.Styleable.AppCompatTextView_android_textAppearance = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Negocio.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Negocio.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Negocio.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Negocio.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Negocio.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Negocio.Resource.Styleable.AppCompatTextView_fontFamily = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Negocio.Resource.Styleable.AppCompatTextView_textAllCaps = global::AsesoriasApp.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Negocio.Resource.Styleable.AppCompatTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionBarDivider = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionBarSize = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionBarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionBarTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionModeBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionModeStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Negocio.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Negocio.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Negocio.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_buttonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Negocio.Resource.Styleable.AppCompatTheme_checkboxStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_colorAccent = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Negocio.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Negocio.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Negocio.Resource.Styleable.AppCompatTheme_colorControlActivated = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Negocio.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Negocio.Resource.Styleable.AppCompatTheme_colorControlNormal = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Negocio.Resource.Styleable.AppCompatTheme_colorError = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorError;
+			global::Negocio.Resource.Styleable.AppCompatTheme_colorPrimary = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Negocio.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Negocio.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Negocio.Resource.Styleable.AppCompatTheme_controlBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Negocio.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Negocio.Resource.Styleable.AppCompatTheme_dialogTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Negocio.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Negocio.Resource.Styleable.AppCompatTheme_dividerVertical = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Negocio.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Negocio.Resource.Styleable.AppCompatTheme_editTextBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Negocio.Resource.Styleable.AppCompatTheme_editTextColor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Negocio.Resource.Styleable.AppCompatTheme_editTextStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Negocio.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Negocio.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Negocio.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Negocio.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Negocio.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Negocio.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Negocio.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Negocio.Resource.Styleable.AppCompatTheme_panelBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Negocio.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Negocio.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Negocio.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Negocio.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Negocio.Resource.Styleable.AppCompatTheme_searchViewStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_seekBarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Negocio.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Negocio.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_spinnerStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_switchStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Negocio.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Negocio.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Negocio.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Negocio.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Negocio.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Negocio.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Negocio.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Negocio.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_toolbarStyle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Negocio.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Negocio.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Negocio.Resource.Styleable.AppCompatTheme_windowActionBar = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Negocio.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Negocio.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Negocio.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Negocio.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Negocio.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Negocio.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Negocio.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Negocio.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Negocio.Resource.Styleable.AppCompatTheme_windowNoTitle = global::AsesoriasApp.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Negocio.Resource.Styleable.ButtonBarLayout = global::AsesoriasApp.Resource.Styleable.ButtonBarLayout;
+			global::Negocio.Resource.Styleable.ButtonBarLayout_allowStacking = global::AsesoriasApp.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Negocio.Resource.Styleable.ColorStateListItem = global::AsesoriasApp.Resource.Styleable.ColorStateListItem;
+			global::Negocio.Resource.Styleable.ColorStateListItem_alpha = global::AsesoriasApp.Resource.Styleable.ColorStateListItem_alpha;
+			global::Negocio.Resource.Styleable.ColorStateListItem_android_alpha = global::AsesoriasApp.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Negocio.Resource.Styleable.ColorStateListItem_android_color = global::AsesoriasApp.Resource.Styleable.ColorStateListItem_android_color;
+			global::Negocio.Resource.Styleable.CompoundButton = global::AsesoriasApp.Resource.Styleable.CompoundButton;
+			global::Negocio.Resource.Styleable.CompoundButton_android_button = global::AsesoriasApp.Resource.Styleable.CompoundButton_android_button;
+			global::Negocio.Resource.Styleable.CompoundButton_buttonTint = global::AsesoriasApp.Resource.Styleable.CompoundButton_buttonTint;
+			global::Negocio.Resource.Styleable.CompoundButton_buttonTintMode = global::AsesoriasApp.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Negocio.Resource.Styleable.DrawerArrowToggle = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle;
+			global::Negocio.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Negocio.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Negocio.Resource.Styleable.DrawerArrowToggle_barLength = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Negocio.Resource.Styleable.DrawerArrowToggle_color = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_color;
+			global::Negocio.Resource.Styleable.DrawerArrowToggle_drawableSize = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Negocio.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Negocio.Resource.Styleable.DrawerArrowToggle_spinBars = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Negocio.Resource.Styleable.DrawerArrowToggle_thickness = global::AsesoriasApp.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Negocio.Resource.Styleable.FontFamily = global::AsesoriasApp.Resource.Styleable.FontFamily;
+			global::Negocio.Resource.Styleable.FontFamily_fontProviderAuthority = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Negocio.Resource.Styleable.FontFamily_fontProviderCerts = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Negocio.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Negocio.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Negocio.Resource.Styleable.FontFamily_fontProviderPackage = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Negocio.Resource.Styleable.FontFamily_fontProviderQuery = global::AsesoriasApp.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Negocio.Resource.Styleable.FontFamilyFont = global::AsesoriasApp.Resource.Styleable.FontFamilyFont;
+			global::Negocio.Resource.Styleable.FontFamilyFont_android_font = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_android_font;
+			global::Negocio.Resource.Styleable.FontFamilyFont_android_fontStyle = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Negocio.Resource.Styleable.FontFamilyFont_android_fontWeight = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Negocio.Resource.Styleable.FontFamilyFont_font = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_font;
+			global::Negocio.Resource.Styleable.FontFamilyFont_fontStyle = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Negocio.Resource.Styleable.FontFamilyFont_fontWeight = global::AsesoriasApp.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Negocio.Resource.Styleable.LinearLayoutCompat = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat;
+			global::Negocio.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Negocio.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Negocio.Resource.Styleable.LinearLayoutCompat_android_gravity = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Negocio.Resource.Styleable.LinearLayoutCompat_android_orientation = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Negocio.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Negocio.Resource.Styleable.LinearLayoutCompat_divider = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Negocio.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Negocio.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Negocio.Resource.Styleable.LinearLayoutCompat_showDividers = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Negocio.Resource.Styleable.LinearLayoutCompat_Layout = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Negocio.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Negocio.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Negocio.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Negocio.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::AsesoriasApp.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Negocio.Resource.Styleable.ListPopupWindow = global::AsesoriasApp.Resource.Styleable.ListPopupWindow;
+			global::Negocio.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::AsesoriasApp.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Negocio.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::AsesoriasApp.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Negocio.Resource.Styleable.MenuGroup = global::AsesoriasApp.Resource.Styleable.MenuGroup;
+			global::Negocio.Resource.Styleable.MenuGroup_android_checkableBehavior = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Negocio.Resource.Styleable.MenuGroup_android_enabled = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_enabled;
+			global::Negocio.Resource.Styleable.MenuGroup_android_id = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_id;
+			global::Negocio.Resource.Styleable.MenuGroup_android_menuCategory = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Negocio.Resource.Styleable.MenuGroup_android_orderInCategory = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Negocio.Resource.Styleable.MenuGroup_android_visible = global::AsesoriasApp.Resource.Styleable.MenuGroup_android_visible;
+			global::Negocio.Resource.Styleable.MenuItem = global::AsesoriasApp.Resource.Styleable.MenuItem;
+			global::Negocio.Resource.Styleable.MenuItem_actionLayout = global::AsesoriasApp.Resource.Styleable.MenuItem_actionLayout;
+			global::Negocio.Resource.Styleable.MenuItem_actionProviderClass = global::AsesoriasApp.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Negocio.Resource.Styleable.MenuItem_actionViewClass = global::AsesoriasApp.Resource.Styleable.MenuItem_actionViewClass;
+			global::Negocio.Resource.Styleable.MenuItem_alphabeticModifiers = global::AsesoriasApp.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Negocio.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::AsesoriasApp.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Negocio.Resource.Styleable.MenuItem_android_checkable = global::AsesoriasApp.Resource.Styleable.MenuItem_android_checkable;
+			global::Negocio.Resource.Styleable.MenuItem_android_checked = global::AsesoriasApp.Resource.Styleable.MenuItem_android_checked;
+			global::Negocio.Resource.Styleable.MenuItem_android_enabled = global::AsesoriasApp.Resource.Styleable.MenuItem_android_enabled;
+			global::Negocio.Resource.Styleable.MenuItem_android_icon = global::AsesoriasApp.Resource.Styleable.MenuItem_android_icon;
+			global::Negocio.Resource.Styleable.MenuItem_android_id = global::AsesoriasApp.Resource.Styleable.MenuItem_android_id;
+			global::Negocio.Resource.Styleable.MenuItem_android_menuCategory = global::AsesoriasApp.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Negocio.Resource.Styleable.MenuItem_android_numericShortcut = global::AsesoriasApp.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Negocio.Resource.Styleable.MenuItem_android_onClick = global::AsesoriasApp.Resource.Styleable.MenuItem_android_onClick;
+			global::Negocio.Resource.Styleable.MenuItem_android_orderInCategory = global::AsesoriasApp.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Negocio.Resource.Styleable.MenuItem_android_title = global::AsesoriasApp.Resource.Styleable.MenuItem_android_title;
+			global::Negocio.Resource.Styleable.MenuItem_android_titleCondensed = global::AsesoriasApp.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Negocio.Resource.Styleable.MenuItem_android_visible = global::AsesoriasApp.Resource.Styleable.MenuItem_android_visible;
+			global::Negocio.Resource.Styleable.MenuItem_contentDescription = global::AsesoriasApp.Resource.Styleable.MenuItem_contentDescription;
+			global::Negocio.Resource.Styleable.MenuItem_iconTint = global::AsesoriasApp.Resource.Styleable.MenuItem_iconTint;
+			global::Negocio.Resource.Styleable.MenuItem_iconTintMode = global::AsesoriasApp.Resource.Styleable.MenuItem_iconTintMode;
+			global::Negocio.Resource.Styleable.MenuItem_numericModifiers = global::AsesoriasApp.Resource.Styleable.MenuItem_numericModifiers;
+			global::Negocio.Resource.Styleable.MenuItem_showAsAction = global::AsesoriasApp.Resource.Styleable.MenuItem_showAsAction;
+			global::Negocio.Resource.Styleable.MenuItem_tooltipText = global::AsesoriasApp.Resource.Styleable.MenuItem_tooltipText;
+			global::Negocio.Resource.Styleable.MenuView = global::AsesoriasApp.Resource.Styleable.MenuView;
+			global::Negocio.Resource.Styleable.MenuView_android_headerBackground = global::AsesoriasApp.Resource.Styleable.MenuView_android_headerBackground;
+			global::Negocio.Resource.Styleable.MenuView_android_horizontalDivider = global::AsesoriasApp.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Negocio.Resource.Styleable.MenuView_android_itemBackground = global::AsesoriasApp.Resource.Styleable.MenuView_android_itemBackground;
+			global::Negocio.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::AsesoriasApp.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Negocio.Resource.Styleable.MenuView_android_itemTextAppearance = global::AsesoriasApp.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Negocio.Resource.Styleable.MenuView_android_verticalDivider = global::AsesoriasApp.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Negocio.Resource.Styleable.MenuView_android_windowAnimationStyle = global::AsesoriasApp.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Negocio.Resource.Styleable.MenuView_preserveIconSpacing = global::AsesoriasApp.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Negocio.Resource.Styleable.MenuView_subMenuArrow = global::AsesoriasApp.Resource.Styleable.MenuView_subMenuArrow;
+			global::Negocio.Resource.Styleable.PopupWindow = global::AsesoriasApp.Resource.Styleable.PopupWindow;
+			global::Negocio.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::AsesoriasApp.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Negocio.Resource.Styleable.PopupWindow_android_popupBackground = global::AsesoriasApp.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Negocio.Resource.Styleable.PopupWindow_overlapAnchor = global::AsesoriasApp.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Negocio.Resource.Styleable.PopupWindowBackgroundState = global::AsesoriasApp.Resource.Styleable.PopupWindowBackgroundState;
+			global::Negocio.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::AsesoriasApp.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Negocio.Resource.Styleable.RecycleListView = global::AsesoriasApp.Resource.Styleable.RecycleListView;
+			global::Negocio.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::AsesoriasApp.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Negocio.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::AsesoriasApp.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Negocio.Resource.Styleable.SearchView = global::AsesoriasApp.Resource.Styleable.SearchView;
+			global::Negocio.Resource.Styleable.SearchView_android_focusable = global::AsesoriasApp.Resource.Styleable.SearchView_android_focusable;
+			global::Negocio.Resource.Styleable.SearchView_android_imeOptions = global::AsesoriasApp.Resource.Styleable.SearchView_android_imeOptions;
+			global::Negocio.Resource.Styleable.SearchView_android_inputType = global::AsesoriasApp.Resource.Styleable.SearchView_android_inputType;
+			global::Negocio.Resource.Styleable.SearchView_android_maxWidth = global::AsesoriasApp.Resource.Styleable.SearchView_android_maxWidth;
+			global::Negocio.Resource.Styleable.SearchView_closeIcon = global::AsesoriasApp.Resource.Styleable.SearchView_closeIcon;
+			global::Negocio.Resource.Styleable.SearchView_commitIcon = global::AsesoriasApp.Resource.Styleable.SearchView_commitIcon;
+			global::Negocio.Resource.Styleable.SearchView_defaultQueryHint = global::AsesoriasApp.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Negocio.Resource.Styleable.SearchView_goIcon = global::AsesoriasApp.Resource.Styleable.SearchView_goIcon;
+			global::Negocio.Resource.Styleable.SearchView_iconifiedByDefault = global::AsesoriasApp.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Negocio.Resource.Styleable.SearchView_layout = global::AsesoriasApp.Resource.Styleable.SearchView_layout;
+			global::Negocio.Resource.Styleable.SearchView_queryBackground = global::AsesoriasApp.Resource.Styleable.SearchView_queryBackground;
+			global::Negocio.Resource.Styleable.SearchView_queryHint = global::AsesoriasApp.Resource.Styleable.SearchView_queryHint;
+			global::Negocio.Resource.Styleable.SearchView_searchHintIcon = global::AsesoriasApp.Resource.Styleable.SearchView_searchHintIcon;
+			global::Negocio.Resource.Styleable.SearchView_searchIcon = global::AsesoriasApp.Resource.Styleable.SearchView_searchIcon;
+			global::Negocio.Resource.Styleable.SearchView_submitBackground = global::AsesoriasApp.Resource.Styleable.SearchView_submitBackground;
+			global::Negocio.Resource.Styleable.SearchView_suggestionRowLayout = global::AsesoriasApp.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Negocio.Resource.Styleable.SearchView_voiceIcon = global::AsesoriasApp.Resource.Styleable.SearchView_voiceIcon;
+			global::Negocio.Resource.Styleable.Spinner = global::AsesoriasApp.Resource.Styleable.Spinner;
+			global::Negocio.Resource.Styleable.Spinner_android_dropDownWidth = global::AsesoriasApp.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Negocio.Resource.Styleable.Spinner_android_entries = global::AsesoriasApp.Resource.Styleable.Spinner_android_entries;
+			global::Negocio.Resource.Styleable.Spinner_android_popupBackground = global::AsesoriasApp.Resource.Styleable.Spinner_android_popupBackground;
+			global::Negocio.Resource.Styleable.Spinner_android_prompt = global::AsesoriasApp.Resource.Styleable.Spinner_android_prompt;
+			global::Negocio.Resource.Styleable.Spinner_popupTheme = global::AsesoriasApp.Resource.Styleable.Spinner_popupTheme;
+			global::Negocio.Resource.Styleable.SwitchCompat = global::AsesoriasApp.Resource.Styleable.SwitchCompat;
+			global::Negocio.Resource.Styleable.SwitchCompat_android_textOff = global::AsesoriasApp.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Negocio.Resource.Styleable.SwitchCompat_android_textOn = global::AsesoriasApp.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Negocio.Resource.Styleable.SwitchCompat_android_thumb = global::AsesoriasApp.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Negocio.Resource.Styleable.SwitchCompat_showText = global::AsesoriasApp.Resource.Styleable.SwitchCompat_showText;
+			global::Negocio.Resource.Styleable.SwitchCompat_splitTrack = global::AsesoriasApp.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Negocio.Resource.Styleable.SwitchCompat_switchMinWidth = global::AsesoriasApp.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Negocio.Resource.Styleable.SwitchCompat_switchPadding = global::AsesoriasApp.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Negocio.Resource.Styleable.SwitchCompat_switchTextAppearance = global::AsesoriasApp.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Negocio.Resource.Styleable.SwitchCompat_thumbTextPadding = global::AsesoriasApp.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Negocio.Resource.Styleable.SwitchCompat_thumbTint = global::AsesoriasApp.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Negocio.Resource.Styleable.SwitchCompat_thumbTintMode = global::AsesoriasApp.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Negocio.Resource.Styleable.SwitchCompat_track = global::AsesoriasApp.Resource.Styleable.SwitchCompat_track;
+			global::Negocio.Resource.Styleable.SwitchCompat_trackTint = global::AsesoriasApp.Resource.Styleable.SwitchCompat_trackTint;
+			global::Negocio.Resource.Styleable.SwitchCompat_trackTintMode = global::AsesoriasApp.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Negocio.Resource.Styleable.TextAppearance = global::AsesoriasApp.Resource.Styleable.TextAppearance;
+			global::Negocio.Resource.Styleable.TextAppearance_android_fontFamily = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Negocio.Resource.Styleable.TextAppearance_android_shadowColor = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Negocio.Resource.Styleable.TextAppearance_android_shadowDx = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Negocio.Resource.Styleable.TextAppearance_android_shadowDy = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Negocio.Resource.Styleable.TextAppearance_android_shadowRadius = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Negocio.Resource.Styleable.TextAppearance_android_textColor = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_textColor;
+			global::Negocio.Resource.Styleable.TextAppearance_android_textColorHint = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Negocio.Resource.Styleable.TextAppearance_android_textColorLink = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Negocio.Resource.Styleable.TextAppearance_android_textSize = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_textSize;
+			global::Negocio.Resource.Styleable.TextAppearance_android_textStyle = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Negocio.Resource.Styleable.TextAppearance_android_typeface = global::AsesoriasApp.Resource.Styleable.TextAppearance_android_typeface;
+			global::Negocio.Resource.Styleable.TextAppearance_fontFamily = global::AsesoriasApp.Resource.Styleable.TextAppearance_fontFamily;
+			global::Negocio.Resource.Styleable.TextAppearance_textAllCaps = global::AsesoriasApp.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Negocio.Resource.Styleable.Toolbar = global::AsesoriasApp.Resource.Styleable.Toolbar;
+			global::Negocio.Resource.Styleable.Toolbar_android_gravity = global::AsesoriasApp.Resource.Styleable.Toolbar_android_gravity;
+			global::Negocio.Resource.Styleable.Toolbar_android_minHeight = global::AsesoriasApp.Resource.Styleable.Toolbar_android_minHeight;
+			global::Negocio.Resource.Styleable.Toolbar_buttonGravity = global::AsesoriasApp.Resource.Styleable.Toolbar_buttonGravity;
+			global::Negocio.Resource.Styleable.Toolbar_collapseContentDescription = global::AsesoriasApp.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Negocio.Resource.Styleable.Toolbar_collapseIcon = global::AsesoriasApp.Resource.Styleable.Toolbar_collapseIcon;
+			global::Negocio.Resource.Styleable.Toolbar_contentInsetEnd = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Negocio.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Negocio.Resource.Styleable.Toolbar_contentInsetLeft = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Negocio.Resource.Styleable.Toolbar_contentInsetRight = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Negocio.Resource.Styleable.Toolbar_contentInsetStart = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Negocio.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::AsesoriasApp.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Negocio.Resource.Styleable.Toolbar_logo = global::AsesoriasApp.Resource.Styleable.Toolbar_logo;
+			global::Negocio.Resource.Styleable.Toolbar_logoDescription = global::AsesoriasApp.Resource.Styleable.Toolbar_logoDescription;
+			global::Negocio.Resource.Styleable.Toolbar_maxButtonHeight = global::AsesoriasApp.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Negocio.Resource.Styleable.Toolbar_navigationContentDescription = global::AsesoriasApp.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Negocio.Resource.Styleable.Toolbar_navigationIcon = global::AsesoriasApp.Resource.Styleable.Toolbar_navigationIcon;
+			global::Negocio.Resource.Styleable.Toolbar_popupTheme = global::AsesoriasApp.Resource.Styleable.Toolbar_popupTheme;
+			global::Negocio.Resource.Styleable.Toolbar_subtitle = global::AsesoriasApp.Resource.Styleable.Toolbar_subtitle;
+			global::Negocio.Resource.Styleable.Toolbar_subtitleTextAppearance = global::AsesoriasApp.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Negocio.Resource.Styleable.Toolbar_subtitleTextColor = global::AsesoriasApp.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Negocio.Resource.Styleable.Toolbar_title = global::AsesoriasApp.Resource.Styleable.Toolbar_title;
+			global::Negocio.Resource.Styleable.Toolbar_titleMargin = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMargin;
+			global::Negocio.Resource.Styleable.Toolbar_titleMarginBottom = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Negocio.Resource.Styleable.Toolbar_titleMarginEnd = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Negocio.Resource.Styleable.Toolbar_titleMarginStart = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Negocio.Resource.Styleable.Toolbar_titleMarginTop = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Negocio.Resource.Styleable.Toolbar_titleMargins = global::AsesoriasApp.Resource.Styleable.Toolbar_titleMargins;
+			global::Negocio.Resource.Styleable.Toolbar_titleTextAppearance = global::AsesoriasApp.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Negocio.Resource.Styleable.Toolbar_titleTextColor = global::AsesoriasApp.Resource.Styleable.Toolbar_titleTextColor;
+			global::Negocio.Resource.Styleable.View = global::AsesoriasApp.Resource.Styleable.View;
+			global::Negocio.Resource.Styleable.View_android_focusable = global::AsesoriasApp.Resource.Styleable.View_android_focusable;
+			global::Negocio.Resource.Styleable.View_android_theme = global::AsesoriasApp.Resource.Styleable.View_android_theme;
+			global::Negocio.Resource.Styleable.View_paddingEnd = global::AsesoriasApp.Resource.Styleable.View_paddingEnd;
+			global::Negocio.Resource.Styleable.View_paddingStart = global::AsesoriasApp.Resource.Styleable.View_paddingStart;
+			global::Negocio.Resource.Styleable.View_theme = global::AsesoriasApp.Resource.Styleable.View_theme;
+			global::Negocio.Resource.Styleable.ViewBackgroundHelper = global::AsesoriasApp.Resource.Styleable.ViewBackgroundHelper;
+			global::Negocio.Resource.Styleable.ViewBackgroundHelper_android_background = global::AsesoriasApp.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Negocio.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::AsesoriasApp.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Negocio.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::AsesoriasApp.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Negocio.Resource.Styleable.ViewStubCompat = global::AsesoriasApp.Resource.Styleable.ViewStubCompat;
+			global::Negocio.Resource.Styleable.ViewStubCompat_android_id = global::AsesoriasApp.Resource.Styleable.ViewStubCompat_android_id;
+			global::Negocio.Resource.Styleable.ViewStubCompat_android_inflatedId = global::AsesoriasApp.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Negocio.Resource.Styleable.ViewStubCompat_android_layout = global::AsesoriasApp.Resource.Styleable.ViewStubCompat_android_layout;
 		}
 		
 		public partial class Animation
 		{
 			
-			// aapt resource value: 0x7f040000
-			public const int abc_fade_in = 2130968576;
+			// aapt resource value: 0x7f050000
+			public const int abc_fade_in = 2131034112;
 			
-			// aapt resource value: 0x7f040001
-			public const int abc_fade_out = 2130968577;
+			// aapt resource value: 0x7f050001
+			public const int abc_fade_out = 2131034113;
 			
-			// aapt resource value: 0x7f040002
-			public const int abc_grow_fade_in_from_bottom = 2130968578;
+			// aapt resource value: 0x7f050002
+			public const int abc_grow_fade_in_from_bottom = 2131034114;
 			
-			// aapt resource value: 0x7f040003
-			public const int abc_popup_enter = 2130968579;
+			// aapt resource value: 0x7f050003
+			public const int abc_popup_enter = 2131034115;
 			
-			// aapt resource value: 0x7f040004
-			public const int abc_popup_exit = 2130968580;
+			// aapt resource value: 0x7f050004
+			public const int abc_popup_exit = 2131034116;
 			
-			// aapt resource value: 0x7f040005
-			public const int abc_shrink_fade_out_from_bottom = 2130968581;
+			// aapt resource value: 0x7f050005
+			public const int abc_shrink_fade_out_from_bottom = 2131034117;
 			
-			// aapt resource value: 0x7f040006
-			public const int abc_slide_in_bottom = 2130968582;
+			// aapt resource value: 0x7f050006
+			public const int abc_slide_in_bottom = 2131034118;
 			
-			// aapt resource value: 0x7f040007
-			public const int abc_slide_in_top = 2130968583;
+			// aapt resource value: 0x7f050007
+			public const int abc_slide_in_top = 2131034119;
 			
-			// aapt resource value: 0x7f040008
-			public const int abc_slide_out_bottom = 2130968584;
+			// aapt resource value: 0x7f050008
+			public const int abc_slide_out_bottom = 2131034120;
 			
-			// aapt resource value: 0x7f040009
-			public const int abc_slide_out_top = 2130968585;
+			// aapt resource value: 0x7f050009
+			public const int abc_slide_out_top = 2131034121;
 			
-			// aapt resource value: 0x7f04000a
-			public const int design_bottom_sheet_slide_in = 2130968586;
+			// aapt resource value: 0x7f05000a
+			public const int design_bottom_sheet_slide_in = 2131034122;
 			
-			// aapt resource value: 0x7f04000b
-			public const int design_bottom_sheet_slide_out = 2130968587;
+			// aapt resource value: 0x7f05000b
+			public const int design_bottom_sheet_slide_out = 2131034123;
 			
-			// aapt resource value: 0x7f04000c
-			public const int design_snackbar_in = 2130968588;
+			// aapt resource value: 0x7f05000c
+			public const int design_snackbar_in = 2131034124;
 			
-			// aapt resource value: 0x7f04000d
-			public const int design_snackbar_out = 2130968589;
+			// aapt resource value: 0x7f05000d
+			public const int design_snackbar_out = 2131034125;
 			
-			// aapt resource value: 0x7f04000e
-			public const int tooltip_enter = 2130968590;
+			// aapt resource value: 0x7f05000e
+			public const int tooltip_enter = 2131034126;
 			
-			// aapt resource value: 0x7f04000f
-			public const int tooltip_exit = 2130968591;
+			// aapt resource value: 0x7f05000f
+			public const int tooltip_exit = 2131034127;
 			
 			static Animation()
 			{
@@ -92,8 +4658,8 @@ namespace AsesoriasApp
 		public partial class Animator
 		{
 			
-			// aapt resource value: 0x7f050000
-			public const int design_appbar_state_list_animator = 2131034112;
+			// aapt resource value: 0x7f060000
+			public const int design_appbar_state_list_animator = 2131099648;
 			
 			static Animator()
 			{
@@ -1159,20 +5725,20 @@ namespace AsesoriasApp
 		public partial class Boolean
 		{
 			
-			// aapt resource value: 0x7f0a0000
-			public const int abc_action_bar_embed_tabs = 2131361792;
+			// aapt resource value: 0x7f0b0000
+			public const int abc_action_bar_embed_tabs = 2131427328;
 			
-			// aapt resource value: 0x7f0a0001
-			public const int abc_allow_stacked_button_bar = 2131361793;
+			// aapt resource value: 0x7f0b0001
+			public const int abc_allow_stacked_button_bar = 2131427329;
 			
-			// aapt resource value: 0x7f0a0002
-			public const int abc_config_actionMenuItemAllCaps = 2131361794;
+			// aapt resource value: 0x7f0b0002
+			public const int abc_config_actionMenuItemAllCaps = 2131427330;
 			
-			// aapt resource value: 0x7f0a0003
-			public const int abc_config_closeDialogWhenTouchOutside = 2131361795;
+			// aapt resource value: 0x7f0b0003
+			public const int abc_config_closeDialogWhenTouchOutside = 2131427331;
 			
-			// aapt resource value: 0x7f0a0004
-			public const int abc_config_showMenuShortcutsWhenKeyboardPresent = 2131361796;
+			// aapt resource value: 0x7f0b0004
+			public const int abc_config_showMenuShortcutsWhenKeyboardPresent = 2131427332;
 			
 			static Boolean()
 			{
@@ -1187,302 +5753,302 @@ namespace AsesoriasApp
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0b004b
-			public const int abc_background_cache_hint_selector_material_dark = 2131427403;
+			// aapt resource value: 0x7f0c004b
+			public const int abc_background_cache_hint_selector_material_dark = 2131492939;
 			
-			// aapt resource value: 0x7f0b004c
-			public const int abc_background_cache_hint_selector_material_light = 2131427404;
+			// aapt resource value: 0x7f0c004c
+			public const int abc_background_cache_hint_selector_material_light = 2131492940;
 			
-			// aapt resource value: 0x7f0b004d
-			public const int abc_btn_colored_borderless_text_material = 2131427405;
+			// aapt resource value: 0x7f0c004d
+			public const int abc_btn_colored_borderless_text_material = 2131492941;
 			
-			// aapt resource value: 0x7f0b004e
-			public const int abc_btn_colored_text_material = 2131427406;
+			// aapt resource value: 0x7f0c004e
+			public const int abc_btn_colored_text_material = 2131492942;
 			
-			// aapt resource value: 0x7f0b004f
-			public const int abc_color_highlight_material = 2131427407;
+			// aapt resource value: 0x7f0c004f
+			public const int abc_color_highlight_material = 2131492943;
 			
-			// aapt resource value: 0x7f0b0050
-			public const int abc_hint_foreground_material_dark = 2131427408;
+			// aapt resource value: 0x7f0c0050
+			public const int abc_hint_foreground_material_dark = 2131492944;
 			
-			// aapt resource value: 0x7f0b0051
-			public const int abc_hint_foreground_material_light = 2131427409;
+			// aapt resource value: 0x7f0c0051
+			public const int abc_hint_foreground_material_light = 2131492945;
 			
-			// aapt resource value: 0x7f0b0000
-			public const int abc_input_method_navigation_guard = 2131427328;
+			// aapt resource value: 0x7f0c0000
+			public const int abc_input_method_navigation_guard = 2131492864;
 			
-			// aapt resource value: 0x7f0b0052
-			public const int abc_primary_text_disable_only_material_dark = 2131427410;
+			// aapt resource value: 0x7f0c0052
+			public const int abc_primary_text_disable_only_material_dark = 2131492946;
 			
-			// aapt resource value: 0x7f0b0053
-			public const int abc_primary_text_disable_only_material_light = 2131427411;
+			// aapt resource value: 0x7f0c0053
+			public const int abc_primary_text_disable_only_material_light = 2131492947;
 			
-			// aapt resource value: 0x7f0b0054
-			public const int abc_primary_text_material_dark = 2131427412;
+			// aapt resource value: 0x7f0c0054
+			public const int abc_primary_text_material_dark = 2131492948;
 			
-			// aapt resource value: 0x7f0b0055
-			public const int abc_primary_text_material_light = 2131427413;
+			// aapt resource value: 0x7f0c0055
+			public const int abc_primary_text_material_light = 2131492949;
 			
-			// aapt resource value: 0x7f0b0056
-			public const int abc_search_url_text = 2131427414;
+			// aapt resource value: 0x7f0c0056
+			public const int abc_search_url_text = 2131492950;
 			
-			// aapt resource value: 0x7f0b0001
-			public const int abc_search_url_text_normal = 2131427329;
+			// aapt resource value: 0x7f0c0001
+			public const int abc_search_url_text_normal = 2131492865;
 			
-			// aapt resource value: 0x7f0b0002
-			public const int abc_search_url_text_pressed = 2131427330;
+			// aapt resource value: 0x7f0c0002
+			public const int abc_search_url_text_pressed = 2131492866;
 			
-			// aapt resource value: 0x7f0b0003
-			public const int abc_search_url_text_selected = 2131427331;
+			// aapt resource value: 0x7f0c0003
+			public const int abc_search_url_text_selected = 2131492867;
 			
-			// aapt resource value: 0x7f0b0057
-			public const int abc_secondary_text_material_dark = 2131427415;
+			// aapt resource value: 0x7f0c0057
+			public const int abc_secondary_text_material_dark = 2131492951;
 			
-			// aapt resource value: 0x7f0b0058
-			public const int abc_secondary_text_material_light = 2131427416;
+			// aapt resource value: 0x7f0c0058
+			public const int abc_secondary_text_material_light = 2131492952;
 			
-			// aapt resource value: 0x7f0b0059
-			public const int abc_tint_btn_checkable = 2131427417;
+			// aapt resource value: 0x7f0c0059
+			public const int abc_tint_btn_checkable = 2131492953;
 			
-			// aapt resource value: 0x7f0b005a
-			public const int abc_tint_default = 2131427418;
+			// aapt resource value: 0x7f0c005a
+			public const int abc_tint_default = 2131492954;
 			
-			// aapt resource value: 0x7f0b005b
-			public const int abc_tint_edittext = 2131427419;
+			// aapt resource value: 0x7f0c005b
+			public const int abc_tint_edittext = 2131492955;
 			
-			// aapt resource value: 0x7f0b005c
-			public const int abc_tint_seek_thumb = 2131427420;
+			// aapt resource value: 0x7f0c005c
+			public const int abc_tint_seek_thumb = 2131492956;
 			
-			// aapt resource value: 0x7f0b005d
-			public const int abc_tint_spinner = 2131427421;
+			// aapt resource value: 0x7f0c005d
+			public const int abc_tint_spinner = 2131492957;
 			
-			// aapt resource value: 0x7f0b005e
-			public const int abc_tint_switch_track = 2131427422;
+			// aapt resource value: 0x7f0c005e
+			public const int abc_tint_switch_track = 2131492958;
 			
-			// aapt resource value: 0x7f0b0004
-			public const int accent_material_dark = 2131427332;
+			// aapt resource value: 0x7f0c0004
+			public const int accent_material_dark = 2131492868;
 			
-			// aapt resource value: 0x7f0b0005
-			public const int accent_material_light = 2131427333;
+			// aapt resource value: 0x7f0c0005
+			public const int accent_material_light = 2131492869;
 			
-			// aapt resource value: 0x7f0b0006
-			public const int background_floating_material_dark = 2131427334;
+			// aapt resource value: 0x7f0c0006
+			public const int background_floating_material_dark = 2131492870;
 			
-			// aapt resource value: 0x7f0b0007
-			public const int background_floating_material_light = 2131427335;
+			// aapt resource value: 0x7f0c0007
+			public const int background_floating_material_light = 2131492871;
 			
-			// aapt resource value: 0x7f0b0008
-			public const int background_material_dark = 2131427336;
+			// aapt resource value: 0x7f0c0008
+			public const int background_material_dark = 2131492872;
 			
-			// aapt resource value: 0x7f0b0009
-			public const int background_material_light = 2131427337;
+			// aapt resource value: 0x7f0c0009
+			public const int background_material_light = 2131492873;
 			
-			// aapt resource value: 0x7f0b000a
-			public const int bright_foreground_disabled_material_dark = 2131427338;
+			// aapt resource value: 0x7f0c000a
+			public const int bright_foreground_disabled_material_dark = 2131492874;
 			
-			// aapt resource value: 0x7f0b000b
-			public const int bright_foreground_disabled_material_light = 2131427339;
+			// aapt resource value: 0x7f0c000b
+			public const int bright_foreground_disabled_material_light = 2131492875;
 			
-			// aapt resource value: 0x7f0b000c
-			public const int bright_foreground_inverse_material_dark = 2131427340;
+			// aapt resource value: 0x7f0c000c
+			public const int bright_foreground_inverse_material_dark = 2131492876;
 			
-			// aapt resource value: 0x7f0b000d
-			public const int bright_foreground_inverse_material_light = 2131427341;
+			// aapt resource value: 0x7f0c000d
+			public const int bright_foreground_inverse_material_light = 2131492877;
 			
-			// aapt resource value: 0x7f0b000e
-			public const int bright_foreground_material_dark = 2131427342;
+			// aapt resource value: 0x7f0c000e
+			public const int bright_foreground_material_dark = 2131492878;
 			
-			// aapt resource value: 0x7f0b000f
-			public const int bright_foreground_material_light = 2131427343;
+			// aapt resource value: 0x7f0c000f
+			public const int bright_foreground_material_light = 2131492879;
 			
-			// aapt resource value: 0x7f0b0010
-			public const int button_material_dark = 2131427344;
+			// aapt resource value: 0x7f0c0010
+			public const int button_material_dark = 2131492880;
 			
-			// aapt resource value: 0x7f0b0011
-			public const int button_material_light = 2131427345;
+			// aapt resource value: 0x7f0c0011
+			public const int button_material_light = 2131492881;
 			
-			// aapt resource value: 0x7f0b0049
-			public const int colorAccent = 2131427401;
+			// aapt resource value: 0x7f0c0049
+			public const int colorAccent = 2131492937;
 			
-			// aapt resource value: 0x7f0b0047
-			public const int colorPrimary = 2131427399;
+			// aapt resource value: 0x7f0c0047
+			public const int colorPrimary = 2131492935;
 			
-			// aapt resource value: 0x7f0b0048
-			public const int colorPrimaryDark = 2131427400;
+			// aapt resource value: 0x7f0c0048
+			public const int colorPrimaryDark = 2131492936;
 			
-			// aapt resource value: 0x7f0b003c
-			public const int design_bottom_navigation_shadow_color = 2131427388;
+			// aapt resource value: 0x7f0c003c
+			public const int design_bottom_navigation_shadow_color = 2131492924;
 			
-			// aapt resource value: 0x7f0b005f
-			public const int design_error = 2131427423;
+			// aapt resource value: 0x7f0c005f
+			public const int design_error = 2131492959;
 			
-			// aapt resource value: 0x7f0b003d
-			public const int design_fab_shadow_end_color = 2131427389;
+			// aapt resource value: 0x7f0c003d
+			public const int design_fab_shadow_end_color = 2131492925;
 			
-			// aapt resource value: 0x7f0b003e
-			public const int design_fab_shadow_mid_color = 2131427390;
+			// aapt resource value: 0x7f0c003e
+			public const int design_fab_shadow_mid_color = 2131492926;
 			
-			// aapt resource value: 0x7f0b003f
-			public const int design_fab_shadow_start_color = 2131427391;
+			// aapt resource value: 0x7f0c003f
+			public const int design_fab_shadow_start_color = 2131492927;
 			
-			// aapt resource value: 0x7f0b0040
-			public const int design_fab_stroke_end_inner_color = 2131427392;
+			// aapt resource value: 0x7f0c0040
+			public const int design_fab_stroke_end_inner_color = 2131492928;
 			
-			// aapt resource value: 0x7f0b0041
-			public const int design_fab_stroke_end_outer_color = 2131427393;
+			// aapt resource value: 0x7f0c0041
+			public const int design_fab_stroke_end_outer_color = 2131492929;
 			
-			// aapt resource value: 0x7f0b0042
-			public const int design_fab_stroke_top_inner_color = 2131427394;
+			// aapt resource value: 0x7f0c0042
+			public const int design_fab_stroke_top_inner_color = 2131492930;
 			
-			// aapt resource value: 0x7f0b0043
-			public const int design_fab_stroke_top_outer_color = 2131427395;
+			// aapt resource value: 0x7f0c0043
+			public const int design_fab_stroke_top_outer_color = 2131492931;
 			
-			// aapt resource value: 0x7f0b0044
-			public const int design_snackbar_background_color = 2131427396;
+			// aapt resource value: 0x7f0c0044
+			public const int design_snackbar_background_color = 2131492932;
 			
-			// aapt resource value: 0x7f0b0060
-			public const int design_tint_password_toggle = 2131427424;
+			// aapt resource value: 0x7f0c0060
+			public const int design_tint_password_toggle = 2131492960;
 			
-			// aapt resource value: 0x7f0b0012
-			public const int dim_foreground_disabled_material_dark = 2131427346;
+			// aapt resource value: 0x7f0c0012
+			public const int dim_foreground_disabled_material_dark = 2131492882;
 			
-			// aapt resource value: 0x7f0b0013
-			public const int dim_foreground_disabled_material_light = 2131427347;
+			// aapt resource value: 0x7f0c0013
+			public const int dim_foreground_disabled_material_light = 2131492883;
 			
-			// aapt resource value: 0x7f0b0014
-			public const int dim_foreground_material_dark = 2131427348;
+			// aapt resource value: 0x7f0c0014
+			public const int dim_foreground_material_dark = 2131492884;
 			
-			// aapt resource value: 0x7f0b0015
-			public const int dim_foreground_material_light = 2131427349;
+			// aapt resource value: 0x7f0c0015
+			public const int dim_foreground_material_light = 2131492885;
 			
-			// aapt resource value: 0x7f0b0016
-			public const int error_color_material = 2131427350;
+			// aapt resource value: 0x7f0c0016
+			public const int error_color_material = 2131492886;
 			
-			// aapt resource value: 0x7f0b0017
-			public const int foreground_material_dark = 2131427351;
+			// aapt resource value: 0x7f0c0017
+			public const int foreground_material_dark = 2131492887;
 			
-			// aapt resource value: 0x7f0b0018
-			public const int foreground_material_light = 2131427352;
+			// aapt resource value: 0x7f0c0018
+			public const int foreground_material_light = 2131492888;
 			
-			// aapt resource value: 0x7f0b0019
-			public const int highlighted_text_material_dark = 2131427353;
+			// aapt resource value: 0x7f0c0019
+			public const int highlighted_text_material_dark = 2131492889;
 			
-			// aapt resource value: 0x7f0b001a
-			public const int highlighted_text_material_light = 2131427354;
+			// aapt resource value: 0x7f0c001a
+			public const int highlighted_text_material_light = 2131492890;
 			
-			// aapt resource value: 0x7f0b004a
-			public const int ic_launcher_background = 2131427402;
+			// aapt resource value: 0x7f0c004a
+			public const int ic_launcher_background = 2131492938;
 			
-			// aapt resource value: 0x7f0b001b
-			public const int material_blue_grey_800 = 2131427355;
+			// aapt resource value: 0x7f0c001b
+			public const int material_blue_grey_800 = 2131492891;
 			
-			// aapt resource value: 0x7f0b001c
-			public const int material_blue_grey_900 = 2131427356;
+			// aapt resource value: 0x7f0c001c
+			public const int material_blue_grey_900 = 2131492892;
 			
-			// aapt resource value: 0x7f0b001d
-			public const int material_blue_grey_950 = 2131427357;
+			// aapt resource value: 0x7f0c001d
+			public const int material_blue_grey_950 = 2131492893;
 			
-			// aapt resource value: 0x7f0b001e
-			public const int material_deep_teal_200 = 2131427358;
+			// aapt resource value: 0x7f0c001e
+			public const int material_deep_teal_200 = 2131492894;
 			
-			// aapt resource value: 0x7f0b001f
-			public const int material_deep_teal_500 = 2131427359;
+			// aapt resource value: 0x7f0c001f
+			public const int material_deep_teal_500 = 2131492895;
 			
-			// aapt resource value: 0x7f0b0020
-			public const int material_grey_100 = 2131427360;
+			// aapt resource value: 0x7f0c0020
+			public const int material_grey_100 = 2131492896;
 			
-			// aapt resource value: 0x7f0b0021
-			public const int material_grey_300 = 2131427361;
+			// aapt resource value: 0x7f0c0021
+			public const int material_grey_300 = 2131492897;
 			
-			// aapt resource value: 0x7f0b0022
-			public const int material_grey_50 = 2131427362;
+			// aapt resource value: 0x7f0c0022
+			public const int material_grey_50 = 2131492898;
 			
-			// aapt resource value: 0x7f0b0023
-			public const int material_grey_600 = 2131427363;
+			// aapt resource value: 0x7f0c0023
+			public const int material_grey_600 = 2131492899;
 			
-			// aapt resource value: 0x7f0b0024
-			public const int material_grey_800 = 2131427364;
+			// aapt resource value: 0x7f0c0024
+			public const int material_grey_800 = 2131492900;
 			
-			// aapt resource value: 0x7f0b0025
-			public const int material_grey_850 = 2131427365;
+			// aapt resource value: 0x7f0c0025
+			public const int material_grey_850 = 2131492901;
 			
-			// aapt resource value: 0x7f0b0026
-			public const int material_grey_900 = 2131427366;
+			// aapt resource value: 0x7f0c0026
+			public const int material_grey_900 = 2131492902;
 			
-			// aapt resource value: 0x7f0b0045
-			public const int notification_action_color_filter = 2131427397;
+			// aapt resource value: 0x7f0c0045
+			public const int notification_action_color_filter = 2131492933;
 			
-			// aapt resource value: 0x7f0b0046
-			public const int notification_icon_bg_color = 2131427398;
+			// aapt resource value: 0x7f0c0046
+			public const int notification_icon_bg_color = 2131492934;
 			
-			// aapt resource value: 0x7f0b003b
-			public const int notification_material_background_media_default_color = 2131427387;
+			// aapt resource value: 0x7f0c003b
+			public const int notification_material_background_media_default_color = 2131492923;
 			
-			// aapt resource value: 0x7f0b0027
-			public const int primary_dark_material_dark = 2131427367;
+			// aapt resource value: 0x7f0c0027
+			public const int primary_dark_material_dark = 2131492903;
 			
-			// aapt resource value: 0x7f0b0028
-			public const int primary_dark_material_light = 2131427368;
+			// aapt resource value: 0x7f0c0028
+			public const int primary_dark_material_light = 2131492904;
 			
-			// aapt resource value: 0x7f0b0029
-			public const int primary_material_dark = 2131427369;
+			// aapt resource value: 0x7f0c0029
+			public const int primary_material_dark = 2131492905;
 			
-			// aapt resource value: 0x7f0b002a
-			public const int primary_material_light = 2131427370;
+			// aapt resource value: 0x7f0c002a
+			public const int primary_material_light = 2131492906;
 			
-			// aapt resource value: 0x7f0b002b
-			public const int primary_text_default_material_dark = 2131427371;
+			// aapt resource value: 0x7f0c002b
+			public const int primary_text_default_material_dark = 2131492907;
 			
-			// aapt resource value: 0x7f0b002c
-			public const int primary_text_default_material_light = 2131427372;
+			// aapt resource value: 0x7f0c002c
+			public const int primary_text_default_material_light = 2131492908;
 			
-			// aapt resource value: 0x7f0b002d
-			public const int primary_text_disabled_material_dark = 2131427373;
+			// aapt resource value: 0x7f0c002d
+			public const int primary_text_disabled_material_dark = 2131492909;
 			
-			// aapt resource value: 0x7f0b002e
-			public const int primary_text_disabled_material_light = 2131427374;
+			// aapt resource value: 0x7f0c002e
+			public const int primary_text_disabled_material_light = 2131492910;
 			
-			// aapt resource value: 0x7f0b002f
-			public const int ripple_material_dark = 2131427375;
+			// aapt resource value: 0x7f0c002f
+			public const int ripple_material_dark = 2131492911;
 			
-			// aapt resource value: 0x7f0b0030
-			public const int ripple_material_light = 2131427376;
+			// aapt resource value: 0x7f0c0030
+			public const int ripple_material_light = 2131492912;
 			
-			// aapt resource value: 0x7f0b0031
-			public const int secondary_text_default_material_dark = 2131427377;
+			// aapt resource value: 0x7f0c0031
+			public const int secondary_text_default_material_dark = 2131492913;
 			
-			// aapt resource value: 0x7f0b0032
-			public const int secondary_text_default_material_light = 2131427378;
+			// aapt resource value: 0x7f0c0032
+			public const int secondary_text_default_material_light = 2131492914;
 			
-			// aapt resource value: 0x7f0b0033
-			public const int secondary_text_disabled_material_dark = 2131427379;
+			// aapt resource value: 0x7f0c0033
+			public const int secondary_text_disabled_material_dark = 2131492915;
 			
-			// aapt resource value: 0x7f0b0034
-			public const int secondary_text_disabled_material_light = 2131427380;
+			// aapt resource value: 0x7f0c0034
+			public const int secondary_text_disabled_material_light = 2131492916;
 			
-			// aapt resource value: 0x7f0b0035
-			public const int switch_thumb_disabled_material_dark = 2131427381;
+			// aapt resource value: 0x7f0c0035
+			public const int switch_thumb_disabled_material_dark = 2131492917;
 			
-			// aapt resource value: 0x7f0b0036
-			public const int switch_thumb_disabled_material_light = 2131427382;
+			// aapt resource value: 0x7f0c0036
+			public const int switch_thumb_disabled_material_light = 2131492918;
 			
-			// aapt resource value: 0x7f0b0061
-			public const int switch_thumb_material_dark = 2131427425;
+			// aapt resource value: 0x7f0c0061
+			public const int switch_thumb_material_dark = 2131492961;
 			
-			// aapt resource value: 0x7f0b0062
-			public const int switch_thumb_material_light = 2131427426;
+			// aapt resource value: 0x7f0c0062
+			public const int switch_thumb_material_light = 2131492962;
 			
-			// aapt resource value: 0x7f0b0037
-			public const int switch_thumb_normal_material_dark = 2131427383;
+			// aapt resource value: 0x7f0c0037
+			public const int switch_thumb_normal_material_dark = 2131492919;
 			
-			// aapt resource value: 0x7f0b0038
-			public const int switch_thumb_normal_material_light = 2131427384;
+			// aapt resource value: 0x7f0c0038
+			public const int switch_thumb_normal_material_light = 2131492920;
 			
-			// aapt resource value: 0x7f0b0039
-			public const int tooltip_background_dark = 2131427385;
+			// aapt resource value: 0x7f0c0039
+			public const int tooltip_background_dark = 2131492921;
 			
-			// aapt resource value: 0x7f0b003a
-			public const int tooltip_background_light = 2131427386;
+			// aapt resource value: 0x7f0c003a
+			public const int tooltip_background_light = 2131492922;
 			
 			static Color()
 			{
@@ -1497,470 +6063,470 @@ namespace AsesoriasApp
 		public partial class Dimension
 		{
 			
-			// aapt resource value: 0x7f060012
-			public const int abc_action_bar_content_inset_material = 2131099666;
+			// aapt resource value: 0x7f070012
+			public const int abc_action_bar_content_inset_material = 2131165202;
 			
-			// aapt resource value: 0x7f060013
-			public const int abc_action_bar_content_inset_with_nav = 2131099667;
+			// aapt resource value: 0x7f070013
+			public const int abc_action_bar_content_inset_with_nav = 2131165203;
 			
-			// aapt resource value: 0x7f060007
-			public const int abc_action_bar_default_height_material = 2131099655;
+			// aapt resource value: 0x7f070007
+			public const int abc_action_bar_default_height_material = 2131165191;
 			
-			// aapt resource value: 0x7f060014
-			public const int abc_action_bar_default_padding_end_material = 2131099668;
+			// aapt resource value: 0x7f070014
+			public const int abc_action_bar_default_padding_end_material = 2131165204;
 			
-			// aapt resource value: 0x7f060015
-			public const int abc_action_bar_default_padding_start_material = 2131099669;
+			// aapt resource value: 0x7f070015
+			public const int abc_action_bar_default_padding_start_material = 2131165205;
 			
-			// aapt resource value: 0x7f060017
-			public const int abc_action_bar_elevation_material = 2131099671;
+			// aapt resource value: 0x7f070017
+			public const int abc_action_bar_elevation_material = 2131165207;
 			
-			// aapt resource value: 0x7f060018
-			public const int abc_action_bar_icon_vertical_padding_material = 2131099672;
+			// aapt resource value: 0x7f070018
+			public const int abc_action_bar_icon_vertical_padding_material = 2131165208;
 			
-			// aapt resource value: 0x7f060019
-			public const int abc_action_bar_overflow_padding_end_material = 2131099673;
+			// aapt resource value: 0x7f070019
+			public const int abc_action_bar_overflow_padding_end_material = 2131165209;
 			
-			// aapt resource value: 0x7f06001a
-			public const int abc_action_bar_overflow_padding_start_material = 2131099674;
+			// aapt resource value: 0x7f07001a
+			public const int abc_action_bar_overflow_padding_start_material = 2131165210;
 			
-			// aapt resource value: 0x7f060008
-			public const int abc_action_bar_progress_bar_size = 2131099656;
+			// aapt resource value: 0x7f070008
+			public const int abc_action_bar_progress_bar_size = 2131165192;
 			
-			// aapt resource value: 0x7f06001b
-			public const int abc_action_bar_stacked_max_height = 2131099675;
+			// aapt resource value: 0x7f07001b
+			public const int abc_action_bar_stacked_max_height = 2131165211;
 			
-			// aapt resource value: 0x7f06001c
-			public const int abc_action_bar_stacked_tab_max_width = 2131099676;
+			// aapt resource value: 0x7f07001c
+			public const int abc_action_bar_stacked_tab_max_width = 2131165212;
 			
-			// aapt resource value: 0x7f06001d
-			public const int abc_action_bar_subtitle_bottom_margin_material = 2131099677;
+			// aapt resource value: 0x7f07001d
+			public const int abc_action_bar_subtitle_bottom_margin_material = 2131165213;
 			
-			// aapt resource value: 0x7f06001e
-			public const int abc_action_bar_subtitle_top_margin_material = 2131099678;
+			// aapt resource value: 0x7f07001e
+			public const int abc_action_bar_subtitle_top_margin_material = 2131165214;
 			
-			// aapt resource value: 0x7f06001f
-			public const int abc_action_button_min_height_material = 2131099679;
+			// aapt resource value: 0x7f07001f
+			public const int abc_action_button_min_height_material = 2131165215;
 			
-			// aapt resource value: 0x7f060020
-			public const int abc_action_button_min_width_material = 2131099680;
+			// aapt resource value: 0x7f070020
+			public const int abc_action_button_min_width_material = 2131165216;
 			
-			// aapt resource value: 0x7f060021
-			public const int abc_action_button_min_width_overflow_material = 2131099681;
+			// aapt resource value: 0x7f070021
+			public const int abc_action_button_min_width_overflow_material = 2131165217;
 			
-			// aapt resource value: 0x7f060006
-			public const int abc_alert_dialog_button_bar_height = 2131099654;
+			// aapt resource value: 0x7f070006
+			public const int abc_alert_dialog_button_bar_height = 2131165190;
 			
-			// aapt resource value: 0x7f060022
-			public const int abc_button_inset_horizontal_material = 2131099682;
+			// aapt resource value: 0x7f070022
+			public const int abc_button_inset_horizontal_material = 2131165218;
 			
-			// aapt resource value: 0x7f060023
-			public const int abc_button_inset_vertical_material = 2131099683;
+			// aapt resource value: 0x7f070023
+			public const int abc_button_inset_vertical_material = 2131165219;
 			
-			// aapt resource value: 0x7f060024
-			public const int abc_button_padding_horizontal_material = 2131099684;
+			// aapt resource value: 0x7f070024
+			public const int abc_button_padding_horizontal_material = 2131165220;
 			
-			// aapt resource value: 0x7f060025
-			public const int abc_button_padding_vertical_material = 2131099685;
+			// aapt resource value: 0x7f070025
+			public const int abc_button_padding_vertical_material = 2131165221;
 			
-			// aapt resource value: 0x7f060026
-			public const int abc_cascading_menus_min_smallest_width = 2131099686;
+			// aapt resource value: 0x7f070026
+			public const int abc_cascading_menus_min_smallest_width = 2131165222;
 			
-			// aapt resource value: 0x7f06000b
-			public const int abc_config_prefDialogWidth = 2131099659;
+			// aapt resource value: 0x7f07000b
+			public const int abc_config_prefDialogWidth = 2131165195;
 			
-			// aapt resource value: 0x7f060027
-			public const int abc_control_corner_material = 2131099687;
+			// aapt resource value: 0x7f070027
+			public const int abc_control_corner_material = 2131165223;
 			
-			// aapt resource value: 0x7f060028
-			public const int abc_control_inset_material = 2131099688;
+			// aapt resource value: 0x7f070028
+			public const int abc_control_inset_material = 2131165224;
 			
-			// aapt resource value: 0x7f060029
-			public const int abc_control_padding_material = 2131099689;
+			// aapt resource value: 0x7f070029
+			public const int abc_control_padding_material = 2131165225;
 			
-			// aapt resource value: 0x7f06000c
-			public const int abc_dialog_fixed_height_major = 2131099660;
+			// aapt resource value: 0x7f07000c
+			public const int abc_dialog_fixed_height_major = 2131165196;
 			
-			// aapt resource value: 0x7f06000d
-			public const int abc_dialog_fixed_height_minor = 2131099661;
+			// aapt resource value: 0x7f07000d
+			public const int abc_dialog_fixed_height_minor = 2131165197;
 			
-			// aapt resource value: 0x7f06000e
-			public const int abc_dialog_fixed_width_major = 2131099662;
+			// aapt resource value: 0x7f07000e
+			public const int abc_dialog_fixed_width_major = 2131165198;
 			
-			// aapt resource value: 0x7f06000f
-			public const int abc_dialog_fixed_width_minor = 2131099663;
+			// aapt resource value: 0x7f07000f
+			public const int abc_dialog_fixed_width_minor = 2131165199;
 			
-			// aapt resource value: 0x7f06002a
-			public const int abc_dialog_list_padding_bottom_no_buttons = 2131099690;
+			// aapt resource value: 0x7f07002a
+			public const int abc_dialog_list_padding_bottom_no_buttons = 2131165226;
 			
-			// aapt resource value: 0x7f06002b
-			public const int abc_dialog_list_padding_top_no_title = 2131099691;
+			// aapt resource value: 0x7f07002b
+			public const int abc_dialog_list_padding_top_no_title = 2131165227;
 			
-			// aapt resource value: 0x7f060010
-			public const int abc_dialog_min_width_major = 2131099664;
+			// aapt resource value: 0x7f070010
+			public const int abc_dialog_min_width_major = 2131165200;
 			
-			// aapt resource value: 0x7f060011
-			public const int abc_dialog_min_width_minor = 2131099665;
+			// aapt resource value: 0x7f070011
+			public const int abc_dialog_min_width_minor = 2131165201;
 			
-			// aapt resource value: 0x7f06002c
-			public const int abc_dialog_padding_material = 2131099692;
+			// aapt resource value: 0x7f07002c
+			public const int abc_dialog_padding_material = 2131165228;
 			
-			// aapt resource value: 0x7f06002d
-			public const int abc_dialog_padding_top_material = 2131099693;
+			// aapt resource value: 0x7f07002d
+			public const int abc_dialog_padding_top_material = 2131165229;
 			
-			// aapt resource value: 0x7f06002e
-			public const int abc_dialog_title_divider_material = 2131099694;
+			// aapt resource value: 0x7f07002e
+			public const int abc_dialog_title_divider_material = 2131165230;
 			
-			// aapt resource value: 0x7f06002f
-			public const int abc_disabled_alpha_material_dark = 2131099695;
+			// aapt resource value: 0x7f07002f
+			public const int abc_disabled_alpha_material_dark = 2131165231;
 			
-			// aapt resource value: 0x7f060030
-			public const int abc_disabled_alpha_material_light = 2131099696;
+			// aapt resource value: 0x7f070030
+			public const int abc_disabled_alpha_material_light = 2131165232;
 			
-			// aapt resource value: 0x7f060031
-			public const int abc_dropdownitem_icon_width = 2131099697;
+			// aapt resource value: 0x7f070031
+			public const int abc_dropdownitem_icon_width = 2131165233;
 			
-			// aapt resource value: 0x7f060032
-			public const int abc_dropdownitem_text_padding_left = 2131099698;
+			// aapt resource value: 0x7f070032
+			public const int abc_dropdownitem_text_padding_left = 2131165234;
 			
-			// aapt resource value: 0x7f060033
-			public const int abc_dropdownitem_text_padding_right = 2131099699;
+			// aapt resource value: 0x7f070033
+			public const int abc_dropdownitem_text_padding_right = 2131165235;
 			
-			// aapt resource value: 0x7f060034
-			public const int abc_edit_text_inset_bottom_material = 2131099700;
+			// aapt resource value: 0x7f070034
+			public const int abc_edit_text_inset_bottom_material = 2131165236;
 			
-			// aapt resource value: 0x7f060035
-			public const int abc_edit_text_inset_horizontal_material = 2131099701;
+			// aapt resource value: 0x7f070035
+			public const int abc_edit_text_inset_horizontal_material = 2131165237;
 			
-			// aapt resource value: 0x7f060036
-			public const int abc_edit_text_inset_top_material = 2131099702;
+			// aapt resource value: 0x7f070036
+			public const int abc_edit_text_inset_top_material = 2131165238;
 			
-			// aapt resource value: 0x7f060037
-			public const int abc_floating_window_z = 2131099703;
+			// aapt resource value: 0x7f070037
+			public const int abc_floating_window_z = 2131165239;
 			
-			// aapt resource value: 0x7f060038
-			public const int abc_list_item_padding_horizontal_material = 2131099704;
+			// aapt resource value: 0x7f070038
+			public const int abc_list_item_padding_horizontal_material = 2131165240;
 			
-			// aapt resource value: 0x7f060039
-			public const int abc_panel_menu_list_width = 2131099705;
+			// aapt resource value: 0x7f070039
+			public const int abc_panel_menu_list_width = 2131165241;
 			
-			// aapt resource value: 0x7f06003a
-			public const int abc_progress_bar_height_material = 2131099706;
+			// aapt resource value: 0x7f07003a
+			public const int abc_progress_bar_height_material = 2131165242;
 			
-			// aapt resource value: 0x7f06003b
-			public const int abc_search_view_preferred_height = 2131099707;
+			// aapt resource value: 0x7f07003b
+			public const int abc_search_view_preferred_height = 2131165243;
 			
-			// aapt resource value: 0x7f06003c
-			public const int abc_search_view_preferred_width = 2131099708;
+			// aapt resource value: 0x7f07003c
+			public const int abc_search_view_preferred_width = 2131165244;
 			
-			// aapt resource value: 0x7f06003d
-			public const int abc_seekbar_track_background_height_material = 2131099709;
+			// aapt resource value: 0x7f07003d
+			public const int abc_seekbar_track_background_height_material = 2131165245;
 			
-			// aapt resource value: 0x7f06003e
-			public const int abc_seekbar_track_progress_height_material = 2131099710;
+			// aapt resource value: 0x7f07003e
+			public const int abc_seekbar_track_progress_height_material = 2131165246;
 			
-			// aapt resource value: 0x7f06003f
-			public const int abc_select_dialog_padding_start_material = 2131099711;
+			// aapt resource value: 0x7f07003f
+			public const int abc_select_dialog_padding_start_material = 2131165247;
 			
-			// aapt resource value: 0x7f060016
-			public const int abc_switch_padding = 2131099670;
+			// aapt resource value: 0x7f070016
+			public const int abc_switch_padding = 2131165206;
 			
-			// aapt resource value: 0x7f060040
-			public const int abc_text_size_body_1_material = 2131099712;
+			// aapt resource value: 0x7f070040
+			public const int abc_text_size_body_1_material = 2131165248;
 			
-			// aapt resource value: 0x7f060041
-			public const int abc_text_size_body_2_material = 2131099713;
+			// aapt resource value: 0x7f070041
+			public const int abc_text_size_body_2_material = 2131165249;
 			
-			// aapt resource value: 0x7f060042
-			public const int abc_text_size_button_material = 2131099714;
+			// aapt resource value: 0x7f070042
+			public const int abc_text_size_button_material = 2131165250;
 			
-			// aapt resource value: 0x7f060043
-			public const int abc_text_size_caption_material = 2131099715;
+			// aapt resource value: 0x7f070043
+			public const int abc_text_size_caption_material = 2131165251;
 			
-			// aapt resource value: 0x7f060044
-			public const int abc_text_size_display_1_material = 2131099716;
+			// aapt resource value: 0x7f070044
+			public const int abc_text_size_display_1_material = 2131165252;
 			
-			// aapt resource value: 0x7f060045
-			public const int abc_text_size_display_2_material = 2131099717;
+			// aapt resource value: 0x7f070045
+			public const int abc_text_size_display_2_material = 2131165253;
 			
-			// aapt resource value: 0x7f060046
-			public const int abc_text_size_display_3_material = 2131099718;
+			// aapt resource value: 0x7f070046
+			public const int abc_text_size_display_3_material = 2131165254;
 			
-			// aapt resource value: 0x7f060047
-			public const int abc_text_size_display_4_material = 2131099719;
+			// aapt resource value: 0x7f070047
+			public const int abc_text_size_display_4_material = 2131165255;
 			
-			// aapt resource value: 0x7f060048
-			public const int abc_text_size_headline_material = 2131099720;
+			// aapt resource value: 0x7f070048
+			public const int abc_text_size_headline_material = 2131165256;
 			
-			// aapt resource value: 0x7f060049
-			public const int abc_text_size_large_material = 2131099721;
+			// aapt resource value: 0x7f070049
+			public const int abc_text_size_large_material = 2131165257;
 			
-			// aapt resource value: 0x7f06004a
-			public const int abc_text_size_medium_material = 2131099722;
+			// aapt resource value: 0x7f07004a
+			public const int abc_text_size_medium_material = 2131165258;
 			
-			// aapt resource value: 0x7f06004b
-			public const int abc_text_size_menu_header_material = 2131099723;
+			// aapt resource value: 0x7f07004b
+			public const int abc_text_size_menu_header_material = 2131165259;
 			
-			// aapt resource value: 0x7f06004c
-			public const int abc_text_size_menu_material = 2131099724;
+			// aapt resource value: 0x7f07004c
+			public const int abc_text_size_menu_material = 2131165260;
 			
-			// aapt resource value: 0x7f06004d
-			public const int abc_text_size_small_material = 2131099725;
+			// aapt resource value: 0x7f07004d
+			public const int abc_text_size_small_material = 2131165261;
 			
-			// aapt resource value: 0x7f06004e
-			public const int abc_text_size_subhead_material = 2131099726;
+			// aapt resource value: 0x7f07004e
+			public const int abc_text_size_subhead_material = 2131165262;
 			
-			// aapt resource value: 0x7f060009
-			public const int abc_text_size_subtitle_material_toolbar = 2131099657;
+			// aapt resource value: 0x7f070009
+			public const int abc_text_size_subtitle_material_toolbar = 2131165193;
 			
-			// aapt resource value: 0x7f06004f
-			public const int abc_text_size_title_material = 2131099727;
+			// aapt resource value: 0x7f07004f
+			public const int abc_text_size_title_material = 2131165263;
 			
-			// aapt resource value: 0x7f06000a
-			public const int abc_text_size_title_material_toolbar = 2131099658;
+			// aapt resource value: 0x7f07000a
+			public const int abc_text_size_title_material_toolbar = 2131165194;
 			
-			// aapt resource value: 0x7f06008b
-			public const int compat_button_inset_horizontal_material = 2131099787;
+			// aapt resource value: 0x7f07008b
+			public const int compat_button_inset_horizontal_material = 2131165323;
 			
-			// aapt resource value: 0x7f06008c
-			public const int compat_button_inset_vertical_material = 2131099788;
+			// aapt resource value: 0x7f07008c
+			public const int compat_button_inset_vertical_material = 2131165324;
 			
-			// aapt resource value: 0x7f06008d
-			public const int compat_button_padding_horizontal_material = 2131099789;
+			// aapt resource value: 0x7f07008d
+			public const int compat_button_padding_horizontal_material = 2131165325;
 			
-			// aapt resource value: 0x7f06008e
-			public const int compat_button_padding_vertical_material = 2131099790;
+			// aapt resource value: 0x7f07008e
+			public const int compat_button_padding_vertical_material = 2131165326;
 			
-			// aapt resource value: 0x7f06008f
-			public const int compat_control_corner_material = 2131099791;
+			// aapt resource value: 0x7f07008f
+			public const int compat_control_corner_material = 2131165327;
 			
-			// aapt resource value: 0x7f060069
-			public const int design_appbar_elevation = 2131099753;
+			// aapt resource value: 0x7f070069
+			public const int design_appbar_elevation = 2131165289;
 			
-			// aapt resource value: 0x7f06006a
-			public const int design_bottom_navigation_active_item_max_width = 2131099754;
+			// aapt resource value: 0x7f07006a
+			public const int design_bottom_navigation_active_item_max_width = 2131165290;
 			
-			// aapt resource value: 0x7f06006b
-			public const int design_bottom_navigation_active_text_size = 2131099755;
+			// aapt resource value: 0x7f07006b
+			public const int design_bottom_navigation_active_text_size = 2131165291;
 			
-			// aapt resource value: 0x7f06006c
-			public const int design_bottom_navigation_elevation = 2131099756;
+			// aapt resource value: 0x7f07006c
+			public const int design_bottom_navigation_elevation = 2131165292;
 			
-			// aapt resource value: 0x7f06006d
-			public const int design_bottom_navigation_height = 2131099757;
+			// aapt resource value: 0x7f07006d
+			public const int design_bottom_navigation_height = 2131165293;
 			
-			// aapt resource value: 0x7f06006e
-			public const int design_bottom_navigation_item_max_width = 2131099758;
+			// aapt resource value: 0x7f07006e
+			public const int design_bottom_navigation_item_max_width = 2131165294;
 			
-			// aapt resource value: 0x7f06006f
-			public const int design_bottom_navigation_item_min_width = 2131099759;
+			// aapt resource value: 0x7f07006f
+			public const int design_bottom_navigation_item_min_width = 2131165295;
 			
-			// aapt resource value: 0x7f060070
-			public const int design_bottom_navigation_margin = 2131099760;
+			// aapt resource value: 0x7f070070
+			public const int design_bottom_navigation_margin = 2131165296;
 			
-			// aapt resource value: 0x7f060071
-			public const int design_bottom_navigation_shadow_height = 2131099761;
+			// aapt resource value: 0x7f070071
+			public const int design_bottom_navigation_shadow_height = 2131165297;
 			
-			// aapt resource value: 0x7f060072
-			public const int design_bottom_navigation_text_size = 2131099762;
+			// aapt resource value: 0x7f070072
+			public const int design_bottom_navigation_text_size = 2131165298;
 			
-			// aapt resource value: 0x7f060073
-			public const int design_bottom_sheet_modal_elevation = 2131099763;
+			// aapt resource value: 0x7f070073
+			public const int design_bottom_sheet_modal_elevation = 2131165299;
 			
-			// aapt resource value: 0x7f060074
-			public const int design_bottom_sheet_peek_height_min = 2131099764;
+			// aapt resource value: 0x7f070074
+			public const int design_bottom_sheet_peek_height_min = 2131165300;
 			
-			// aapt resource value: 0x7f060075
-			public const int design_fab_border_width = 2131099765;
+			// aapt resource value: 0x7f070075
+			public const int design_fab_border_width = 2131165301;
 			
-			// aapt resource value: 0x7f060076
-			public const int design_fab_elevation = 2131099766;
+			// aapt resource value: 0x7f070076
+			public const int design_fab_elevation = 2131165302;
 			
-			// aapt resource value: 0x7f060077
-			public const int design_fab_image_size = 2131099767;
+			// aapt resource value: 0x7f070077
+			public const int design_fab_image_size = 2131165303;
 			
-			// aapt resource value: 0x7f060078
-			public const int design_fab_size_mini = 2131099768;
+			// aapt resource value: 0x7f070078
+			public const int design_fab_size_mini = 2131165304;
 			
-			// aapt resource value: 0x7f060079
-			public const int design_fab_size_normal = 2131099769;
+			// aapt resource value: 0x7f070079
+			public const int design_fab_size_normal = 2131165305;
 			
-			// aapt resource value: 0x7f06007a
-			public const int design_fab_translation_z_pressed = 2131099770;
+			// aapt resource value: 0x7f07007a
+			public const int design_fab_translation_z_pressed = 2131165306;
 			
-			// aapt resource value: 0x7f06007b
-			public const int design_navigation_elevation = 2131099771;
+			// aapt resource value: 0x7f07007b
+			public const int design_navigation_elevation = 2131165307;
 			
-			// aapt resource value: 0x7f06007c
-			public const int design_navigation_icon_padding = 2131099772;
+			// aapt resource value: 0x7f07007c
+			public const int design_navigation_icon_padding = 2131165308;
 			
-			// aapt resource value: 0x7f06007d
-			public const int design_navigation_icon_size = 2131099773;
+			// aapt resource value: 0x7f07007d
+			public const int design_navigation_icon_size = 2131165309;
 			
-			// aapt resource value: 0x7f060061
-			public const int design_navigation_max_width = 2131099745;
+			// aapt resource value: 0x7f070061
+			public const int design_navigation_max_width = 2131165281;
 			
-			// aapt resource value: 0x7f06007e
-			public const int design_navigation_padding_bottom = 2131099774;
+			// aapt resource value: 0x7f07007e
+			public const int design_navigation_padding_bottom = 2131165310;
 			
-			// aapt resource value: 0x7f06007f
-			public const int design_navigation_separator_vertical_padding = 2131099775;
+			// aapt resource value: 0x7f07007f
+			public const int design_navigation_separator_vertical_padding = 2131165311;
 			
-			// aapt resource value: 0x7f060062
-			public const int design_snackbar_action_inline_max_width = 2131099746;
+			// aapt resource value: 0x7f070062
+			public const int design_snackbar_action_inline_max_width = 2131165282;
 			
-			// aapt resource value: 0x7f060063
-			public const int design_snackbar_background_corner_radius = 2131099747;
+			// aapt resource value: 0x7f070063
+			public const int design_snackbar_background_corner_radius = 2131165283;
 			
-			// aapt resource value: 0x7f060080
-			public const int design_snackbar_elevation = 2131099776;
+			// aapt resource value: 0x7f070080
+			public const int design_snackbar_elevation = 2131165312;
 			
-			// aapt resource value: 0x7f060064
-			public const int design_snackbar_extra_spacing_horizontal = 2131099748;
+			// aapt resource value: 0x7f070064
+			public const int design_snackbar_extra_spacing_horizontal = 2131165284;
 			
-			// aapt resource value: 0x7f060065
-			public const int design_snackbar_max_width = 2131099749;
+			// aapt resource value: 0x7f070065
+			public const int design_snackbar_max_width = 2131165285;
 			
-			// aapt resource value: 0x7f060066
-			public const int design_snackbar_min_width = 2131099750;
+			// aapt resource value: 0x7f070066
+			public const int design_snackbar_min_width = 2131165286;
 			
-			// aapt resource value: 0x7f060081
-			public const int design_snackbar_padding_horizontal = 2131099777;
+			// aapt resource value: 0x7f070081
+			public const int design_snackbar_padding_horizontal = 2131165313;
 			
-			// aapt resource value: 0x7f060082
-			public const int design_snackbar_padding_vertical = 2131099778;
+			// aapt resource value: 0x7f070082
+			public const int design_snackbar_padding_vertical = 2131165314;
 			
-			// aapt resource value: 0x7f060067
-			public const int design_snackbar_padding_vertical_2lines = 2131099751;
+			// aapt resource value: 0x7f070067
+			public const int design_snackbar_padding_vertical_2lines = 2131165287;
 			
-			// aapt resource value: 0x7f060083
-			public const int design_snackbar_text_size = 2131099779;
+			// aapt resource value: 0x7f070083
+			public const int design_snackbar_text_size = 2131165315;
 			
-			// aapt resource value: 0x7f060084
-			public const int design_tab_max_width = 2131099780;
+			// aapt resource value: 0x7f070084
+			public const int design_tab_max_width = 2131165316;
 			
-			// aapt resource value: 0x7f060068
-			public const int design_tab_scrollable_min_width = 2131099752;
+			// aapt resource value: 0x7f070068
+			public const int design_tab_scrollable_min_width = 2131165288;
 			
-			// aapt resource value: 0x7f060085
-			public const int design_tab_text_size = 2131099781;
+			// aapt resource value: 0x7f070085
+			public const int design_tab_text_size = 2131165317;
 			
-			// aapt resource value: 0x7f060086
-			public const int design_tab_text_size_2line = 2131099782;
+			// aapt resource value: 0x7f070086
+			public const int design_tab_text_size_2line = 2131165318;
 			
-			// aapt resource value: 0x7f060050
-			public const int disabled_alpha_material_dark = 2131099728;
+			// aapt resource value: 0x7f070050
+			public const int disabled_alpha_material_dark = 2131165264;
 			
-			// aapt resource value: 0x7f060051
-			public const int disabled_alpha_material_light = 2131099729;
+			// aapt resource value: 0x7f070051
+			public const int disabled_alpha_material_light = 2131165265;
 			
-			// aapt resource value: 0x7f060000
-			public const int fastscroll_default_thickness = 2131099648;
+			// aapt resource value: 0x7f070000
+			public const int fastscroll_default_thickness = 2131165184;
 			
-			// aapt resource value: 0x7f060001
-			public const int fastscroll_margin = 2131099649;
+			// aapt resource value: 0x7f070001
+			public const int fastscroll_margin = 2131165185;
 			
-			// aapt resource value: 0x7f060002
-			public const int fastscroll_minimum_range = 2131099650;
+			// aapt resource value: 0x7f070002
+			public const int fastscroll_minimum_range = 2131165186;
 			
-			// aapt resource value: 0x7f060052
-			public const int highlight_alpha_material_colored = 2131099730;
+			// aapt resource value: 0x7f070052
+			public const int highlight_alpha_material_colored = 2131165266;
 			
-			// aapt resource value: 0x7f060053
-			public const int highlight_alpha_material_dark = 2131099731;
+			// aapt resource value: 0x7f070053
+			public const int highlight_alpha_material_dark = 2131165267;
 			
-			// aapt resource value: 0x7f060054
-			public const int highlight_alpha_material_light = 2131099732;
+			// aapt resource value: 0x7f070054
+			public const int highlight_alpha_material_light = 2131165268;
 			
-			// aapt resource value: 0x7f060055
-			public const int hint_alpha_material_dark = 2131099733;
+			// aapt resource value: 0x7f070055
+			public const int hint_alpha_material_dark = 2131165269;
 			
-			// aapt resource value: 0x7f060056
-			public const int hint_alpha_material_light = 2131099734;
+			// aapt resource value: 0x7f070056
+			public const int hint_alpha_material_light = 2131165270;
 			
-			// aapt resource value: 0x7f060057
-			public const int hint_pressed_alpha_material_dark = 2131099735;
+			// aapt resource value: 0x7f070057
+			public const int hint_pressed_alpha_material_dark = 2131165271;
 			
-			// aapt resource value: 0x7f060058
-			public const int hint_pressed_alpha_material_light = 2131099736;
+			// aapt resource value: 0x7f070058
+			public const int hint_pressed_alpha_material_light = 2131165272;
 			
-			// aapt resource value: 0x7f060003
-			public const int item_touch_helper_max_drag_scroll_per_frame = 2131099651;
+			// aapt resource value: 0x7f070003
+			public const int item_touch_helper_max_drag_scroll_per_frame = 2131165187;
 			
-			// aapt resource value: 0x7f060004
-			public const int item_touch_helper_swipe_escape_max_velocity = 2131099652;
+			// aapt resource value: 0x7f070004
+			public const int item_touch_helper_swipe_escape_max_velocity = 2131165188;
 			
-			// aapt resource value: 0x7f060005
-			public const int item_touch_helper_swipe_escape_velocity = 2131099653;
+			// aapt resource value: 0x7f070005
+			public const int item_touch_helper_swipe_escape_velocity = 2131165189;
 			
-			// aapt resource value: 0x7f060090
-			public const int notification_action_icon_size = 2131099792;
+			// aapt resource value: 0x7f070090
+			public const int notification_action_icon_size = 2131165328;
 			
-			// aapt resource value: 0x7f060091
-			public const int notification_action_text_size = 2131099793;
+			// aapt resource value: 0x7f070091
+			public const int notification_action_text_size = 2131165329;
 			
-			// aapt resource value: 0x7f060092
-			public const int notification_big_circle_margin = 2131099794;
+			// aapt resource value: 0x7f070092
+			public const int notification_big_circle_margin = 2131165330;
 			
-			// aapt resource value: 0x7f060088
-			public const int notification_content_margin_start = 2131099784;
+			// aapt resource value: 0x7f070088
+			public const int notification_content_margin_start = 2131165320;
 			
-			// aapt resource value: 0x7f060093
-			public const int notification_large_icon_height = 2131099795;
+			// aapt resource value: 0x7f070093
+			public const int notification_large_icon_height = 2131165331;
 			
-			// aapt resource value: 0x7f060094
-			public const int notification_large_icon_width = 2131099796;
+			// aapt resource value: 0x7f070094
+			public const int notification_large_icon_width = 2131165332;
 			
-			// aapt resource value: 0x7f060089
-			public const int notification_main_column_padding_top = 2131099785;
+			// aapt resource value: 0x7f070089
+			public const int notification_main_column_padding_top = 2131165321;
 			
-			// aapt resource value: 0x7f06008a
-			public const int notification_media_narrow_margin = 2131099786;
+			// aapt resource value: 0x7f07008a
+			public const int notification_media_narrow_margin = 2131165322;
 			
-			// aapt resource value: 0x7f060095
-			public const int notification_right_icon_size = 2131099797;
+			// aapt resource value: 0x7f070095
+			public const int notification_right_icon_size = 2131165333;
 			
-			// aapt resource value: 0x7f060087
-			public const int notification_right_side_padding_top = 2131099783;
+			// aapt resource value: 0x7f070087
+			public const int notification_right_side_padding_top = 2131165319;
 			
-			// aapt resource value: 0x7f060096
-			public const int notification_small_icon_background_padding = 2131099798;
+			// aapt resource value: 0x7f070096
+			public const int notification_small_icon_background_padding = 2131165334;
 			
-			// aapt resource value: 0x7f060097
-			public const int notification_small_icon_size_as_large = 2131099799;
+			// aapt resource value: 0x7f070097
+			public const int notification_small_icon_size_as_large = 2131165335;
 			
-			// aapt resource value: 0x7f060098
-			public const int notification_subtext_size = 2131099800;
+			// aapt resource value: 0x7f070098
+			public const int notification_subtext_size = 2131165336;
 			
-			// aapt resource value: 0x7f060099
-			public const int notification_top_pad = 2131099801;
+			// aapt resource value: 0x7f070099
+			public const int notification_top_pad = 2131165337;
 			
-			// aapt resource value: 0x7f06009a
-			public const int notification_top_pad_large_text = 2131099802;
+			// aapt resource value: 0x7f07009a
+			public const int notification_top_pad_large_text = 2131165338;
 			
-			// aapt resource value: 0x7f060059
-			public const int tooltip_corner_radius = 2131099737;
+			// aapt resource value: 0x7f070059
+			public const int tooltip_corner_radius = 2131165273;
 			
-			// aapt resource value: 0x7f06005a
-			public const int tooltip_horizontal_padding = 2131099738;
+			// aapt resource value: 0x7f07005a
+			public const int tooltip_horizontal_padding = 2131165274;
 			
-			// aapt resource value: 0x7f06005b
-			public const int tooltip_margin = 2131099739;
+			// aapt resource value: 0x7f07005b
+			public const int tooltip_margin = 2131165275;
 			
-			// aapt resource value: 0x7f06005c
-			public const int tooltip_precise_anchor_extra_offset = 2131099740;
+			// aapt resource value: 0x7f07005c
+			public const int tooltip_precise_anchor_extra_offset = 2131165276;
 			
-			// aapt resource value: 0x7f06005d
-			public const int tooltip_precise_anchor_threshold = 2131099741;
+			// aapt resource value: 0x7f07005d
+			public const int tooltip_precise_anchor_threshold = 2131165277;
 			
-			// aapt resource value: 0x7f06005e
-			public const int tooltip_vertical_padding = 2131099742;
+			// aapt resource value: 0x7f07005e
+			public const int tooltip_vertical_padding = 2131165278;
 			
-			// aapt resource value: 0x7f06005f
-			public const int tooltip_y_offset_non_touch = 2131099743;
+			// aapt resource value: 0x7f07005f
+			public const int tooltip_y_offset_non_touch = 2131165279;
 			
-			// aapt resource value: 0x7f060060
-			public const int tooltip_y_offset_touch = 2131099744;
+			// aapt resource value: 0x7f070060
+			public const int tooltip_y_offset_touch = 2131165280;
 			
 			static Dimension()
 			{
@@ -2324,545 +6890,584 @@ namespace AsesoriasApp
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f070032
-			public const int ALT = 2131165234;
+			// aapt resource value: 0x7f080032
+			public const int ALT = 2131230770;
 			
-			// aapt resource value: 0x7f070033
-			public const int CTRL = 2131165235;
+			// aapt resource value: 0x7f080033
+			public const int CTRL = 2131230771;
 			
-			// aapt resource value: 0x7f070034
-			public const int FUNCTION = 2131165236;
+			// aapt resource value: 0x7f080034
+			public const int FUNCTION = 2131230772;
 			
-			// aapt resource value: 0x7f070035
-			public const int META = 2131165237;
+			// aapt resource value: 0x7f080035
+			public const int META = 2131230773;
 			
-			// aapt resource value: 0x7f070036
-			public const int SHIFT = 2131165238;
+			// aapt resource value: 0x7f080036
+			public const int SHIFT = 2131230774;
 			
-			// aapt resource value: 0x7f070037
-			public const int SYM = 2131165239;
+			// aapt resource value: 0x7f080037
+			public const int SYM = 2131230775;
 			
-			// aapt resource value: 0x7f0700a1
-			public const int action0 = 2131165345;
+			// aapt resource value: 0x7f0800a1
+			public const int action0 = 2131230881;
 			
-			// aapt resource value: 0x7f07007c
-			public const int action_bar = 2131165308;
+			// aapt resource value: 0x7f08007c
+			public const int action_bar = 2131230844;
 			
-			// aapt resource value: 0x7f070001
-			public const int action_bar_activity_content = 2131165185;
+			// aapt resource value: 0x7f080001
+			public const int action_bar_activity_content = 2131230721;
 			
-			// aapt resource value: 0x7f07007b
-			public const int action_bar_container = 2131165307;
+			// aapt resource value: 0x7f08007b
+			public const int action_bar_container = 2131230843;
 			
-			// aapt resource value: 0x7f070077
-			public const int action_bar_root = 2131165303;
+			// aapt resource value: 0x7f080077
+			public const int action_bar_root = 2131230839;
 			
-			// aapt resource value: 0x7f070002
-			public const int action_bar_spinner = 2131165186;
+			// aapt resource value: 0x7f080002
+			public const int action_bar_spinner = 2131230722;
 			
-			// aapt resource value: 0x7f07005b
-			public const int action_bar_subtitle = 2131165275;
+			// aapt resource value: 0x7f08005b
+			public const int action_bar_subtitle = 2131230811;
 			
-			// aapt resource value: 0x7f07005a
-			public const int action_bar_title = 2131165274;
+			// aapt resource value: 0x7f08005a
+			public const int action_bar_title = 2131230810;
 			
-			// aapt resource value: 0x7f07009e
-			public const int action_container = 2131165342;
+			// aapt resource value: 0x7f08009e
+			public const int action_container = 2131230878;
 			
-			// aapt resource value: 0x7f07007d
-			public const int action_context_bar = 2131165309;
+			// aapt resource value: 0x7f08007d
+			public const int action_context_bar = 2131230845;
 			
-			// aapt resource value: 0x7f0700a5
-			public const int action_divider = 2131165349;
+			// aapt resource value: 0x7f0800a5
+			public const int action_divider = 2131230885;
 			
-			// aapt resource value: 0x7f07009f
-			public const int action_image = 2131165343;
+			// aapt resource value: 0x7f08009f
+			public const int action_image = 2131230879;
 			
-			// aapt resource value: 0x7f070003
-			public const int action_menu_divider = 2131165187;
+			// aapt resource value: 0x7f080003
+			public const int action_menu_divider = 2131230723;
 			
-			// aapt resource value: 0x7f070004
-			public const int action_menu_presenter = 2131165188;
+			// aapt resource value: 0x7f080004
+			public const int action_menu_presenter = 2131230724;
 			
-			// aapt resource value: 0x7f070079
-			public const int action_mode_bar = 2131165305;
+			// aapt resource value: 0x7f080079
+			public const int action_mode_bar = 2131230841;
 			
-			// aapt resource value: 0x7f070078
-			public const int action_mode_bar_stub = 2131165304;
+			// aapt resource value: 0x7f080078
+			public const int action_mode_bar_stub = 2131230840;
 			
-			// aapt resource value: 0x7f07005c
-			public const int action_mode_close_button = 2131165276;
+			// aapt resource value: 0x7f08005c
+			public const int action_mode_close_button = 2131230812;
 			
-			// aapt resource value: 0x7f0700a0
-			public const int action_text = 2131165344;
+			// aapt resource value: 0x7f0800a0
+			public const int action_text = 2131230880;
 			
-			// aapt resource value: 0x7f0700ae
-			public const int actions = 2131165358;
+			// aapt resource value: 0x7f0800ae
+			public const int actions = 2131230894;
 			
-			// aapt resource value: 0x7f07005d
-			public const int activity_chooser_view_content = 2131165277;
+			// aapt resource value: 0x7f08005d
+			public const int activity_chooser_view_content = 2131230813;
 			
-			// aapt resource value: 0x7f070027
-			public const int add = 2131165223;
+			// aapt resource value: 0x7f080027
+			public const int add = 2131230759;
 			
-			// aapt resource value: 0x7f070070
-			public const int alertTitle = 2131165296;
+			// aapt resource value: 0x7f080070
+			public const int alertTitle = 2131230832;
 			
-			// aapt resource value: 0x7f070052
-			public const int all = 2131165266;
+			// aapt resource value: 0x7f080052
+			public const int all = 2131230802;
 			
-			// aapt resource value: 0x7f070038
-			public const int always = 2131165240;
+			// aapt resource value: 0x7f080038
+			public const int always = 2131230776;
 			
-			// aapt resource value: 0x7f070056
-			public const int async = 2131165270;
+			// aapt resource value: 0x7f080056
+			public const int async = 2131230806;
 			
-			// aapt resource value: 0x7f070044
-			public const int auto = 2131165252;
+			// aapt resource value: 0x7f080044
+			public const int auto = 2131230788;
 			
-			// aapt resource value: 0x7f07002f
-			public const int beginning = 2131165231;
+			// aapt resource value: 0x7f08002f
+			public const int beginning = 2131230767;
 			
-			// aapt resource value: 0x7f070057
-			public const int blocking = 2131165271;
+			// aapt resource value: 0x7f080057
+			public const int blocking = 2131230807;
 			
-			// aapt resource value: 0x7f07003d
-			public const int bottom = 2131165245;
+			// aapt resource value: 0x7f08003d
+			public const int bottom = 2131230781;
 			
-			// aapt resource value: 0x7f07009d
-			public const int btnEntrar = 2131165341;
+			// aapt resource value: 0x7f08009d
+			public const int btnEntrar = 2131230877;
 			
-			// aapt resource value: 0x7f070063
-			public const int buttonPanel = 2131165283;
+			// aapt resource value: 0x7f0800bd
+			public const int btnRegistrar = 2131230909;
 			
-			// aapt resource value: 0x7f0700a2
-			public const int cancel_action = 2131165346;
+			// aapt resource value: 0x7f080063
+			public const int buttonPanel = 2131230819;
 			
-			// aapt resource value: 0x7f070045
-			public const int center = 2131165253;
+			// aapt resource value: 0x7f0800a2
+			public const int cancel_action = 2131230882;
 			
-			// aapt resource value: 0x7f070046
-			public const int center_horizontal = 2131165254;
+			// aapt resource value: 0x7f080045
+			public const int center = 2131230789;
 			
-			// aapt resource value: 0x7f070047
-			public const int center_vertical = 2131165255;
+			// aapt resource value: 0x7f080046
+			public const int center_horizontal = 2131230790;
 			
-			// aapt resource value: 0x7f070073
-			public const int checkbox = 2131165299;
+			// aapt resource value: 0x7f080047
+			public const int center_vertical = 2131230791;
 			
-			// aapt resource value: 0x7f0700aa
-			public const int chronometer = 2131165354;
+			// aapt resource value: 0x7f080073
+			public const int checkbox = 2131230835;
 			
-			// aapt resource value: 0x7f07004e
-			public const int clip_horizontal = 2131165262;
+			// aapt resource value: 0x7f0800aa
+			public const int chronometer = 2131230890;
 			
-			// aapt resource value: 0x7f07004f
-			public const int clip_vertical = 2131165263;
+			// aapt resource value: 0x7f08004e
+			public const int clip_horizontal = 2131230798;
 			
-			// aapt resource value: 0x7f070039
-			public const int collapseActionView = 2131165241;
+			// aapt resource value: 0x7f08004f
+			public const int clip_vertical = 2131230799;
 			
-			// aapt resource value: 0x7f07008d
-			public const int container = 2131165325;
+			// aapt resource value: 0x7f080039
+			public const int collapseActionView = 2131230777;
 			
-			// aapt resource value: 0x7f070066
-			public const int contentPanel = 2131165286;
+			// aapt resource value: 0x7f08008d
+			public const int container = 2131230861;
 			
-			// aapt resource value: 0x7f07008e
-			public const int coordinator = 2131165326;
+			// aapt resource value: 0x7f080066
+			public const int contentPanel = 2131230822;
 			
-			// aapt resource value: 0x7f07006d
-			public const int custom = 2131165293;
+			// aapt resource value: 0x7f08008e
+			public const int coordinator = 2131230862;
 			
-			// aapt resource value: 0x7f07006c
-			public const int customPanel = 2131165292;
+			// aapt resource value: 0x7f08006d
+			public const int custom = 2131230829;
 			
-			// aapt resource value: 0x7f07007a
-			public const int decor_content_parent = 2131165306;
+			// aapt resource value: 0x7f08006c
+			public const int customPanel = 2131230828;
 			
-			// aapt resource value: 0x7f070060
-			public const int default_activity_button = 2131165280;
+			// aapt resource value: 0x7f08007a
+			public const int decor_content_parent = 2131230842;
 			
-			// aapt resource value: 0x7f070090
-			public const int design_bottom_sheet = 2131165328;
+			// aapt resource value: 0x7f080060
+			public const int default_activity_button = 2131230816;
 			
-			// aapt resource value: 0x7f070097
-			public const int design_menu_item_action_area = 2131165335;
+			// aapt resource value: 0x7f080090
+			public const int design_bottom_sheet = 2131230864;
 			
-			// aapt resource value: 0x7f070096
-			public const int design_menu_item_action_area_stub = 2131165334;
+			// aapt resource value: 0x7f080097
+			public const int design_menu_item_action_area = 2131230871;
 			
-			// aapt resource value: 0x7f070095
-			public const int design_menu_item_text = 2131165333;
+			// aapt resource value: 0x7f080096
+			public const int design_menu_item_action_area_stub = 2131230870;
 			
-			// aapt resource value: 0x7f070094
-			public const int design_navigation_view = 2131165332;
+			// aapt resource value: 0x7f080095
+			public const int design_menu_item_text = 2131230869;
 			
-			// aapt resource value: 0x7f070020
-			public const int disableHome = 2131165216;
+			// aapt resource value: 0x7f080094
+			public const int design_navigation_view = 2131230868;
 			
-			// aapt resource value: 0x7f07007e
-			public const int edit_query = 2131165310;
+			// aapt resource value: 0x7f080020
+			public const int disableHome = 2131230752;
 			
-			// aapt resource value: 0x7f07009c
-			public const int edtPassword = 2131165340;
+			// aapt resource value: 0x7f08007e
+			public const int edit_query = 2131230846;
 			
-			// aapt resource value: 0x7f07009b
-			public const int edtUsuario = 2131165339;
+			// aapt resource value: 0x7f0800b4
+			public const int edtApellidos = 2131230900;
 			
-			// aapt resource value: 0x7f070030
-			public const int end = 2131165232;
+			// aapt resource value: 0x7f0800b6
+			public const int edtCorreo = 2131230902;
 			
-			// aapt resource value: 0x7f0700b0
-			public const int end_padder = 2131165360;
+			// aapt resource value: 0x7f0800b2
+			public const int edtNombres = 2131230898;
 			
-			// aapt resource value: 0x7f07003f
-			public const int enterAlways = 2131165247;
+			// aapt resource value: 0x7f08009c
+			public const int edtPassword = 2131230876;
 			
-			// aapt resource value: 0x7f070040
-			public const int enterAlwaysCollapsed = 2131165248;
+			// aapt resource value: 0x7f0800ba
+			public const int edtTelefono = 2131230906;
 			
-			// aapt resource value: 0x7f070041
-			public const int exitUntilCollapsed = 2131165249;
+			// aapt resource value: 0x7f08009b
+			public const int edtUsuario = 2131230875;
 			
-			// aapt resource value: 0x7f07005e
-			public const int expand_activities_button = 2131165278;
+			// aapt resource value: 0x7f080030
+			public const int end = 2131230768;
 			
-			// aapt resource value: 0x7f070072
-			public const int expanded_menu = 2131165298;
+			// aapt resource value: 0x7f0800b0
+			public const int end_padder = 2131230896;
 			
-			// aapt resource value: 0x7f070050
-			public const int fill = 2131165264;
+			// aapt resource value: 0x7f08003f
+			public const int enterAlways = 2131230783;
 			
-			// aapt resource value: 0x7f070051
-			public const int fill_horizontal = 2131165265;
+			// aapt resource value: 0x7f080040
+			public const int enterAlwaysCollapsed = 2131230784;
 			
-			// aapt resource value: 0x7f070048
-			public const int fill_vertical = 2131165256;
+			// aapt resource value: 0x7f080041
+			public const int exitUntilCollapsed = 2131230785;
 			
-			// aapt resource value: 0x7f070054
-			public const int @fixed = 2131165268;
+			// aapt resource value: 0x7f08005e
+			public const int expand_activities_button = 2131230814;
 			
-			// aapt resource value: 0x7f070058
-			public const int forever = 2131165272;
+			// aapt resource value: 0x7f080072
+			public const int expanded_menu = 2131230834;
 			
-			// aapt resource value: 0x7f07000a
-			public const int ghost_view = 2131165194;
+			// aapt resource value: 0x7f080050
+			public const int fill = 2131230800;
 			
-			// aapt resource value: 0x7f070005
-			public const int home = 2131165189;
+			// aapt resource value: 0x7f080051
+			public const int fill_horizontal = 2131230801;
 			
-			// aapt resource value: 0x7f070021
-			public const int homeAsUp = 2131165217;
+			// aapt resource value: 0x7f080048
+			public const int fill_vertical = 2131230792;
 			
-			// aapt resource value: 0x7f070062
-			public const int icon = 2131165282;
+			// aapt resource value: 0x7f080054
+			public const int @fixed = 2131230804;
 			
-			// aapt resource value: 0x7f0700af
-			public const int icon_group = 2131165359;
+			// aapt resource value: 0x7f080058
+			public const int forever = 2131230808;
 			
-			// aapt resource value: 0x7f07003a
-			public const int ifRoom = 2131165242;
+			// aapt resource value: 0x7f08000a
+			public const int ghost_view = 2131230730;
 			
-			// aapt resource value: 0x7f07005f
-			public const int image = 2131165279;
+			// aapt resource value: 0x7f080005
+			public const int home = 2131230725;
 			
-			// aapt resource value: 0x7f07009a
-			public const int imvUser = 2131165338;
+			// aapt resource value: 0x7f080021
+			public const int homeAsUp = 2131230753;
 			
-			// aapt resource value: 0x7f0700ab
-			public const int info = 2131165355;
+			// aapt resource value: 0x7f080062
+			public const int icon = 2131230818;
 			
-			// aapt resource value: 0x7f070059
-			public const int italic = 2131165273;
+			// aapt resource value: 0x7f0800af
+			public const int icon_group = 2131230895;
 			
-			// aapt resource value: 0x7f070000
-			public const int item_touch_helper_previous_elevation = 2131165184;
+			// aapt resource value: 0x7f08003a
+			public const int ifRoom = 2131230778;
 			
-			// aapt resource value: 0x7f07008c
-			public const int largeLabel = 2131165324;
+			// aapt resource value: 0x7f08005f
+			public const int image = 2131230815;
 			
-			// aapt resource value: 0x7f070049
-			public const int left = 2131165257;
+			// aapt resource value: 0x7f08009a
+			public const int imvUser = 2131230874;
 			
-			// aapt resource value: 0x7f070017
-			public const int line1 = 2131165207;
+			// aapt resource value: 0x7f0800ab
+			public const int info = 2131230891;
 			
-			// aapt resource value: 0x7f070018
-			public const int line3 = 2131165208;
+			// aapt resource value: 0x7f080059
+			public const int italic = 2131230809;
 			
-			// aapt resource value: 0x7f070099
-			public const int linearLayout1 = 2131165337;
+			// aapt resource value: 0x7f080000
+			public const int item_touch_helper_previous_elevation = 2131230720;
 			
-			// aapt resource value: 0x7f07001d
-			public const int listMode = 2131165213;
+			// aapt resource value: 0x7f08008c
+			public const int largeLabel = 2131230860;
 			
-			// aapt resource value: 0x7f070061
-			public const int list_item = 2131165281;
+			// aapt resource value: 0x7f080049
+			public const int left = 2131230793;
 			
-			// aapt resource value: 0x7f0700b3
-			public const int masked = 2131165363;
+			// aapt resource value: 0x7f080017
+			public const int line1 = 2131230743;
 			
-			// aapt resource value: 0x7f0700a4
-			public const int media_actions = 2131165348;
+			// aapt resource value: 0x7f080018
+			public const int line3 = 2131230744;
 			
-			// aapt resource value: 0x7f0700b1
-			public const int message = 2131165361;
+			// aapt resource value: 0x7f080099
+			public const int linearLayout1 = 2131230873;
 			
-			// aapt resource value: 0x7f070031
-			public const int middle = 2131165233;
+			// aapt resource value: 0x7f08001d
+			public const int listMode = 2131230749;
 			
-			// aapt resource value: 0x7f070053
-			public const int mini = 2131165267;
+			// aapt resource value: 0x7f080061
+			public const int list_item = 2131230817;
 			
-			// aapt resource value: 0x7f070028
-			public const int multiply = 2131165224;
+			// aapt resource value: 0x7f0800c0
+			public const int masked = 2131230912;
 			
-			// aapt resource value: 0x7f070093
-			public const int navigation_header_container = 2131165331;
+			// aapt resource value: 0x7f0800a4
+			public const int media_actions = 2131230884;
 			
-			// aapt resource value: 0x7f07003b
-			public const int never = 2131165243;
+			// aapt resource value: 0x7f0800be
+			public const int message = 2131230910;
 			
-			// aapt resource value: 0x7f070022
-			public const int none = 2131165218;
+			// aapt resource value: 0x7f080031
+			public const int middle = 2131230769;
 			
-			// aapt resource value: 0x7f07001e
-			public const int normal = 2131165214;
+			// aapt resource value: 0x7f080053
+			public const int mini = 2131230803;
 			
-			// aapt resource value: 0x7f0700ad
-			public const int notification_background = 2131165357;
+			// aapt resource value: 0x7f080028
+			public const int multiply = 2131230760;
 			
-			// aapt resource value: 0x7f0700a7
-			public const int notification_main_column = 2131165351;
+			// aapt resource value: 0x7f080093
+			public const int navigation_header_container = 2131230867;
 			
-			// aapt resource value: 0x7f0700a6
-			public const int notification_main_column_container = 2131165350;
+			// aapt resource value: 0x7f08003b
+			public const int never = 2131230779;
 			
-			// aapt resource value: 0x7f07004c
-			public const int parallax = 2131165260;
+			// aapt resource value: 0x7f080022
+			public const int none = 2131230754;
 			
-			// aapt resource value: 0x7f070065
-			public const int parentPanel = 2131165285;
+			// aapt resource value: 0x7f08001e
+			public const int normal = 2131230750;
 			
-			// aapt resource value: 0x7f07000b
-			public const int parent_matrix = 2131165195;
+			// aapt resource value: 0x7f0800ad
+			public const int notification_background = 2131230893;
 			
-			// aapt resource value: 0x7f07004d
-			public const int pin = 2131165261;
+			// aapt resource value: 0x7f0800a7
+			public const int notification_main_column = 2131230887;
 			
-			// aapt resource value: 0x7f070006
-			public const int progress_circular = 2131165190;
+			// aapt resource value: 0x7f0800a6
+			public const int notification_main_column_container = 2131230886;
 			
-			// aapt resource value: 0x7f070007
-			public const int progress_horizontal = 2131165191;
+			// aapt resource value: 0x7f08004c
+			public const int parallax = 2131230796;
 			
-			// aapt resource value: 0x7f070075
-			public const int radio = 2131165301;
+			// aapt resource value: 0x7f080065
+			public const int parentPanel = 2131230821;
 			
-			// aapt resource value: 0x7f07004a
-			public const int right = 2131165258;
+			// aapt resource value: 0x7f08000b
+			public const int parent_matrix = 2131230731;
 			
-			// aapt resource value: 0x7f0700ac
-			public const int right_icon = 2131165356;
+			// aapt resource value: 0x7f08004d
+			public const int pin = 2131230797;
 			
-			// aapt resource value: 0x7f0700a8
-			public const int right_side = 2131165352;
+			// aapt resource value: 0x7f080006
+			public const int progress_circular = 2131230726;
 			
-			// aapt resource value: 0x7f07000c
-			public const int save_image_matrix = 2131165196;
+			// aapt resource value: 0x7f080007
+			public const int progress_horizontal = 2131230727;
 			
-			// aapt resource value: 0x7f07000d
-			public const int save_non_transition_alpha = 2131165197;
+			// aapt resource value: 0x7f080075
+			public const int radio = 2131230837;
 			
-			// aapt resource value: 0x7f07000e
-			public const int save_scale_type = 2131165198;
+			// aapt resource value: 0x7f08004a
+			public const int right = 2131230794;
 			
-			// aapt resource value: 0x7f070029
-			public const int screen = 2131165225;
+			// aapt resource value: 0x7f0800ac
+			public const int right_icon = 2131230892;
 			
-			// aapt resource value: 0x7f070042
-			public const int scroll = 2131165250;
+			// aapt resource value: 0x7f0800a8
+			public const int right_side = 2131230888;
 			
-			// aapt resource value: 0x7f07006b
-			public const int scrollIndicatorDown = 2131165291;
+			// aapt resource value: 0x7f08000c
+			public const int save_image_matrix = 2131230732;
 			
-			// aapt resource value: 0x7f070067
-			public const int scrollIndicatorUp = 2131165287;
+			// aapt resource value: 0x7f08000d
+			public const int save_non_transition_alpha = 2131230733;
 			
-			// aapt resource value: 0x7f070068
-			public const int scrollView = 2131165288;
+			// aapt resource value: 0x7f08000e
+			public const int save_scale_type = 2131230734;
 			
-			// aapt resource value: 0x7f070055
-			public const int scrollable = 2131165269;
+			// aapt resource value: 0x7f080029
+			public const int screen = 2131230761;
 			
-			// aapt resource value: 0x7f070080
-			public const int search_badge = 2131165312;
+			// aapt resource value: 0x7f080042
+			public const int scroll = 2131230786;
 			
-			// aapt resource value: 0x7f07007f
-			public const int search_bar = 2131165311;
+			// aapt resource value: 0x7f08006b
+			public const int scrollIndicatorDown = 2131230827;
 			
-			// aapt resource value: 0x7f070081
-			public const int search_button = 2131165313;
+			// aapt resource value: 0x7f080067
+			public const int scrollIndicatorUp = 2131230823;
 			
-			// aapt resource value: 0x7f070086
-			public const int search_close_btn = 2131165318;
+			// aapt resource value: 0x7f080068
+			public const int scrollView = 2131230824;
 			
-			// aapt resource value: 0x7f070082
-			public const int search_edit_frame = 2131165314;
+			// aapt resource value: 0x7f080055
+			public const int scrollable = 2131230805;
 			
-			// aapt resource value: 0x7f070088
-			public const int search_go_btn = 2131165320;
+			// aapt resource value: 0x7f080080
+			public const int search_badge = 2131230848;
 			
-			// aapt resource value: 0x7f070083
-			public const int search_mag_icon = 2131165315;
+			// aapt resource value: 0x7f08007f
+			public const int search_bar = 2131230847;
 			
-			// aapt resource value: 0x7f070084
-			public const int search_plate = 2131165316;
+			// aapt resource value: 0x7f080081
+			public const int search_button = 2131230849;
 			
-			// aapt resource value: 0x7f070085
-			public const int search_src_text = 2131165317;
+			// aapt resource value: 0x7f080086
+			public const int search_close_btn = 2131230854;
 			
-			// aapt resource value: 0x7f070089
-			public const int search_voice_btn = 2131165321;
+			// aapt resource value: 0x7f080082
+			public const int search_edit_frame = 2131230850;
 			
-			// aapt resource value: 0x7f07008a
-			public const int select_dialog_listview = 2131165322;
+			// aapt resource value: 0x7f080088
+			public const int search_go_btn = 2131230856;
 			
-			// aapt resource value: 0x7f070074
-			public const int shortcut = 2131165300;
+			// aapt resource value: 0x7f080083
+			public const int search_mag_icon = 2131230851;
 			
-			// aapt resource value: 0x7f070023
-			public const int showCustom = 2131165219;
+			// aapt resource value: 0x7f080084
+			public const int search_plate = 2131230852;
 			
-			// aapt resource value: 0x7f070024
-			public const int showHome = 2131165220;
+			// aapt resource value: 0x7f080085
+			public const int search_src_text = 2131230853;
 			
-			// aapt resource value: 0x7f070025
-			public const int showTitle = 2131165221;
+			// aapt resource value: 0x7f080089
+			public const int search_voice_btn = 2131230857;
 			
-			// aapt resource value: 0x7f07008b
-			public const int smallLabel = 2131165323;
+			// aapt resource value: 0x7f08008a
+			public const int select_dialog_listview = 2131230858;
 			
-			// aapt resource value: 0x7f070092
-			public const int snackbar_action = 2131165330;
+			// aapt resource value: 0x7f080074
+			public const int shortcut = 2131230836;
 			
-			// aapt resource value: 0x7f070091
-			public const int snackbar_text = 2131165329;
+			// aapt resource value: 0x7f080023
+			public const int showCustom = 2131230755;
 			
-			// aapt resource value: 0x7f070043
-			public const int snap = 2131165251;
+			// aapt resource value: 0x7f080024
+			public const int showHome = 2131230756;
 			
-			// aapt resource value: 0x7f070064
-			public const int spacer = 2131165284;
+			// aapt resource value: 0x7f080025
+			public const int showTitle = 2131230757;
 			
-			// aapt resource value: 0x7f070008
-			public const int split_action_bar = 2131165192;
+			// aapt resource value: 0x7f08008b
+			public const int smallLabel = 2131230859;
 			
-			// aapt resource value: 0x7f07002a
-			public const int src_atop = 2131165226;
+			// aapt resource value: 0x7f080092
+			public const int snackbar_action = 2131230866;
 			
-			// aapt resource value: 0x7f07002b
-			public const int src_in = 2131165227;
+			// aapt resource value: 0x7f080091
+			public const int snackbar_text = 2131230865;
 			
-			// aapt resource value: 0x7f07002c
-			public const int src_over = 2131165228;
+			// aapt resource value: 0x7f080043
+			public const int snap = 2131230787;
 			
-			// aapt resource value: 0x7f07004b
-			public const int start = 2131165259;
+			// aapt resource value: 0x7f080064
+			public const int spacer = 2131230820;
 			
-			// aapt resource value: 0x7f0700a3
-			public const int status_bar_latest_event_content = 2131165347;
+			// aapt resource value: 0x7f080008
+			public const int split_action_bar = 2131230728;
 			
-			// aapt resource value: 0x7f070076
-			public const int submenuarrow = 2131165302;
+			// aapt resource value: 0x7f0800bc
+			public const int spnFacultad = 2131230908;
 			
-			// aapt resource value: 0x7f070087
-			public const int submit_area = 2131165319;
+			// aapt resource value: 0x7f0800b8
+			public const int spnSemestre = 2131230904;
 			
-			// aapt resource value: 0x7f07001f
-			public const int tabMode = 2131165215;
+			// aapt resource value: 0x7f08002a
+			public const int src_atop = 2131230762;
 			
-			// aapt resource value: 0x7f070019
-			public const int tag_transition_group = 2131165209;
+			// aapt resource value: 0x7f08002b
+			public const int src_in = 2131230763;
 			
-			// aapt resource value: 0x7f07001a
-			public const int text = 2131165210;
+			// aapt resource value: 0x7f08002c
+			public const int src_over = 2131230764;
 			
-			// aapt resource value: 0x7f07001b
-			public const int text2 = 2131165211;
+			// aapt resource value: 0x7f08004b
+			public const int start = 2131230795;
 			
-			// aapt resource value: 0x7f07006a
-			public const int textSpacerNoButtons = 2131165290;
+			// aapt resource value: 0x7f0800a3
+			public const int status_bar_latest_event_content = 2131230883;
 			
-			// aapt resource value: 0x7f070069
-			public const int textSpacerNoTitle = 2131165289;
+			// aapt resource value: 0x7f080076
+			public const int submenuarrow = 2131230838;
 			
-			// aapt resource value: 0x7f070098
-			public const int text_input_password_toggle = 2131165336;
+			// aapt resource value: 0x7f080087
+			public const int submit_area = 2131230855;
 			
-			// aapt resource value: 0x7f070014
-			public const int textinput_counter = 2131165204;
+			// aapt resource value: 0x7f08001f
+			public const int tabMode = 2131230751;
 			
-			// aapt resource value: 0x7f070015
-			public const int textinput_error = 2131165205;
+			// aapt resource value: 0x7f080019
+			public const int tag_transition_group = 2131230745;
 			
-			// aapt resource value: 0x7f0700a9
-			public const int time = 2131165353;
+			// aapt resource value: 0x7f08001a
+			public const int text = 2131230746;
 			
-			// aapt resource value: 0x7f07001c
-			public const int title = 2131165212;
+			// aapt resource value: 0x7f08001b
+			public const int text2 = 2131230747;
 			
-			// aapt resource value: 0x7f070071
-			public const int titleDividerNoCustom = 2131165297;
+			// aapt resource value: 0x7f08006a
+			public const int textSpacerNoButtons = 2131230826;
 			
-			// aapt resource value: 0x7f07006f
-			public const int title_template = 2131165295;
+			// aapt resource value: 0x7f080069
+			public const int textSpacerNoTitle = 2131230825;
 			
-			// aapt resource value: 0x7f07003e
-			public const int top = 2131165246;
+			// aapt resource value: 0x7f080098
+			public const int text_input_password_toggle = 2131230872;
 			
-			// aapt resource value: 0x7f07006e
-			public const int topPanel = 2131165294;
+			// aapt resource value: 0x7f080014
+			public const int textinput_counter = 2131230740;
 			
-			// aapt resource value: 0x7f07008f
-			public const int touch_outside = 2131165327;
+			// aapt resource value: 0x7f080015
+			public const int textinput_error = 2131230741;
 			
-			// aapt resource value: 0x7f07000f
-			public const int transition_current_scene = 2131165199;
+			// aapt resource value: 0x7f0800a9
+			public const int time = 2131230889;
 			
-			// aapt resource value: 0x7f070010
-			public const int transition_layout_save = 2131165200;
+			// aapt resource value: 0x7f08001c
+			public const int title = 2131230748;
 			
-			// aapt resource value: 0x7f070011
-			public const int transition_position = 2131165201;
+			// aapt resource value: 0x7f080071
+			public const int titleDividerNoCustom = 2131230833;
 			
-			// aapt resource value: 0x7f070012
-			public const int transition_scene_layoutid_cache = 2131165202;
+			// aapt resource value: 0x7f08006f
+			public const int title_template = 2131230831;
 			
-			// aapt resource value: 0x7f070013
-			public const int transition_transform = 2131165203;
+			// aapt resource value: 0x7f08003e
+			public const int top = 2131230782;
 			
-			// aapt resource value: 0x7f07002d
-			public const int uniform = 2131165229;
+			// aapt resource value: 0x7f08006e
+			public const int topPanel = 2131230830;
 			
-			// aapt resource value: 0x7f070009
-			public const int up = 2131165193;
+			// aapt resource value: 0x7f08008f
+			public const int touch_outside = 2131230863;
 			
-			// aapt resource value: 0x7f070026
-			public const int useLogo = 2131165222;
+			// aapt resource value: 0x7f08000f
+			public const int transition_current_scene = 2131230735;
 			
-			// aapt resource value: 0x7f070016
-			public const int view_offset_helper = 2131165206;
+			// aapt resource value: 0x7f080010
+			public const int transition_layout_save = 2131230736;
 			
-			// aapt resource value: 0x7f0700b2
-			public const int visible = 2131165362;
+			// aapt resource value: 0x7f080011
+			public const int transition_position = 2131230737;
 			
-			// aapt resource value: 0x7f07003c
-			public const int withText = 2131165244;
+			// aapt resource value: 0x7f080012
+			public const int transition_scene_layoutid_cache = 2131230738;
 			
-			// aapt resource value: 0x7f07002e
-			public const int wrap_content = 2131165230;
+			// aapt resource value: 0x7f080013
+			public const int transition_transform = 2131230739;
+			
+			// aapt resource value: 0x7f0800b3
+			public const int txtApellidos = 2131230899;
+			
+			// aapt resource value: 0x7f0800b5
+			public const int txtCorreo = 2131230901;
+			
+			// aapt resource value: 0x7f0800bb
+			public const int txtFacultad = 2131230907;
+			
+			// aapt resource value: 0x7f0800b1
+			public const int txtNombre = 2131230897;
+			
+			// aapt resource value: 0x7f0800b7
+			public const int txtSemestre = 2131230903;
+			
+			// aapt resource value: 0x7f0800b9
+			public const int txtTelefono = 2131230905;
+			
+			// aapt resource value: 0x7f08002d
+			public const int uniform = 2131230765;
+			
+			// aapt resource value: 0x7f080009
+			public const int up = 2131230729;
+			
+			// aapt resource value: 0x7f080026
+			public const int useLogo = 2131230758;
+			
+			// aapt resource value: 0x7f080016
+			public const int view_offset_helper = 2131230742;
+			
+			// aapt resource value: 0x7f0800bf
+			public const int visible = 2131230911;
+			
+			// aapt resource value: 0x7f08003c
+			public const int withText = 2131230780;
+			
+			// aapt resource value: 0x7f08002e
+			public const int wrap_content = 2131230766;
 			
 			static Id()
 			{
@@ -2877,35 +7482,35 @@ namespace AsesoriasApp
 		public partial class Integer
 		{
 			
-			// aapt resource value: 0x7f0c0000
-			public const int abc_config_activityDefaultDur = 2131492864;
+			// aapt resource value: 0x7f0d0000
+			public const int abc_config_activityDefaultDur = 2131558400;
 			
-			// aapt resource value: 0x7f0c0001
-			public const int abc_config_activityShortDur = 2131492865;
+			// aapt resource value: 0x7f0d0001
+			public const int abc_config_activityShortDur = 2131558401;
 			
-			// aapt resource value: 0x7f0c0005
-			public const int app_bar_elevation_anim_duration = 2131492869;
+			// aapt resource value: 0x7f0d0005
+			public const int app_bar_elevation_anim_duration = 2131558405;
 			
-			// aapt resource value: 0x7f0c0006
-			public const int bottom_sheet_slide_duration = 2131492870;
+			// aapt resource value: 0x7f0d0006
+			public const int bottom_sheet_slide_duration = 2131558406;
 			
-			// aapt resource value: 0x7f0c0002
-			public const int cancel_button_image_alpha = 2131492866;
+			// aapt resource value: 0x7f0d0002
+			public const int cancel_button_image_alpha = 2131558402;
 			
-			// aapt resource value: 0x7f0c0003
-			public const int config_tooltipAnimTime = 2131492867;
+			// aapt resource value: 0x7f0d0003
+			public const int config_tooltipAnimTime = 2131558403;
 			
-			// aapt resource value: 0x7f0c0004
-			public const int design_snackbar_text_max_lines = 2131492868;
+			// aapt resource value: 0x7f0d0004
+			public const int design_snackbar_text_max_lines = 2131558404;
 			
-			// aapt resource value: 0x7f0c0007
-			public const int hide_password_duration = 2131492871;
+			// aapt resource value: 0x7f0d0007
+			public const int hide_password_duration = 2131558407;
 			
-			// aapt resource value: 0x7f0c0008
-			public const int show_password_duration = 2131492872;
+			// aapt resource value: 0x7f0d0008
+			public const int show_password_duration = 2131558408;
 			
-			// aapt resource value: 0x7f0c0009
-			public const int status_bar_notification_info_maxnum = 2131492873;
+			// aapt resource value: 0x7f0d0009
+			public const int status_bar_notification_info_maxnum = 2131558409;
 			
 			static Integer()
 			{
@@ -2920,194 +7525,194 @@ namespace AsesoriasApp
 		public partial class Layout
 		{
 			
-			// aapt resource value: 0x7f030000
-			public const int abc_action_bar_title_item = 2130903040;
+			// aapt resource value: 0x7f040000
+			public const int abc_action_bar_title_item = 2130968576;
 			
-			// aapt resource value: 0x7f030001
-			public const int abc_action_bar_up_container = 2130903041;
+			// aapt resource value: 0x7f040001
+			public const int abc_action_bar_up_container = 2130968577;
 			
-			// aapt resource value: 0x7f030002
-			public const int abc_action_menu_item_layout = 2130903042;
+			// aapt resource value: 0x7f040002
+			public const int abc_action_menu_item_layout = 2130968578;
 			
-			// aapt resource value: 0x7f030003
-			public const int abc_action_menu_layout = 2130903043;
+			// aapt resource value: 0x7f040003
+			public const int abc_action_menu_layout = 2130968579;
 			
-			// aapt resource value: 0x7f030004
-			public const int abc_action_mode_bar = 2130903044;
+			// aapt resource value: 0x7f040004
+			public const int abc_action_mode_bar = 2130968580;
 			
-			// aapt resource value: 0x7f030005
-			public const int abc_action_mode_close_item_material = 2130903045;
+			// aapt resource value: 0x7f040005
+			public const int abc_action_mode_close_item_material = 2130968581;
 			
-			// aapt resource value: 0x7f030006
-			public const int abc_activity_chooser_view = 2130903046;
+			// aapt resource value: 0x7f040006
+			public const int abc_activity_chooser_view = 2130968582;
 			
-			// aapt resource value: 0x7f030007
-			public const int abc_activity_chooser_view_list_item = 2130903047;
+			// aapt resource value: 0x7f040007
+			public const int abc_activity_chooser_view_list_item = 2130968583;
 			
-			// aapt resource value: 0x7f030008
-			public const int abc_alert_dialog_button_bar_material = 2130903048;
+			// aapt resource value: 0x7f040008
+			public const int abc_alert_dialog_button_bar_material = 2130968584;
 			
-			// aapt resource value: 0x7f030009
-			public const int abc_alert_dialog_material = 2130903049;
+			// aapt resource value: 0x7f040009
+			public const int abc_alert_dialog_material = 2130968585;
 			
-			// aapt resource value: 0x7f03000a
-			public const int abc_alert_dialog_title_material = 2130903050;
+			// aapt resource value: 0x7f04000a
+			public const int abc_alert_dialog_title_material = 2130968586;
 			
-			// aapt resource value: 0x7f03000b
-			public const int abc_dialog_title_material = 2130903051;
+			// aapt resource value: 0x7f04000b
+			public const int abc_dialog_title_material = 2130968587;
 			
-			// aapt resource value: 0x7f03000c
-			public const int abc_expanded_menu_layout = 2130903052;
+			// aapt resource value: 0x7f04000c
+			public const int abc_expanded_menu_layout = 2130968588;
 			
-			// aapt resource value: 0x7f03000d
-			public const int abc_list_menu_item_checkbox = 2130903053;
+			// aapt resource value: 0x7f04000d
+			public const int abc_list_menu_item_checkbox = 2130968589;
 			
-			// aapt resource value: 0x7f03000e
-			public const int abc_list_menu_item_icon = 2130903054;
+			// aapt resource value: 0x7f04000e
+			public const int abc_list_menu_item_icon = 2130968590;
 			
-			// aapt resource value: 0x7f03000f
-			public const int abc_list_menu_item_layout = 2130903055;
+			// aapt resource value: 0x7f04000f
+			public const int abc_list_menu_item_layout = 2130968591;
 			
-			// aapt resource value: 0x7f030010
-			public const int abc_list_menu_item_radio = 2130903056;
+			// aapt resource value: 0x7f040010
+			public const int abc_list_menu_item_radio = 2130968592;
 			
-			// aapt resource value: 0x7f030011
-			public const int abc_popup_menu_header_item_layout = 2130903057;
+			// aapt resource value: 0x7f040011
+			public const int abc_popup_menu_header_item_layout = 2130968593;
 			
-			// aapt resource value: 0x7f030012
-			public const int abc_popup_menu_item_layout = 2130903058;
+			// aapt resource value: 0x7f040012
+			public const int abc_popup_menu_item_layout = 2130968594;
 			
-			// aapt resource value: 0x7f030013
-			public const int abc_screen_content_include = 2130903059;
+			// aapt resource value: 0x7f040013
+			public const int abc_screen_content_include = 2130968595;
 			
-			// aapt resource value: 0x7f030014
-			public const int abc_screen_simple = 2130903060;
+			// aapt resource value: 0x7f040014
+			public const int abc_screen_simple = 2130968596;
 			
-			// aapt resource value: 0x7f030015
-			public const int abc_screen_simple_overlay_action_mode = 2130903061;
+			// aapt resource value: 0x7f040015
+			public const int abc_screen_simple_overlay_action_mode = 2130968597;
 			
-			// aapt resource value: 0x7f030016
-			public const int abc_screen_toolbar = 2130903062;
+			// aapt resource value: 0x7f040016
+			public const int abc_screen_toolbar = 2130968598;
 			
-			// aapt resource value: 0x7f030017
-			public const int abc_search_dropdown_item_icons_2line = 2130903063;
+			// aapt resource value: 0x7f040017
+			public const int abc_search_dropdown_item_icons_2line = 2130968599;
 			
-			// aapt resource value: 0x7f030018
-			public const int abc_search_view = 2130903064;
+			// aapt resource value: 0x7f040018
+			public const int abc_search_view = 2130968600;
 			
-			// aapt resource value: 0x7f030019
-			public const int abc_select_dialog_material = 2130903065;
+			// aapt resource value: 0x7f040019
+			public const int abc_select_dialog_material = 2130968601;
 			
-			// aapt resource value: 0x7f03001a
-			public const int activity_main = 2130903066;
+			// aapt resource value: 0x7f04001a
+			public const int activity_main = 2130968602;
 			
-			// aapt resource value: 0x7f03001b
-			public const int design_bottom_navigation_item = 2130903067;
+			// aapt resource value: 0x7f04001b
+			public const int design_bottom_navigation_item = 2130968603;
 			
-			// aapt resource value: 0x7f03001c
-			public const int design_bottom_sheet_dialog = 2130903068;
+			// aapt resource value: 0x7f04001c
+			public const int design_bottom_sheet_dialog = 2130968604;
 			
-			// aapt resource value: 0x7f03001d
-			public const int design_layout_snackbar = 2130903069;
+			// aapt resource value: 0x7f04001d
+			public const int design_layout_snackbar = 2130968605;
 			
-			// aapt resource value: 0x7f03001e
-			public const int design_layout_snackbar_include = 2130903070;
+			// aapt resource value: 0x7f04001e
+			public const int design_layout_snackbar_include = 2130968606;
 			
-			// aapt resource value: 0x7f03001f
-			public const int design_layout_tab_icon = 2130903071;
+			// aapt resource value: 0x7f04001f
+			public const int design_layout_tab_icon = 2130968607;
 			
-			// aapt resource value: 0x7f030020
-			public const int design_layout_tab_text = 2130903072;
+			// aapt resource value: 0x7f040020
+			public const int design_layout_tab_text = 2130968608;
 			
-			// aapt resource value: 0x7f030021
-			public const int design_menu_item_action_area = 2130903073;
+			// aapt resource value: 0x7f040021
+			public const int design_menu_item_action_area = 2130968609;
 			
-			// aapt resource value: 0x7f030022
-			public const int design_navigation_item = 2130903074;
+			// aapt resource value: 0x7f040022
+			public const int design_navigation_item = 2130968610;
 			
-			// aapt resource value: 0x7f030023
-			public const int design_navigation_item_header = 2130903075;
+			// aapt resource value: 0x7f040023
+			public const int design_navigation_item_header = 2130968611;
 			
-			// aapt resource value: 0x7f030024
-			public const int design_navigation_item_separator = 2130903076;
+			// aapt resource value: 0x7f040024
+			public const int design_navigation_item_separator = 2130968612;
 			
-			// aapt resource value: 0x7f030025
-			public const int design_navigation_item_subheader = 2130903077;
+			// aapt resource value: 0x7f040025
+			public const int design_navigation_item_subheader = 2130968613;
 			
-			// aapt resource value: 0x7f030026
-			public const int design_navigation_menu = 2130903078;
+			// aapt resource value: 0x7f040026
+			public const int design_navigation_menu = 2130968614;
 			
-			// aapt resource value: 0x7f030027
-			public const int design_navigation_menu_item = 2130903079;
+			// aapt resource value: 0x7f040027
+			public const int design_navigation_menu_item = 2130968615;
 			
-			// aapt resource value: 0x7f030028
-			public const int design_text_input_password_icon = 2130903080;
+			// aapt resource value: 0x7f040028
+			public const int design_text_input_password_icon = 2130968616;
 			
-			// aapt resource value: 0x7f030029
-			public const int login_activity = 2130903081;
+			// aapt resource value: 0x7f040029
+			public const int login_activity = 2130968617;
 			
-			// aapt resource value: 0x7f03002a
-			public const int notification_action = 2130903082;
+			// aapt resource value: 0x7f04002a
+			public const int notification_action = 2130968618;
 			
-			// aapt resource value: 0x7f03002b
-			public const int notification_action_tombstone = 2130903083;
+			// aapt resource value: 0x7f04002b
+			public const int notification_action_tombstone = 2130968619;
 			
-			// aapt resource value: 0x7f03002c
-			public const int notification_media_action = 2130903084;
+			// aapt resource value: 0x7f04002c
+			public const int notification_media_action = 2130968620;
 			
-			// aapt resource value: 0x7f03002d
-			public const int notification_media_cancel_action = 2130903085;
+			// aapt resource value: 0x7f04002d
+			public const int notification_media_cancel_action = 2130968621;
 			
-			// aapt resource value: 0x7f03002e
-			public const int notification_template_big_media = 2130903086;
+			// aapt resource value: 0x7f04002e
+			public const int notification_template_big_media = 2130968622;
 			
-			// aapt resource value: 0x7f03002f
-			public const int notification_template_big_media_custom = 2130903087;
+			// aapt resource value: 0x7f04002f
+			public const int notification_template_big_media_custom = 2130968623;
 			
-			// aapt resource value: 0x7f030030
-			public const int notification_template_big_media_narrow = 2130903088;
+			// aapt resource value: 0x7f040030
+			public const int notification_template_big_media_narrow = 2130968624;
 			
-			// aapt resource value: 0x7f030031
-			public const int notification_template_big_media_narrow_custom = 2130903089;
+			// aapt resource value: 0x7f040031
+			public const int notification_template_big_media_narrow_custom = 2130968625;
 			
-			// aapt resource value: 0x7f030032
-			public const int notification_template_custom_big = 2130903090;
+			// aapt resource value: 0x7f040032
+			public const int notification_template_custom_big = 2130968626;
 			
-			// aapt resource value: 0x7f030033
-			public const int notification_template_icon_group = 2130903091;
+			// aapt resource value: 0x7f040033
+			public const int notification_template_icon_group = 2130968627;
 			
-			// aapt resource value: 0x7f030034
-			public const int notification_template_lines_media = 2130903092;
+			// aapt resource value: 0x7f040034
+			public const int notification_template_lines_media = 2130968628;
 			
-			// aapt resource value: 0x7f030035
-			public const int notification_template_media = 2130903093;
+			// aapt resource value: 0x7f040035
+			public const int notification_template_media = 2130968629;
 			
-			// aapt resource value: 0x7f030036
-			public const int notification_template_media_custom = 2130903094;
+			// aapt resource value: 0x7f040036
+			public const int notification_template_media_custom = 2130968630;
 			
-			// aapt resource value: 0x7f030037
-			public const int notification_template_part_chronometer = 2130903095;
+			// aapt resource value: 0x7f040037
+			public const int notification_template_part_chronometer = 2130968631;
 			
-			// aapt resource value: 0x7f030038
-			public const int notification_template_part_time = 2130903096;
+			// aapt resource value: 0x7f040038
+			public const int notification_template_part_time = 2130968632;
 			
-			// aapt resource value: 0x7f030039
-			public const int registro_activity = 2130903097;
+			// aapt resource value: 0x7f040039
+			public const int registro_activity = 2130968633;
 			
-			// aapt resource value: 0x7f03003a
-			public const int select_dialog_item_material = 2130903098;
+			// aapt resource value: 0x7f04003a
+			public const int select_dialog_item_material = 2130968634;
 			
-			// aapt resource value: 0x7f03003b
-			public const int select_dialog_multichoice_material = 2130903099;
+			// aapt resource value: 0x7f04003b
+			public const int select_dialog_multichoice_material = 2130968635;
 			
-			// aapt resource value: 0x7f03003c
-			public const int select_dialog_singlechoice_material = 2130903100;
+			// aapt resource value: 0x7f04003c
+			public const int select_dialog_singlechoice_material = 2130968636;
 			
-			// aapt resource value: 0x7f03003d
-			public const int support_simple_spinner_dropdown_item = 2130903101;
+			// aapt resource value: 0x7f04003d
+			public const int support_simple_spinner_dropdown_item = 2130968637;
 			
-			// aapt resource value: 0x7f03003e
-			public const int tooltip = 2130903102;
+			// aapt resource value: 0x7f04003e
+			public const int tooltip = 2130968638;
 			
 			static Layout()
 			{
@@ -3119,131 +7724,156 @@ namespace AsesoriasApp
 			}
 		}
 		
+		public partial class Mipmap
+		{
+			
+			// aapt resource value: 0x7f030000
+			public const int ic_launcher = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int ic_launcher_foreground = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int ic_launcher_round = 2130903042;
+			
+			static Mipmap()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Mipmap()
+			{
+			}
+		}
+		
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f080000
-			public const int abc_action_bar_home_description = 2131230720;
+			// aapt resource value: 0x7f090000
+			public const int abc_action_bar_home_description = 2131296256;
 			
-			// aapt resource value: 0x7f080001
-			public const int abc_action_bar_up_description = 2131230721;
+			// aapt resource value: 0x7f090001
+			public const int abc_action_bar_up_description = 2131296257;
 			
-			// aapt resource value: 0x7f080002
-			public const int abc_action_menu_overflow_description = 2131230722;
+			// aapt resource value: 0x7f090002
+			public const int abc_action_menu_overflow_description = 2131296258;
 			
-			// aapt resource value: 0x7f080003
-			public const int abc_action_mode_done = 2131230723;
+			// aapt resource value: 0x7f090003
+			public const int abc_action_mode_done = 2131296259;
 			
-			// aapt resource value: 0x7f080004
-			public const int abc_activity_chooser_view_see_all = 2131230724;
+			// aapt resource value: 0x7f090004
+			public const int abc_activity_chooser_view_see_all = 2131296260;
 			
-			// aapt resource value: 0x7f080005
-			public const int abc_activitychooserview_choose_application = 2131230725;
+			// aapt resource value: 0x7f090005
+			public const int abc_activitychooserview_choose_application = 2131296261;
 			
-			// aapt resource value: 0x7f080006
-			public const int abc_capital_off = 2131230726;
+			// aapt resource value: 0x7f090006
+			public const int abc_capital_off = 2131296262;
 			
-			// aapt resource value: 0x7f080007
-			public const int abc_capital_on = 2131230727;
+			// aapt resource value: 0x7f090007
+			public const int abc_capital_on = 2131296263;
 			
-			// aapt resource value: 0x7f080012
-			public const int abc_font_family_body_1_material = 2131230738;
+			// aapt resource value: 0x7f090012
+			public const int abc_font_family_body_1_material = 2131296274;
 			
-			// aapt resource value: 0x7f080013
-			public const int abc_font_family_body_2_material = 2131230739;
+			// aapt resource value: 0x7f090013
+			public const int abc_font_family_body_2_material = 2131296275;
 			
-			// aapt resource value: 0x7f080014
-			public const int abc_font_family_button_material = 2131230740;
+			// aapt resource value: 0x7f090014
+			public const int abc_font_family_button_material = 2131296276;
 			
-			// aapt resource value: 0x7f080015
-			public const int abc_font_family_caption_material = 2131230741;
+			// aapt resource value: 0x7f090015
+			public const int abc_font_family_caption_material = 2131296277;
 			
-			// aapt resource value: 0x7f080016
-			public const int abc_font_family_display_1_material = 2131230742;
+			// aapt resource value: 0x7f090016
+			public const int abc_font_family_display_1_material = 2131296278;
 			
-			// aapt resource value: 0x7f080017
-			public const int abc_font_family_display_2_material = 2131230743;
+			// aapt resource value: 0x7f090017
+			public const int abc_font_family_display_2_material = 2131296279;
 			
-			// aapt resource value: 0x7f080018
-			public const int abc_font_family_display_3_material = 2131230744;
+			// aapt resource value: 0x7f090018
+			public const int abc_font_family_display_3_material = 2131296280;
 			
-			// aapt resource value: 0x7f080019
-			public const int abc_font_family_display_4_material = 2131230745;
+			// aapt resource value: 0x7f090019
+			public const int abc_font_family_display_4_material = 2131296281;
 			
-			// aapt resource value: 0x7f08001a
-			public const int abc_font_family_headline_material = 2131230746;
+			// aapt resource value: 0x7f09001a
+			public const int abc_font_family_headline_material = 2131296282;
 			
-			// aapt resource value: 0x7f08001b
-			public const int abc_font_family_menu_material = 2131230747;
+			// aapt resource value: 0x7f09001b
+			public const int abc_font_family_menu_material = 2131296283;
 			
-			// aapt resource value: 0x7f08001c
-			public const int abc_font_family_subhead_material = 2131230748;
+			// aapt resource value: 0x7f09001c
+			public const int abc_font_family_subhead_material = 2131296284;
 			
-			// aapt resource value: 0x7f08001d
-			public const int abc_font_family_title_material = 2131230749;
+			// aapt resource value: 0x7f09001d
+			public const int abc_font_family_title_material = 2131296285;
 			
-			// aapt resource value: 0x7f080008
-			public const int abc_search_hint = 2131230728;
+			// aapt resource value: 0x7f090008
+			public const int abc_search_hint = 2131296264;
 			
-			// aapt resource value: 0x7f080009
-			public const int abc_searchview_description_clear = 2131230729;
+			// aapt resource value: 0x7f090009
+			public const int abc_searchview_description_clear = 2131296265;
 			
-			// aapt resource value: 0x7f08000a
-			public const int abc_searchview_description_query = 2131230730;
+			// aapt resource value: 0x7f09000a
+			public const int abc_searchview_description_query = 2131296266;
 			
-			// aapt resource value: 0x7f08000b
-			public const int abc_searchview_description_search = 2131230731;
+			// aapt resource value: 0x7f09000b
+			public const int abc_searchview_description_search = 2131296267;
 			
-			// aapt resource value: 0x7f08000c
-			public const int abc_searchview_description_submit = 2131230732;
+			// aapt resource value: 0x7f09000c
+			public const int abc_searchview_description_submit = 2131296268;
 			
-			// aapt resource value: 0x7f08000d
-			public const int abc_searchview_description_voice = 2131230733;
+			// aapt resource value: 0x7f09000d
+			public const int abc_searchview_description_voice = 2131296269;
 			
-			// aapt resource value: 0x7f08000e
-			public const int abc_shareactionprovider_share_with = 2131230734;
+			// aapt resource value: 0x7f09000e
+			public const int abc_shareactionprovider_share_with = 2131296270;
 			
-			// aapt resource value: 0x7f08000f
-			public const int abc_shareactionprovider_share_with_application = 2131230735;
+			// aapt resource value: 0x7f09000f
+			public const int abc_shareactionprovider_share_with_application = 2131296271;
 			
-			// aapt resource value: 0x7f080010
-			public const int abc_toolbar_collapse_description = 2131230736;
+			// aapt resource value: 0x7f090010
+			public const int abc_toolbar_collapse_description = 2131296272;
 			
-			// aapt resource value: 0x7f080028
-			public const int action_settings = 2131230760;
+			// aapt resource value: 0x7f090029
+			public const int action_settings = 2131296297;
 			
-			// aapt resource value: 0x7f080027
-			public const int app_name = 2131230759;
+			// aapt resource value: 0x7f090028
+			public const int app_name = 2131296296;
 			
-			// aapt resource value: 0x7f08001e
-			public const int appbar_scrolling_view_behavior = 2131230750;
+			// aapt resource value: 0x7f09001e
+			public const int appbar_scrolling_view_behavior = 2131296286;
 			
-			// aapt resource value: 0x7f08001f
-			public const int bottom_sheet_behavior = 2131230751;
+			// aapt resource value: 0x7f09001f
+			public const int bottom_sheet_behavior = 2131296287;
 			
-			// aapt resource value: 0x7f080020
-			public const int character_counter_pattern = 2131230752;
+			// aapt resource value: 0x7f090020
+			public const int character_counter_pattern = 2131296288;
 			
-			// aapt resource value: 0x7f080021
-			public const int password_toggle_content_description = 2131230753;
+			// aapt resource value: 0x7f090027
+			public const int hello = 2131296295;
 			
-			// aapt resource value: 0x7f080022
-			public const int path_password_eye = 2131230754;
+			// aapt resource value: 0x7f090021
+			public const int password_toggle_content_description = 2131296289;
 			
-			// aapt resource value: 0x7f080023
-			public const int path_password_eye_mask_strike_through = 2131230755;
+			// aapt resource value: 0x7f090022
+			public const int path_password_eye = 2131296290;
 			
-			// aapt resource value: 0x7f080024
-			public const int path_password_eye_mask_visible = 2131230756;
+			// aapt resource value: 0x7f090023
+			public const int path_password_eye_mask_strike_through = 2131296291;
 			
-			// aapt resource value: 0x7f080025
-			public const int path_password_strike_through = 2131230757;
+			// aapt resource value: 0x7f090024
+			public const int path_password_eye_mask_visible = 2131296292;
 			
-			// aapt resource value: 0x7f080011
-			public const int search_menu_title = 2131230737;
+			// aapt resource value: 0x7f090025
+			public const int path_password_strike_through = 2131296293;
 			
-			// aapt resource value: 0x7f080026
-			public const int status_bar_notification_info_overflow = 2131230758;
+			// aapt resource value: 0x7f090011
+			public const int search_menu_title = 2131296273;
+			
+			// aapt resource value: 0x7f090026
+			public const int status_bar_notification_info_overflow = 2131296294;
 			
 			static String()
 			{
@@ -3258,1160 +7888,1160 @@ namespace AsesoriasApp
 		public partial class Style
 		{
 			
-			// aapt resource value: 0x7f090095
-			public const int AlertDialog_AppCompat = 2131296405;
+			// aapt resource value: 0x7f0a0095
+			public const int AlertDialog_AppCompat = 2131361941;
 			
-			// aapt resource value: 0x7f090096
-			public const int AlertDialog_AppCompat_Light = 2131296406;
+			// aapt resource value: 0x7f0a0096
+			public const int AlertDialog_AppCompat_Light = 2131361942;
 			
-			// aapt resource value: 0x7f090097
-			public const int Animation_AppCompat_Dialog = 2131296407;
+			// aapt resource value: 0x7f0a0097
+			public const int Animation_AppCompat_Dialog = 2131361943;
 			
-			// aapt resource value: 0x7f090098
-			public const int Animation_AppCompat_DropDownUp = 2131296408;
+			// aapt resource value: 0x7f0a0098
+			public const int Animation_AppCompat_DropDownUp = 2131361944;
 			
-			// aapt resource value: 0x7f090099
-			public const int Animation_AppCompat_Tooltip = 2131296409;
+			// aapt resource value: 0x7f0a0099
+			public const int Animation_AppCompat_Tooltip = 2131361945;
 			
-			// aapt resource value: 0x7f09015f
-			public const int Animation_Design_BottomSheetDialog = 2131296607;
+			// aapt resource value: 0x7f0a015f
+			public const int Animation_Design_BottomSheetDialog = 2131362143;
 			
-			// aapt resource value: 0x7f090180
-			public const int AppTheme = 2131296640;
+			// aapt resource value: 0x7f0a0180
+			public const int AppTheme = 2131362176;
 			
-			// aapt resource value: 0x7f09009a
-			public const int Base_AlertDialog_AppCompat = 2131296410;
+			// aapt resource value: 0x7f0a009a
+			public const int Base_AlertDialog_AppCompat = 2131361946;
 			
-			// aapt resource value: 0x7f09009b
-			public const int Base_AlertDialog_AppCompat_Light = 2131296411;
+			// aapt resource value: 0x7f0a009b
+			public const int Base_AlertDialog_AppCompat_Light = 2131361947;
 			
-			// aapt resource value: 0x7f09009c
-			public const int Base_Animation_AppCompat_Dialog = 2131296412;
+			// aapt resource value: 0x7f0a009c
+			public const int Base_Animation_AppCompat_Dialog = 2131361948;
 			
-			// aapt resource value: 0x7f09009d
-			public const int Base_Animation_AppCompat_DropDownUp = 2131296413;
+			// aapt resource value: 0x7f0a009d
+			public const int Base_Animation_AppCompat_DropDownUp = 2131361949;
 			
-			// aapt resource value: 0x7f09009e
-			public const int Base_Animation_AppCompat_Tooltip = 2131296414;
+			// aapt resource value: 0x7f0a009e
+			public const int Base_Animation_AppCompat_Tooltip = 2131361950;
 			
-			// aapt resource value: 0x7f09009f
-			public const int Base_DialogWindowTitle_AppCompat = 2131296415;
+			// aapt resource value: 0x7f0a009f
+			public const int Base_DialogWindowTitle_AppCompat = 2131361951;
 			
-			// aapt resource value: 0x7f0900a0
-			public const int Base_DialogWindowTitleBackground_AppCompat = 2131296416;
+			// aapt resource value: 0x7f0a00a0
+			public const int Base_DialogWindowTitleBackground_AppCompat = 2131361952;
 			
-			// aapt resource value: 0x7f090039
-			public const int Base_TextAppearance_AppCompat = 2131296313;
+			// aapt resource value: 0x7f0a0039
+			public const int Base_TextAppearance_AppCompat = 2131361849;
 			
-			// aapt resource value: 0x7f09003a
-			public const int Base_TextAppearance_AppCompat_Body1 = 2131296314;
+			// aapt resource value: 0x7f0a003a
+			public const int Base_TextAppearance_AppCompat_Body1 = 2131361850;
 			
-			// aapt resource value: 0x7f09003b
-			public const int Base_TextAppearance_AppCompat_Body2 = 2131296315;
+			// aapt resource value: 0x7f0a003b
+			public const int Base_TextAppearance_AppCompat_Body2 = 2131361851;
 			
-			// aapt resource value: 0x7f090027
-			public const int Base_TextAppearance_AppCompat_Button = 2131296295;
+			// aapt resource value: 0x7f0a0027
+			public const int Base_TextAppearance_AppCompat_Button = 2131361831;
 			
-			// aapt resource value: 0x7f09003c
-			public const int Base_TextAppearance_AppCompat_Caption = 2131296316;
+			// aapt resource value: 0x7f0a003c
+			public const int Base_TextAppearance_AppCompat_Caption = 2131361852;
 			
-			// aapt resource value: 0x7f09003d
-			public const int Base_TextAppearance_AppCompat_Display1 = 2131296317;
+			// aapt resource value: 0x7f0a003d
+			public const int Base_TextAppearance_AppCompat_Display1 = 2131361853;
 			
-			// aapt resource value: 0x7f09003e
-			public const int Base_TextAppearance_AppCompat_Display2 = 2131296318;
+			// aapt resource value: 0x7f0a003e
+			public const int Base_TextAppearance_AppCompat_Display2 = 2131361854;
 			
-			// aapt resource value: 0x7f09003f
-			public const int Base_TextAppearance_AppCompat_Display3 = 2131296319;
+			// aapt resource value: 0x7f0a003f
+			public const int Base_TextAppearance_AppCompat_Display3 = 2131361855;
 			
-			// aapt resource value: 0x7f090040
-			public const int Base_TextAppearance_AppCompat_Display4 = 2131296320;
+			// aapt resource value: 0x7f0a0040
+			public const int Base_TextAppearance_AppCompat_Display4 = 2131361856;
 			
-			// aapt resource value: 0x7f090041
-			public const int Base_TextAppearance_AppCompat_Headline = 2131296321;
+			// aapt resource value: 0x7f0a0041
+			public const int Base_TextAppearance_AppCompat_Headline = 2131361857;
 			
-			// aapt resource value: 0x7f09000b
-			public const int Base_TextAppearance_AppCompat_Inverse = 2131296267;
+			// aapt resource value: 0x7f0a000b
+			public const int Base_TextAppearance_AppCompat_Inverse = 2131361803;
 			
-			// aapt resource value: 0x7f090042
-			public const int Base_TextAppearance_AppCompat_Large = 2131296322;
+			// aapt resource value: 0x7f0a0042
+			public const int Base_TextAppearance_AppCompat_Large = 2131361858;
 			
-			// aapt resource value: 0x7f09000c
-			public const int Base_TextAppearance_AppCompat_Large_Inverse = 2131296268;
+			// aapt resource value: 0x7f0a000c
+			public const int Base_TextAppearance_AppCompat_Large_Inverse = 2131361804;
 			
-			// aapt resource value: 0x7f090043
-			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131296323;
+			// aapt resource value: 0x7f0a0043
+			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131361859;
 			
-			// aapt resource value: 0x7f090044
-			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131296324;
+			// aapt resource value: 0x7f0a0044
+			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131361860;
 			
-			// aapt resource value: 0x7f090045
-			public const int Base_TextAppearance_AppCompat_Medium = 2131296325;
+			// aapt resource value: 0x7f0a0045
+			public const int Base_TextAppearance_AppCompat_Medium = 2131361861;
 			
-			// aapt resource value: 0x7f09000d
-			public const int Base_TextAppearance_AppCompat_Medium_Inverse = 2131296269;
+			// aapt resource value: 0x7f0a000d
+			public const int Base_TextAppearance_AppCompat_Medium_Inverse = 2131361805;
 			
-			// aapt resource value: 0x7f090046
-			public const int Base_TextAppearance_AppCompat_Menu = 2131296326;
+			// aapt resource value: 0x7f0a0046
+			public const int Base_TextAppearance_AppCompat_Menu = 2131361862;
 			
-			// aapt resource value: 0x7f0900a1
-			public const int Base_TextAppearance_AppCompat_SearchResult = 2131296417;
+			// aapt resource value: 0x7f0a00a1
+			public const int Base_TextAppearance_AppCompat_SearchResult = 2131361953;
 			
-			// aapt resource value: 0x7f090047
-			public const int Base_TextAppearance_AppCompat_SearchResult_Subtitle = 2131296327;
+			// aapt resource value: 0x7f0a0047
+			public const int Base_TextAppearance_AppCompat_SearchResult_Subtitle = 2131361863;
 			
-			// aapt resource value: 0x7f090048
-			public const int Base_TextAppearance_AppCompat_SearchResult_Title = 2131296328;
+			// aapt resource value: 0x7f0a0048
+			public const int Base_TextAppearance_AppCompat_SearchResult_Title = 2131361864;
 			
-			// aapt resource value: 0x7f090049
-			public const int Base_TextAppearance_AppCompat_Small = 2131296329;
+			// aapt resource value: 0x7f0a0049
+			public const int Base_TextAppearance_AppCompat_Small = 2131361865;
 			
-			// aapt resource value: 0x7f09000e
-			public const int Base_TextAppearance_AppCompat_Small_Inverse = 2131296270;
+			// aapt resource value: 0x7f0a000e
+			public const int Base_TextAppearance_AppCompat_Small_Inverse = 2131361806;
 			
-			// aapt resource value: 0x7f09004a
-			public const int Base_TextAppearance_AppCompat_Subhead = 2131296330;
+			// aapt resource value: 0x7f0a004a
+			public const int Base_TextAppearance_AppCompat_Subhead = 2131361866;
 			
-			// aapt resource value: 0x7f09000f
-			public const int Base_TextAppearance_AppCompat_Subhead_Inverse = 2131296271;
+			// aapt resource value: 0x7f0a000f
+			public const int Base_TextAppearance_AppCompat_Subhead_Inverse = 2131361807;
 			
-			// aapt resource value: 0x7f09004b
-			public const int Base_TextAppearance_AppCompat_Title = 2131296331;
+			// aapt resource value: 0x7f0a004b
+			public const int Base_TextAppearance_AppCompat_Title = 2131361867;
 			
-			// aapt resource value: 0x7f090010
-			public const int Base_TextAppearance_AppCompat_Title_Inverse = 2131296272;
+			// aapt resource value: 0x7f0a0010
+			public const int Base_TextAppearance_AppCompat_Title_Inverse = 2131361808;
 			
-			// aapt resource value: 0x7f0900a2
-			public const int Base_TextAppearance_AppCompat_Tooltip = 2131296418;
+			// aapt resource value: 0x7f0a00a2
+			public const int Base_TextAppearance_AppCompat_Tooltip = 2131361954;
 			
-			// aapt resource value: 0x7f090086
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131296390;
+			// aapt resource value: 0x7f0a0086
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131361926;
 			
-			// aapt resource value: 0x7f09004c
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131296332;
+			// aapt resource value: 0x7f0a004c
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131361868;
 			
-			// aapt resource value: 0x7f09004d
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131296333;
+			// aapt resource value: 0x7f0a004d
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131361869;
 			
-			// aapt resource value: 0x7f09004e
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title = 2131296334;
+			// aapt resource value: 0x7f0a004e
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title = 2131361870;
 			
-			// aapt resource value: 0x7f09004f
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131296335;
+			// aapt resource value: 0x7f0a004f
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131361871;
 			
-			// aapt resource value: 0x7f090050
-			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131296336;
+			// aapt resource value: 0x7f0a0050
+			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131361872;
 			
-			// aapt resource value: 0x7f090051
-			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Title = 2131296337;
+			// aapt resource value: 0x7f0a0051
+			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Title = 2131361873;
 			
-			// aapt resource value: 0x7f090052
-			public const int Base_TextAppearance_AppCompat_Widget_Button = 2131296338;
+			// aapt resource value: 0x7f0a0052
+			public const int Base_TextAppearance_AppCompat_Widget_Button = 2131361874;
 			
-			// aapt resource value: 0x7f09008d
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131296397;
+			// aapt resource value: 0x7f0a008d
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131361933;
 			
-			// aapt resource value: 0x7f09008e
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2131296398;
+			// aapt resource value: 0x7f0a008e
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2131361934;
 			
-			// aapt resource value: 0x7f090087
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Inverse = 2131296391;
+			// aapt resource value: 0x7f0a0087
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Inverse = 2131361927;
 			
-			// aapt resource value: 0x7f0900a3
-			public const int Base_TextAppearance_AppCompat_Widget_DropDownItem = 2131296419;
+			// aapt resource value: 0x7f0a00a3
+			public const int Base_TextAppearance_AppCompat_Widget_DropDownItem = 2131361955;
 			
-			// aapt resource value: 0x7f090053
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131296339;
+			// aapt resource value: 0x7f0a0053
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131361875;
 			
-			// aapt resource value: 0x7f090054
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131296340;
+			// aapt resource value: 0x7f0a0054
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131361876;
 			
-			// aapt resource value: 0x7f090055
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131296341;
+			// aapt resource value: 0x7f0a0055
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131361877;
 			
-			// aapt resource value: 0x7f090056
-			public const int Base_TextAppearance_AppCompat_Widget_Switch = 2131296342;
+			// aapt resource value: 0x7f0a0056
+			public const int Base_TextAppearance_AppCompat_Widget_Switch = 2131361878;
 			
-			// aapt resource value: 0x7f090057
-			public const int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131296343;
+			// aapt resource value: 0x7f0a0057
+			public const int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131361879;
 			
-			// aapt resource value: 0x7f0900a4
-			public const int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131296420;
+			// aapt resource value: 0x7f0a00a4
+			public const int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131361956;
 			
-			// aapt resource value: 0x7f090058
-			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131296344;
+			// aapt resource value: 0x7f0a0058
+			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131361880;
 			
-			// aapt resource value: 0x7f090059
-			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Title = 2131296345;
+			// aapt resource value: 0x7f0a0059
+			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Title = 2131361881;
 			
-			// aapt resource value: 0x7f09005a
-			public const int Base_Theme_AppCompat = 2131296346;
+			// aapt resource value: 0x7f0a005a
+			public const int Base_Theme_AppCompat = 2131361882;
 			
-			// aapt resource value: 0x7f0900a5
-			public const int Base_Theme_AppCompat_CompactMenu = 2131296421;
+			// aapt resource value: 0x7f0a00a5
+			public const int Base_Theme_AppCompat_CompactMenu = 2131361957;
 			
-			// aapt resource value: 0x7f090011
-			public const int Base_Theme_AppCompat_Dialog = 2131296273;
+			// aapt resource value: 0x7f0a0011
+			public const int Base_Theme_AppCompat_Dialog = 2131361809;
 			
-			// aapt resource value: 0x7f090012
-			public const int Base_Theme_AppCompat_Dialog_Alert = 2131296274;
+			// aapt resource value: 0x7f0a0012
+			public const int Base_Theme_AppCompat_Dialog_Alert = 2131361810;
 			
-			// aapt resource value: 0x7f0900a6
-			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2131296422;
+			// aapt resource value: 0x7f0a00a6
+			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2131361958;
 			
-			// aapt resource value: 0x7f090013
-			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2131296275;
+			// aapt resource value: 0x7f0a0013
+			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2131361811;
 			
-			// aapt resource value: 0x7f090001
-			public const int Base_Theme_AppCompat_DialogWhenLarge = 2131296257;
+			// aapt resource value: 0x7f0a0001
+			public const int Base_Theme_AppCompat_DialogWhenLarge = 2131361793;
 			
-			// aapt resource value: 0x7f09005b
-			public const int Base_Theme_AppCompat_Light = 2131296347;
+			// aapt resource value: 0x7f0a005b
+			public const int Base_Theme_AppCompat_Light = 2131361883;
 			
-			// aapt resource value: 0x7f0900a7
-			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2131296423;
+			// aapt resource value: 0x7f0a00a7
+			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2131361959;
 			
-			// aapt resource value: 0x7f090014
-			public const int Base_Theme_AppCompat_Light_Dialog = 2131296276;
+			// aapt resource value: 0x7f0a0014
+			public const int Base_Theme_AppCompat_Light_Dialog = 2131361812;
 			
-			// aapt resource value: 0x7f090015
-			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2131296277;
+			// aapt resource value: 0x7f0a0015
+			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2131361813;
 			
-			// aapt resource value: 0x7f0900a8
-			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2131296424;
+			// aapt resource value: 0x7f0a00a8
+			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2131361960;
 			
-			// aapt resource value: 0x7f090016
-			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2131296278;
+			// aapt resource value: 0x7f0a0016
+			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2131361814;
 			
-			// aapt resource value: 0x7f090002
-			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2131296258;
+			// aapt resource value: 0x7f0a0002
+			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2131361794;
 			
-			// aapt resource value: 0x7f0900a9
-			public const int Base_ThemeOverlay_AppCompat = 2131296425;
+			// aapt resource value: 0x7f0a00a9
+			public const int Base_ThemeOverlay_AppCompat = 2131361961;
 			
-			// aapt resource value: 0x7f0900aa
-			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2131296426;
+			// aapt resource value: 0x7f0a00aa
+			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2131361962;
 			
-			// aapt resource value: 0x7f0900ab
-			public const int Base_ThemeOverlay_AppCompat_Dark = 2131296427;
+			// aapt resource value: 0x7f0a00ab
+			public const int Base_ThemeOverlay_AppCompat_Dark = 2131361963;
 			
-			// aapt resource value: 0x7f0900ac
-			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2131296428;
+			// aapt resource value: 0x7f0a00ac
+			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2131361964;
 			
-			// aapt resource value: 0x7f090017
-			public const int Base_ThemeOverlay_AppCompat_Dialog = 2131296279;
+			// aapt resource value: 0x7f0a0017
+			public const int Base_ThemeOverlay_AppCompat_Dialog = 2131361815;
 			
-			// aapt resource value: 0x7f090018
-			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2131296280;
+			// aapt resource value: 0x7f0a0018
+			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2131361816;
 			
-			// aapt resource value: 0x7f0900ad
-			public const int Base_ThemeOverlay_AppCompat_Light = 2131296429;
+			// aapt resource value: 0x7f0a00ad
+			public const int Base_ThemeOverlay_AppCompat_Light = 2131361965;
 			
-			// aapt resource value: 0x7f090019
-			public const int Base_V11_Theme_AppCompat_Dialog = 2131296281;
+			// aapt resource value: 0x7f0a0019
+			public const int Base_V11_Theme_AppCompat_Dialog = 2131361817;
 			
-			// aapt resource value: 0x7f09001a
-			public const int Base_V11_Theme_AppCompat_Light_Dialog = 2131296282;
+			// aapt resource value: 0x7f0a001a
+			public const int Base_V11_Theme_AppCompat_Light_Dialog = 2131361818;
 			
-			// aapt resource value: 0x7f09001b
-			public const int Base_V11_ThemeOverlay_AppCompat_Dialog = 2131296283;
+			// aapt resource value: 0x7f0a001b
+			public const int Base_V11_ThemeOverlay_AppCompat_Dialog = 2131361819;
 			
-			// aapt resource value: 0x7f090023
-			public const int Base_V12_Widget_AppCompat_AutoCompleteTextView = 2131296291;
+			// aapt resource value: 0x7f0a0023
+			public const int Base_V12_Widget_AppCompat_AutoCompleteTextView = 2131361827;
 			
-			// aapt resource value: 0x7f090024
-			public const int Base_V12_Widget_AppCompat_EditText = 2131296292;
+			// aapt resource value: 0x7f0a0024
+			public const int Base_V12_Widget_AppCompat_EditText = 2131361828;
 			
-			// aapt resource value: 0x7f090160
-			public const int Base_V14_Widget_Design_AppBarLayout = 2131296608;
+			// aapt resource value: 0x7f0a0160
+			public const int Base_V14_Widget_Design_AppBarLayout = 2131362144;
 			
-			// aapt resource value: 0x7f09005c
-			public const int Base_V21_Theme_AppCompat = 2131296348;
+			// aapt resource value: 0x7f0a005c
+			public const int Base_V21_Theme_AppCompat = 2131361884;
 			
-			// aapt resource value: 0x7f09005d
-			public const int Base_V21_Theme_AppCompat_Dialog = 2131296349;
+			// aapt resource value: 0x7f0a005d
+			public const int Base_V21_Theme_AppCompat_Dialog = 2131361885;
 			
-			// aapt resource value: 0x7f09005e
-			public const int Base_V21_Theme_AppCompat_Light = 2131296350;
+			// aapt resource value: 0x7f0a005e
+			public const int Base_V21_Theme_AppCompat_Light = 2131361886;
 			
-			// aapt resource value: 0x7f09005f
-			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2131296351;
+			// aapt resource value: 0x7f0a005f
+			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2131361887;
 			
-			// aapt resource value: 0x7f090060
-			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2131296352;
+			// aapt resource value: 0x7f0a0060
+			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2131361888;
 			
-			// aapt resource value: 0x7f09015c
-			public const int Base_V21_Widget_Design_AppBarLayout = 2131296604;
+			// aapt resource value: 0x7f0a015c
+			public const int Base_V21_Widget_Design_AppBarLayout = 2131362140;
 			
-			// aapt resource value: 0x7f090084
-			public const int Base_V22_Theme_AppCompat = 2131296388;
+			// aapt resource value: 0x7f0a0084
+			public const int Base_V22_Theme_AppCompat = 2131361924;
 			
-			// aapt resource value: 0x7f090085
-			public const int Base_V22_Theme_AppCompat_Light = 2131296389;
+			// aapt resource value: 0x7f0a0085
+			public const int Base_V22_Theme_AppCompat_Light = 2131361925;
 			
-			// aapt resource value: 0x7f090088
-			public const int Base_V23_Theme_AppCompat = 2131296392;
+			// aapt resource value: 0x7f0a0088
+			public const int Base_V23_Theme_AppCompat = 2131361928;
 			
-			// aapt resource value: 0x7f090089
-			public const int Base_V23_Theme_AppCompat_Light = 2131296393;
+			// aapt resource value: 0x7f0a0089
+			public const int Base_V23_Theme_AppCompat_Light = 2131361929;
 			
-			// aapt resource value: 0x7f090091
-			public const int Base_V26_Theme_AppCompat = 2131296401;
+			// aapt resource value: 0x7f0a0091
+			public const int Base_V26_Theme_AppCompat = 2131361937;
 			
-			// aapt resource value: 0x7f090092
-			public const int Base_V26_Theme_AppCompat_Light = 2131296402;
+			// aapt resource value: 0x7f0a0092
+			public const int Base_V26_Theme_AppCompat_Light = 2131361938;
 			
-			// aapt resource value: 0x7f090093
-			public const int Base_V26_Widget_AppCompat_Toolbar = 2131296403;
+			// aapt resource value: 0x7f0a0093
+			public const int Base_V26_Widget_AppCompat_Toolbar = 2131361939;
 			
-			// aapt resource value: 0x7f09015e
-			public const int Base_V26_Widget_Design_AppBarLayout = 2131296606;
+			// aapt resource value: 0x7f0a015e
+			public const int Base_V26_Widget_Design_AppBarLayout = 2131362142;
 			
-			// aapt resource value: 0x7f0900ae
-			public const int Base_V7_Theme_AppCompat = 2131296430;
+			// aapt resource value: 0x7f0a00ae
+			public const int Base_V7_Theme_AppCompat = 2131361966;
 			
-			// aapt resource value: 0x7f0900af
-			public const int Base_V7_Theme_AppCompat_Dialog = 2131296431;
+			// aapt resource value: 0x7f0a00af
+			public const int Base_V7_Theme_AppCompat_Dialog = 2131361967;
 			
-			// aapt resource value: 0x7f0900b0
-			public const int Base_V7_Theme_AppCompat_Light = 2131296432;
+			// aapt resource value: 0x7f0a00b0
+			public const int Base_V7_Theme_AppCompat_Light = 2131361968;
 			
-			// aapt resource value: 0x7f0900b1
-			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131296433;
+			// aapt resource value: 0x7f0a00b1
+			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131361969;
 			
-			// aapt resource value: 0x7f0900b2
-			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2131296434;
+			// aapt resource value: 0x7f0a00b2
+			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2131361970;
 			
-			// aapt resource value: 0x7f0900b3
-			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2131296435;
+			// aapt resource value: 0x7f0a00b3
+			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2131361971;
 			
-			// aapt resource value: 0x7f0900b4
-			public const int Base_V7_Widget_AppCompat_EditText = 2131296436;
+			// aapt resource value: 0x7f0a00b4
+			public const int Base_V7_Widget_AppCompat_EditText = 2131361972;
 			
-			// aapt resource value: 0x7f0900b5
-			public const int Base_V7_Widget_AppCompat_Toolbar = 2131296437;
+			// aapt resource value: 0x7f0a00b5
+			public const int Base_V7_Widget_AppCompat_Toolbar = 2131361973;
 			
-			// aapt resource value: 0x7f0900b6
-			public const int Base_Widget_AppCompat_ActionBar = 2131296438;
+			// aapt resource value: 0x7f0a00b6
+			public const int Base_Widget_AppCompat_ActionBar = 2131361974;
 			
-			// aapt resource value: 0x7f0900b7
-			public const int Base_Widget_AppCompat_ActionBar_Solid = 2131296439;
+			// aapt resource value: 0x7f0a00b7
+			public const int Base_Widget_AppCompat_ActionBar_Solid = 2131361975;
 			
-			// aapt resource value: 0x7f0900b8
-			public const int Base_Widget_AppCompat_ActionBar_TabBar = 2131296440;
+			// aapt resource value: 0x7f0a00b8
+			public const int Base_Widget_AppCompat_ActionBar_TabBar = 2131361976;
 			
-			// aapt resource value: 0x7f090061
-			public const int Base_Widget_AppCompat_ActionBar_TabText = 2131296353;
+			// aapt resource value: 0x7f0a0061
+			public const int Base_Widget_AppCompat_ActionBar_TabText = 2131361889;
 			
-			// aapt resource value: 0x7f090062
-			public const int Base_Widget_AppCompat_ActionBar_TabView = 2131296354;
+			// aapt resource value: 0x7f0a0062
+			public const int Base_Widget_AppCompat_ActionBar_TabView = 2131361890;
 			
-			// aapt resource value: 0x7f090063
-			public const int Base_Widget_AppCompat_ActionButton = 2131296355;
+			// aapt resource value: 0x7f0a0063
+			public const int Base_Widget_AppCompat_ActionButton = 2131361891;
 			
-			// aapt resource value: 0x7f090064
-			public const int Base_Widget_AppCompat_ActionButton_CloseMode = 2131296356;
+			// aapt resource value: 0x7f0a0064
+			public const int Base_Widget_AppCompat_ActionButton_CloseMode = 2131361892;
 			
-			// aapt resource value: 0x7f090065
-			public const int Base_Widget_AppCompat_ActionButton_Overflow = 2131296357;
+			// aapt resource value: 0x7f0a0065
+			public const int Base_Widget_AppCompat_ActionButton_Overflow = 2131361893;
 			
-			// aapt resource value: 0x7f0900b9
-			public const int Base_Widget_AppCompat_ActionMode = 2131296441;
+			// aapt resource value: 0x7f0a00b9
+			public const int Base_Widget_AppCompat_ActionMode = 2131361977;
 			
-			// aapt resource value: 0x7f0900ba
-			public const int Base_Widget_AppCompat_ActivityChooserView = 2131296442;
+			// aapt resource value: 0x7f0a00ba
+			public const int Base_Widget_AppCompat_ActivityChooserView = 2131361978;
 			
-			// aapt resource value: 0x7f090025
-			public const int Base_Widget_AppCompat_AutoCompleteTextView = 2131296293;
+			// aapt resource value: 0x7f0a0025
+			public const int Base_Widget_AppCompat_AutoCompleteTextView = 2131361829;
 			
-			// aapt resource value: 0x7f090066
-			public const int Base_Widget_AppCompat_Button = 2131296358;
+			// aapt resource value: 0x7f0a0066
+			public const int Base_Widget_AppCompat_Button = 2131361894;
 			
-			// aapt resource value: 0x7f090067
-			public const int Base_Widget_AppCompat_Button_Borderless = 2131296359;
+			// aapt resource value: 0x7f0a0067
+			public const int Base_Widget_AppCompat_Button_Borderless = 2131361895;
 			
-			// aapt resource value: 0x7f090068
-			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2131296360;
+			// aapt resource value: 0x7f0a0068
+			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2131361896;
 			
-			// aapt resource value: 0x7f0900bb
-			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131296443;
+			// aapt resource value: 0x7f0a00bb
+			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131361979;
 			
-			// aapt resource value: 0x7f09008a
-			public const int Base_Widget_AppCompat_Button_Colored = 2131296394;
+			// aapt resource value: 0x7f0a008a
+			public const int Base_Widget_AppCompat_Button_Colored = 2131361930;
 			
-			// aapt resource value: 0x7f090069
-			public const int Base_Widget_AppCompat_Button_Small = 2131296361;
+			// aapt resource value: 0x7f0a0069
+			public const int Base_Widget_AppCompat_Button_Small = 2131361897;
 			
-			// aapt resource value: 0x7f09006a
-			public const int Base_Widget_AppCompat_ButtonBar = 2131296362;
+			// aapt resource value: 0x7f0a006a
+			public const int Base_Widget_AppCompat_ButtonBar = 2131361898;
 			
-			// aapt resource value: 0x7f0900bc
-			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2131296444;
+			// aapt resource value: 0x7f0a00bc
+			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2131361980;
 			
-			// aapt resource value: 0x7f09006b
-			public const int Base_Widget_AppCompat_CompoundButton_CheckBox = 2131296363;
+			// aapt resource value: 0x7f0a006b
+			public const int Base_Widget_AppCompat_CompoundButton_CheckBox = 2131361899;
 			
-			// aapt resource value: 0x7f09006c
-			public const int Base_Widget_AppCompat_CompoundButton_RadioButton = 2131296364;
+			// aapt resource value: 0x7f0a006c
+			public const int Base_Widget_AppCompat_CompoundButton_RadioButton = 2131361900;
 			
-			// aapt resource value: 0x7f0900bd
-			public const int Base_Widget_AppCompat_CompoundButton_Switch = 2131296445;
+			// aapt resource value: 0x7f0a00bd
+			public const int Base_Widget_AppCompat_CompoundButton_Switch = 2131361981;
 			
-			// aapt resource value: 0x7f090000
-			public const int Base_Widget_AppCompat_DrawerArrowToggle = 2131296256;
+			// aapt resource value: 0x7f0a0000
+			public const int Base_Widget_AppCompat_DrawerArrowToggle = 2131361792;
 			
-			// aapt resource value: 0x7f0900be
-			public const int Base_Widget_AppCompat_DrawerArrowToggle_Common = 2131296446;
+			// aapt resource value: 0x7f0a00be
+			public const int Base_Widget_AppCompat_DrawerArrowToggle_Common = 2131361982;
 			
-			// aapt resource value: 0x7f09006d
-			public const int Base_Widget_AppCompat_DropDownItem_Spinner = 2131296365;
+			// aapt resource value: 0x7f0a006d
+			public const int Base_Widget_AppCompat_DropDownItem_Spinner = 2131361901;
 			
-			// aapt resource value: 0x7f090026
-			public const int Base_Widget_AppCompat_EditText = 2131296294;
+			// aapt resource value: 0x7f0a0026
+			public const int Base_Widget_AppCompat_EditText = 2131361830;
 			
-			// aapt resource value: 0x7f09006e
-			public const int Base_Widget_AppCompat_ImageButton = 2131296366;
+			// aapt resource value: 0x7f0a006e
+			public const int Base_Widget_AppCompat_ImageButton = 2131361902;
 			
-			// aapt resource value: 0x7f0900bf
-			public const int Base_Widget_AppCompat_Light_ActionBar = 2131296447;
+			// aapt resource value: 0x7f0a00bf
+			public const int Base_Widget_AppCompat_Light_ActionBar = 2131361983;
 			
-			// aapt resource value: 0x7f0900c0
-			public const int Base_Widget_AppCompat_Light_ActionBar_Solid = 2131296448;
+			// aapt resource value: 0x7f0a00c0
+			public const int Base_Widget_AppCompat_Light_ActionBar_Solid = 2131361984;
 			
-			// aapt resource value: 0x7f0900c1
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabBar = 2131296449;
+			// aapt resource value: 0x7f0a00c1
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabBar = 2131361985;
 			
-			// aapt resource value: 0x7f09006f
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabText = 2131296367;
+			// aapt resource value: 0x7f0a006f
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabText = 2131361903;
 			
-			// aapt resource value: 0x7f090070
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131296368;
+			// aapt resource value: 0x7f0a0070
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131361904;
 			
-			// aapt resource value: 0x7f090071
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabView = 2131296369;
+			// aapt resource value: 0x7f0a0071
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabView = 2131361905;
 			
-			// aapt resource value: 0x7f090072
-			public const int Base_Widget_AppCompat_Light_PopupMenu = 2131296370;
+			// aapt resource value: 0x7f0a0072
+			public const int Base_Widget_AppCompat_Light_PopupMenu = 2131361906;
 			
-			// aapt resource value: 0x7f090073
-			public const int Base_Widget_AppCompat_Light_PopupMenu_Overflow = 2131296371;
+			// aapt resource value: 0x7f0a0073
+			public const int Base_Widget_AppCompat_Light_PopupMenu_Overflow = 2131361907;
 			
-			// aapt resource value: 0x7f0900c2
-			public const int Base_Widget_AppCompat_ListMenuView = 2131296450;
+			// aapt resource value: 0x7f0a00c2
+			public const int Base_Widget_AppCompat_ListMenuView = 2131361986;
 			
-			// aapt resource value: 0x7f090074
-			public const int Base_Widget_AppCompat_ListPopupWindow = 2131296372;
+			// aapt resource value: 0x7f0a0074
+			public const int Base_Widget_AppCompat_ListPopupWindow = 2131361908;
 			
-			// aapt resource value: 0x7f090075
-			public const int Base_Widget_AppCompat_ListView = 2131296373;
+			// aapt resource value: 0x7f0a0075
+			public const int Base_Widget_AppCompat_ListView = 2131361909;
 			
-			// aapt resource value: 0x7f090076
-			public const int Base_Widget_AppCompat_ListView_DropDown = 2131296374;
+			// aapt resource value: 0x7f0a0076
+			public const int Base_Widget_AppCompat_ListView_DropDown = 2131361910;
 			
-			// aapt resource value: 0x7f090077
-			public const int Base_Widget_AppCompat_ListView_Menu = 2131296375;
+			// aapt resource value: 0x7f0a0077
+			public const int Base_Widget_AppCompat_ListView_Menu = 2131361911;
 			
-			// aapt resource value: 0x7f090078
-			public const int Base_Widget_AppCompat_PopupMenu = 2131296376;
+			// aapt resource value: 0x7f0a0078
+			public const int Base_Widget_AppCompat_PopupMenu = 2131361912;
 			
-			// aapt resource value: 0x7f090079
-			public const int Base_Widget_AppCompat_PopupMenu_Overflow = 2131296377;
+			// aapt resource value: 0x7f0a0079
+			public const int Base_Widget_AppCompat_PopupMenu_Overflow = 2131361913;
 			
-			// aapt resource value: 0x7f0900c3
-			public const int Base_Widget_AppCompat_PopupWindow = 2131296451;
+			// aapt resource value: 0x7f0a00c3
+			public const int Base_Widget_AppCompat_PopupWindow = 2131361987;
 			
-			// aapt resource value: 0x7f09001c
-			public const int Base_Widget_AppCompat_ProgressBar = 2131296284;
+			// aapt resource value: 0x7f0a001c
+			public const int Base_Widget_AppCompat_ProgressBar = 2131361820;
 			
-			// aapt resource value: 0x7f09001d
-			public const int Base_Widget_AppCompat_ProgressBar_Horizontal = 2131296285;
+			// aapt resource value: 0x7f0a001d
+			public const int Base_Widget_AppCompat_ProgressBar_Horizontal = 2131361821;
 			
-			// aapt resource value: 0x7f09007a
-			public const int Base_Widget_AppCompat_RatingBar = 2131296378;
+			// aapt resource value: 0x7f0a007a
+			public const int Base_Widget_AppCompat_RatingBar = 2131361914;
 			
-			// aapt resource value: 0x7f09008b
-			public const int Base_Widget_AppCompat_RatingBar_Indicator = 2131296395;
+			// aapt resource value: 0x7f0a008b
+			public const int Base_Widget_AppCompat_RatingBar_Indicator = 2131361931;
 			
-			// aapt resource value: 0x7f09008c
-			public const int Base_Widget_AppCompat_RatingBar_Small = 2131296396;
+			// aapt resource value: 0x7f0a008c
+			public const int Base_Widget_AppCompat_RatingBar_Small = 2131361932;
 			
-			// aapt resource value: 0x7f0900c4
-			public const int Base_Widget_AppCompat_SearchView = 2131296452;
+			// aapt resource value: 0x7f0a00c4
+			public const int Base_Widget_AppCompat_SearchView = 2131361988;
 			
-			// aapt resource value: 0x7f0900c5
-			public const int Base_Widget_AppCompat_SearchView_ActionBar = 2131296453;
+			// aapt resource value: 0x7f0a00c5
+			public const int Base_Widget_AppCompat_SearchView_ActionBar = 2131361989;
 			
-			// aapt resource value: 0x7f09007b
-			public const int Base_Widget_AppCompat_SeekBar = 2131296379;
+			// aapt resource value: 0x7f0a007b
+			public const int Base_Widget_AppCompat_SeekBar = 2131361915;
 			
-			// aapt resource value: 0x7f0900c6
-			public const int Base_Widget_AppCompat_SeekBar_Discrete = 2131296454;
+			// aapt resource value: 0x7f0a00c6
+			public const int Base_Widget_AppCompat_SeekBar_Discrete = 2131361990;
 			
-			// aapt resource value: 0x7f09007c
-			public const int Base_Widget_AppCompat_Spinner = 2131296380;
+			// aapt resource value: 0x7f0a007c
+			public const int Base_Widget_AppCompat_Spinner = 2131361916;
 			
-			// aapt resource value: 0x7f090003
-			public const int Base_Widget_AppCompat_Spinner_Underlined = 2131296259;
+			// aapt resource value: 0x7f0a0003
+			public const int Base_Widget_AppCompat_Spinner_Underlined = 2131361795;
 			
-			// aapt resource value: 0x7f09007d
-			public const int Base_Widget_AppCompat_TextView_SpinnerItem = 2131296381;
+			// aapt resource value: 0x7f0a007d
+			public const int Base_Widget_AppCompat_TextView_SpinnerItem = 2131361917;
 			
-			// aapt resource value: 0x7f090094
-			public const int Base_Widget_AppCompat_Toolbar = 2131296404;
+			// aapt resource value: 0x7f0a0094
+			public const int Base_Widget_AppCompat_Toolbar = 2131361940;
 			
-			// aapt resource value: 0x7f09007e
-			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2131296382;
+			// aapt resource value: 0x7f0a007e
+			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2131361918;
 			
-			// aapt resource value: 0x7f09015d
-			public const int Base_Widget_Design_AppBarLayout = 2131296605;
+			// aapt resource value: 0x7f0a015d
+			public const int Base_Widget_Design_AppBarLayout = 2131362141;
 			
-			// aapt resource value: 0x7f090161
-			public const int Base_Widget_Design_TabLayout = 2131296609;
+			// aapt resource value: 0x7f0a0161
+			public const int Base_Widget_Design_TabLayout = 2131362145;
 			
-			// aapt resource value: 0x7f09001e
-			public const int Platform_AppCompat = 2131296286;
+			// aapt resource value: 0x7f0a001e
+			public const int Platform_AppCompat = 2131361822;
 			
-			// aapt resource value: 0x7f09001f
-			public const int Platform_AppCompat_Light = 2131296287;
+			// aapt resource value: 0x7f0a001f
+			public const int Platform_AppCompat_Light = 2131361823;
 			
-			// aapt resource value: 0x7f09007f
-			public const int Platform_ThemeOverlay_AppCompat = 2131296383;
+			// aapt resource value: 0x7f0a007f
+			public const int Platform_ThemeOverlay_AppCompat = 2131361919;
 			
-			// aapt resource value: 0x7f090080
-			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131296384;
+			// aapt resource value: 0x7f0a0080
+			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131361920;
 			
-			// aapt resource value: 0x7f090081
-			public const int Platform_ThemeOverlay_AppCompat_Light = 2131296385;
+			// aapt resource value: 0x7f0a0081
+			public const int Platform_ThemeOverlay_AppCompat_Light = 2131361921;
 			
-			// aapt resource value: 0x7f090020
-			public const int Platform_V11_AppCompat = 2131296288;
+			// aapt resource value: 0x7f0a0020
+			public const int Platform_V11_AppCompat = 2131361824;
 			
-			// aapt resource value: 0x7f090021
-			public const int Platform_V11_AppCompat_Light = 2131296289;
+			// aapt resource value: 0x7f0a0021
+			public const int Platform_V11_AppCompat_Light = 2131361825;
 			
-			// aapt resource value: 0x7f090028
-			public const int Platform_V14_AppCompat = 2131296296;
+			// aapt resource value: 0x7f0a0028
+			public const int Platform_V14_AppCompat = 2131361832;
 			
-			// aapt resource value: 0x7f090029
-			public const int Platform_V14_AppCompat_Light = 2131296297;
+			// aapt resource value: 0x7f0a0029
+			public const int Platform_V14_AppCompat_Light = 2131361833;
 			
-			// aapt resource value: 0x7f090082
-			public const int Platform_V21_AppCompat = 2131296386;
+			// aapt resource value: 0x7f0a0082
+			public const int Platform_V21_AppCompat = 2131361922;
 			
-			// aapt resource value: 0x7f090083
-			public const int Platform_V21_AppCompat_Light = 2131296387;
+			// aapt resource value: 0x7f0a0083
+			public const int Platform_V21_AppCompat_Light = 2131361923;
 			
-			// aapt resource value: 0x7f09008f
-			public const int Platform_V25_AppCompat = 2131296399;
+			// aapt resource value: 0x7f0a008f
+			public const int Platform_V25_AppCompat = 2131361935;
 			
-			// aapt resource value: 0x7f090090
-			public const int Platform_V25_AppCompat_Light = 2131296400;
+			// aapt resource value: 0x7f0a0090
+			public const int Platform_V25_AppCompat_Light = 2131361936;
 			
-			// aapt resource value: 0x7f090022
-			public const int Platform_Widget_AppCompat_Spinner = 2131296290;
+			// aapt resource value: 0x7f0a0022
+			public const int Platform_Widget_AppCompat_Spinner = 2131361826;
 			
-			// aapt resource value: 0x7f09002b
-			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131296299;
+			// aapt resource value: 0x7f0a002b
+			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131361835;
 			
-			// aapt resource value: 0x7f09002c
-			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131296300;
+			// aapt resource value: 0x7f0a002c
+			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131361836;
 			
-			// aapt resource value: 0x7f09002d
-			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131296301;
+			// aapt resource value: 0x7f0a002d
+			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131361837;
 			
-			// aapt resource value: 0x7f09002e
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131296302;
+			// aapt resource value: 0x7f0a002e
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131361838;
 			
-			// aapt resource value: 0x7f09002f
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131296303;
+			// aapt resource value: 0x7f0a002f
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131361839;
 			
-			// aapt resource value: 0x7f090030
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131296304;
+			// aapt resource value: 0x7f0a0030
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131361840;
 			
-			// aapt resource value: 0x7f090031
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131296305;
+			// aapt resource value: 0x7f0a0031
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131361841;
 			
-			// aapt resource value: 0x7f090032
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131296306;
+			// aapt resource value: 0x7f0a0032
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131361842;
 			
-			// aapt resource value: 0x7f090033
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131296307;
+			// aapt resource value: 0x7f0a0033
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131361843;
 			
-			// aapt resource value: 0x7f090034
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131296308;
+			// aapt resource value: 0x7f0a0034
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131361844;
 			
-			// aapt resource value: 0x7f090035
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131296309;
+			// aapt resource value: 0x7f0a0035
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131361845;
 			
-			// aapt resource value: 0x7f090036
-			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131296310;
+			// aapt resource value: 0x7f0a0036
+			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131361846;
 			
-			// aapt resource value: 0x7f090037
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131296311;
+			// aapt resource value: 0x7f0a0037
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131361847;
 			
-			// aapt resource value: 0x7f090038
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131296312;
+			// aapt resource value: 0x7f0a0038
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131361848;
 			
-			// aapt resource value: 0x7f0900c7
-			public const int TextAppearance_AppCompat = 2131296455;
+			// aapt resource value: 0x7f0a00c7
+			public const int TextAppearance_AppCompat = 2131361991;
 			
-			// aapt resource value: 0x7f0900c8
-			public const int TextAppearance_AppCompat_Body1 = 2131296456;
+			// aapt resource value: 0x7f0a00c8
+			public const int TextAppearance_AppCompat_Body1 = 2131361992;
 			
-			// aapt resource value: 0x7f0900c9
-			public const int TextAppearance_AppCompat_Body2 = 2131296457;
+			// aapt resource value: 0x7f0a00c9
+			public const int TextAppearance_AppCompat_Body2 = 2131361993;
 			
-			// aapt resource value: 0x7f0900ca
-			public const int TextAppearance_AppCompat_Button = 2131296458;
+			// aapt resource value: 0x7f0a00ca
+			public const int TextAppearance_AppCompat_Button = 2131361994;
 			
-			// aapt resource value: 0x7f0900cb
-			public const int TextAppearance_AppCompat_Caption = 2131296459;
+			// aapt resource value: 0x7f0a00cb
+			public const int TextAppearance_AppCompat_Caption = 2131361995;
 			
-			// aapt resource value: 0x7f0900cc
-			public const int TextAppearance_AppCompat_Display1 = 2131296460;
+			// aapt resource value: 0x7f0a00cc
+			public const int TextAppearance_AppCompat_Display1 = 2131361996;
 			
-			// aapt resource value: 0x7f0900cd
-			public const int TextAppearance_AppCompat_Display2 = 2131296461;
+			// aapt resource value: 0x7f0a00cd
+			public const int TextAppearance_AppCompat_Display2 = 2131361997;
 			
-			// aapt resource value: 0x7f0900ce
-			public const int TextAppearance_AppCompat_Display3 = 2131296462;
+			// aapt resource value: 0x7f0a00ce
+			public const int TextAppearance_AppCompat_Display3 = 2131361998;
 			
-			// aapt resource value: 0x7f0900cf
-			public const int TextAppearance_AppCompat_Display4 = 2131296463;
+			// aapt resource value: 0x7f0a00cf
+			public const int TextAppearance_AppCompat_Display4 = 2131361999;
 			
-			// aapt resource value: 0x7f0900d0
-			public const int TextAppearance_AppCompat_Headline = 2131296464;
+			// aapt resource value: 0x7f0a00d0
+			public const int TextAppearance_AppCompat_Headline = 2131362000;
 			
-			// aapt resource value: 0x7f0900d1
-			public const int TextAppearance_AppCompat_Inverse = 2131296465;
+			// aapt resource value: 0x7f0a00d1
+			public const int TextAppearance_AppCompat_Inverse = 2131362001;
 			
-			// aapt resource value: 0x7f0900d2
-			public const int TextAppearance_AppCompat_Large = 2131296466;
+			// aapt resource value: 0x7f0a00d2
+			public const int TextAppearance_AppCompat_Large = 2131362002;
 			
-			// aapt resource value: 0x7f0900d3
-			public const int TextAppearance_AppCompat_Large_Inverse = 2131296467;
+			// aapt resource value: 0x7f0a00d3
+			public const int TextAppearance_AppCompat_Large_Inverse = 2131362003;
 			
-			// aapt resource value: 0x7f0900d4
-			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131296468;
+			// aapt resource value: 0x7f0a00d4
+			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131362004;
 			
-			// aapt resource value: 0x7f0900d5
-			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131296469;
+			// aapt resource value: 0x7f0a00d5
+			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131362005;
 			
-			// aapt resource value: 0x7f0900d6
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131296470;
+			// aapt resource value: 0x7f0a00d6
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131362006;
 			
-			// aapt resource value: 0x7f0900d7
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131296471;
+			// aapt resource value: 0x7f0a00d7
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131362007;
 			
-			// aapt resource value: 0x7f0900d8
-			public const int TextAppearance_AppCompat_Medium = 2131296472;
+			// aapt resource value: 0x7f0a00d8
+			public const int TextAppearance_AppCompat_Medium = 2131362008;
 			
-			// aapt resource value: 0x7f0900d9
-			public const int TextAppearance_AppCompat_Medium_Inverse = 2131296473;
+			// aapt resource value: 0x7f0a00d9
+			public const int TextAppearance_AppCompat_Medium_Inverse = 2131362009;
 			
-			// aapt resource value: 0x7f0900da
-			public const int TextAppearance_AppCompat_Menu = 2131296474;
+			// aapt resource value: 0x7f0a00da
+			public const int TextAppearance_AppCompat_Menu = 2131362010;
 			
-			// aapt resource value: 0x7f0900db
-			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131296475;
+			// aapt resource value: 0x7f0a00db
+			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131362011;
 			
-			// aapt resource value: 0x7f0900dc
-			public const int TextAppearance_AppCompat_SearchResult_Title = 2131296476;
+			// aapt resource value: 0x7f0a00dc
+			public const int TextAppearance_AppCompat_SearchResult_Title = 2131362012;
 			
-			// aapt resource value: 0x7f0900dd
-			public const int TextAppearance_AppCompat_Small = 2131296477;
+			// aapt resource value: 0x7f0a00dd
+			public const int TextAppearance_AppCompat_Small = 2131362013;
 			
-			// aapt resource value: 0x7f0900de
-			public const int TextAppearance_AppCompat_Small_Inverse = 2131296478;
+			// aapt resource value: 0x7f0a00de
+			public const int TextAppearance_AppCompat_Small_Inverse = 2131362014;
 			
-			// aapt resource value: 0x7f0900df
-			public const int TextAppearance_AppCompat_Subhead = 2131296479;
+			// aapt resource value: 0x7f0a00df
+			public const int TextAppearance_AppCompat_Subhead = 2131362015;
 			
-			// aapt resource value: 0x7f0900e0
-			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131296480;
+			// aapt resource value: 0x7f0a00e0
+			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131362016;
 			
-			// aapt resource value: 0x7f0900e1
-			public const int TextAppearance_AppCompat_Title = 2131296481;
+			// aapt resource value: 0x7f0a00e1
+			public const int TextAppearance_AppCompat_Title = 2131362017;
 			
-			// aapt resource value: 0x7f0900e2
-			public const int TextAppearance_AppCompat_Title_Inverse = 2131296482;
+			// aapt resource value: 0x7f0a00e2
+			public const int TextAppearance_AppCompat_Title_Inverse = 2131362018;
 			
-			// aapt resource value: 0x7f09002a
-			public const int TextAppearance_AppCompat_Tooltip = 2131296298;
+			// aapt resource value: 0x7f0a002a
+			public const int TextAppearance_AppCompat_Tooltip = 2131361834;
 			
-			// aapt resource value: 0x7f0900e3
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131296483;
+			// aapt resource value: 0x7f0a00e3
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131362019;
 			
-			// aapt resource value: 0x7f0900e4
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131296484;
+			// aapt resource value: 0x7f0a00e4
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131362020;
 			
-			// aapt resource value: 0x7f0900e5
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131296485;
+			// aapt resource value: 0x7f0a00e5
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131362021;
 			
-			// aapt resource value: 0x7f0900e6
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131296486;
+			// aapt resource value: 0x7f0a00e6
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131362022;
 			
-			// aapt resource value: 0x7f0900e7
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131296487;
+			// aapt resource value: 0x7f0a00e7
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131362023;
 			
-			// aapt resource value: 0x7f0900e8
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131296488;
+			// aapt resource value: 0x7f0a00e8
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131362024;
 			
-			// aapt resource value: 0x7f0900e9
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131296489;
+			// aapt resource value: 0x7f0a00e9
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131362025;
 			
-			// aapt resource value: 0x7f0900ea
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131296490;
+			// aapt resource value: 0x7f0a00ea
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131362026;
 			
-			// aapt resource value: 0x7f0900eb
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131296491;
+			// aapt resource value: 0x7f0a00eb
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131362027;
 			
-			// aapt resource value: 0x7f0900ec
-			public const int TextAppearance_AppCompat_Widget_Button = 2131296492;
+			// aapt resource value: 0x7f0a00ec
+			public const int TextAppearance_AppCompat_Widget_Button = 2131362028;
 			
-			// aapt resource value: 0x7f0900ed
-			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131296493;
+			// aapt resource value: 0x7f0a00ed
+			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131362029;
 			
-			// aapt resource value: 0x7f0900ee
-			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131296494;
+			// aapt resource value: 0x7f0a00ee
+			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131362030;
 			
-			// aapt resource value: 0x7f0900ef
-			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131296495;
+			// aapt resource value: 0x7f0a00ef
+			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131362031;
 			
-			// aapt resource value: 0x7f0900f0
-			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131296496;
+			// aapt resource value: 0x7f0a00f0
+			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131362032;
 			
-			// aapt resource value: 0x7f0900f1
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131296497;
+			// aapt resource value: 0x7f0a00f1
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131362033;
 			
-			// aapt resource value: 0x7f0900f2
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131296498;
+			// aapt resource value: 0x7f0a00f2
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131362034;
 			
-			// aapt resource value: 0x7f0900f3
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131296499;
+			// aapt resource value: 0x7f0a00f3
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131362035;
 			
-			// aapt resource value: 0x7f0900f4
-			public const int TextAppearance_AppCompat_Widget_Switch = 2131296500;
+			// aapt resource value: 0x7f0a00f4
+			public const int TextAppearance_AppCompat_Widget_Switch = 2131362036;
 			
-			// aapt resource value: 0x7f0900f5
-			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131296501;
+			// aapt resource value: 0x7f0a00f5
+			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131362037;
 			
-			// aapt resource value: 0x7f090179
-			public const int TextAppearance_Compat_Notification = 2131296633;
+			// aapt resource value: 0x7f0a0179
+			public const int TextAppearance_Compat_Notification = 2131362169;
 			
-			// aapt resource value: 0x7f09017a
-			public const int TextAppearance_Compat_Notification_Info = 2131296634;
+			// aapt resource value: 0x7f0a017a
+			public const int TextAppearance_Compat_Notification_Info = 2131362170;
 			
-			// aapt resource value: 0x7f090156
-			public const int TextAppearance_Compat_Notification_Info_Media = 2131296598;
+			// aapt resource value: 0x7f0a0156
+			public const int TextAppearance_Compat_Notification_Info_Media = 2131362134;
 			
-			// aapt resource value: 0x7f09017f
-			public const int TextAppearance_Compat_Notification_Line2 = 2131296639;
+			// aapt resource value: 0x7f0a017f
+			public const int TextAppearance_Compat_Notification_Line2 = 2131362175;
 			
-			// aapt resource value: 0x7f09015a
-			public const int TextAppearance_Compat_Notification_Line2_Media = 2131296602;
+			// aapt resource value: 0x7f0a015a
+			public const int TextAppearance_Compat_Notification_Line2_Media = 2131362138;
 			
-			// aapt resource value: 0x7f090157
-			public const int TextAppearance_Compat_Notification_Media = 2131296599;
+			// aapt resource value: 0x7f0a0157
+			public const int TextAppearance_Compat_Notification_Media = 2131362135;
 			
-			// aapt resource value: 0x7f09017b
-			public const int TextAppearance_Compat_Notification_Time = 2131296635;
+			// aapt resource value: 0x7f0a017b
+			public const int TextAppearance_Compat_Notification_Time = 2131362171;
 			
-			// aapt resource value: 0x7f090158
-			public const int TextAppearance_Compat_Notification_Time_Media = 2131296600;
+			// aapt resource value: 0x7f0a0158
+			public const int TextAppearance_Compat_Notification_Time_Media = 2131362136;
 			
-			// aapt resource value: 0x7f09017c
-			public const int TextAppearance_Compat_Notification_Title = 2131296636;
+			// aapt resource value: 0x7f0a017c
+			public const int TextAppearance_Compat_Notification_Title = 2131362172;
 			
-			// aapt resource value: 0x7f090159
-			public const int TextAppearance_Compat_Notification_Title_Media = 2131296601;
+			// aapt resource value: 0x7f0a0159
+			public const int TextAppearance_Compat_Notification_Title_Media = 2131362137;
 			
-			// aapt resource value: 0x7f090162
-			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131296610;
+			// aapt resource value: 0x7f0a0162
+			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131362146;
 			
-			// aapt resource value: 0x7f090163
-			public const int TextAppearance_Design_Counter = 2131296611;
+			// aapt resource value: 0x7f0a0163
+			public const int TextAppearance_Design_Counter = 2131362147;
 			
-			// aapt resource value: 0x7f090164
-			public const int TextAppearance_Design_Counter_Overflow = 2131296612;
+			// aapt resource value: 0x7f0a0164
+			public const int TextAppearance_Design_Counter_Overflow = 2131362148;
 			
-			// aapt resource value: 0x7f090165
-			public const int TextAppearance_Design_Error = 2131296613;
+			// aapt resource value: 0x7f0a0165
+			public const int TextAppearance_Design_Error = 2131362149;
 			
-			// aapt resource value: 0x7f090166
-			public const int TextAppearance_Design_Hint = 2131296614;
+			// aapt resource value: 0x7f0a0166
+			public const int TextAppearance_Design_Hint = 2131362150;
 			
-			// aapt resource value: 0x7f090167
-			public const int TextAppearance_Design_Snackbar_Message = 2131296615;
+			// aapt resource value: 0x7f0a0167
+			public const int TextAppearance_Design_Snackbar_Message = 2131362151;
 			
-			// aapt resource value: 0x7f090168
-			public const int TextAppearance_Design_Tab = 2131296616;
+			// aapt resource value: 0x7f0a0168
+			public const int TextAppearance_Design_Tab = 2131362152;
 			
-			// aapt resource value: 0x7f0900f6
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131296502;
+			// aapt resource value: 0x7f0a00f6
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131362038;
 			
-			// aapt resource value: 0x7f0900f7
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131296503;
+			// aapt resource value: 0x7f0a00f7
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131362039;
 			
-			// aapt resource value: 0x7f0900f8
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131296504;
+			// aapt resource value: 0x7f0a00f8
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131362040;
 			
-			// aapt resource value: 0x7f0900f9
-			public const int Theme_AppCompat = 2131296505;
+			// aapt resource value: 0x7f0a00f9
+			public const int Theme_AppCompat = 2131362041;
 			
-			// aapt resource value: 0x7f0900fa
-			public const int Theme_AppCompat_CompactMenu = 2131296506;
+			// aapt resource value: 0x7f0a00fa
+			public const int Theme_AppCompat_CompactMenu = 2131362042;
 			
-			// aapt resource value: 0x7f090004
-			public const int Theme_AppCompat_DayNight = 2131296260;
+			// aapt resource value: 0x7f0a0004
+			public const int Theme_AppCompat_DayNight = 2131361796;
 			
-			// aapt resource value: 0x7f090005
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131296261;
+			// aapt resource value: 0x7f0a0005
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131361797;
 			
-			// aapt resource value: 0x7f090006
-			public const int Theme_AppCompat_DayNight_Dialog = 2131296262;
+			// aapt resource value: 0x7f0a0006
+			public const int Theme_AppCompat_DayNight_Dialog = 2131361798;
 			
-			// aapt resource value: 0x7f090007
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131296263;
+			// aapt resource value: 0x7f0a0007
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131361799;
 			
-			// aapt resource value: 0x7f090008
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131296264;
+			// aapt resource value: 0x7f0a0008
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131361800;
 			
-			// aapt resource value: 0x7f090009
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131296265;
+			// aapt resource value: 0x7f0a0009
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131361801;
 			
-			// aapt resource value: 0x7f09000a
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131296266;
+			// aapt resource value: 0x7f0a000a
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131361802;
 			
-			// aapt resource value: 0x7f0900fb
-			public const int Theme_AppCompat_Dialog = 2131296507;
+			// aapt resource value: 0x7f0a00fb
+			public const int Theme_AppCompat_Dialog = 2131362043;
 			
-			// aapt resource value: 0x7f0900fc
-			public const int Theme_AppCompat_Dialog_Alert = 2131296508;
+			// aapt resource value: 0x7f0a00fc
+			public const int Theme_AppCompat_Dialog_Alert = 2131362044;
 			
-			// aapt resource value: 0x7f0900fd
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131296509;
+			// aapt resource value: 0x7f0a00fd
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131362045;
 			
-			// aapt resource value: 0x7f0900fe
-			public const int Theme_AppCompat_DialogWhenLarge = 2131296510;
+			// aapt resource value: 0x7f0a00fe
+			public const int Theme_AppCompat_DialogWhenLarge = 2131362046;
 			
-			// aapt resource value: 0x7f0900ff
-			public const int Theme_AppCompat_Light = 2131296511;
+			// aapt resource value: 0x7f0a00ff
+			public const int Theme_AppCompat_Light = 2131362047;
 			
-			// aapt resource value: 0x7f090100
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131296512;
+			// aapt resource value: 0x7f0a0100
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131362048;
 			
-			// aapt resource value: 0x7f090101
-			public const int Theme_AppCompat_Light_Dialog = 2131296513;
+			// aapt resource value: 0x7f0a0101
+			public const int Theme_AppCompat_Light_Dialog = 2131362049;
 			
-			// aapt resource value: 0x7f090102
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131296514;
+			// aapt resource value: 0x7f0a0102
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131362050;
 			
-			// aapt resource value: 0x7f090103
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131296515;
+			// aapt resource value: 0x7f0a0103
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131362051;
 			
-			// aapt resource value: 0x7f090104
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131296516;
+			// aapt resource value: 0x7f0a0104
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131362052;
 			
-			// aapt resource value: 0x7f090105
-			public const int Theme_AppCompat_Light_NoActionBar = 2131296517;
+			// aapt resource value: 0x7f0a0105
+			public const int Theme_AppCompat_Light_NoActionBar = 2131362053;
 			
-			// aapt resource value: 0x7f090106
-			public const int Theme_AppCompat_NoActionBar = 2131296518;
+			// aapt resource value: 0x7f0a0106
+			public const int Theme_AppCompat_NoActionBar = 2131362054;
 			
-			// aapt resource value: 0x7f090169
-			public const int Theme_Design = 2131296617;
+			// aapt resource value: 0x7f0a0169
+			public const int Theme_Design = 2131362153;
 			
-			// aapt resource value: 0x7f09016a
-			public const int Theme_Design_BottomSheetDialog = 2131296618;
+			// aapt resource value: 0x7f0a016a
+			public const int Theme_Design_BottomSheetDialog = 2131362154;
 			
-			// aapt resource value: 0x7f09016b
-			public const int Theme_Design_Light = 2131296619;
+			// aapt resource value: 0x7f0a016b
+			public const int Theme_Design_Light = 2131362155;
 			
-			// aapt resource value: 0x7f09016c
-			public const int Theme_Design_Light_BottomSheetDialog = 2131296620;
+			// aapt resource value: 0x7f0a016c
+			public const int Theme_Design_Light_BottomSheetDialog = 2131362156;
 			
-			// aapt resource value: 0x7f09016d
-			public const int Theme_Design_Light_NoActionBar = 2131296621;
+			// aapt resource value: 0x7f0a016d
+			public const int Theme_Design_Light_NoActionBar = 2131362157;
 			
-			// aapt resource value: 0x7f09016e
-			public const int Theme_Design_NoActionBar = 2131296622;
+			// aapt resource value: 0x7f0a016e
+			public const int Theme_Design_NoActionBar = 2131362158;
 			
-			// aapt resource value: 0x7f090107
-			public const int ThemeOverlay_AppCompat = 2131296519;
+			// aapt resource value: 0x7f0a0107
+			public const int ThemeOverlay_AppCompat = 2131362055;
 			
-			// aapt resource value: 0x7f090108
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131296520;
+			// aapt resource value: 0x7f0a0108
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131362056;
 			
-			// aapt resource value: 0x7f090109
-			public const int ThemeOverlay_AppCompat_Dark = 2131296521;
+			// aapt resource value: 0x7f0a0109
+			public const int ThemeOverlay_AppCompat_Dark = 2131362057;
 			
-			// aapt resource value: 0x7f09010a
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131296522;
+			// aapt resource value: 0x7f0a010a
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131362058;
 			
-			// aapt resource value: 0x7f09010b
-			public const int ThemeOverlay_AppCompat_Dialog = 2131296523;
+			// aapt resource value: 0x7f0a010b
+			public const int ThemeOverlay_AppCompat_Dialog = 2131362059;
 			
-			// aapt resource value: 0x7f09010c
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131296524;
+			// aapt resource value: 0x7f0a010c
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131362060;
 			
-			// aapt resource value: 0x7f09010d
-			public const int ThemeOverlay_AppCompat_Light = 2131296525;
+			// aapt resource value: 0x7f0a010d
+			public const int ThemeOverlay_AppCompat_Light = 2131362061;
 			
-			// aapt resource value: 0x7f09010e
-			public const int Widget_AppCompat_ActionBar = 2131296526;
+			// aapt resource value: 0x7f0a010e
+			public const int Widget_AppCompat_ActionBar = 2131362062;
 			
-			// aapt resource value: 0x7f09010f
-			public const int Widget_AppCompat_ActionBar_Solid = 2131296527;
+			// aapt resource value: 0x7f0a010f
+			public const int Widget_AppCompat_ActionBar_Solid = 2131362063;
 			
-			// aapt resource value: 0x7f090110
-			public const int Widget_AppCompat_ActionBar_TabBar = 2131296528;
+			// aapt resource value: 0x7f0a0110
+			public const int Widget_AppCompat_ActionBar_TabBar = 2131362064;
 			
-			// aapt resource value: 0x7f090111
-			public const int Widget_AppCompat_ActionBar_TabText = 2131296529;
+			// aapt resource value: 0x7f0a0111
+			public const int Widget_AppCompat_ActionBar_TabText = 2131362065;
 			
-			// aapt resource value: 0x7f090112
-			public const int Widget_AppCompat_ActionBar_TabView = 2131296530;
+			// aapt resource value: 0x7f0a0112
+			public const int Widget_AppCompat_ActionBar_TabView = 2131362066;
 			
-			// aapt resource value: 0x7f090113
-			public const int Widget_AppCompat_ActionButton = 2131296531;
+			// aapt resource value: 0x7f0a0113
+			public const int Widget_AppCompat_ActionButton = 2131362067;
 			
-			// aapt resource value: 0x7f090114
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2131296532;
+			// aapt resource value: 0x7f0a0114
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2131362068;
 			
-			// aapt resource value: 0x7f090115
-			public const int Widget_AppCompat_ActionButton_Overflow = 2131296533;
+			// aapt resource value: 0x7f0a0115
+			public const int Widget_AppCompat_ActionButton_Overflow = 2131362069;
 			
-			// aapt resource value: 0x7f090116
-			public const int Widget_AppCompat_ActionMode = 2131296534;
+			// aapt resource value: 0x7f0a0116
+			public const int Widget_AppCompat_ActionMode = 2131362070;
 			
-			// aapt resource value: 0x7f090117
-			public const int Widget_AppCompat_ActivityChooserView = 2131296535;
+			// aapt resource value: 0x7f0a0117
+			public const int Widget_AppCompat_ActivityChooserView = 2131362071;
 			
-			// aapt resource value: 0x7f090118
-			public const int Widget_AppCompat_AutoCompleteTextView = 2131296536;
+			// aapt resource value: 0x7f0a0118
+			public const int Widget_AppCompat_AutoCompleteTextView = 2131362072;
 			
-			// aapt resource value: 0x7f090119
-			public const int Widget_AppCompat_Button = 2131296537;
+			// aapt resource value: 0x7f0a0119
+			public const int Widget_AppCompat_Button = 2131362073;
 			
-			// aapt resource value: 0x7f09011a
-			public const int Widget_AppCompat_Button_Borderless = 2131296538;
+			// aapt resource value: 0x7f0a011a
+			public const int Widget_AppCompat_Button_Borderless = 2131362074;
 			
-			// aapt resource value: 0x7f09011b
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131296539;
+			// aapt resource value: 0x7f0a011b
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131362075;
 			
-			// aapt resource value: 0x7f09011c
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131296540;
+			// aapt resource value: 0x7f0a011c
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131362076;
 			
-			// aapt resource value: 0x7f09011d
-			public const int Widget_AppCompat_Button_Colored = 2131296541;
+			// aapt resource value: 0x7f0a011d
+			public const int Widget_AppCompat_Button_Colored = 2131362077;
 			
-			// aapt resource value: 0x7f09011e
-			public const int Widget_AppCompat_Button_Small = 2131296542;
+			// aapt resource value: 0x7f0a011e
+			public const int Widget_AppCompat_Button_Small = 2131362078;
 			
-			// aapt resource value: 0x7f09011f
-			public const int Widget_AppCompat_ButtonBar = 2131296543;
+			// aapt resource value: 0x7f0a011f
+			public const int Widget_AppCompat_ButtonBar = 2131362079;
 			
-			// aapt resource value: 0x7f090120
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131296544;
+			// aapt resource value: 0x7f0a0120
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131362080;
 			
-			// aapt resource value: 0x7f090121
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131296545;
+			// aapt resource value: 0x7f0a0121
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131362081;
 			
-			// aapt resource value: 0x7f090122
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131296546;
+			// aapt resource value: 0x7f0a0122
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131362082;
 			
-			// aapt resource value: 0x7f090123
-			public const int Widget_AppCompat_CompoundButton_Switch = 2131296547;
+			// aapt resource value: 0x7f0a0123
+			public const int Widget_AppCompat_CompoundButton_Switch = 2131362083;
 			
-			// aapt resource value: 0x7f090124
-			public const int Widget_AppCompat_DrawerArrowToggle = 2131296548;
+			// aapt resource value: 0x7f0a0124
+			public const int Widget_AppCompat_DrawerArrowToggle = 2131362084;
 			
-			// aapt resource value: 0x7f090125
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2131296549;
+			// aapt resource value: 0x7f0a0125
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2131362085;
 			
-			// aapt resource value: 0x7f090126
-			public const int Widget_AppCompat_EditText = 2131296550;
+			// aapt resource value: 0x7f0a0126
+			public const int Widget_AppCompat_EditText = 2131362086;
 			
-			// aapt resource value: 0x7f090127
-			public const int Widget_AppCompat_ImageButton = 2131296551;
+			// aapt resource value: 0x7f0a0127
+			public const int Widget_AppCompat_ImageButton = 2131362087;
 			
-			// aapt resource value: 0x7f090128
-			public const int Widget_AppCompat_Light_ActionBar = 2131296552;
+			// aapt resource value: 0x7f0a0128
+			public const int Widget_AppCompat_Light_ActionBar = 2131362088;
 			
-			// aapt resource value: 0x7f090129
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131296553;
+			// aapt resource value: 0x7f0a0129
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131362089;
 			
-			// aapt resource value: 0x7f09012a
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131296554;
+			// aapt resource value: 0x7f0a012a
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131362090;
 			
-			// aapt resource value: 0x7f09012b
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131296555;
+			// aapt resource value: 0x7f0a012b
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131362091;
 			
-			// aapt resource value: 0x7f09012c
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131296556;
+			// aapt resource value: 0x7f0a012c
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131362092;
 			
-			// aapt resource value: 0x7f09012d
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131296557;
+			// aapt resource value: 0x7f0a012d
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131362093;
 			
-			// aapt resource value: 0x7f09012e
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131296558;
+			// aapt resource value: 0x7f0a012e
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131362094;
 			
-			// aapt resource value: 0x7f09012f
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131296559;
+			// aapt resource value: 0x7f0a012f
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131362095;
 			
-			// aapt resource value: 0x7f090130
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131296560;
+			// aapt resource value: 0x7f0a0130
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131362096;
 			
-			// aapt resource value: 0x7f090131
-			public const int Widget_AppCompat_Light_ActionButton = 2131296561;
+			// aapt resource value: 0x7f0a0131
+			public const int Widget_AppCompat_Light_ActionButton = 2131362097;
 			
-			// aapt resource value: 0x7f090132
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131296562;
+			// aapt resource value: 0x7f0a0132
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131362098;
 			
-			// aapt resource value: 0x7f090133
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131296563;
+			// aapt resource value: 0x7f0a0133
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131362099;
 			
-			// aapt resource value: 0x7f090134
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131296564;
+			// aapt resource value: 0x7f0a0134
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131362100;
 			
-			// aapt resource value: 0x7f090135
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2131296565;
+			// aapt resource value: 0x7f0a0135
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2131362101;
 			
-			// aapt resource value: 0x7f090136
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131296566;
+			// aapt resource value: 0x7f0a0136
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131362102;
 			
-			// aapt resource value: 0x7f090137
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131296567;
+			// aapt resource value: 0x7f0a0137
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131362103;
 			
-			// aapt resource value: 0x7f090138
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2131296568;
+			// aapt resource value: 0x7f0a0138
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2131362104;
 			
-			// aapt resource value: 0x7f090139
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2131296569;
+			// aapt resource value: 0x7f0a0139
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2131362105;
 			
-			// aapt resource value: 0x7f09013a
-			public const int Widget_AppCompat_Light_PopupMenu = 2131296570;
+			// aapt resource value: 0x7f0a013a
+			public const int Widget_AppCompat_Light_PopupMenu = 2131362106;
 			
-			// aapt resource value: 0x7f09013b
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131296571;
+			// aapt resource value: 0x7f0a013b
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131362107;
 			
-			// aapt resource value: 0x7f09013c
-			public const int Widget_AppCompat_Light_SearchView = 2131296572;
+			// aapt resource value: 0x7f0a013c
+			public const int Widget_AppCompat_Light_SearchView = 2131362108;
 			
-			// aapt resource value: 0x7f09013d
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131296573;
+			// aapt resource value: 0x7f0a013d
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131362109;
 			
-			// aapt resource value: 0x7f09013e
-			public const int Widget_AppCompat_ListMenuView = 2131296574;
+			// aapt resource value: 0x7f0a013e
+			public const int Widget_AppCompat_ListMenuView = 2131362110;
 			
-			// aapt resource value: 0x7f09013f
-			public const int Widget_AppCompat_ListPopupWindow = 2131296575;
+			// aapt resource value: 0x7f0a013f
+			public const int Widget_AppCompat_ListPopupWindow = 2131362111;
 			
-			// aapt resource value: 0x7f090140
-			public const int Widget_AppCompat_ListView = 2131296576;
+			// aapt resource value: 0x7f0a0140
+			public const int Widget_AppCompat_ListView = 2131362112;
 			
-			// aapt resource value: 0x7f090141
-			public const int Widget_AppCompat_ListView_DropDown = 2131296577;
+			// aapt resource value: 0x7f0a0141
+			public const int Widget_AppCompat_ListView_DropDown = 2131362113;
 			
-			// aapt resource value: 0x7f090142
-			public const int Widget_AppCompat_ListView_Menu = 2131296578;
+			// aapt resource value: 0x7f0a0142
+			public const int Widget_AppCompat_ListView_Menu = 2131362114;
 			
-			// aapt resource value: 0x7f090143
-			public const int Widget_AppCompat_PopupMenu = 2131296579;
+			// aapt resource value: 0x7f0a0143
+			public const int Widget_AppCompat_PopupMenu = 2131362115;
 			
-			// aapt resource value: 0x7f090144
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2131296580;
+			// aapt resource value: 0x7f0a0144
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2131362116;
 			
-			// aapt resource value: 0x7f090145
-			public const int Widget_AppCompat_PopupWindow = 2131296581;
+			// aapt resource value: 0x7f0a0145
+			public const int Widget_AppCompat_PopupWindow = 2131362117;
 			
-			// aapt resource value: 0x7f090146
-			public const int Widget_AppCompat_ProgressBar = 2131296582;
+			// aapt resource value: 0x7f0a0146
+			public const int Widget_AppCompat_ProgressBar = 2131362118;
 			
-			// aapt resource value: 0x7f090147
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131296583;
+			// aapt resource value: 0x7f0a0147
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131362119;
 			
-			// aapt resource value: 0x7f090148
-			public const int Widget_AppCompat_RatingBar = 2131296584;
+			// aapt resource value: 0x7f0a0148
+			public const int Widget_AppCompat_RatingBar = 2131362120;
 			
-			// aapt resource value: 0x7f090149
-			public const int Widget_AppCompat_RatingBar_Indicator = 2131296585;
+			// aapt resource value: 0x7f0a0149
+			public const int Widget_AppCompat_RatingBar_Indicator = 2131362121;
 			
-			// aapt resource value: 0x7f09014a
-			public const int Widget_AppCompat_RatingBar_Small = 2131296586;
+			// aapt resource value: 0x7f0a014a
+			public const int Widget_AppCompat_RatingBar_Small = 2131362122;
 			
-			// aapt resource value: 0x7f09014b
-			public const int Widget_AppCompat_SearchView = 2131296587;
+			// aapt resource value: 0x7f0a014b
+			public const int Widget_AppCompat_SearchView = 2131362123;
 			
-			// aapt resource value: 0x7f09014c
-			public const int Widget_AppCompat_SearchView_ActionBar = 2131296588;
+			// aapt resource value: 0x7f0a014c
+			public const int Widget_AppCompat_SearchView_ActionBar = 2131362124;
 			
-			// aapt resource value: 0x7f09014d
-			public const int Widget_AppCompat_SeekBar = 2131296589;
+			// aapt resource value: 0x7f0a014d
+			public const int Widget_AppCompat_SeekBar = 2131362125;
 			
-			// aapt resource value: 0x7f09014e
-			public const int Widget_AppCompat_SeekBar_Discrete = 2131296590;
+			// aapt resource value: 0x7f0a014e
+			public const int Widget_AppCompat_SeekBar_Discrete = 2131362126;
 			
-			// aapt resource value: 0x7f09014f
-			public const int Widget_AppCompat_Spinner = 2131296591;
+			// aapt resource value: 0x7f0a014f
+			public const int Widget_AppCompat_Spinner = 2131362127;
 			
-			// aapt resource value: 0x7f090150
-			public const int Widget_AppCompat_Spinner_DropDown = 2131296592;
+			// aapt resource value: 0x7f0a0150
+			public const int Widget_AppCompat_Spinner_DropDown = 2131362128;
 			
-			// aapt resource value: 0x7f090151
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131296593;
+			// aapt resource value: 0x7f0a0151
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131362129;
 			
-			// aapt resource value: 0x7f090152
-			public const int Widget_AppCompat_Spinner_Underlined = 2131296594;
+			// aapt resource value: 0x7f0a0152
+			public const int Widget_AppCompat_Spinner_Underlined = 2131362130;
 			
-			// aapt resource value: 0x7f090153
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2131296595;
+			// aapt resource value: 0x7f0a0153
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2131362131;
 			
-			// aapt resource value: 0x7f090154
-			public const int Widget_AppCompat_Toolbar = 2131296596;
+			// aapt resource value: 0x7f0a0154
+			public const int Widget_AppCompat_Toolbar = 2131362132;
 			
-			// aapt resource value: 0x7f090155
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131296597;
+			// aapt resource value: 0x7f0a0155
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131362133;
 			
-			// aapt resource value: 0x7f09017d
-			public const int Widget_Compat_NotificationActionContainer = 2131296637;
+			// aapt resource value: 0x7f0a017d
+			public const int Widget_Compat_NotificationActionContainer = 2131362173;
 			
-			// aapt resource value: 0x7f09017e
-			public const int Widget_Compat_NotificationActionText = 2131296638;
+			// aapt resource value: 0x7f0a017e
+			public const int Widget_Compat_NotificationActionText = 2131362174;
 			
-			// aapt resource value: 0x7f09016f
-			public const int Widget_Design_AppBarLayout = 2131296623;
+			// aapt resource value: 0x7f0a016f
+			public const int Widget_Design_AppBarLayout = 2131362159;
 			
-			// aapt resource value: 0x7f090170
-			public const int Widget_Design_BottomNavigationView = 2131296624;
+			// aapt resource value: 0x7f0a0170
+			public const int Widget_Design_BottomNavigationView = 2131362160;
 			
-			// aapt resource value: 0x7f090171
-			public const int Widget_Design_BottomSheet_Modal = 2131296625;
+			// aapt resource value: 0x7f0a0171
+			public const int Widget_Design_BottomSheet_Modal = 2131362161;
 			
-			// aapt resource value: 0x7f090172
-			public const int Widget_Design_CollapsingToolbar = 2131296626;
+			// aapt resource value: 0x7f0a0172
+			public const int Widget_Design_CollapsingToolbar = 2131362162;
 			
-			// aapt resource value: 0x7f090173
-			public const int Widget_Design_CoordinatorLayout = 2131296627;
+			// aapt resource value: 0x7f0a0173
+			public const int Widget_Design_CoordinatorLayout = 2131362163;
 			
-			// aapt resource value: 0x7f090174
-			public const int Widget_Design_FloatingActionButton = 2131296628;
+			// aapt resource value: 0x7f0a0174
+			public const int Widget_Design_FloatingActionButton = 2131362164;
 			
-			// aapt resource value: 0x7f090175
-			public const int Widget_Design_NavigationView = 2131296629;
+			// aapt resource value: 0x7f0a0175
+			public const int Widget_Design_NavigationView = 2131362165;
 			
-			// aapt resource value: 0x7f090176
-			public const int Widget_Design_ScrimInsetsFrameLayout = 2131296630;
+			// aapt resource value: 0x7f0a0176
+			public const int Widget_Design_ScrimInsetsFrameLayout = 2131362166;
 			
-			// aapt resource value: 0x7f090177
-			public const int Widget_Design_Snackbar = 2131296631;
+			// aapt resource value: 0x7f0a0177
+			public const int Widget_Design_Snackbar = 2131362167;
 			
-			// aapt resource value: 0x7f09015b
-			public const int Widget_Design_TabLayout = 2131296603;
+			// aapt resource value: 0x7f0a015b
+			public const int Widget_Design_TabLayout = 2131362139;
 			
-			// aapt resource value: 0x7f090178
-			public const int Widget_Design_TextInputLayout = 2131296632;
+			// aapt resource value: 0x7f0a0178
+			public const int Widget_Design_TextInputLayout = 2131362168;
 			
 			static Style()
 			{
