@@ -1,8 +1,8 @@
-BundleAssemblies=False
-AotAssemblies=False
+BundleAssemblies=false
+AotAssemblies=false
 AndroidAotMode=
 ExplicitCrunch=False
-EnableProguard=
+EnableProguard=true
 UseSharedRuntime=True
 EmbedAssembliesIntoApk=False
 AndroidLinkMode=None

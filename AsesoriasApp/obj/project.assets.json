@@ -284,7 +284,6 @@
         "type": "project",
         "framework": "MonoAndroid,Version=v8.1",
         "dependencies": {
-          "System.Data.SQLite": "1.0.110",
           "Xamarin.Android.Support.v7.AppCompat": "27.0.2.1"
         },
         "compile": {

@@ -15,8 +15,10 @@ namespace Entidades
     public class UsuarioEntity
     {
         public int IdUsuario { get; set; }
-        public string Nombre { get; set; } = string.Empty;
+        public string Nombres { get; set; } = string.Empty;
+        public string Apellidos { get; set; } = string.Empty;
         public string Correo { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
         public string Telefono { get; set; } = string.Empty;
         public string Facultad { get; set; } = string.Empty;
         public string Semestre { get; set; } = string.Empty;
@@ -27,5 +29,12 @@ namespace Entidades
         public string Medallas { get; set; } = string.Empty;
         public string AlumnosAsesorados { get; set; } = string.Empty;
         public int Activo { get; set; }
+
+        public UsuarioEntity()
+        {
+            Nivel = "1";
+            Score = "0";
+            Activo = 1;
+        }
     }
 }

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	<LinearLayout
+		android:orientation="vertical"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:id="@+id/linearLayout1">
+		<ImageView
+			android:src="@drawable/male_user"
+			android:layout_width="match_parent"
+			android:layout_height="150dp"
+			android:id="@+id/imvUser"
+			android:layout_marginTop="15dp"
+			android:layout_marginLeft="40dp"
+			android:layout_marginRight="40dp" />
+		<EditText
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/edtUsuario"
+			android:layout_marginLeft="50dp"
+			android:layout_marginRight="50dp"
+			android:layout_marginTop="17.5dp" />
+		<EditText
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/edtPassword"
+			android:layout_marginLeft="50dp"
+			android:layout_marginRight="50dp"
+			android:layout_marginTop="13.0dp" />
+		<Button
+			android:text="Iniciar sesión"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/btnEntrar"
+			android:layout_marginLeft="70dp"
+			android:layout_marginRight="70dp"
+			android:layout_marginTop="28.5dp" />
+		<Button
+			android:text="registrarme"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/btnRegistrarse"
+			android:layout_marginLeft="110dp"
+			android:layout_marginRight="110dp"
+			android:background="#fffafafa" />
+	</LinearLayout>
+
+</LinearLayout>
