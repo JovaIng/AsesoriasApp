@@ -17,12 +17,12 @@ namespace Negocio
         {
             bool success = false;
             SqliteCommand command = new SqliteCommand("insert into publicaciones(descripcion, tipo_cobro, id_usuario, capacidad, materia, modo) " +
-                "values (@descripcion, @tipo_cobro, @id_asesor, @capacidad, @materia, @modo)", Connection);
+                "values (@descripcion, @tipo_cobro, @id_usuario, @capacidad, @materia, @modo)", Connection);
 
             command.Parameters.AddWithValue("@materia", entidad.Materia);
             command.Parameters.AddWithValue("@descripcion", entidad.DescripciónCurso);
             command.Parameters.AddWithValue("@tipo_cobro", entidad.TipoCobro);
-            command.Parameters.AddWithValue("@id_asesor", entidad.IdAsesor);
+            command.Parameters.AddWithValue("@id_usuario", entidad.IdUsuario);
             command.Parameters.AddWithValue("@capacidad", entidad.Capacidad);
             command.Parameters.AddWithValue("@modo", entidad.Modo);
 
@@ -40,9 +40,9 @@ namespace Negocio
             return success;
         }
 
-        public List<PublicacionEntity> MostrarGruposAsesoria(string materia, string modo)
+        public List<PublicacionEntity> MostrarPublicaciones(string materia, string modo)
         {
-            SqliteCommand command = new SqliteCommand("select *from grupos_asesorias where materia = @materia and modo = @modo", Connection);
+            SqliteCommand command = new SqliteCommand("select *from publicaciones where materia = @materia and modo = @modo", Connection);
             command.Parameters.AddWithValue("@materia", materia);
             command.Parameters.AddWithValue("@modo", modo);
             SqliteDataAdapter da = new SqliteDataAdapter(command);
@@ -72,7 +72,7 @@ namespace Negocio
             entidad.Materia = dr["materia"].ToString();
             entidad.DescripciónCurso = dr["descripcion"].ToString();
             entidad.Id = Convert.ToInt32(dr["id"]);
-            entidad.IdAsesor = Convert.ToInt32(dr["id_usuario"]);
+            entidad.IdUsuario = Convert.ToInt32(dr["id_usuario"]);
             entidad.TipoCobro = dr["tipo_cobro"].ToString();
             entidad.Modo = dr["modo"].ToString();
         }

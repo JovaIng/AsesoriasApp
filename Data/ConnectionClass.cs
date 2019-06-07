@@ -3,6 +3,7 @@ using Android.Content;
 using Android.Preferences;
 using Mono.Data.Sqlite;
 using System;
+using System.Data;
 using System.IO;
 
 namespace DataAccess
@@ -75,7 +76,71 @@ namespace DataAccess
 
             _databasePath += ("/" + dbName);
             string connectionString = string.Format("Data source={0};New=false; Compress=true", _databasePath);
+            if(!File.Exists(_databasePath))
+            {
+                File.Create(_databasePath);
+                GeneraTablas();
+            }
             Connection = new SqliteConnection(connectionString);  
+        }
+
+        private void GeneraTablas()
+        {
+            string connectionString = string.Format("Data source={0},Compress=true", _databasePath);
+            SqliteConnection Connection = new SqliteConnection(connectionString);
+            SqliteCommand command = new SqliteCommand("CREATE TABLE `materias` (id INTEGER PRIMARY KEY AUTOINCREMENT, nombre varchar(255), numero_solicitudes INTEGER); ", Connection);
+            try
+            {
+                Connection.Open();
+                command.ExecuteNonQuery();
+            }
+            catch (SqliteException ex)
+            { }
+            catch (Exception ex)
+            { }
+            finally
+            {
+                if (Connection.State == ConnectionState.Open)
+                    Connection.Close();
+            }
+
+            Connection = new SqliteConnection(connectionString);
+            command = new SqliteCommand("CREATE TABLE publicaciones(id INTEGER PRIMARY KEY AUTOINCREMENT, id_usuario INTEGER, materia varchar(255), descripcion varchar(255)," +
+                " tipo_cobro varchar(255), capacidad INTEGER, modo varchar(255))", Connection);
+
+            try
+            {
+                Connection.Open();
+                command.ExecuteNonQuery();
+            }
+            catch (SqliteException ex)
+            { }
+            catch (Exception ex)
+            { }
+            finally
+            {
+                if (Connection.State == ConnectionState.Open)
+                    Connection.Close();
+            }
+
+            Connection = new SqliteConnection(connectionString);
+            command = new SqliteCommand("CREATE TABLE usuarios (id	INTEGER PRIMARY KEY AUTOINCREMENT, nombres	varchar(255), apellidos	varchar(255), correo archar(255), " +
+                "password	varchar(255), telefono	varchar(50), semestre varchar(10), facultad	varchar(255), activo bit, alumnos_asesorados varchar(255), carrera varchar(255), " +
+                  "experiencia varchar(255), medallas varchar(255), nivel varchar(50), score varchar(50))", Connection);
+            try
+            {
+                Connection.Open();
+                command.ExecuteNonQuery();
+            }
+            catch (SqliteException ex)
+            { }
+            catch (Exception ex)
+            { }
+            finally
+            {
+                if (Connection.State == ConnectionState.Open)
+                    Connection.Close();
+            }
         }
 
         public void MuestraErrorDialog(Exception ex, string title)

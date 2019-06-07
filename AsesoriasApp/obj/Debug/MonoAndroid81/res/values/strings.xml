@@ -1,1 +1,1 @@
-<resources><string name="app_name">AsesoriasApp</string><string name="action_settings">Settings</string></resources>
+<resources><string name="app_name">AsesoriasApp</string><string name="action_settings">Settings</string><string name="titulo_publicacion_asesores">Alumno: asesores disponibles</string><string name="titulo_publicacion_alumnos">Asesor: solitudes disponibles</string><string name="titulo_crear_grupo_asesoria">Asesor: crear grupo</string><string name="titulo_crear_solicitud_asesoria">Alumno: crear solicitud</string></resources>

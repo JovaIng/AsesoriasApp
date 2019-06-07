@@ -6,6 +6,7 @@ using Android.App;
 using Android.Content;
 using Android.Content.PM;
 using Android.OS;
+using Android.Views;
 using Android.Widget;
 using Entidades;
 using Negocio;
@@ -164,5 +165,23 @@ namespace AsesoriasApp
 
             return success;
         }
+
+        /*public override bool OnCreateOptionsMenu(IMenu menu)
+        {
+            MenuInflater.Inflate(Resource.Menu.menu, menu);
+            return base.OnCreateOptionsMenu(menu);
+        }
+
+        public override bool OnOptionsItemSelected(IMenuItem item)
+        {
+            switch (item.ItemId)
+            {
+                case Resource.Id.btnRegresar:
+                    RunOnUiThread(() => { Finish(); });
+                    break;
+
+            }
+            return base.OnOptionsItemSelected(item);
+        }*/
     }
 }

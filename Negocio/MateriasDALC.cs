@@ -47,5 +47,30 @@ namespace Negocio
             if(!string.IsNullOrEmpty(dr["numero_solicitudes"].ToString()))
                 entidad.NumeroSolicitudes = Convert.ToInt32(dr["numero_solicitudes"]);
         }
+
+        public bool InsertarMaterias(string nombre)
+        {
+            bool success = false;
+            SqliteCommand command = new SqliteCommand("insert into materias(nombre) values (@nombre)", Connection);
+            command.Parameters.AddWithValue("@nombre", nombre);
+
+            try
+            {
+                Connection.Open();
+                if (command.ExecuteNonQuery() > 0)
+                    success = true;
+            }
+            catch (Exception ex)
+            {
+                MuestraErrorDialog(ex, "Error al generar grupo de asesoría");
+            }
+            finally
+            {
+                if (Connection.State == ConnectionState.Open || Connection.State == ConnectionState.Broken)
+                    Connection.Close();
+            }
+
+            return success;
+        }
     }
 }

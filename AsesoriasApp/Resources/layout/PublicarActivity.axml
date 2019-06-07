@@ -36,6 +36,7 @@
 			android:layout_marginRight="15.0dp" />
 		<TextView
 			android:text="Capacidad:"
+			android:id="@+id/txtCapacidad"
 			android:layout_width="match_parent"
 			android:layout_height="wrap_content"
 			android:layout_marginLeft="15.0dp"
@@ -50,6 +51,7 @@
 			android:layout_marginTop="15.0dp" />
 		<TextView
 			android:text="Tipo de cobro:"
+			android:id="@+id/txtTipoCobro"
 			android:layout_width="match_parent"
 			android:layout_height="wrap_content"
 			android:layout_marginLeft="15.0dp"

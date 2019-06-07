@@ -2,16 +2,20 @@
 using Android.App;
 using Android.Content;
 using Android.Content.PM;
+using Android.Graphics;
 using Android.OS;
+using Android.Preferences;
+using Android.Support.V7.App;
 using Android.Widget;
 using Entidades;
 using Negocio;
+using AlertDialog = Android.App.AlertDialog;
 
 namespace AsesoriasApp
 {
     [Activity(Label = "Iniciar sesión", MainLauncher = true, ScreenOrientation = ScreenOrientation.Portrait)]
 
-    public class LoginActivity : Activity
+    public class LoginActivity : AppCompatActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -23,11 +27,18 @@ namespace AsesoriasApp
             Button btnEntrar = FindViewById<Button>(Resource.Id.btnEntrar);
             Button btnRegistrarse = FindViewById<Button>(Resource.Id.btnRegistrarse);
 
+            Color color = new Color(245, 245, 245);
+            LinearLayout llyMain = FindViewById<LinearLayout>(Resource.Id.linearLayout1);
+            llyMain.SetBackgroundColor(color);
+            btnRegistrarse.SetBackgroundColor(color);
             btnRegistrarse.Click += delegate {
                 Intent intent = new Intent(ApplicationContext, typeof(RegistroActivity));
                 intent.SetFlags(ActivityFlags.NewTask);
                 StartActivity(intent);
             };
+
+            ISharedPreferences preferences = PreferenceManager.GetDefaultSharedPreferences(this);
+            edtUsuario.Text = preferences.GetString("correo", string.Empty);
 
             btnEntrar.Click += delegate {
                 if (ValidaCampos(edtUsuario, edtPassword))
@@ -37,9 +48,13 @@ namespace AsesoriasApp
                     if (!string.IsNullOrEmpty(usuario.Nombres))
                     {
                         Variables.Usuario = usuario;
+                        ISharedPreferencesEditor editor = preferences.Edit();
+                        editor.PutString("correo", usuario.Correo);
+                        editor.Commit();
                         Intent intent = new Intent(ApplicationContext, typeof(MainActivity));
                         intent.SetFlags(ActivityFlags.NewTask);
                         StartActivity(intent);
+                        edtPassword.Text = string.Empty;
                     }
                     else
                     {
